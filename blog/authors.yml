@@ -1,17 +1,16 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+matt:
+  name: Matt F
+  title: Big Cheese
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+# Example author for reference
+#jmarcey:
+#  name: Joel Marcey
+#  title: Co-creator of Docusaurus 1
+#  url: https://github.com/JoelMarcey
+#  image_url: https://github.com/JoelMarcey.png
+#  email: jimarcey@gmail.com
+
+# This is how to reference files in the md
+#- `2019-05-30-welcome.md`
+#- `2019-05-30-welcome/index.md`
