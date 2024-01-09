@@ -3,8 +3,39 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
+ /*==================================================
+  * Colors - Brand
+  *==================================================
+  $brand-deep-navy: rgb(12, 21, 42);      //#0c152a
+  $brand-rapid-blue: rgb(0, 145, 208);    //#0091d0
+  $brand-deep-purple: rgb(41, 38, 99);    //#292663
+  $brand-ai-zur: rgb(50, 54, 149);        //#323595
+  $brand-tech-wave: rgb(75, 114, 185);    //#4c72ba
+  $brand-ice-blue: rgb(68, 200, 245);     //#44c9f5
+  $brand-infra-red: rgb(219, 65, 57);     //#db4139
+  $brand-digital-ember: rgb(243, 112, 33);//#f37221
+  $brand-code-gold: rgb(241, 181, 29);    //#f1b51d
+  $brand-bright-glow: rgb(255, 222, 23);  //#ffde17
+  $brand-binary-green: rgb(0, 142, 71);   //#008e47
+  $brand-pixel-zest: rgb(178, 210, 53);   //#b2d235
+  $brand-tech-canvas: rgb(244, 244, 244); //#f4f4f4
+ */
+
 
 /* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #0c152a;
+  --ifm-color-primary-dark: #090f1f;
+  --ifm-color-primary-darker: #070c18;
+  --ifm-color-primary-darkest: #04080f;
+  --ifm-color-primary-light: #0091d0;
+  --ifm-color-primary-lighter: #089fe0;
+  --ifm-color-primary-lightest: #11acee;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Original Infima variables
 :root {
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
@@ -15,16 +46,24 @@
   --ifm-color-primary-lightest: #3cad6e;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-}
+}*/
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #25c2a0;
-  --ifm-color-primary-dark: #21af90;
-  --ifm-color-primary-darker: #1fa588;
-  --ifm-color-primary-darkest: #1a8870;
-  --ifm-color-primary-light: #29d5b0;
-  --ifm-color-primary-lighter: #32d8b4;
-  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-color-primary: #5cc8f7;
+  --ifm-color-primary-dark: #089fe0;
+  --ifm-color-primary-darker: #11acee;
+  --ifm-color-primary-darkest: #099Cde;
+  --ifm-color-primary-light: #0c152a;
+  --ifm-color-primary-lighter: #081020;
+  --ifm-color-primary-lightest: #060515;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+}
+
+.footer {
+  background-color: var(--ifm-footer-background-color);
+}
+.footer--dark {
+  --ifm-footer-background-color: #0c152a;
 }

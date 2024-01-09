@@ -61,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Rapid Docs',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Rapid Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -78,6 +78,11 @@ const config: Config = {
           docId: 'Rapid/rapid-standard/rapidStandardHomePage',
           position: 'left',
           label: 'Base Rapid',
+        },
+        {
+          to: 'changelog',
+          label: 'Changelog',
+          position: 'right'
         },
         {
           href: 'https://github.com/rapid-platform',
