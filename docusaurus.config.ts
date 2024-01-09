@@ -38,7 +38,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/rapid-platform/public-docs/',
+            'https://github.com/Squ1ggly/rapid-documentation/tree/main/',
         },
         blog: {
           blogTitle: 'Changelog',
@@ -86,7 +86,7 @@ const config: Config = {
         },
         {
           href: 'https://github.com/rapid-platform',
-          label: 'GitHub',
+          label: 'Feedback',
           position: 'right',
         },
       ],
@@ -98,8 +98,12 @@ const config: Config = {
           title: 'Docs',
           items: [
             {
-              label: 'Remove Me',
+              label: 'Getting Started',
               to: '/docs/Getting Started',
+            },
+            {
+              label: 'Base Rapid',
+              to: '/docs/rapid-standard',
             },
           ],
         },
@@ -107,16 +111,16 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'LinkedIn',
+              to: 'https://au.linkedin.com/company/rapid-platform'
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'Youtube',
+              to: 'https://www.youtube.com/channel/UCcuPXlHnC2MxKzzDhk3NkQw'
             },
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              label: 'Webpage',
+              to: 'https://rapidplatform.com',
             },
           ],
         },
@@ -128,7 +132,7 @@ const config: Config = {
               to: '/changelog',
             },
             {
-              label: 'GitHub',
+              label: 'Github',
               href: 'https://github.com/rapid-platform/public-docs',
             },
           ],
