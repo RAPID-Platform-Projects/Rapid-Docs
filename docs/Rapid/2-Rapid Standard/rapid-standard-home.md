@@ -1,4 +1,4 @@
 ---
 id: rapidStandardHomePage
 ---
-## Help me
+# Intro to Rapid Standard

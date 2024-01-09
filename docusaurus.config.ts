@@ -90,6 +90,7 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
+        {},//Put useful quick links here?
         {
           title: 'Community',
           items: [
