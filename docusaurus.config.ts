@@ -35,10 +35,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/Squ1ggly/rapid-documentation/tree/main/',
         },
         blog: {
           blogTitle: 'Changelog',
@@ -75,7 +71,7 @@ const config: Config = {
         },
         {
           type: 'doc',
-          docId: 'Rapid/rapid-standard/rapidStandardHomePage',
+          docId: 'Rapid/Rapid Standard/rapidStandardHomePage',
           position: 'left',
           label: 'Base Rapid',
         },
@@ -94,19 +90,6 @@ const config: Config = {
     footer: {
       style: 'dark',
       links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Getting Started',
-              to: '/docs/Getting Started',
-            },
-            {
-              label: 'Base Rapid',
-              to: '/docs/rapid-standard',
-            },
-          ],
-        },
         {
           title: 'Community',
           items: [
