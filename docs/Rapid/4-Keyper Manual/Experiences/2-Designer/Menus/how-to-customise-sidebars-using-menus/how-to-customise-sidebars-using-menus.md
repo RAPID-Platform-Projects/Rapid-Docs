@@ -19,7 +19,7 @@ Customizing the Explorer sidebars is one of the most fundamental things an organ
 In this example we want to move the **Contacts** menu item to be nested under the **CRM** menu item. The steps below will show you how to do so.
 
 1. Navigate to Designer &gt; Menus &gt; Explorer  
-    ![Navigate to Explorer Menu](<../../Navigate to Explorer Menu Config.png>)
+    ![Navigate to Explorer Menu](<../Navigate to Explorer Menu Config.png>)
 2. In the Explorer Sidebar Structure side panel drag and drop the desired menu item to its desired position by clicking and holding on the three horizontal lines  
     ![Drag Menu Item](<Drag Menu Item.png>)
 3. Press Save
