@@ -1,9 +1,9 @@
 name: Bug Report
 description: File a bug report
-title: "Bug template"
+title: "[A short description of your issue]: "
 labels: ["bug"]
 assignees:
-  - octocat
+  - squ1ggly
 body:
   - type: markdown
     attributes:
@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    validation: 
+    validations:
       required: true
     id: browsers
     attributes:
