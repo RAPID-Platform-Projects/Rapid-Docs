@@ -59,7 +59,7 @@ As you click on the insert column, a panel will open up in right, which would re
         - **Default Value Offset -** Further, imagine that you want the default date as the next day from when the user created the data entry. So if the user created data entry in the table on 21 September, the default value should be 22 September. This is achieved through Offset field. It is possible to add or subtract a certain amount of days from the selected Default Relative Time. For the mentioned example, you can select "Default Relative Time" = "Today" and "Default Value Offset" = "1".   
             ![Date Picker](<Date Picker.png>)
               
-            <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/PPxUIMggj_o?si=aGrYUOW4Jcwu0FEN" title="YouTube video player" width="750"></iframe>
+            <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/PPxUIMggj_o?si=aGrYUOW4Jcwu0FEN" title="YouTube video player" width="100%"></iframe>
 
 - **Choice -** There can be scenarios where you want users to choose from a given set of values. For example, consider the below question -
 
