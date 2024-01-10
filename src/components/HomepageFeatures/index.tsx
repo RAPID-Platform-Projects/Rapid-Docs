@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Looking to get started?',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/RPD_logo_STK_2D.svg').default,
     description: (
       <>
         Rapid Platform helps you manage your business. Check out our user manual to help you get the most out of your site.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Start customizing your site',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/RPD_logo_STK_2D.svg').default,
     description: (
       <>
         Take control of your data and your business by shaping your Rapid site.
@@ -29,7 +29,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Keep up to date',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/RPD_logo_STK_2D.svg').default,
     description: (
       <>
         Stay up to date with the latest changes and new features coming to Rapid Platform.
