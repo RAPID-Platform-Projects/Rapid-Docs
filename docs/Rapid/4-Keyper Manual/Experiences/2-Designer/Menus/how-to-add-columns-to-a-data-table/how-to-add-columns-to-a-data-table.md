@@ -1,6 +1,6 @@
 # How to add columns to a data table?
 
-#### Overview
+## Overview
 
 Columns of a data table are used to describe the various attributes of the data you are collecting. For example, on a table called **Customers** the columns could include: **First Name**, **Last Name**, **Email**, **Date of Birth** etc.
 
@@ -10,20 +10,18 @@ The purpose of this page is to demonstrate how to create a new column. Which is 
 2. Adding New Columns to a Blank Table
 3. Adding Columns to a Table that already has configured Columns
 
-#### Accessing the Columns Configuration
-
-
+## Accessing the Columns Configuration
 
 To create a new column, you need to access the "**Columns**" tab for a table in Designer. To do so follow the steps below:
 
 1. Navigate to Designer > Tables > All Tables  
-    ![Navigate to Tables](<../Navigate to Tables.png>)
+    ![Navigate to Tables](<../../Navigate to Tables.png>)
 2. Select the table you want to add columns to using either the search bar or scrolling to find it  
-    ![Open the Table](<../Open Table.png>)
+    ![Open the Table](<../../Open Table.png>)
 3. Click on the columns tab  
-    ![Select Column View](<../Select Columns View.png>)
+    ![Select Column View](<../../Select Columns View.png>)
 
-##### **Adding columns to a new blank table**
+### **Adding columns to a new blank table**
 
 ![](<Adding columns 1.png>)
 
@@ -35,7 +33,7 @@ To add a column to a table, just click on the "**Create Column**" button or "**C
 
 As you click on it, a panel will open up in right, which would read "**Add Column**".
 
-##### **Adding columns to a table already having columns**
+### **Adding columns to a table already having columns**
 
 You can add more columns to an existing table or a new table having inherited columns from another table.
 
@@ -45,7 +43,7 @@ As you click on the insert column, a panel will open up in right, which would re
 
 ![Create Column Panel](<Create Column Panel.png>)
 
-##### **Add Column panel details**
+### **Add Column panel details**
 
 **Follow the steps below to configure a column:**
 
@@ -119,7 +117,7 @@ Please refer to below video for illustration.
 
 ![](<Column checkboxes.png>)
 
-##### **Related articles**
+### **Related articles**
 
 [How to edit / delete a column from a table?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-a-column-from-a-table "How to edit / delete a column from a table?")
 

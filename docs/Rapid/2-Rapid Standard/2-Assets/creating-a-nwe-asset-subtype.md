@@ -17,11 +17,11 @@ If you wish to create an additional asset subtype alongside "IT Assets" or "Vehi
 6. OPTIONAL: If you want to store files against these items select a document storage. This will connect to your sharepoint
 7. Press Create  
     ![image-1702446158934.png](./jdLAoc12MgJBBndz-image-1702446158934.png)
-8. Add relevant columns to the table for fields you want to capture additional data. In this example we will add a choice field called location which will state which room the equipment is located. For more information on creating columns and column types see the following documentation on [Creating Columns](</Rapid/Keyper%20Manual/Experiences/Designer/how-to-add-columns-to-a-data-table/>)
+8. Add relevant columns to the table for fields you want to capture additional data. In this example we will add a choice field called location which will state which room the equipment is located. For more information on creating columns and column types see the following documentation on [Creating Columns](</docs/Rapid/Keyper Manual/Experiences/Designer/how-to-add-columns-to-a-data-table/>)
     1. Press create column  
         ![image-1702446301740.png](./wJylRI9jIHxX2w9x-image-1702446301740.png)
     2. Enter the relevant details and press save  
         ![image-1702446354964.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/hTPEhI06R8IvEnXX-image-1702446354964.png)
     3. Add your columns to the form by clicking the Design Tab (For more information on how to add all the fields in a more structured way see the following documentation on [Pages](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer)
     4. Press Save
-    5. Add your new table to the explorer sidebar (to see more details on how to do this see [Customizing the Sidebar](https://docs.rapidplatform.com/books/experiences/page/how-to-customise-sidebars-using-menus))
+    5. Add your new table to the explorer sidebar (to see more details on how to do this see [Customizing the Sidebar](</docs/Rapid/Keyper Manual/Experiences/Designer/how-to-customise-sidebars-using-menus>))
