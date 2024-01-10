@@ -1,8 +1,6 @@
 name: Bug Report
 description: File a bug report
-title: "[bug] "
-attributes:
-  placeholder: "A short description of your issue"
+title: "[A short description of your issue] "
 labels: ["bug"]
 assignees:
   - octocat
