@@ -27,6 +27,8 @@ body:
     validations:
       required: true
   - type: dropdown
+    validation: 
+      required: true
     id: browsers
     attributes:
       label: What browsers are you seeing the problem on?
