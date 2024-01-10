@@ -27,7 +27,7 @@ body:
     validations:
       required: true
   - type: dropdown
-    validation: 
+    validations:
       required: true
     id: browsers
     attributes:
