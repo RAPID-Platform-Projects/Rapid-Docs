@@ -2,7 +2,7 @@
 
 There may be scenarios when you need to edit the columns for an existing table.
 
-##### **How to access Columns Tab of a table in Designer?**
+## **How to access Columns Tab of a table in Designer?**
 
 To access the column's list configured for the table please refer the following points:
 
@@ -24,7 +24,7 @@ Please refer to the below video for illustration.
 
 It is advised that you go through "**[How to add columns to a data table?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-columns-to-a-data-table "How to add columns to a data table?")**" if you have not done it yet. A lot of explanation about the key terms are given there.
 
-##### **Information and features present on Columns Tab**
+## **Information and features present on Columns Tab**
 
 Please review the below image. It provides a map about the information and features for the columns tab.
 
@@ -70,7 +70,7 @@ You can easy toggle between making a column present and absent from All View by 
 
 **11. Find a column** - This is the search field which allows you to search your desired column by typing the keyword from column name.
 
-##### **How to edit parameters of an existing column?**
+## **How to edit parameters of an existing column?**
 
 1. Double click on the column name.
 2. As the column gets selected, a right panel will open with heading "Edit &lt;column name&gt;".
@@ -92,4 +92,3 @@ Please refer to the below video for illustration
 
 [How to view / update table options of an existing table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer "How to view / update table options of an existing table in Designer?")
 
-*[**Go back to Tables in Designer Main Page**](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")*

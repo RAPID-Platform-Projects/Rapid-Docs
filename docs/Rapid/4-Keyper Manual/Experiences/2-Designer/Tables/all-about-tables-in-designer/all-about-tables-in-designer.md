@@ -1,10 +1,10 @@
 # All about Tables in Designer
 
-#### Overview
+## Overview
 
 Rapid Platform allows you to easily create and edit database tables. The purpose of this page is to explain what a Database Table is and how to use the Table configuration UI.
 
-#### What is a Database Table?
+## What is a Database Table?
 
 Imagine you have a big file cabinet where you want to organize information about different things. Each drawer in the cabinet represents a category or a type of information. Now, let's say you want to keep track of information about your friends. Instead of having one messy pile of papers in the drawer, you decide to use a table.
 
@@ -14,7 +14,7 @@ So, each row in the table represents one friend, and the columns represent diffe
 
 In the world of computers and databases, these tables work in a similar way. Each table is used to store specific types of information, and each row in the table holds a record with various details. The tables help keep things organized, making it easier to manage and retrieve information when needed.
 
-#### Table Configuration
+## Table Configuration
 
 The default Designer window will appear something similar to shown below:
 
@@ -59,7 +59,7 @@ The filter can be cleared by pressing the X icon at the right end of the field.
   
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/GUyFwOgXU6M?si=JyHftwataRuuJY0o" title="YouTube video player" width="750"></iframe>
 
-##### **Features and functions for Tables in Designer:**
+### **Features and functions for Tables in Designer:**
 
 [How to create a new table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?")
 
@@ -76,8 +76,6 @@ The filter can be cleared by pressing the X icon at the right end of the field.
 [How to delete a table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-table-in-rapid-platform "How to delete a table in Rapid Platform?")
 
 [How to configure Menu from table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar "How to configure a Menu button in a command bar?")
-
-#####
 
 [**All about *Menus* in Designer**](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-designer "All about Menus in Designer")
 

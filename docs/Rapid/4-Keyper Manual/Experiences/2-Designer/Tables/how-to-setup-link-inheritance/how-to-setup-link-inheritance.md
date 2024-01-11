@@ -2,7 +2,7 @@
 
 This resource is also useful to understand - **How to link items from different tables?**
 
-##### **Case Scenario**
+## **Case Scenario**
 
 Imagine you are the Project Manager you have two tables - Projects and Tasks.
 
@@ -18,11 +18,11 @@ It would be beneficial for you to be able to view the notes entered across tasks
 
 This functionality is made possible by Link Inheritance.
 
-##### **Definition** 
+## **Definition** 
 
 In simple terms, we can say link inheritance provides the ability to view *actions* performed on a Table item (Table A) in an item of another Table (Table B). For example - view *notes* created on Table A's item in linked Table B's item.
 
-##### **Setting up Link Inheritance**
+## **Setting up Link Inheritance**
 
 To setup Link Inheritance the following three steps are needed:
 

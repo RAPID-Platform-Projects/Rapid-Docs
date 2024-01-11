@@ -1,10 +1,10 @@
 # How to delete a table in Rapid Platform?
 
-#### Overview
+## Overview
 
 There may be scenarios where you would want to delete the entire data table from the system. Especially when in the design phase. The purpose of this page is to demonstrate how to do so.
 
-#### How to Delete a Table
+## How to Delete a Table
 
 To achieve this you may follow the below steps:
 
@@ -28,4 +28,3 @@ Always use this option with care and when fully certain of outcomes.
 
 [How to create a new table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?")
 
-*[**Go back to Tables in Designer Main Page**](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")*
