@@ -1,4 +1,4 @@
-# Generating a Bearer Token for custom applications
+<!-- # Generating a Bearer Token for custom applications
 
 First you will need
 
@@ -60,4 +60,4 @@ The scope is the Application ID URI attaching the scopes to the requested token
 - Go to the tenant you want to add the Application user to.
 - Go to that tenants Enterprise Applications
 - You will see the App you added in step 2
-- Copy the OID from there and use that to create a principal in the principal list for that tenants RAPID
+- Copy the OID from there and use that to create a principal in the principal list for that tenants RAPID -->

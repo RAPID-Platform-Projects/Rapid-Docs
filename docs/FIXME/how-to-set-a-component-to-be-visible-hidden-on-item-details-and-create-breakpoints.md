@@ -1,4 +1,4 @@
-# How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?
+<!-- # How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?
 
 This article has reference to the "Details" and "Create Screen" breakpoints as visible on the Design Tab of a Table in Designer.
 
@@ -102,4 +102,4 @@ All components in Grid Layout will appear in the "Details" breakpoint (if they a
 
 [What are the available components for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages "What are the available components for Pages?")
 
-[***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer")
+[***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer") -->

@@ -1,4 +1,4 @@
-# Chapter Introduction
+<!-- # Chapter Introduction
 
 In the previous chapter, we looked at how a SendGrid can be triggered using a Menu button from Explorer view of a data table.
 
@@ -37,4 +37,4 @@ The next page provides a step-by-step guide to perform the above.
 
 Below is a video tutorial depicting the same:
 
-<iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/ZEYIu6ClD14" width="785"></iframe>
+<iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/ZEYIu6ClD14" width="785"></iframe> -->

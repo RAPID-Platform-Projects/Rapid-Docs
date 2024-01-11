@@ -1,4 +1,4 @@
-# Rapid Application
+<!-- # Rapid Application
 
 ### Rapid Application Component
 
@@ -36,4 +36,4 @@ subRoutes={[<br></br>	{<br></br>      	path: '',<br></br>		id: 'app-root',<br></
 
 Making sure to add an `<Outlet />` into our `<App />` component so React Router DOM knows where to place the children when their routes match.
 
-<p class="callout info">React Router DOM `<Outlet />` documentation can be found [here](https://reactrouter.com/en/main/components/outlet)</p>
+<p class="callout info">React Router DOM `<Outlet />` documentation can be found [here](https://reactrouter.com/en/main/components/outlet)</p> -->

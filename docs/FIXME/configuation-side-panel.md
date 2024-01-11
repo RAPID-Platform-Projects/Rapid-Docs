@@ -1,4 +1,4 @@
-# Configuation Side Panel
+<!-- # Configuation Side Panel
 
 When configuring your component's side panel, It must have a consistent style and layout so the users who come to configure your component don't need to relearn where everything is. It also means that the configuration will be predictable, freeing up your users to focus on building their form without the need to spend more effort configuring.
 
@@ -143,4 +143,4 @@ The following order, should be the default order of all configuration panels.
 3. Text Fields
 4. Dropdown Fields
 5. Lookup Fields
-6. MultiLookup Fields
+6. MultiLookup Fields -->

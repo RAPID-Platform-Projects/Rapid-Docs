@@ -1,4 +1,4 @@
-# Outlook Integration
+<!-- # Outlook Integration
 
 Omnichannel supports Outlook event syncing natively. This allows you to create meeting events in your RAPID site and have them sync up to your Outlook calendar.
 
@@ -43,16 +43,58 @@ Subscriptions empower Outlook to update RAPID with changes. Each subscription 'l
 
 In order to power the outlook syncing, a series of internal webhooks are required to be installed on the site.
 
-<table border="1" id="bkmrk-field-value-title-de" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Oxygen, Ubuntu, Roboto, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 14px; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Delete Outlook Subscription</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Subscriptions</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Items Deleted</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/subscriptions/delete</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Delete Outlook Subscription|
+|Table|Meeting Subscriptions|
+|Trigger|Items Deleted|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/delete|
 
-<table border="1" id="bkmrk-field-value-title-de-0" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Delete Event in Outlook</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Events</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Items Deleted</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/event/delete</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Delete Event in Outlook|
+|Table|Meeting Events|
+|Trigger|Items Deleted|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/delete|
 
-<table border="1" id="bkmrk-field-value-title-de-1" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Delete Event in Outlook</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Events</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Item Deleted</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/event/delete</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Delete Event in Outlook|
+|Table|Meeting Events|
+|Trigger|Item Deleted|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/delete|
 
-<table border="1" id="bkmrk-field-value-title-up" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Update Event in Outlook</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Events</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Item Updated</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/event/update</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Update Event in Outlook|
+|Table|Meeting Events|
+|Trigger|Item Updated|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/update|
 
-<table border="1" id="bkmrk-field-value-title-cr" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Create Event in Outlook</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Events</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Item Created</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/event/create</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Create Event in Outlook|
+|Table|Meeting Events|
+|Trigger|Item Created|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/create|
 
-<table border="1" id="bkmrk-field-value-title-cr-0" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Create Subscription for Outlook</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Item Created</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/meeting/create</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Create Subscription for Outlook|
+|Table|Meeting|
+|Trigger|Item Created|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/meeting/create|
 
-<table border="1" id="bkmrk-field-value-title-up-0" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 14.8765%;">**Field**</td><td style="width: 85.1235%;">**Value**</td></tr><tr><td style="width: 14.8765%;">Title</td><td style="width: 85.1235%;">Update Meeting Subscription</td></tr><tr><td style="width: 14.8765%;">Table</td><td style="width: 85.1235%;">Meeting Subscriptions</td></tr><tr><td style="width: 14.8765%;">Trigger</td><td style="width: 85.1235%;">Item Updated</td></tr><tr><td style="width: 14.8765%;">Service</td><td style="width: 85.1235%;">Omnichannel</td></tr><tr><td style="width: 14.8765%;">Callback URL</td><td style="width: 85.1235%;">/&lt;Tenant&gt;/&lt;Site&gt;/0/services/rapid-meetings/subscriptions/update</td></tr></tbody></table>
+|\**Field**|\**Value**|
+|:----|:----|
+|Title|Update Meeting Subscription|
+|Table|Meeting Subscriptions|
+|Trigger|Item Updated|
+|Service|Omnichannel|
+|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/update| -->

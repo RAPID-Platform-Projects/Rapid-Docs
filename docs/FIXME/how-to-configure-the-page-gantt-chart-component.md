@@ -1,4 +1,4 @@
-# How to configure the Page - Gantt Chart Component?
+<!-- # How to configure the Page - Gantt Chart Component?
 
 #### Overview
 
@@ -91,4 +91,4 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
 
 [**Pipeline component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-pipeline-component-on-a-layout-page "What is a Pipeline component on a Layout / Page?")
 
-*[**Go back to All Components Page**](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages)*
+*[**Go back to All Components Page**](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages)* -->

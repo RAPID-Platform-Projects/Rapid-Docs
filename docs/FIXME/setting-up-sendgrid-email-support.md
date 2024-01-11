@@ -1,4 +1,4 @@
-# Setting up SendGrid Email support
+<!-- # Setting up SendGrid Email support
 
 Omnichannel integrates with SendGrid to provide Email communication support.
 
@@ -10,7 +10,17 @@ Before you start you will need
 2. At least one [Sending Email Address](https://docs.sendgrid.com/for-developers/parsing-email/setting-up-the-inbound-parse-webhook) set up
 3. Your API Key configured with at least
 
-<table border="1" id="bkmrk-key-access-email-act" style="border-collapse: collapse; width: 43.5802%; height: 252px;"><tbody><tr style="height: 29px;"><td style="width: 50%; height: 29px;">**Key**</td><td style="width: 50%; height: 29px;">**Access**</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Email Activity</td><td style="width: 50%; height: 29px;">Read</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Inbound Parse</td><td style="width: 50%; height: 29px;">Full Access</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Mail Send</td><td style="width: 50%; height: 29px;">Full Access</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Mail Settings</td><td style="width: 50%; height: 29px;">Full Access</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Marketing</td><td style="width: 50%; height: 29px;">Full Access</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Sender Authentication</td><td style="width: 50%; height: 29px;">Full Access</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Stats</td><td style="width: 50%; height: 29px;">Read</td></tr><tr style="height: 29px;"><td style="width: 50%; height: 29px;">Template Engine</td><td style="width: 50%; height: 29px;">Full Access</td></tr></tbody></table>
+|**Key**|**Access**|
+|:----|:----|
+|Email Activity|Read|
+|Inbound Parse|Full Access|
+|Mail Send|Full Access|
+|Mail Settings|Full Access|
+|Marketing|Full Access|
+|Sender Authentication|Full Access|
+|Stats|Read|
+|Template Engine|Full Access|
+
 
 This API Key configuration can be modified later if additional keys are required
 
@@ -105,4 +115,4 @@ To assist with this, Omnichannel forwards on inbound parsed messages. It assumes
 
 Requests can be made directly to Omnichannel via
 
-http://api.rapidplatform.com/omnichannel/{tenant}/{site}
+http://api.rapidplatform.com/omnichannel/{tenant}/{site} -->
