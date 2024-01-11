@@ -84,7 +84,6 @@ Please refer to below video for illustration.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/L6iJKv9Erm0?si=Yel9_q-jmRcyI6mK" title="YouTube video player" width="750"></iframe>
 
-
 - **Lookup -** Lookups are very useful when you wish to fill the value from another existing related table. For example - suppose you have a table - Employee Masters. This table stores the basic details of an employee. Now you are creating a table - Employee Payroll. This table will have the details of employee compensation items but will borrow the name from Employee Masters. Hence, Lookups allow for table connections.  
       
     <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/CboOKEJ_NCI?si=Xr67GxILgg0RBPn_" title="YouTube video player" width="750"></iframe>
@@ -106,15 +105,15 @@ Please refer to below video for illustration.
 - **Multiple Lookups -** While Lookup type points to a particular column in an existing table, however, a lookup column can store only one value. For example - you can select one employee name from a lookup to Employee Masters. However, if you wish to select multiple values from the table, you can use Multi Lookups. This, for example, will allow you to select multiple employees from the Employee Masters.
 - **PowerBI Report -** This type helps you to connect and point to Microsoft PowerBI Reports.
 
-1. OPTIONAL: **Enter a default value** (Based on the type of column selected, you will get an option to define the default value. For example - if you have a choice type of column with two choices as "Yes" and "No"; you can define the default value as "Yes". Similarly, if there is a Date type of column, then you can select "Today" as default value for the column.)
+3. OPTIONAL: **Enter a default value** (Based on the type of column selected, you will get an option to define the default value. For example - if you have a choice type of column with two choices as "Yes" and "No"; you can define the default value as "Yes". Similarly, if there is a Date type of column, then you can select "Today" as default value for the column.)
 
-2. OPTIONAL: **Enter a Description** (You can use this field to express your description behind what this column will store.)
+4. OPTIONAL: **Enter a Description** (You can use this field to express your description behind what this column will store.)
 
-3. OPTIONAL: **Include this column in search results -** If this option is check, then you will be able to search items in Explorer based on this column. Minimising the number of searchable columns can give improved performance on very large tables.
+5. OPTIONAL: **Include this column in search results -** If this option is check, then you will be able to search items in Explorer based on this column. Minimising the number of searchable columns can give improved performance on very large tables.
 
-4. OPTIONAL: **Set this column to be the title column -** Each table has a title column. If this option is checked then the subject column will be regarded as the title column for the table. The title column often serves as the main column for relational purposes.
+6. OPTIONAL: **Set this column to be the title column -** Each table has a title column. If this option is checked then the subject column will be regarded as the title column for the table. The title column often serves as the main column for relational purposes.
 
-5. Press Save
+7. Press Save
 
 ![Press Save](PressSaveImg.png)
 
