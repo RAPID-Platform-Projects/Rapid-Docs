@@ -218,7 +218,7 @@ Now, when this option is checked on, it will create folders for all the items wh
 
 Please refer to below video for illustration
 
-![Create Folder on item if one does not exist](AutomaticallyCreateASharePointFolderOnItemIfItDoesNotExistCloseUp.png)
+![Create Folder on item if one does not exist](AutomaticallyCreateASharePointFolder.png)
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/vei7DramEG0?si=XI_H3PN3FqEuQtdx" title="YouTube video player" width="750"></iframe>
 
@@ -259,7 +259,7 @@ Please refer to the below steps to understand the impact of this option.
 - Go to Files tab of newly created item (Payment's item). You will see the file uploaded in linked Invoice item.
 
 **Please note - Only items created after Checking On this option will show files from linked item. Previously created linked items would not show the same.**
-![Invoice files example](PleasenoteOnlyitemscreatedafterCheckingOnthisoptionwillshowfiles.png)
+![Invoice files example](Onlyitemscreatedafter.png)
 
 To summarise -
 
