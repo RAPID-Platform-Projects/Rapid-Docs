@@ -1,4 +1,4 @@
-# How to Zoom in / out the Gantt Chart timeline?
+<!-- # How to Zoom in / out the Gantt Chart timeline?
 
 A Gantt Chart is a visual representation of various tasks across time. Therefore, the scale of time becomes an important parameter of how we view our Gantt Charts.
 
@@ -63,4 +63,4 @@ Please view the below GIF for illustration
 
 **[How to Save and Undo changes made to the Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-save-undo-changes-to-a-gantt-chart "How to Save / Undo changes to a Gantt Chart?")**
 
-**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")**
+**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")** -->

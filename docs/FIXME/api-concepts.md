@@ -60,7 +60,23 @@ This will return a JSON object of the queried tables’ schema.
 
 Every table has the same basic system fields created for it to assist the Platform. These are
 
-<table id="bkmrk-field-name-type-purp" style="height: 493px; width: 74.8148%;"><thead><tr style="height: 29px;"><th style="height: 29px; width: 18.8485%;">Field Name</th><th style="height: 29px; width: 12.5596%;">Type</th><th style="height: 29px; width: 64.3908%;">Purpose</th></tr></thead><tbody><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">Unique ID of the item</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">sys\_type\_id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">Entity Type ID for quick determination of tables</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">deleted</td><td style="height: 29px; width: 12.5596%;">DateTime</td><td style="height: 29px; width: 64.3908%;">Date the item was deleted, Null if not deleted</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">author\_id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">Principal ID of the user that created the item</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">created</td><td style="height: 29px; width: 12.5596%;">DateTime</td><td style="height: 29px; width: 64.3908%;">Date created</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">editor\_id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">Principal ID of the last user to modify the item</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">modified</td><td style="height: 29px; width: 12.5596%;">DateTime</td><td style="height: 29px; width: 64.3908%;">Date last modified</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">parent\_id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">ID of the item of the same table type that this item is a child of</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">drive\_id</td><td style="height: 29px; width: 12.5596%;">String</td><td style="height: 29px; width: 64.3908%;">Drive\_ID of the SharePoint/OneDrive location for the item</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">folder\_id</td><td style="height: 29px; width: 12.5596%;">String</td><td style="height: 29px; width: 64.3908%;">Folder\_ID of SharePoint folder location for the item</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">rank</td><td style="height: 29px; width: 12.5596%;">???</td><td style="height: 29px; width: 64.3908%;">Unused</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">embedded\_files</td><td style="height: 29px; width: 12.5596%;">String</td><td style="height: 29px; width: 64.3908%;">Json representation of embedded files component</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">sys\_external\_id</td><td style="height: 29px; width: 12.5596%;">INT</td><td style="height: 29px; width: 64.3908%;">Unused</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">sys\_valid\_from</td><td style="height: 29px; width: 12.5596%;">DateTime</td><td style="height: 29px; width: 64.3908%;">Unused</td></tr><tr style="height: 29px;"><td style="height: 29px; width: 18.8485%;">sys\_valid\_to</td><td style="height: 29px; width: 12.5596%;">DateTime</td><td style="height: 29px; width: 64.3908%;">Unused</td></tr></tbody></table>
+|Field Name|Type|Purpose|
+|:----|:----|:----|
+|id|INT|Unique ID of the item|
+|sys\_type\_id|INT|Entity Type ID for quick determination of tables|
+|deleted|DateTime|Date the item was deleted, Null if not deleted|
+|author\_id|INT|Principal ID of the user that created the item|
+|created|DateTime|Date created|
+|editor\_id|INT|Principal ID of the last user to modify the item|
+|modified|DateTime|Date last modified|
+|parent\_id|INT|ID of the item of the same table type that this item is a child of|
+|drive\_id|String|Drive\_ID of the SharePoint/OneDrive location for the item|
+|folder\_id|String|Folder\_ID of SharePoint folder location for the item|
+|rank|???|Unused|
+|embedded\_files|String|Json representation of embedded files component|
+|sys\_external\_id|INT|Unused|
+|sys\_valid\_from|DateTime|Unused|
+|sys\_valid\_to|DateTime|Unused|
 
 ### What is an Item
 
@@ -117,7 +133,20 @@ GET {route}?$filter={filter_string}
 
 Currently supported OData syntax
 
-<table border="1" id="bkmrk-syntax-purpose-examp" style="border-collapse: collapse; width: 121.358%; height: 379px;"><tbody><tr><td style="width: 14.4623%;">**Syntax**</td><td style="width: 41.6564%;">**Purpose**</td><td style="width: 43.8813%;">**Example**</td></tr><tr><td style="width: 14.4623%;">eq</td><td style="width: 41.6564%;">Equals : exact comparison between two values</td><td style="width: 43.8813%;">title eq 'My Title'</td></tr><tr><td style="width: 14.4623%;">lt</td><td style="width: 41.6564%;">Less Than</td><td style="width: 43.8813%;">due\_date lt '2020-12-31T00:00.00z'</td></tr><tr><td style="width: 14.4623%;">lte</td><td style="width: 41.6564%;">Less Than or Equal To</td><td style="width: 43.8813%;">priority lte 3</td></tr><tr><td style="width: 14.4623%;">gt</td><td style="width: 41.6564%;">Greater Than</td><td style="width: 43.8813%;">cost gt 5000</td></tr><tr><td style="width: 14.4623%;">gte</td><td style="width: 41.6564%;">Greater Than or Equal To</td><td style="width: 43.8813%;">volunteers gte 20</td></tr><tr><td style="width: 14.4623%;">and</td><td style="width: 41.6564%;">Logical AND joining multiple comparisons</td><td style="width: 43.8813%;">title eq 'My Title' and cost gt 5000</td></tr><tr><td style="width: 14.4623%;">or</td><td style="width: 41.6564%;">Logical OR joining multiple comparisons</td><td style="width: 43.8813%;">priority lte 3 or cost gt 5000</td></tr><tr><td style="width: 14.4623%;">( )</td><td style="width: 41.6564%;">Brackets : Managing order of operations</td><td style="width: 43.8813%;">(priority lte 3 or cost gt 5000) and title eq 'My Title'</td></tr><tr><td style="width: 14.4623%;">in()</td><td style="width: 41.6564%;">At least one given value is a match</td><td style="width: 43.8813%;">in('parent\_id', 1, 2, 3)</td></tr><tr><td style="width: 14.4623%;">inUniversal()</td><td style="width: 41.6564%;">At least one universal link is a match</td><td style="width: 43.8813%;">inUniversal('Projects', 1, 2, 3)</td></tr><tr><td style="width: 14.4623%;">inScoped()</td><td style="width: 41.6564%;">At least one given scoped link is a match</td><td style="width: 43.8813%;">inScoped('Tasks', 'contributors', 8, 11, 31)</td></tr></tbody></table>
+|**Syntax**|**Purpose**|**Example**|
+|:----|:----|:----|
+|eq|Equals : exact comparison between two values|title eq 'My Title'|
+|lt|Less Than|due\_date lt '2020-12-31T00:00.00z'|
+|lte|Less Than or Equal To|priority lte 3|
+|gt|Greater Than|cost gt 5000|
+|gte|Greater Than or Equal To|volunteers gte 20|
+|and|Logical AND joining multiple comparisons|title eq 'My Title' and cost gt 5000|
+|or|Logical OR joining multiple comparisons|priority lte 3 or cost gt 5000|
+|( )|Brackets : Managing order of operations|(priority lte 3 or cost gt 5000) and title eq 'My Title'|
+|in()|At least one given value is a match|in('parent\_id', 1, 2, 3)|
+|inUniversal()|At least one universal link is a match|inUniversal('Projects', 1, 2, 3)|
+|inScoped()|At least one given scoped link is a match|inScoped('Tasks', 'contributors', 8, 11, 31)|
+
 
 #### OData Function Reference
 
@@ -127,7 +156,11 @@ The in() function tests if at a given column contains at least one of the given 
 
 **Arguments**
 
-<table border="1" id="bkmrk-name-type-descriptio" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 18.5414%;">Name</td><td style="width: 9.68899%;">Type</td><td style="width: 71.7696%;">Description</td></tr><tr><td style="width: 18.5414%;">column\_name</td><td style="width: 9.68899%;">String</td><td style="width: 71.7696%;">The column name we are testing if values are against</td></tr><tr><td style="width: 18.5414%;">values</td><td style="width: 9.68899%;">Array</td><td style="width: 71.7696%;">A comma separated list of values we are testing for</td></tr></tbody></table>
+|Name|Type|Description|
+|:----|:----|:----|
+|column\_name|String|The column name we are testing if values are against|
+|values|Array|A comma separated list of values we are testing for|
+
 
 **Examples**
 
@@ -153,7 +186,11 @@ The inUniversal() function tests if at a given list of items are linked universa
 
 **Arguments**
 
-<table border="1" id="bkmrk-name-type-descriptio-0" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 18.5414%;">Name</td><td style="width: 9.68899%;">Type</td><td style="width: 71.7696%;">Description</td></tr><tr><td style="width: 18.5414%;">list\_name</td><td style="width: 9.68899%;">String</td><td style="width: 71.7696%;">The target list the items universally linked belong to</td></tr><tr><td style="width: 18.5414%;">values</td><td style="width: 9.68899%;">Array</td><td style="width: 71.7696%;">A comma separated list of values we are testing for</td></tr></tbody></table>
+|Name|Type|Description|
+|:----|:----|:----|
+|list\_name|String|The target list the items universally linked belong to|
+|values|Array|A comma separated list of values we are testing for|
+
 
 **Examples**
 
@@ -172,7 +209,11 @@ The inScoped() function tests if a given list of items are linked via a scoped l
 
 **Arguments**
 
-<table border="1" id="bkmrk-name-type-descriptio-1" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 18.5414%;">Name</td><td style="width: 9.68899%;">Type</td><td style="width: 71.7696%;">Description</td></tr><tr><td style="width: 18.5414%;">table\_name</td><td style="width: 9.68899%;">String</td><td style="width: 71.7696%;">The target table the items we are searching for belong to</td></tr><tr><td style="width: 18.5414%;">column\_name</td><td style="width: 9.68899%;">String</td><td style="width: 71.7696%;">The multi-lookup column name we are testing if the given items are linked via</td></tr><tr><td style="width: 18.5414%;">values</td><td style="width: 9.68899%;">Array</td><td style="width: 71.7696%;">A comma separated list of ids we are testing for</td></tr></tbody></table>
+|Name|Type|Description|
+|:----|:----|:----|
+|table\_name|String|The target table the items we are searching for belong to|
+|column\_name|String|The multi-lookup column name we are testing if the given items are linked via|
+|values|Array|A comma separated list of ids we are testing for|
 
 **Examples**
 
@@ -793,6 +834,9 @@ GET /openapi/powerapps
 
 Notifications are generated with a type corresponding to these values
 
-<table border="1" id="bkmrk-meaning-type-notific" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 49.9383%;">**Meaning**</td><td style="width: 49.9383%;">**Type**</td></tr><tr><td style="width: 49.9383%;">Notification</td><td style="width: 49.9383%;">0</td></tr><tr><td style="width: 49.9383%;">Reminder</td><td style="width: 49.9383%;">1</td></tr><tr><td style="width: 49.9383%;">Announcement</td><td style="width: 49.9383%;">2</td></tr><tr><td style="width: 49.9383%;">Mention</td><td style="width: 49.9383%;">3</td></tr></tbody></table>
-
-````
+|\**Meaning**|\**Type**|
+|:----|:----|
+|Notification|0|
+|Reminder|1|
+|Announcement|2|
+|Mention|3|

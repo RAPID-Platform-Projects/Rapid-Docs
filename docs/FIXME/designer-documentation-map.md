@@ -1,63 +1,35 @@
 # Designer Documentation Map
 
-<table id="bkmrk-tables-create-new-ta"><tbody><tr><td width="300">### Tables
-
-</td></tr><tr><td width="300"><u>Create new Table</u>
-
-</td></tr><tr><td width="300"><u>View /Update table options</u>
-
-</td></tr><tr><td width="300"><u>Add new Columns</u>
-
-</td></tr><tr><td width="300"><u>Edit / Delete a Column</u>
-
-</td></tr><tr><td width="300"><u>Edit / Delete Table Views</u>
-
-</td></tr><tr><td width="300"><u>Set up Table security &amp; permissions</u>
-
-</td></tr><tr><td width="300"><u>Delete a Table</u>
-
-</td></tr><tr><td width="300"><u>Configure a Menu from Table</u>
-
-</td></tr><tr><td width="300"></td></tr><tr><td width="300">### Menus
-
-</td></tr><tr><td width="300"><u>Configuring Sidebars</u>
-
-</td></tr><tr><td width="300"><u>Explorer Sidebar</u>
-
-</td></tr><tr><td width="300"><u>Designer Sidebar</u>
-
-</td></tr><tr><td width="300"><u>Configuring Command bar</u>
-
-</td></tr><tr><td width="300"><u>Menu Item properties</u>
-
-</td></tr><tr><td width="300"><u>Create new Menu Item</u>
-
-</td></tr><tr><td width="300"><u>Set Display text and icon</u>
-
-</td></tr><tr><td width="300"><u>Set on-click action</u>
-
-</td></tr><tr><td width="300"><u>Set location to Display</u>
-
-</td></tr><tr><td width="300"><u>Set Save Intention</u>
-
-</td></tr><tr><td width="300"><u>Set Permissions</u>
-
-</td></tr><tr><td width="300"><u>Link Menu Item to a Table</u>
-
-</td></tr><tr><td width="300"><u>Edit/ Delete/ Add a Menu Item below an existing Menu Item</u>
-
-</td></tr><tr><td width="300"></td></tr><tr><td width="300">### Pages
-
-</td></tr><tr><td width="300"><u>Create a page</u>
-
-</td></tr><tr><td width="300"><u>Add a Layout to a Page</u>
-
-</td></tr><tr><td width="300"><u>Available Layouts</u>
-
-</td></tr><tr><td width="300"><u>Horizontal Layout</u>
-
-</td></tr><tr><td width="300"><u>Vertical Layout</u>
-
-</td></tr><tr><td width="300"><u>Flex Layout</u>
-
-</td></tr></tbody></table>
+|\### Tables|
+|:----|
+|<u>Create new Table</u>|
+|<u>View /Update table options</u>|
+|<u>Add new Columns</u>|
+|<u>Edit / Delete a Column</u>|
+|<u>Edit / Delete Table Views</u>|
+|<u>Set up Table security & permissions</u>|
+|<u>Delete a Table</u>|
+|<u>Configure a Menu from Table</u>|
+| |
+|\### Menus|
+|<u>Configuring Sidebars</u>|
+|<u>Explorer Sidebar</u>|
+|<u>Designer Sidebar</u>|
+|<u>Configuring Command bar</u>|
+|<u>Menu Item properties</u>|
+|<u>Create new Menu Item</u>|
+|<u>Set Display text and icon</u>|
+|<u>Set on-click action</u>|
+|<u>Set location to Display</u>|
+|<u>Set Save Intention</u>|
+|<u>Set Permissions</u>|
+|<u>Link Menu Item to a Table</u>|
+|<u>Edit/ Delete/ Add a Menu Item below an existing Menu Item</u>|
+| |
+|\### Pages|
+|<u>Create a page</u>|
+|<u>Add a Layout to a Page</u>|
+|<u>Available Layouts</u>|
+|<u>Horizontal Layout</u>|
+|<u>Vertical Layout</u>|
+|<u>Flex Layout</u>|

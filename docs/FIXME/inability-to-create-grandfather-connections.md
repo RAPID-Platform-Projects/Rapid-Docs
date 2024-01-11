@@ -1,4 +1,4 @@
-# Inability to create Grandfather Connections
+<!-- # Inability to create Grandfather Connections
 
 ##### **What does this limitation relate to?**
 
@@ -56,4 +56,4 @@ Such an arrangement does not work in Rapid Platform at present.
 
 ##### **Use Case**
 
-One of the use cases where Grandfather connections may be needed is the Project – Phase – Task hierarchy.
+One of the use cases where Grandfather connections may be needed is the Project – Phase – Task hierarchy. -->

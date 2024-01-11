@@ -1,4 +1,4 @@
-# Using the HR Dashboard
+<!-- # Using the HR Dashboard
 
 ### Overview
 
@@ -117,4 +117,4 @@ The columns displayed are: “Employee Name”, “Department”, “Role”, �
 
 </td></tr></tbody></table>
 
-[![image-1703655875305.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Mlm5BmL3pxKtiNaW-image-1703655875305.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Mlm5BmL3pxKtiNaW-image-1703655875305.png)
+[![image-1703655875305.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Mlm5BmL3pxKtiNaW-image-1703655875305.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Mlm5BmL3pxKtiNaW-image-1703655875305.png) -->

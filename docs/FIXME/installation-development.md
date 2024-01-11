@@ -1,4 +1,4 @@
-# Installation & Development
+<!-- # Installation & Development
 
 ### Installation
 
@@ -37,4 +37,4 @@ After logging in through Microsoft, we will be placed on an empty page with the 
 <p class="callout info">In future, manually adding these parameters to the URL will bypass the login page.  
 </p>
 
-The next step is setting up routing through the `<RapidApplication />` component.
+The next step is setting up routing through the `<RapidApplication />` component. -->

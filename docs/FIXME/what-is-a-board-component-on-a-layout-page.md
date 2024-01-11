@@ -1,4 +1,4 @@
-# What is a Board component on a Layout / Page?
+<!-- # What is a Board component on a Layout / Page?
 
 ##### **What is a Board component?**
 
@@ -91,4 +91,4 @@ Following is the brief description of each field:
 
 **[Gantt Chart component](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?")**
 
-***[Go back to All Components Page](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages)***
+***[Go back to All Components Page](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages)*** -->

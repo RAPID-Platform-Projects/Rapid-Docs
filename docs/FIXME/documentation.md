@@ -12,7 +12,7 @@ Bundles are pre-packaged add-ins that act as a starting point for your RAPID sit
 
 Installing a bundle can be different depending on where you're getting the bundle from.
 
-<table border="1" id="bkmrk-steps-to-get-started" style="border-collapse: collapse; width: 100%;"><tbody><tr data-type="grid-row"><td data-type="grid-cell" style="width: 23.8271%;">**Steps To Get Started**
+<!-- <table border="1" id="bkmrk-steps-to-get-started" style="border-collapse: collapse; width: 100%;"><tbody><tr data-type="grid-row"><td data-type="grid-cell" style="width: 23.8271%;">**Steps To Get Started**
 
 </td><td data-type="grid-cell" style="width: 76.0494%;">**Instructions**
 
@@ -38,13 +38,13 @@ If you're installing a custom bundle, just click on the button at the top of the
 
 </td><td data-type="grid-cell" style="width: 76.0494%;">Navigate To Explorer and find your new bundle has added some extra features.
 
-</td></tr></tbody></table>
+</td></tr></tbody></table> -->
 
 **How-To Guide - Creating a bundle (On Rapidplatform)**
 
 The best way to create a bundle is to Navigate to your rapidplatform site and design the bundle there, Allowing you to see how the bundle will act and feel before you give it to your users.
 
-<table border="1" id="bkmrk-steps-to-get-started-0" style="border-collapse: collapse; width: 100%;"><tbody><tr data-type="grid-row"><td data-type="grid-cell" style="width: 23.8271%;">**Steps To Get Started**
+<!-- <table border="1" id="bkmrk-steps-to-get-started-0" style="border-collapse: collapse; width: 100%;"><tbody><tr data-type="grid-row"><td data-type="grid-cell" style="width: 23.8271%;">**Steps To Get Started**
 
 </td><td data-type="grid-cell" style="width: 76.0494%;">**Instructions**
 
@@ -60,7 +60,7 @@ This means that the relationships between each List and their fields will determ
 
 Clicking on the Lists you want, and clicking next, will then download your bundle right to your default file location.
 
-</td></tr></tbody></table>
+</td></tr></tbody></table> -->
 
 **How-To Guide - Creating a bundle (Advance)**
 

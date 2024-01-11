@@ -1,4 +1,4 @@
-# Formatting Values in a LODASH expression
+<!-- # Formatting Values in a LODASH expression
 
 Sometimes when filling a document, a user may want to fill with a number. However, as default, the rapid system returns numbers unformatted (see img below). Sometimes this can be formatted by adding an additional column using SQL but if the number is only used once or twice it is often not worthwhile creating a whole additional column putting additional load on the database.
 
@@ -34,4 +34,4 @@ NOTE: you can also subtract"seconds", "minutes", "hours", "days", "weeks", "mont
 
 [**How to format array values in a lodash expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/how-to-format-array-values-in-a-lodash-expression)
 
-[**Fill Document**](https://docs.rapidplatform.com/books/workflow-keyper/page/fill-document)
+[**Fill Document**](https://docs.rapidplatform.com/books/workflow-keyper/page/fill-document) -->

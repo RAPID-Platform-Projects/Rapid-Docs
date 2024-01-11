@@ -1,4 +1,4 @@
-# How to perform a Remote Action from click of a Menu button?
+<!-- # How to perform a Remote Action from click of a Menu button?
 
 This is configurable on both the ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** and ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu types.
 
@@ -97,4 +97,4 @@ As seen the formDate key returns an object with the form information entered.
 {<br></br>  "site": "home",<br></br>  "tenant": "stationaryinc",<br></br>  "environment": "test",<br></br>  "requestor": 4,<br></br>  "item": {},<br></br>  "formData": {<br></br>    "name": "Jamie"<br></br>  }<br></br>}
 ```
 
-<div id="bkmrk--2"></div><div id="bkmrk--3"></div><div id="bkmrk--4"></div><div id="bkmrk--5"></div><div id="bkmrk--6"></div>[Go back to ***On-Click Actions*** learning resource](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")
+<div id="bkmrk--2"></div><div id="bkmrk--3"></div><div id="bkmrk--4"></div><div id="bkmrk--5"></div><div id="bkmrk--6"></div>[Go back to ***On-Click Actions*** learning resource](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?") -->

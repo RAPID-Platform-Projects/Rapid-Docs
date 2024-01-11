@@ -1,4 +1,4 @@
-# deleteItem
+<!-- # deleteItem
 
 The deleteItem endpoint does exactly that. When provided a list and id then delete that item on that list.
 
@@ -22,4 +22,4 @@ An example body is provided below:
 
 `{`
 
-<div id="bkmrk-%C2%A0%C2%A0%C2%A0%22list%22%3A-%22listname-0"><div><div id="bkmrk-%C2%A0%C2%A0%C2%A0%22list%22%3A-%22listname-1"><div>`    "list": "ListName",`</div><div>`    "id": 111,```</div><div> `"triggerWebhooks": true`</div><div>`}`</div></div>``</div></div>
+<div id="bkmrk-%C2%A0%C2%A0%C2%A0%22list%22%3A-%22listname-0"><div><div id="bkmrk-%C2%A0%C2%A0%C2%A0%22list%22%3A-%22listname-1"><div>`    "list": "ListName",`</div><div>`    "id": 111,```</div><div> `"triggerWebhooks": true`</div><div>`}`</div></div>``</div></div> -->

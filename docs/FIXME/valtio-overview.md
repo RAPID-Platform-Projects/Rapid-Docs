@@ -1,4 +1,4 @@
-# Valtio Overview
+<!-- # Valtio Overview
 
 [Watch the video tutorial](https://rapidplatform-my.sharepoint.com/:v:/g/personal/alex_litzow_rapidplatform_com_au/EZyWMTPMJ4JGqLPXtVqoZNsBgXhY3StSO8GQ7gJGNx6i8Q?e=UrJ8Ef)  
   
@@ -43,4 +43,4 @@ Here is the full component, as an exercise try adding a `decrementCount` action 
 
 ```JavaScript
 import { proxy, useSnapshot } from 'valtio';<br></br>import React from 'react';<br></br><br></br>const state = {<br></br>    count: 0,<br></br>};<br></br><br></br>const stateProxy = proxy(state);<br></br><br></br>const incrementCount = () => ++stateProxy.count;<br></br><br></br>export default function Counter() {<br></br>    const stateSnap = useSnapshot(stateProxy);<br></br><br></br>    return (<br></br>        <div><br></br>            <h3>{stateSnap.count}</h3><br></br>            <button onClick={incrementCount}>+</button><br></br>        </div><br></br>    )<br></br>}
-```
+``` -->

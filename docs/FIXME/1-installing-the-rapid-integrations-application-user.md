@@ -1,4 +1,4 @@
-# 1. Installing the Rapid-Integrations Application User
+<!-- # 1. Installing the Rapid-Integrations Application User
 
 The purpose of this documentation is to show how to install the Rapid-Integrations Application user on the.
 
@@ -10,4 +10,4 @@ The purpose of this documentation is to show how to install the Rapid-Integratio
 3. Login to the rapid site in SMSS. Create a new user on the principals table with the following values. Name = "Rapid Integrations", OID = {Object ID copied in step 2}, Type = "Applicaiton"
     
     <div><div>  
-    </div></div>
+    </div></div> -->
