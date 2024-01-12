@@ -77,8 +77,28 @@ const config: Config = {
           items: [
             {
               type: "docSidebar",
+              sidebarId: "getting_started",
+              label: "Introduction"
+            },
+            {
+              type: "docSidebar",
+              sidebarId: "user_manual",
+              label: "User Manual"
+            },
+            {
+              type: "docSidebar",
+              sidebarId: "keyper_manual",
+              label: "Keyper Manual"
+            },
+            {
+              type: "docSidebar",
               sidebarId: "rapid_standard",
-              label: "Rapid Started"
+              label: "Base Rapid Manual"
+            },
+            {
+              type: "docSidebar",
+              sidebarId: "developer_manual",
+              label: "Developer Manual"
             }
           ],
           dropdownActiveClassDisabled: true
