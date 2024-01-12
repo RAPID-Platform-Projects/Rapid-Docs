@@ -1,2 +1,0 @@
-# The Explorer Pillar
-
