@@ -72,6 +72,10 @@
   color: #5cc8f7;
 }
 
+.footer__link-item:hover {
+  color: #5cc8f7;
+}
+
 a {
   color: #099Cde;
 }
