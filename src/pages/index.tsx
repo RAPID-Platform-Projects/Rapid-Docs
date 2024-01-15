@@ -1,36 +1,17 @@
-import clsx from 'clsx';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Heading from '@theme/Heading';
-
-import styles from './index.module.css';
-
-function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-        </div>
-      </div>
-    </header>
-  );
-}
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import HeroBanner from "../components/hero-banner";
+import FeatureList from "../components/page-components/home/feature-list";
 
 export default function Home(): JSX.Element {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
+
   return (
-    <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
+    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+      <HeroBanner title={siteConfig.title} subTitle={siteConfig.tagline} />
+
       <main>
-        <HomepageFeatures />
+        <FeatureList />
       </main>
     </Layout>
   );
