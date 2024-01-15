@@ -7,9 +7,9 @@ Two reports are linked to the project's module. The first is an item-level repor
 ### How to access the item-level Project Details Report
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703658099164.png](./downloaded_image_1705286177574.png)
+    ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
 2. Open the Project you wish to view the item level report of. (Find the project by scrolling through the list or using the search bar)  
-    ![image-1703658166530.png](./downloaded_image_1705286178586.png)
+    ![image-1703658166530.png](./../Global-Images/downloaded_image_1705285246317.png)
 3. Select the **Report** tab  
     ![image-1703720356170.png](./downloaded_image_1705286179606.png)
 

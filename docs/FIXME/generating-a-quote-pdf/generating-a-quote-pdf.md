@@ -9,9 +9,9 @@ As part of the Finance module comes the ability to automatically generate a Quot
 Follow the steps below to generate and access the Quote PDF (and Word Document).
 
 1. Navigate to the **Finance** &gt; **Quotes**  
-    ![image-1703721152456.png](./downloaded_image_1705285497333.png)
+    ![image-1703721152456.png](./../Global-Images/downloaded_image_1705285359965.png)
 2. Open the quote you wish to generate a PDF of either by scrolling through the list or using the search bar.  
-    ![image-1703721410967.png](./downloaded_image_1705285498346.png)
+    ![image-1703721410967.png](./../Global-Images/downloaded_image_1705285368080.png)
 3. Click the “Generate Quote PDF” menu button located in the top right of the page and wait for the green “Work Executed Successfully” notification  
     ![image-1703721738614.png](./downloaded_image_1705285499362.png)
 4. Navigate to the files tab. Both the word and pdf files will be here. To access the pdf, double click it.  

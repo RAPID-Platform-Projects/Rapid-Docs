@@ -19,7 +19,7 @@ Opportunities can be created in two ways. The first is through the Lead conversi
 ### How to Edit an Opportunity
 
 1. In Explorer select CRM &gt; Sales &gt; Opportunities  
-    ![image-1702939045206.png](./downloaded_image_1705285441458.png)
+    ![image-1702939045206.png](./downloaded_image_1705285437381.png)
 2. Open the **Opportunity** you wish to edit. (Locate the **Opportunity** either by scrolling through the list or using the search bar).  
     ![image-1702939327266.png](./downloaded_image_1705285442477.png)
 3. Edit any relevant fields on the **Opportunity** as needed.  
@@ -36,7 +36,7 @@ However, if you need to delete an **Opportunity** due to incorrect data entry or
 #### How to delete multiple opportunities at once
 
 1. In Explorer select CRM &gt; Sales &gt; Opportunities  
-    ![image-1702939045206.png](./downloaded_image_1705285445533.png)
+    ![image-1702939045206.png](./downloaded_image_1705285437381.png)
 2. Select the Opportunities you want to delete  
     ![image-1702939553009.png](./downloaded_image_1705285446553.png)
 3. Click on **Delete X Opportunities** button  
@@ -45,8 +45,8 @@ However, if you need to delete an **Opportunity** due to incorrect data entry or
 #### How to delete a single lead from the leads page
 
 1. In Explorer select CRM &gt; Sales &gt; Opportunities  
-    ![image-1702939045206.png](./downloaded_image_1705285448591.png)
+    ![image-1702939045206.png](./downloaded_image_1705285437381.png)
 2. Open the **Opportunity** you wish to delete. (Locate the **Opportunity** either by scrolling through the list or using the search bar).  
-    ![image-1702939327266.png](./downloaded_image_1705285449604.png)
+    ![image-1702939327266.png](./downloaded_image_1705285442477.png)
 3. Press **Delete**  
     ![image-1702939652832.png](./downloaded_image_1705285450614.png)

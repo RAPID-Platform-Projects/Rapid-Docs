@@ -11,11 +11,11 @@ There are three ways to create tasks in the context of a project: form the tasks
 ### How to create a task from a Project tasks list, task board, or Gantt Chart
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703658099164.png](./downloaded_image_1705285245302.png)
+    ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar)  
-    ![image-1703658166530.png](./downloaded_image_1705285246317.png)
+    ![image-1703658166530.png](./../Global-Images/downloaded_image_1705285246317.png)
 3. Click on the **Project Management** tab  
-    ![image-1703658186438.png](./downloaded_image_1705285247331.png)
+    ![image-1703658186438.png](./../Global-Images/downloaded_image_1705285247331.png)
 4. Click on the **Task List** or **Task Board** or **Gantt** tab  
     ![image-1703658212121.png](./downloaded_image_1705285248345.png)
 5. Click **New** ****Task**** ![image-1703658247397.png](./downloaded_image_1705285249358.png)
@@ -28,13 +28,13 @@ There are three ways to create tasks in the context of a project: form the tasks
 ### How to edit a Task from within a Project
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703658099164.png](./downloaded_image_1705285252390.png)
+    ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar)  
-    ![image-1703658166530.png](./downloaded_image_1705285253404.png)
+    ![image-1703658166530.png](./../Global-Images/downloaded_image_1705285246317.png)
 3. Click on the **Project Management** tab  
-    ![image-1703658186438.png](./downloaded_image_1705285254414.png)
+    ![image-1703658186438.png](./../Global-Images/downloaded_image_1705285247331.png)
 4. Click on the **Task List** or **Task Board** or **Gantt** tab  
-    ![image-1703658212121.png](./downloaded_image_1705285255422.png)
+    ![image-1703658212121.png](./downloaded_image_1705285248345.png)
 5. Open the Task you wish to edit. (Find the task by scrolling through the list or using the search bar) 
     1. If the task is not assigned to you make sure you change the view from **My Tasks** to **All**  
         ![image-1703658686353.png](./downloaded_image_1705285256430.png)

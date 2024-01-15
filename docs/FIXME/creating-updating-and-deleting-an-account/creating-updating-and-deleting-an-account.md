@@ -18,7 +18,7 @@ Accounts can be created in two ways. The first is through the Lead conversion bu
 ### How to Edit an Account
 
 1. In Explorer select CRM &gt; Accounts  
-    ![image-1702934931769.png](./downloaded_image_1705285427177.png)
+    ![image-1702934931769.png](./downloaded_image_1705285423088.png)
 2. Open the **Account** you wish to edit. (Locate the **Account** either by scrolling through the list or using the search bar).  
     ![image-1702937382009.png](./downloaded_image_1705285428190.png)
 3. Edit any relevant fields on the **Account** page as needed  
@@ -35,7 +35,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 #### How to delete multiple accounts at once
 
 1. In Explorer select CRM &gt; Accounts  
-    ![image-1702934931769.png](./downloaded_image_1705285431260.png)
+    ![image-1702934931769.png](./downloaded_image_1705285423088.png)
 2. Select the Accounts you want to delete  
     ![image-1702937669559.png](./downloaded_image_1705285432278.png)
 3. Click on the **Delete X Accounts** button  
@@ -44,7 +44,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 #### How to delete a single lead from the leads page
 
 1. In Explorer select CRM &gt; Accounts  
-    ![image-1702934931769.png](./downloaded_image_1705285434328.png)
+    ![image-1702934931769.png](./downloaded_image_1705285423088.png)
 2. Open the **Account** you wish to delete. (Locate the **Account** either by scrolling through the list or using the search bar).  
-    ![image-1702937382009.png](./downloaded_image_1705285435338.png)
+    ![image-1702937382009.png](./downloaded_image_1705285428190.png)
 3. Press **Delete** ![image-1702937788809.png](./downloaded_image_1705285436355.png)

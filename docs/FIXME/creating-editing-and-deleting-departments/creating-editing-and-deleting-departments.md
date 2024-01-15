@@ -11,7 +11,7 @@
 ### How to edit a department
 
 1. Navigate to Human Resources &gt; Departments  
-    ![image-1702517642874.png](./downloaded_image_1705285277862.png)
+    ![image-1702517642874.png](./downloaded_image_1705285273692.png)
 2. Open the desired department item. (Locate the department by either scrolling through the list or using the search)  
     ![image-1702517859326.png](./downloaded_image_1705285278870.png)
 3. Edit the fields as required  
@@ -27,7 +27,7 @@ However, if you need to delete a department due to incorrect data entry or a dup
 #### How to Delete Multiple Departments from the List page
 
 1. Navigate to Human Resources &gt; Departments  
-    ![image-1702517642874.png](./downloaded_image_1705285281917.png)
+    ![image-1702517642874.png](./downloaded_image_1705285273692.png)
 2. Select the departments you want to delete  
     ![image-1702524289923.png](./downloaded_image_1705285282927.png)
 3. Press **Delete X Departments** ![image-1702524319192.png](./downloaded_image_1705285283938.png)
@@ -35,7 +35,7 @@ However, if you need to delete a department due to incorrect data entry or a dup
 #### How to Delete a single Department from the item page
 
 1. Navigate to Human Resources &gt; Departments  
-    ![image-1702517642874.png](./downloaded_image_1705285284957.png)
+    ![image-1702517642874.png](./downloaded_image_1705285273692.png)
 2. Open the desired department item. (Locate the department by either scrolling through the list or using the search)  
-    ![image-1702517859326.png](./downloaded_image_1705285285966.png)
+    ![image-1702517859326.png](./downloaded_image_1705285278870.png)
 3. Select **Delete** ![image-1702524226832.png](./downloaded_image_1705285286977.png)

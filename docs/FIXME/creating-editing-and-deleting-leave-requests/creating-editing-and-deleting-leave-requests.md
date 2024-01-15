@@ -28,7 +28,7 @@ If you are taking advantage of the “Leave Request Approval” process it is NO
 In the case that you may not be using the Leave Request Approval process in your system you can edit leave requests by following the steps below:
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
-    ![image-1703652281898.png](./downloaded_image_1705285306280.png)
+    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
     ![image-1703652473710.png](./downloaded_image_1705285307297.png)
 3. Edit any relevant fields on the leave request page as needed.  
@@ -44,7 +44,7 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 #### How to Delete Multiple Leave Requests from the List Page
 
 1. Navigate to **Human Resources** &gt; **Leave Requests  
-    ![image-1703652281898.png](./downloaded_image_1705285310347.png)**
+    ![image-1703652281898.png](./downloaded_image_1705285302217.png)**
 2. Select the **Leave Requests** you wish to delete  
     ![image-1703652818112.png](./downloaded_image_1705285311357.png)
 3. Press **Delete X Leave Requests**  
@@ -53,7 +53,7 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 #### How to Delete a Single Leave Request from the Item Page
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
-    ![image-1703652281898.png](./downloaded_image_1705285313389.png)
+    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
-    ![image-1703652473710.png](./downloaded_image_1705285314398.png)
+    ![image-1703652473710.png](./downloaded_image_1705285307297.png)
 3. Press **Delete** ![image-1703652946616.png](./downloaded_image_1705285315407.png)

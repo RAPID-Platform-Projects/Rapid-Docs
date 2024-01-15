@@ -15,14 +15,14 @@ This is different from **Perform Remote Action** type, as in this case, no addit
 #### How to configure the "Raise Webhook Create Action" for a menu button
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285691581.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702265202904.png](./downloaded_image_1705285692590.png)
+    ![image-1702265202904.png](./../Global-Images/downloaded_image_1705285684470.png)
 3. Click on Menu  
-    ![image-1702270949641.png](./downloaded_image_1705285693600.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285694616.png)
+    ![image-1702270949641.png](./../Global-Images/downloaded_image_1705285685482.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./../Global-Images/downloaded_image_1705285686494.png)
 5. Choose a name and Icon  
-    ![image-1702271084339.png](./downloaded_image_1705285695626.png)
+    ![image-1702271084339.png](./../Global-Images/downloaded_image_1705285687510.png)
 6. Choose **Raise Create Webhook Action** as the On-Click Action  
     ![image-1702272072115.png](./downloaded_image_1705285696642.png)
 

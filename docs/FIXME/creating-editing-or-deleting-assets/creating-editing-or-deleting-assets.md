@@ -20,9 +20,9 @@ Creating, editing, or deleting assets is the same process for each of the three 
 ### How to Edit and Asset (Asset, IT Asset, Vehicle)
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285379278.png)
+    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285380291.png)
+    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  
     ![image-1702443895142.png](./downloaded_image_1705285381308.png)
 4. Edit any relevant fields on the asset page as needed.  
@@ -39,9 +39,9 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 **Deleting from the list:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285384353.png)
+    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285385372.png)
+    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
 3. Select the assets you wish to delete  
     ![image-1702444055175.png](./downloaded_image_1705285386384.png)
 4. Press the **Delete** button  
@@ -50,11 +50,11 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 **Deleting from the asset page:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285388408.png)
+    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285389420.png)
+    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  
-    ![image-1702443895142.png](./downloaded_image_1705285390427.png)
+    ![image-1702443895142.png](./downloaded_image_1705285381308.png)
 4. Click on the delete button.  
     ![image-1702444145706.png](./downloaded_image_1705285391443.png)
 

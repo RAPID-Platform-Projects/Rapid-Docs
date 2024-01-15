@@ -71,7 +71,7 @@ The 'All View' is a default, system created view that displays all items in a da
 
 `Having custom views allows for multiple different views to be chosen. These views may be dependant on an item set or different users may require a different view. Having a custom view is a quick way of cycling between the same data set but with different sorts and filters applied. The alternative to having multiple custom views would be exclusively using the '*All View*' and changing the filters and sorts each time you wish to change the view. To create a new custom view, press the '*Views*' button this will open a drop-down.
 
-![Data Tables 06.png](./downloaded_image_1705285475015.png)*Creating a Custom View*
+![Data Tables 06.png](./downloaded_image_1705285474002.png)*Creating a Custom View*
 
 Pressing '*Create View*' will bring up the configuration for the view. The initial configuration for the view being made will always be the current configuration of the view already selected. Inputting any sorts and filters on the '*Edit View*' flyout will commit those changes to the view after it is created. After giving the view a title you will now be able to create it. Any custom views will be selectable in the drop-down menu for the views.
 

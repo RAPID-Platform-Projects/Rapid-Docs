@@ -13,16 +13,16 @@ For example - you have created a workflow in Rapid Platform to generate and send
 #### How to configure a "Workflow Created Signal" on a Menu Button
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285697655.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702265202904.png](./downloaded_image_1705285698670.png)
+    ![image-1702265202904.png](./../Global-Images/downloaded_image_1705285684470.png)
 3. Click on Menu  
-    ![image-1702270949641.png](./downloaded_image_1705285699681.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285700695.png)
+    ![image-1702270949641.png](./../Global-Images/downloaded_image_1705285685482.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./../Global-Images/downloaded_image_1705285686494.png)
 5. Choose a name and Icon  
-    ![image-1702271084339.png](./downloaded_image_1705285701709.png)
+    ![image-1702271084339.png](./../Global-Images/downloaded_image_1705285687510.png)
 6. Choose **Raise Workflow Created Signal** as the On-Click Action  
-    ![image-1702271143878.png](./downloaded_image_1705285702735.png)
+    ![image-1702271143878.png](./../Global-Images/downloaded_image_1705285702735.png)
 7. Press Save  
     ![image-1702273635024.png](./downloaded_image_1705285703753.png)
 

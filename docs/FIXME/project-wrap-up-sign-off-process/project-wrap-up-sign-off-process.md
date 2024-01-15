@@ -9,9 +9,9 @@ The process is triggered manually from within the project item you which to “W
 ### How to trigger the Wrap-Up Project Process
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703658099164.png](./downloaded_image_1705285858993.png)
+    ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
 2. Open the Project you wish to wrap-up. (Find the project by scrolling through the list or using the search bar)  
-    ![image-1703658166530.png](./downloaded_image_1705285860008.png)
+    ![image-1703658166530.png](./../Global-Images/downloaded_image_1705285246317.png)
 3. Click the "Wrap-Up Project" menu button located in the top right corner.  
     ![image-1703720025957.png](./downloaded_image_1705285861025.png)
 4. Select the internal reviewer, client reviewer and then click “Ok”  

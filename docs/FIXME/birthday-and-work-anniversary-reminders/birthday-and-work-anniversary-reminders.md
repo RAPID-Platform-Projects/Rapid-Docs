@@ -19,9 +19,15 @@ Should a manager prefer not to receive email reminders, they can easily configur
 As a manager, by default you will receive birthday and work anniversary reminders from any employees that have you listed as their direct manager. To switch these off follow the steps below:
 
 1. Navigate to Human Resources &gt; Employees  
+<<<<<<< HEAD:docs/FIXME/birthday-and-work-anniversary-reminders/birthday-and-work-anniversary-reminders.md
     ![image-1702515802672.png](./downloaded_image_1705285192509.png)
 2. Open YOUR employee item. (Find the employee item by either scrolling through the list or using the search bar)  
     ![image-1702516317433.png](./downloaded_image_1705285193519.png)
+=======
+    ![image-1702515802672.png](../Global-Images/downloaded_image_1705285192509.png)
+2. Open YOUR employee item. (Find the employee item by either scrolling through the list or using the search bar)  
+    ![image-1702516317433.png](./../Global-Images/downloaded_image_1705285193519.png)
+>>>>>>> 99d62e50268d4037a51b156c7fcc33867274da52:docs/FIXME/birthday-and-work-anniversary-reminders.md
 3. Set the **Birthday Reminders** and **Work Anniversary Reminders** Toggles to False.  
     ![image-1702517066457.png](./downloaded_image_1705285194535.png)
 4. Press **Save** or ****Save and Close**** ![image-1702517094841.png](./downloaded_image_1705285195545.png)

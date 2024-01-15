@@ -15,14 +15,14 @@ The Perform Remote Action makes a post request to the specified address.
 #### How to configure a menu button to Perform a remote action
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285683456.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702265202904.png](./downloaded_image_1705285684470.png)
+    ![image-1702265202904.png](./../Global-Images/downloaded_image_1705285684470.png)
 3. Click on Menu  
-    ![image-1702270949641.png](./downloaded_image_1705285685482.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285686494.png)
+    ![image-1702270949641.png](./../Global-Images/downloaded_image_1705285685482.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./../Global-Images/downloaded_image_1705285686494.png)
 5. Choose a name and Icon  
-    ![image-1702271084339.png](./downloaded_image_1705285687510.png)
+    ![image-1702271084339.png](./../Global-Images/downloaded_image_1705285687510.png)
 6. Select Perform Remote Action as the On-Click Action  
     ![image-1702271563763.png](./downloaded_image_1705285688528.png)
 7. Configure the Include Item toggle (Configure to true if you want to include the current item context in the network request)

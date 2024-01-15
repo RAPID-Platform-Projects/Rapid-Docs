@@ -18,7 +18,7 @@ Contacts can be created without an associated lead. This is done in the same way
 ### How to edit a contact
 
 1. Navigate to the Contacts table. CRM &gt; Contacts .  
-    ![image-1702512336791.png](./downloaded_image_1705285263543.png)
+    ![image-1702512336791.png](./downloaded_image_1705285259477.png)
 2. Open the contact you wish to edit. (Find the contact by either scrolling through the list or using the search bar)  
     ![image-1702512580116.png](./downloaded_image_1705285264560.png)
 3. Edit the relevant details as needed  
@@ -34,7 +34,7 @@ However, if you need to delete a contact due to incorrect data entry or a duplic
 #### How to delete multiple contacts from the contacts list
 
 1. Navigate to the Contacts table. CRM &gt; Contacts .  
-    ![image-1702512336791.png](./downloaded_image_1705285267619.png)
+    ![image-1702512336791.png](./downloaded_image_1705285259477.png)
 2. Select the contacts you wish to delete.  
     ![image-1702512974714.png](./downloaded_image_1705285268630.png)
 3. Click on the **Delete X Contacts** button.  
@@ -43,8 +43,8 @@ However, if you need to delete a contact due to incorrect data entry or a duplic
 #### How to delete a single contact form the contact item page
 
 1. Navigate to the Contacts table. CRM &gt; Contacts .  
-    ![image-1702512336791.png](./downloaded_image_1705285270657.png)
+    ![image-1702512336791.png](./downloaded_image_1705285259477.png)
 2. Open the contact you wish to edit. (Find the contact by either scrolling through the list or using the search bar)  
-    ![image-1702512580116.png](./downloaded_image_1705285271666.png)
+    ![image-1702512580116.png](./downloaded_image_1705285264560.png)
 3. Press the **Delete** button  
     ![image-1702513054582.png](./downloaded_image_1705285272674.png)

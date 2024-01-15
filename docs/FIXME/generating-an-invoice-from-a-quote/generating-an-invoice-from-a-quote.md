@@ -7,9 +7,9 @@ As part of the Finance module comes the ability to automatically generate an inv
 ### How to Generate an Invoice from a Quote
 
 1. Navigate to the **Finance** &gt; **Quotes**  
-    ![image-1703721152456.png](./downloaded_image_1705285509535.png)
+    ![image-1703721152456.png](./../Global-Images/downloaded_image_1705285359965.png)
 2. Open the quote you wish to create an Invoice from either by scrolling through the list or using the search bar.  
-    ![image-1703721410967.png](./downloaded_image_1705285510549.png)
+    ![image-1703721410967.png](./../Global-Images/downloaded_image_1705285368080.png)
 3. Click the **Generate Invoice From Quote** menu button located in the top right of the page.  
     ![image-1703723316248.png](./downloaded_image_1705285511563.png)
 4. A form will appear, enter the Invoice Date and press **OK** and wait for the green “Work Executed Successfully” notification  
