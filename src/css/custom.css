@@ -65,5 +65,13 @@
   background-color: var(--ifm-footer-background-color);
 }
 .footer--dark {
-  --ifm-footer-background-color: #099Cde;
+  --ifm-footer-background-color: #0c152a;
+}
+
+.footer__link-item {
+  color: #5cc8f7;
+}
+
+a {
+  color: #099Cde;
 }
