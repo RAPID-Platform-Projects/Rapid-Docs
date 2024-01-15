@@ -10,4 +10,4 @@ For this endpoint to work correctly you need to configure a "Perform Remote Acti
       
     Alternatively, you can configure a menu form, and if the column from the form data is labelled the same as the input name it will be used as the input and you will have access to it in the workflow.
 
-[![image-1692840873773.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/CaajgXwkDSKeFshS-image-1692840873773.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/CaajgXwkDSKeFshS-image-1692840873773.png)
+![image-1692840873773.png](./downloaded_image_1705286154170.png)

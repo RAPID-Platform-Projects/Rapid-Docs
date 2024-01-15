@@ -15,15 +15,15 @@ Such Menu button when clicked will open the defined table in Explorer.
 To link a menu button to a table:
 
 1. Navigate to Designer &gt; Menus &gt; All Menus  
-    [![image-1702000239526.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/4GCM8TW1Y3dalZQ5-image-1702000239526.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/4GCM8TW1Y3dalZQ5-image-1702000239526.png)
+    ![image-1702000239526.png](./downloaded_image_1705285673276.png)
 2. Open the menu you wish to add the Menu button to  
-    [![image-1702000318420.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LVo2KMggU6OawsJW-image-1702000318420.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LVo2KMggU6OawsJW-image-1702000318420.png)
+    ![image-1702000318420.png](./downloaded_image_1705285674296.png)
 3. Press New Menu Item &gt; Link to Table &gt; Select the Table you want to the menu button to direct towards  
-    [![image-1702000366375.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/VQ6CkY7WDeAFgFp3-image-1702000366375.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/VQ6CkY7WDeAFgFp3-image-1702000366375.png)
+    ![image-1702000366375.png](./downloaded_image_1705285675316.png)
 4. Press Save  
-    [![image-1702000383062.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/1sUIX9aamrkBxApI-image-1702000383062.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/1sUIX9aamrkBxApI-image-1702000383062.png)
+    ![image-1702000383062.png](./downloaded_image_1705285676335.png)
 5. Note that the Assets Table is now visible on the Explorer Sidebar  
-    [![image-1702000598454.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/rY2wNr9plyJWNoxe-image-1702000598454.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/rY2wNr9plyJWNoxe-image-1702000598454.png)
+    ![image-1702000598454.png](./downloaded_image_1705285677350.png)
 
 #### Additional Details
 

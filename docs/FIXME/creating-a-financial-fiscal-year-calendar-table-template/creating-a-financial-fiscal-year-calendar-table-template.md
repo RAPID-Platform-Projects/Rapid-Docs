@@ -14,7 +14,7 @@ The purpose this page is to provide an easy-to-use PowerBi Calendar table with d
 [PowerBi Template Report](https://rapidplatform-my.sharepoint.com/:u:/g/personal/tristanvdb_rapidplatform_com_au/EVsIEM_LjrVAowpYX6YqjXYBv7qvIGDLAH8Z-sBaXI2l5Q?e=SKkHtl)
 
 [  
-![image-1691966770139.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/7JVw39rxvZvWqJ6t-image-1691966770139.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/7JVw39rxvZvWqJ6t-image-1691966770139.png)
+![image-1691966770139.png](./downloaded_image_1705285236136.png)
 
 ##### **Related article**
 

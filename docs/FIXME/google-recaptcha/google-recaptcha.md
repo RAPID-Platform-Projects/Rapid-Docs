@@ -6,12 +6,12 @@ The checkbox also has a 2-minute timeout, when the user has clicked the checkbox
 
 <p class="callout info">reCAPTCHA without being checked, disabling the submit button</p>
 
-[![image-1642840785461.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/lyCT3c5EcZPNxEfM-image-1642840785461.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/lyCT3c5EcZPNxEfM-image-1642840785461.png)
+![image-1642840785461.png](./downloaded_image_1705285515657.png)
 
 <p class="callout info">reCAPTCHA When the checkbox is ticked</p>
 
-[![image-1642840884360.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/27Of5UAInvv0qz6E-image-1642840884360.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/27Of5UAInvv0qz6E-image-1642840884360.png)
+![image-1642840884360.png](./downloaded_image_1705285516684.png)
 
 <p class="callout info">reCAPTCHA when the 2-minute timeout is reached</p>
 
-[![image-1642840944882.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/8m0H4t1o4CU0o99b-image-1642840944882.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/8m0H4t1o4CU0o99b-image-1642840944882.png)
+![image-1642840944882.png](./downloaded_image_1705285517717.png)

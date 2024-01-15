@@ -3,9 +3,9 @@
 ### How to Create a new Employee
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1702515802672.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zbxdqhZWjdCsrh3Q-image-1702515802672.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zbxdqhZWjdCsrh3Q-image-1702515802672.png)
+    ![image-1702515802672.png](./downloaded_image_1705285287993.png)
 2. Click on "New Employee".  
-    [![image-1702515822329.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/mFuORagRqq69zFOt-image-1702515822329.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/mFuORagRqq69zFOt-image-1702515822329.png)
+    ![image-1702515822329.png](./downloaded_image_1705285289010.png)
 3. Enter all relevant details 
     1. For correct task assignment across modules **Principal lookup** must be linked
     2. For probation review processes to work the **Email**, **First name**, and **Last name** must be filled
@@ -15,18 +15,18 @@
         1. For a policy acknowledgment task to be assigned to the employee through the onboarding process, selected policies must be selected
     6. The probation process, by default, will be will not be triggered on creation of an employee, however this can be turned on by switching the **Trigger Probation Review Process** toggle to true
     7. If the Manager does not want to receive **Birthday** or **Work anniversary reminder** emails they can select these toggles to false  
-        [![image-1702515849709.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ppMxrwzqWOlfLGP2-image-1702515849709.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ppMxrwzqWOlfLGP2-image-1702515849709.png)
-4. Click on **Create** or ****Create and Open**** [![image-1702516137226.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/1X1TwmlekTHX1N1L-image-1702516137226.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/1X1TwmlekTHX1N1L-image-1702516137226.png)
+        ![image-1702515849709.png](./downloaded_image_1705285290036.png)
+4. Click on **Create** or ****Create and Open**** ![image-1702516137226.png](./downloaded_image_1705285291064.png)
 
 ### How to edit an Employee item
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1702515802672.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zbxdqhZWjdCsrh3Q-image-1702515802672.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zbxdqhZWjdCsrh3Q-image-1702515802672.png)
+    ![image-1702515802672.png](./downloaded_image_1705285292081.png)
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
-    [![image-1702516317433.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/DgimJrAXTwJQ3oB0-image-1702516317433.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/DgimJrAXTwJQ3oB0-image-1702516317433.png)
+    ![image-1702516317433.png](./downloaded_image_1705285293090.png)
 3. Edit fields as required. There are additional fields on the **Additional Details** tab that you can also edit.  
-    [![image-1702516400436.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Qc6cKFFy4gFQ8LjI-image-1702516400436.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Qc6cKFFy4gFQ8LjI-image-1702516400436.png)
-4. Press **Save** or ****Save and Close**** [![image-1702516433288.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/eWdLmMLRVXzBirrZ-image-1702516433288.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/eWdLmMLRVXzBirrZ-image-1702516433288.png)
+    ![image-1702516400436.png](./downloaded_image_1705285294100.png)
+4. Press **Save** or ****Save and Close**** ![image-1702516433288.png](./downloaded_image_1705285295112.png)
 
 ### Deleting Employee Records
 
@@ -37,17 +37,17 @@ However, if you need to delete an employee due to incorrect data entry or a dupl
 #### How to delete multiple employees from the list page
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1702515802672.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zbxdqhZWjdCsrh3Q-image-1702515802672.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zbxdqhZWjdCsrh3Q-image-1702515802672.png)
+    ![image-1702515802672.png](./downloaded_image_1705285296127.png)
 2. Select the employees you wish to delete  
-    [![image-1702516593212.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/biPV8hALAqeZPRZW-image-1702516593212.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/biPV8hALAqeZPRZW-image-1702516593212.png)
+    ![image-1702516593212.png](./downloaded_image_1705285297143.png)
 3. Press the **Delete X Employees** button  
-    [![image-1702516629802.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XDlpK3hjgy8sGpsD-image-1702516629802.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XDlpK3hjgy8sGpsD-image-1702516629802.png)
+    ![image-1702516629802.png](./downloaded_image_1705285298151.png)
 
 #### How to delete a single employee from employee page
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1702515802672.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zbxdqhZWjdCsrh3Q-image-1702515802672.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zbxdqhZWjdCsrh3Q-image-1702515802672.png)
+    ![image-1702515802672.png](./downloaded_image_1705285299167.png)
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
-    [![image-1702516317433.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/DgimJrAXTwJQ3oB0-image-1702516317433.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/DgimJrAXTwJQ3oB0-image-1702516317433.png)
+    ![image-1702516317433.png](./downloaded_image_1705285300183.png)
 3. Press the **Delete** button  
-    [![image-1702516699235.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/jzOanEyT4AozR8G7-image-1702516699235.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/jzOanEyT4AozR8G7-image-1702516699235.png)
+    ![image-1702516699235.png](./downloaded_image_1705285301193.png)

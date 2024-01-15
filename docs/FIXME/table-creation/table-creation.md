@@ -11,7 +11,7 @@ To get started, navigate to Designer and press Create Entity. This will bring yo
 - Must not be exclusively numbers
 - Must be unique
 
-[![Creating Tables.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/zJPGLQUQb2ic0o7a-creating-tables.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/zJPGLQUQb2ic0o7a-creating-tables.png)*Entity Creation*
+![Creating Tables.png](./downloaded_image_1705286100854.png)*Entity Creation*
 
 Pressing the create button will initialise the entity creation wizard. From here you can
 

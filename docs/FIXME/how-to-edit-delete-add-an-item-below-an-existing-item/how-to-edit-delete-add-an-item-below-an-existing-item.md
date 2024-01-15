@@ -1,7 +1,7 @@
 <!-- # How to edit / delete / add an item below an existing item?
 
 <div class="ElementStyles " id="bkmrk-each-item-created-in"><div class="LayoutSpacer vertical small">Each [***menu item***](https://docs.rapidplatform.com/books/glossary/page/menu-item "Menu item") created in has three options.  
-</div></div><div class="LayoutSpacer vertical small" id="bkmrk-">[![8.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/8FS4c0Cm761KqGBO-8.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/8FS4c0Cm761KqGBO-8.png)</div><div class="LayoutSpacer vertical small" id="bkmrk--0"></div>##### Create a child item below an existing menu item
+</div></div><div class="LayoutSpacer vertical small" id="bkmrk-">![8.png](./downloaded_image_1705285637656.png)</div><div class="LayoutSpacer vertical small" id="bkmrk--0"></div>##### Create a child item below an existing menu item
 
 To create a new item below an existing item, you can click on the nested icon.
 

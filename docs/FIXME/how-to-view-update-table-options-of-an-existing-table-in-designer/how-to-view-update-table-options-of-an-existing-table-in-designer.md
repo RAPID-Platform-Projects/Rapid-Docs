@@ -5,11 +5,11 @@ You can view and update table options for an existing table.
 ### **How to reach Table Options tab?**
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285742628.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285743640.png)
 3. Select the Options Tab  
-    [![image-1702265474921.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/3qqlOtDKoTVWZY2G-image-1702265474921.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/3qqlOtDKoTVWZY2G-image-1702265474921.png)
+    ![image-1702265474921.png](./downloaded_image_1705285744660.png)
 
 More details can be found at **Point no. 12 of [*All about Tables in* Designer.](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
 
@@ -17,7 +17,7 @@ More details can be found at **Point no. 12 of [*All about Tables in* Designer.]
 
 The Options tab for a table displays the most fundamental information about it. The below image depicts the Options tab for an existing table in Designer:
 
-[![Table Option1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/FWPF8VUTSeIFpLb3-table-option1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/FWPF8VUTSeIFpLb3-table-option1.png)
+![Table Option1.png](./downloaded_image_1705285745688.png)
 
 Let us take a look at all the information presented on this page in a segment-wise manner.
 
@@ -37,7 +37,7 @@ The following items will be covered in this page:
 
 If you are building PowerBI Reports or accessing the backend of your system understanding the various table names is useful. Each of these are explained below.
 
-[![Table Option2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/ivhddp4t7DET4Q1e-table-option2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/ivhddp4t7DET4Q1e-table-option2.png)
+![Table Option2.png](./downloaded_image_1705285746711.png)
 
 This segment has five fields.
 
@@ -47,13 +47,13 @@ Four out of these five fields are non-editable and derive their value, as provid
 2. **Table: Singular Noun -** While creating the table, it is a best practice to provide the Table Name as a Plural. The system will automatically derive its Singular Noun. For example - if while creating the table, you had provided the Table Name as "My Test Tables", then the system shall automatically derive its singular noun as "My Test Table". This is useful for referring the table's item. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun). You cannot edit this field.
 3. **Table: Plural -** This field displays the Table Name as provided at the time of creating the table. It is a good practice to provide the Table Name as a plural. However, in case you provided a singular name to the table, the system will automatically derive the plural name and associate it here. It is used to refer multiple items in the table. This field is non-editable.
 4. **Database Table -** This field displays the Table Slug as created by the system at the time of table creation based on the Table Name provided. This field is also non-editable. This is a useful field to know if creating items in rapid through the API or if you are producing PowerBI reports.
-5. **Title Column -** It is a good practice to have a title column in the table. In case there is no title column selected for the table, then the system shall prompt you to select one. [![Screenshot 2023-09-25 at 18.49.12.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/2Y4T36LF2itrdPby-screenshot-2023-09-25-at-18-49-12.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/2Y4T36LF2itrdPby-screenshot-2023-09-25-at-18-49-12.png)  
+5. **Title Column -** It is a good practice to have a title column in the table. In case there is no title column selected for the table, then the system shall prompt you to select one. ![Screenshot 2023-09-25 at 18.49.12.png](./downloaded_image_1705285747730.png)  
       
-    In case you have already selected a Title column, this field will display the column name and the type.[![Screenshot 2023-09-25 at 18.56.59.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/nFw0X4KbDP4f7FI5-screenshot-2023-09-25-at-18-56-59.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/nFw0X4KbDP4f7FI5-screenshot-2023-09-25-at-18-56-59.png)  
+    In case you have already selected a Title column, this field will display the column name and the type.![Screenshot 2023-09-25 at 18.56.59.png](./downloaded_image_1705285748748.png)  
     Please note, this is an editable field. Therefore, you can set / edit the Title Column here.   
     This is a dropdown field. Therefore, as you click on the dropdown, it will display the list of all the columns. You can then easily select the Title Column of your choice.  
       
-    [![Screenshot 2023-09-25 at 19.00.50.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/qRYmEywnIe91RSQ4-screenshot-2023-09-25-at-19-00-50.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/qRYmEywnIe91RSQ4-screenshot-2023-09-25-at-19-00-50.png)
+    ![Screenshot 2023-09-25 at 19.00.50.png](./downloaded_image_1705285749770.png)
 
 **Next let us look at the Link Inheritance segment**
 
@@ -68,7 +68,7 @@ Link inheritance is an item level linkage between two tables, which allows actio
 
 This segment has the names of all the tables (custom as well as built-in) in the system. You can click on the checkbox against the name of the relevant table. Intuitively, clicking on "Select All" will check all the boxes, indicating a linkage with all the tables in the system.
 
-[![Link Inheritence.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/jruhSRieCVkGTK4V-link-inheritence.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/jruhSRieCVkGTK4V-link-inheritence.png)
+![Link Inheritence.png](./downloaded_image_1705285750791.png)
 
 **To learn about Link Inheritance [click here](https://docs.rapidplatform.com/books/experiences/page/how-to-setup-link-inheritance "How to setup Link Inheritance?").**
 
@@ -83,7 +83,7 @@ This segment provides options to configure how to organise data created in the s
   
 The Document Storage and other options relates to storage and organisation of files uploaded with items of a table.
 
-[![Table option 3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/oVQcfQkhx9zzc10G-table-option-3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/oVQcfQkhx9zzc10G-table-option-3.png)
+![Table option 3.png](./downloaded_image_1705285751817.png)
 
 #####   
 
@@ -115,11 +115,11 @@ The first requirement for enabling the ghosted options is to define a Document S
 
 This is a dropdown field and allows you to select the Document Storage in SharePoint where the folder to store files for items created under subject table will be stored.
 
-[![Screenshot 2023-09-27 at 11.28.33.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/idNcm1Uy3Wf3QO3e-screenshot-2023-09-27-at-11-28-33.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/idNcm1Uy3Wf3QO3e-screenshot-2023-09-27-at-11-28-33.png)
+![Screenshot 2023-09-27 at 11.28.33.png](./downloaded_image_1705285752835.png)
 
 **It is important to note that while [creating the subject table](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?") you received the option to define the Document Storage. If you would have selected a value while creating the table for this field, then it becomes the default value here.**
 
-**[![D4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/O4Fve3LwRXFOe4NC-d4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/O4Fve3LwRXFOe4NC-d4.png)**
+**![D4.png](./downloaded_image_1705285753863.png)**
 
 In case, you had not defined the Document Storage at the time of Table Creation, then it appears as blank in the Options Tab for Table in Designer.
 
@@ -134,7 +134,7 @@ Please view the below video for illustration.
 
 If the Document Storage isn't configured, then the system will not allow you upload a file in Explorer against table item.
 
-[![Screenshot 2023-09-27 at 14.59.05.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/KCb6ybzlGNtIfYkE-screenshot-2023-09-27-at-14-59-05.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/KCb6ybzlGNtIfYkE-screenshot-2023-09-27-at-14-59-05.png)
+![Screenshot 2023-09-27 at 14.59.05.png](./downloaded_image_1705285754885.png)
 
 #####   
 
@@ -146,7 +146,7 @@ If the Document Storage isn't configured, then the system will not allow you upl
 
 Let us sequentially look at all the options
 
-[![Table Option4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/53PCon5fQDdxHdGz-table-option4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/53PCon5fQDdxHdGz-table-option4.png)
+![Table Option4.png](./downloaded_image_1705285755917.png)
 
 
 To understand how different options work, let us consider this illustration.
@@ -155,7 +155,7 @@ Consider a table named - Company Roles.
 
 It has none of the 7 options ticked and the Document Storage is defined.
 
-[![Screenshot 2023-09-28 at 15.24.45.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/B4kGGINqSG5g2htp-screenshot-2023-09-28-at-15-24-45.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/B4kGGINqSG5g2htp-screenshot-2023-09-28-at-15-24-45.png)
+![Screenshot 2023-09-28 at 15.24.45.png](./downloaded_image_1705285756941.png)
 
 Next, let us try to upload a file to one of the items of this table.
 
@@ -187,7 +187,7 @@ If this field is CHECKED ON, then the folder name is always in sync with changes
 
 Refer to the below image for illustration.
 
-[![Screenshot 2023-09-28 at 5.34.06 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/rwrCgZTYWzYG7fMD-screenshot-2023-09-28-at-5-34-06-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/rwrCgZTYWzYG7fMD-screenshot-2023-09-28-at-5-34-06-pm.png)
+![Screenshot 2023-09-28 at 5.34.06 PM.png](./downloaded_image_1705285757967.png)
 
 ##### **2. Always create a SharePoint folder when items are created**
 
@@ -195,7 +195,7 @@ Refer to the below image for illustration.
 
 You would have seen this field while creating the table. Here, in the Options Tab, it derives its default value from as defined while creating the table.
 
-[![Compare 2](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/BkYcWc1XrbfKrfDc-screenshot-2023-09-27-at-3-45-03-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/BkYcWc1XrbfKrfDc-screenshot-2023-09-27-at-3-45-03-pm.png)
+![Compare 2](./downloaded_image_1705285758992.png)
 
 **Please note, this option is enabled only when a Document Storage has been defined.**
 
@@ -203,7 +203,7 @@ You would have seen this field while creating the table. Here, in the Options Ta
 
 Recall as seen earlier, a folder in SharePoint is created when a file is dropped in the Files Tab for the item. This is illustrated in below video.
 
-[![Screenshot 2023-09-28 at 18.08.24.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/irGKSvLJ06sZfM1C-screenshot-2023-09-28-at-18-08-24.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/irGKSvLJ06sZfM1C-screenshot-2023-09-28-at-18-08-24.png)
+![Screenshot 2023-09-28 at 18.08.24.png](./downloaded_image_1705285760009.png)
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/SvCYLcoN6_E?si=nVWDP1ybHju40mn2" title="YouTube video player" width="750"></iframe>
 
@@ -211,7 +211,7 @@ Recall as seen earlier, a folder in SharePoint is created when a file is dropped
 
 When this option is CHECKED ON, the system creates a Folder as soon as an item is created (not when file is uploaded). This is illustrated in video below:
 
-[![Picture 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/nhA2bbJ9T9v6LQUL-picture-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/nhA2bbJ9T9v6LQUL-picture-1.png)
+![Picture 1.png](./downloaded_image_1705285761027.png)
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/5vMJPjWZzRc?si=UnJbwG-HGd5JxhJs" title="YouTube video player" width="750"></iframe>
 
@@ -229,7 +229,7 @@ Now, when this option is checked on, it will create folders for all the items wh
 
 Please refer to below video for illustration
 
-[![Screenshot 2023-09-28 at 18.50.16.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/kPVFgEedg0O1l6pO-screenshot-2023-09-28-at-18-50-16.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/kPVFgEedg0O1l6pO-screenshot-2023-09-28-at-18-50-16.png)
+![Screenshot 2023-09-28 at 18.50.16.png](./downloaded_image_1705285762042.png)
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/vei7DramEG0?si=XI_H3PN3FqEuQtdx" title="YouTube video player" width="750"></iframe>
 
@@ -237,11 +237,11 @@ Please refer to below video for illustration
 
 When this field is checked, it will open another option to select a user. As you click on "+ Add User", it will open the list of all users and you can check mark the ones that are NOT enabled to upload files manually to the item of the table.
 
-[![Screenshot 2023-09-27 at 16.33.00.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/3wQne7UkIimyco5Q-screenshot-2023-09-27-at-16-33-00.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/3wQne7UkIimyco5Q-screenshot-2023-09-27-at-16-33-00.png)
+![Screenshot 2023-09-27 at 16.33.00.png](./downloaded_image_1705285763052.png)
 
 When this option is Checked OFF OR if you are a user not enabled for manual uploads, then you will be asked to "Save" the file folder post upload.
 
-[![Enable manual upload..png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/Q1r6O0cBII0SlsRj-enable-manual-upload.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/Q1r6O0cBII0SlsRj-enable-manual-upload.png)
+![Enable manual upload..png](./downloaded_image_1705285764074.png)
 
 Only once the "Save" button is pressed, the file will be uploaded to the defined SharePoint Document Storage.
 
@@ -263,14 +263,14 @@ To illustrate the effect of this option, we first need to understand how set up 
 
 Please refer to the below steps to understand the impact of this option.
 
-- Ensure that the linked table item (Invoice) has a file uploaded. Here, invoice item - "Test invoice" has two files. [![Screenshot 2023-09-30 at 14.23.56.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/c3zNRwStqghtJUhx-screenshot-2023-09-30-at-14-23-56.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/c3zNRwStqghtJUhx-screenshot-2023-09-30-at-14-23-56.png)
-- Now check this option (**Copy linked items' SharePoint folder when creating Table item, if possible)** for the subject table (Payments). [![Copy option.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/IANZT3nlGVWIIXg2-copy-option.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/IANZT3nlGVWIIXg2-copy-option.png)
+- Ensure that the linked table item (Invoice) has a file uploaded. Here, invoice item - "Test invoice" has two files. ![Screenshot 2023-09-30 at 14.23.56.png](./downloaded_image_1705285765091.png)
+- Now check this option (**Copy linked items' SharePoint folder when creating Table item, if possible)** for the subject table (Payments). ![Copy option.png](./downloaded_image_1705285766107.png)
 - Create an item from the linked table (Payment item from Invoice item) as **[discussed here](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table "How to create items for a table from a linked table?")**.
 - Go to Files tab of newly created item (Payment's item). You will see the file uploaded in linked Invoice item.
 
 **Please note - Only items created after Checking On this option will show files from linked item. Previously created linked items would not show the same.**
 
-[![Option copying items.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/JTL6PJn0tecJhlyD-option-copying-items.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/JTL6PJn0tecJhlyD-option-copying-items.png)
+![Option copying items.png](./downloaded_image_1705285767132.png)
 
 To summarise -
 
@@ -290,7 +290,7 @@ When this option is checked on - it means - the system will disable creation of 
 
 When this option is checked off - it means - the system will allow creation of parent items.
 
-[![Creation of child.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/8G8qHNKxAV2OENCG-creation-of-child.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/8G8qHNKxAV2OENCG-creation-of-child.png)
+![Creation of child.png](./downloaded_image_1705285768171.png)
 
 This can be useful when we do not want creation of new parent items as the inherited tables might be covering information in a more comprehensive manner.
 
@@ -298,7 +298,7 @@ This can be useful when we do not want creation of new parent items as the inher
 
 When this option is checked on, you cannot delete an item from the subject table. The delete item button is ghosted.
 
-[![Delete item.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/eonNApLLx0TFn16D-delete-item.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/eonNApLLx0TFn16D-delete-item.png)
+![Delete item.png](./downloaded_image_1705285769195.png)
 
 This can be useful when you have an important table, items of which are being referenced for many other important functions. You would not want your users to delete an item of the table by mistake, and hence you can check (ON) this option.
 
@@ -308,13 +308,13 @@ Imagine you have a Projects table. You always create a Project (item) with, say,
 
 As you click on this field, it will open an Item Folder Template Selection window. You can select the arrangement of your choice.
 
-[![Screenshot 2023-09-27 at 17.52.12.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/aNw24wt6hREupM4E-screenshot-2023-09-27-at-17-52-12.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/aNw24wt6hREupM4E-screenshot-2023-09-27-at-17-52-12.png)
+![Screenshot 2023-09-27 at 17.52.12.png](./downloaded_image_1705285770230.png)
 
 #### **Undo changes**
 
 There may be instances where you make changes to the Options unintentionally or wish to revert changes made. The system provides you with the feature to UNDO (unsaved) changes.
 
-[![Undo..png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/dI23xHni6iDr9TMr-undo.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/dI23xHni6iDr9TMr-undo.png)
+![Undo..png](./downloaded_image_1705285771252.png)
 
 Once the changes are SAVED, the UNDO button will be ghosted.
 
@@ -325,7 +325,7 @@ Once the changes are SAVED, the UNDO button will be ghosted.
 
 It is easy to create child tables from within the parent table. If you want your subject table to become the parent and wish to derive column structure and other features into a child table, you can use the "Create Sub-Type" button.
 
-[![Create Sub-type.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/R8El5mU72EYegwKh-create-sub-type.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/R8El5mU72EYegwKh-create-sub-type.png)
+![Create Sub-type.png](./downloaded_image_1705285772284.png)
 
 As you click on this button, the create table window will open with pre-filled information -
 

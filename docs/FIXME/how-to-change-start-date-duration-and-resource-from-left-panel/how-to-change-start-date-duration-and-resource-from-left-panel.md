@@ -16,7 +16,7 @@ To edit the Start Date,
 
 Please refer to the below GIF for illustration
 
-[![Date from left-480p-230913.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/JPp7ggPReJeTDzjX-date-from-left-480p-230913.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/JPp7ggPReJeTDzjX-date-from-left-480p-230913.gif)
+![Date from left-480p-230913.gif
 
 ##### **Modifying Duration using Left Panel**
 
@@ -30,7 +30,7 @@ To edit the Task Duration,
 
 Please refer to the below GIF for illustration
 
-[![Duration from left-480p-230913.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/CbwPbWARtnMIKrtm-duration-from-left-480p-230913.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/CbwPbWARtnMIKrtm-duration-from-left-480p-230913.gif)
+![Duration from left-480p-230913.gif
 
 ##### **Assigning / updating resource using Left Panel**
 
@@ -43,7 +43,7 @@ To modify the Task Resource,
 
 Please refer to the below GIF for illustration
 
-[![Ressource from left-480p-230913.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/ROZiNn7huwyZamfg-ressource-from-left-480p-230913.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/ROZiNn7huwyZamfg-ressource-from-left-480p-230913.gif)**Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.
+![Ressource from left-480p-230913.gif**Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.
 
 ##### **Related articles**
 

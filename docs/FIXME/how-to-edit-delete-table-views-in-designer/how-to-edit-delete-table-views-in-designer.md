@@ -6,11 +6,11 @@ When viewing a table, by default all of the items will appear on the list. It is
 
 The image below shows the **All** view.
 
-[![image-1702336448063.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Sf8oSLDI9dRRd2at-image-1702336448063.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Sf8oSLDI9dRRd2at-image-1702336448063.png)
+![image-1702336448063.png](./downloaded_image_1705285638675.png)
 
 The image below shows the **New** view.
 
-[![image-1702336494595.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/QEPLxXgmlEyoWHMT-image-1702336494595.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/QEPLxXgmlEyoWHMT-image-1702336494595.png)
+![image-1702336494595.png](./downloaded_image_1705285639694.png)
 
 #### Accessing the Views Tab of a table in designer
 
@@ -19,11 +19,11 @@ Every table in your Rapid System has a views tab in its configuration. Here you 
 Follow the steps below the access the views tab for a table:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285640711.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285641724.png)
 3. Click on the Views Tab  
-    [![image-1702336973138.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/cHDcNuOacJVRugBR-image-1702336973138.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/cHDcNuOacJVRugBR-image-1702336973138.png)
+    ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 
 #### Overview of the Views Tab
 
@@ -34,7 +34,7 @@ The points and image below provide a breakdown of the User Interface for the Vie
 - Can see if the Table View is locked or not.
 - Can see if the Table View is visible in Explorer or not.
 
-[![TableViews.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/4yoCWiCNk8nYjdDq-tableviews.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/4yoCWiCNk8nYjdDq-tableviews.png)
+![TableViews.png](./downloaded_image_1705285643768.png)
 
 #### How to Lock a view for a table so that Users cannot edit it
 
@@ -43,13 +43,13 @@ When a Table View is locked, it is not editable by a user in explorer. You canno
 To lock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285644785.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285645797.png)
 3. Click on the Views Tab  
-    [![image-1702336973138.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/cHDcNuOacJVRugBR-image-1702336973138.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/cHDcNuOacJVRugBR-image-1702336973138.png)
+    ![image-1702336973138.png](./downloaded_image_1705285646811.png)
 4. Locate the view you want to lock and press the lock icon  
-    [![image-1702337958148.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/3jOYylO74NPOiw8S-image-1702337958148.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/3jOYylO74NPOiw8S-image-1702337958148.png)
+    ![image-1702337958148.png](./downloaded_image_1705285647829.png)
 
 #### How to Unlock a view for a table so that Users can edit it
 
@@ -58,13 +58,13 @@ When a Table View is unlocked, it is editable by a user in explorer. You can alt
 To unlock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285648851.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285649862.png)
 3. Click on the Views Tab  
-    [![image-1702336973138.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/cHDcNuOacJVRugBR-image-1702336973138.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/cHDcNuOacJVRugBR-image-1702336973138.png)
+    ![image-1702336973138.png](./downloaded_image_1705285650876.png)
 4. Locate the view you want to lock and press the lock icon  
-    [![image-1702338082831.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Fj7vTsenU12C5YCT-image-1702338082831.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Fj7vTsenU12C5YCT-image-1702338082831.png)
+    ![image-1702338082831.png](./downloaded_image_1705285651895.png)
 
 See the Video below for more details
 
@@ -94,13 +94,13 @@ Visibility refers to whether the subject Table View is visible in Explorer for a
 Follow the steps below to make a table view visible / not visible to users in explorer:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285652911.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285653922.png)
 3. Click on the Views Tab  
-    [![image-1702336973138.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/cHDcNuOacJVRugBR-image-1702336973138.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/cHDcNuOacJVRugBR-image-1702336973138.png)
+    ![image-1702336973138.png](./downloaded_image_1705285654933.png)
 4. Locate the view you want to make visible / not visible and press the toggle button  
-    [![image-1702338531193.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/4gBY7dCQqUVNkiPy-image-1702338531193.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/4gBY7dCQqUVNkiPy-image-1702338531193.png)
+    ![image-1702338531193.png](./downloaded_image_1705285655952.png)
 
 Please refer to the video below for additional information.
 
@@ -111,15 +111,15 @@ Please refer to the video below for additional information.
 If a view is no longer in use and you want to remove it from the table you have the ability to delete it. To do so follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285656973.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285657986.png)
 3. Click on the Views Tab  
-    [![image-1702336973138.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/cHDcNuOacJVRugBR-image-1702336973138.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/cHDcNuOacJVRugBR-image-1702336973138.png)
+    ![image-1702336973138.png](./downloaded_image_1705285658999.png)
 4. Select the view / views you want to delete  
-    [![image-1702338252408.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/RA5YuBGuCJ3LMi7S-image-1702338252408.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/RA5YuBGuCJ3LMi7S-image-1702338252408.png)
+    ![image-1702338252408.png](./downloaded_image_1705285660021.png)
 5. Select the **Delete x items** button (note if the view is locked you will not be able to delete it. See above for how to unlock a view)  
-    [![image-1702338286424.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/4VHtsrO80wT2qHsE-image-1702338286424.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/4VHtsrO80wT2qHsE-image-1702338286424.png)
+    ![image-1702338286424.png](./downloaded_image_1705285661041.png)
 
 ##### **Related articles**
 

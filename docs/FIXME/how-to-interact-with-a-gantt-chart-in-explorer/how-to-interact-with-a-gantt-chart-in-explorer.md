@@ -17,7 +17,7 @@ RAPID Platforms allows you to visualise tasks in a Gantt Chart. **[Tasks](https:
 
 This is how a simple Gantt Chart may look like in RAPID Platform
 
-[![1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/5TgS8tHDDtxF1HyB-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/5TgS8tHDDtxF1HyB-1.png)
+![1.png](./downloaded_image_1705285669206.png)
 
 #####   
 
@@ -34,13 +34,13 @@ Next to the list of tasks, there are three columns:
 - Duration - indicates the duration in days between start date and end date.
 - Resource - displays the title of the resource to whom the task is assigned to.
 
-[![2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/KxuPnOpvPdftJmLz-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/KxuPnOpvPdftJmLz-2.png)
+![2.png](./downloaded_image_1705285670227.png)
 
 The above is a Gantt Chart for a Project. The green bars depict Phases in the project and the blue ones indicate various tasks under each phase. Being a very simplistic case, this illustration has one task per phase.
 
 The Gantt Chart shows the current date with a vertical line labelled "**Now**". Based on the current system time, the vertical line will move through the date column from left to right. For example - the below image depicts evening hours of Monday - 11th September 2023.
 
-[![4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/m75oeCWGAVNpI2dj-4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/m75oeCWGAVNpI2dj-4.png)
+![4.png](./downloaded_image_1705285671243.png)
 
 #####   
 
@@ -70,7 +70,7 @@ A Gantt Chart helps us interpret the following information:
 
 ##### **The Command bar for Gantt Chart**
 
-**[![3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/KYjskOB3MvUw38pK-3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/KYjskOB3MvUw38pK-3.png)**
+**![3.png](./downloaded_image_1705285672260.png)**
 
 The command bar for a Gantt Chart is made up of:
 

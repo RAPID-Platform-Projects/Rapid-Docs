@@ -9,13 +9,13 @@ The process is triggered manually from within the project item you which to “W
 ### How to trigger the Wrap-Up Project Process
 
 1. Navigate to Projects &gt; Projects  
-    [![image-1703658099164.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/785HKSfdzdkeWW0U-image-1703658099164.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/785HKSfdzdkeWW0U-image-1703658099164.png)
+    ![image-1703658099164.png](./downloaded_image_1705285858993.png)
 2. Open the Project you wish to wrap-up. (Find the project by scrolling through the list or using the search bar)  
-    [![image-1703658166530.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Hyhb1L0DLBO2moEm-image-1703658166530.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Hyhb1L0DLBO2moEm-image-1703658166530.png)
+    ![image-1703658166530.png](./downloaded_image_1705285860008.png)
 3. Click the "Wrap-Up Project" menu button located in the top right corner.  
-    [![image-1703720025957.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/kPE7J2FwKk0AkxD2-image-1703720025957.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/kPE7J2FwKk0AkxD2-image-1703720025957.png)
+    ![image-1703720025957.png](./downloaded_image_1705285861025.png)
 4. Select the internal reviewer, client reviewer and then click “Ok”  
-    [![image-1703720045770.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ltLbwHKh0wyWhFCS-image-1703720045770.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ltLbwHKh0wyWhFCS-image-1703720045770.png)
+    ![image-1703720045770.png](./downloaded_image_1705285862045.png)
 
 After triggering the process, the following will occur:
 

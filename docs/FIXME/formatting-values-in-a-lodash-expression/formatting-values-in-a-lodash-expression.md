@@ -2,7 +2,7 @@
 
 Sometimes when filling a document, a user may want to fill with a number. However, as default, the rapid system returns numbers unformatted (see img below). Sometimes this can be formatted by adding an additional column using SQL but if the number is only used once or twice it is often not worthwhile creating a whole additional column putting additional load on the database.
 
-[![image-1674000852384.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/kbMD12xxcNaclD1b-image-1674000852384.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/kbMD12xxcNaclD1b-image-1674000852384.png)
+![image-1674000852384.png](./downloaded_image_1705285495298.png)
 
 As such, if using a LODASH expression that returns a single value (this will not work with an array) you can format by adding the .toLocaleString method.
 

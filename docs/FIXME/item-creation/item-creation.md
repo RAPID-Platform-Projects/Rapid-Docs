@@ -8,4 +8,4 @@ To create a new item in a data table:
 
 1. In the list page of an entity, in the top left of the command bar, click **New *Table Name***. This will then open a flyout pane that includes all relevant fields that need to be filled in.
 
-[![Item Creation 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/Y8u9iJzGuLfhahOl-item-creation-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/Y8u9iJzGuLfhahOl-item-creation-01.png)
+![Item Creation 01.png](./downloaded_image_1705285790576.png)

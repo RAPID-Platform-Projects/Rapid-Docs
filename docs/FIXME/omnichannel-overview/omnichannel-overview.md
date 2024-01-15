@@ -16,12 +16,12 @@ A site can have multiple integrations active on it at once. For example you coul
 
 Each integration can require different authentication information. For security these are stored outside of your site in a secure [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/). To register an integration to your site, navigate to Designer and find Integrations under the Advanced tab.
 
-[![Omnichannel Overview Advanced Tab.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/0M5KXncUX11PaPOx-omnichannel-overview-advanced-tab.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/0M5KXncUX11PaPOx-omnichannel-overview-advanced-tab.png)
+![Omnichannel Overview Advanced Tab.png](./downloaded_image_1705285820260.png)
 
 This will show a registration form. After giving your new integration a friendly name, select the service to be integrated. This will then prompt for the authentication information needed for that service. For example, Send Grid requires an API key
 
-[![Omnichannel Overview Register Integration.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/MWwY5Av2GTQnVIv2-omnichannel-overview-register-integration.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/MWwY5Av2GTQnVIv2-omnichannel-overview-register-integration.png)
+![Omnichannel Overview Register Integration.png](./downloaded_image_1705285821275.png)
 
 Finally, hit Register to create the new integration. This will securely preserve the authentication information in an Azure Key Vault and create a Correspondence Integration item. This item contains a unique webhook URL that can be accessed by the external integration, in this case Send Grid, to identify which integration the message pertains to.
 
-[![Omnichannel Overview Item.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/nVyX55jV9uBfPq7T-omnichannel-overview-item.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/nVyX55jV9uBfPq7T-omnichannel-overview-item.png)
+![Omnichannel Overview Item.png](./downloaded_image_1705285822288.png)

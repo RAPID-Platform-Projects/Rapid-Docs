@@ -10,6 +10,6 @@ Follow these steps after creating a new process:
     - Create a new page by clicking "new page".
     - Title the page with the title of the process used in the rapid site.
     - Write a clear, plain-English description of the process.
-    - Add a diagram showing the relationships between tables used in the process. These can be created using [io](https://app.diagrams.net/) using the Entity Relation Shapes and Containers as seen in the image below![](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/qWvH0R9o7pScMYE0-embedded-image-qo8dvyhw.png)
+    - Add a diagram showing the relationships between tables used in the process. These can be created using [io](https://app.diagrams.net/) using the Entity Relation Shapes and Containers as seen in the image below![
 2. Create a new Process on the Processes Table: 
     - Link the process to any tables used throughout the process.

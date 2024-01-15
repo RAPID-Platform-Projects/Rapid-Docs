@@ -8,7 +8,7 @@ The Fill Document service task takes a Microsoft Word file that has been prepare
 
 To deal with an unknown number of items in a list DocX has implemented [loops](https://docxtemplater.readthedocs.io/en/latest/tag_types.html#loops). In order to put the array into the service task use the [JSON.stringify](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) function to convert your array from within your process.
 
-![Fill Document Arrays 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-11/JJbp0GQngsLXGJWR-workflow-fill-document.png)
+![Fill Document Arrays 01.png
 
 #### Document Example
 

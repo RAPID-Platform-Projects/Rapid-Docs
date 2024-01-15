@@ -44,7 +44,7 @@ If we have three tables as shown below –
 
 Now we try to reference these table fields in a nested section Adaptive Document as shown
 
-[![Screenshot 2023-06-21 at 12.36.51 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/scaled-1680-/XZElcTFjuGrXb4FF-screenshot-2023-06-21-at-12-36-51-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/XZElcTFjuGrXb4FF-screenshot-2023-06-21-at-12-36-51-pm.png)
+![Screenshot 2023-06-21 at 12.36.51 PM.png](./downloaded_image_1705285780427.png)
 
 Here,
 

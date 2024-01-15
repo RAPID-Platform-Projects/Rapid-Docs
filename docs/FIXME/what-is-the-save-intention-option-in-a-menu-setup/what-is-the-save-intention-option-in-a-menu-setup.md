@@ -6,7 +6,7 @@ Have you been a victim of losing changes made to a page, just because you naviga
 
 Across all the menus whether[ ***Sidebar***](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar") or the ***[command bar](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")***, the option to Save Intention is common.
 
-[![image-1701929070525.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/H0cjljrvfeKT1Oie-image-1701929070525.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/H0cjljrvfeKT1Oie-image-1701929070525.png)
+![image-1701929070525.png](./downloaded_image_1705286286827.png)
 
 This is a dropdown field with three choices:
 
@@ -14,7 +14,7 @@ This is a dropdown field with three choices:
 - Prompt for save
 - Do not save
 
-[![image-1701929095270.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/EG7oGolF7yhfVLw9-image-1701929095270.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/EG7oGolF7yhfVLw9-image-1701929095270.png)
+![image-1701929095270.png](./downloaded_image_1705286287845.png)
 
 Save Intention field is particularly useful for [***command bars.***](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")
 

@@ -14,7 +14,7 @@ Each component in Rapid Platform provides the option to delete it from the layou
 
 Every component has a horizontal options panel at the bottom right corner of its boundary. Look for the "X" icon.
 
-[![Screenshot 2023-10-16 at 5.58.29 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/RT02qLy5kBSlWTKG-screenshot-2023-10-16-at-5-58-29-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/RT02qLy5kBSlWTKG-screenshot-2023-10-16-at-5-58-29-pm.png)
+![Screenshot 2023-10-16 at 5.58.29 PM.png](./downloaded_image_1705285636638.png)
 
 As you click on this icon, the component will immediately disappear from the layout / page. However, you must "Save" the page in order to make delete effective.
 

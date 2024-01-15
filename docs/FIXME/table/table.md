@@ -9,7 +9,7 @@ When you are defining column attributes, such as:
 
 it is called defining the Table structure.
 
-[![Data Table Structure.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/eeM18A6R04PXBZXE-data-table-structure.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/eeM18A6R04PXBZXE-data-table-structure.png)
+![Data Table Structure.png](./downloaded_image_1705286099834.png)
 
 The Rapid Platform allows defining of data table structures that suits information needs, using the Designer application.
 

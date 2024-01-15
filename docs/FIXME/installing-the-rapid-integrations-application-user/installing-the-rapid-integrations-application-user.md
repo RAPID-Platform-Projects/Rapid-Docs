@@ -9,7 +9,7 @@ The purpose of this documentation is to show how to install the Rapid-Integratio
 
 2. After consenting, open Azure and go to Azure Active Directory > Enterprise Applications. Copy the Object ID of the Rapid-Integrations Enterprise application.
 
-   ![Rapid-Integrations Object ID](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/m9sL2DSLvCFYiZuT-image-1690342996014.png)
+   ![Rapid-Integrations Object ID](./downloaded_image_1705285789567.png)
 
 3. Login to the Rapid site in SMSS. Create a new user on the principals table with the following values:
    - Name: "Rapid Integrations"

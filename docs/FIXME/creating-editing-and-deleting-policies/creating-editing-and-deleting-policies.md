@@ -3,24 +3,24 @@
 ### How to create a new Policy
 
 1. Navigate to Human Resources &gt; Policies  
-    [![image-1702522705319.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/IMGJdndczSQ45kbX-image-1702522705319.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/IMGJdndczSQ45kbX-image-1702522705319.png)
-2. Select **New Policy** [![image-1702522749287.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/u97LKxzFbgKThPil-image-1702522749287.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/u97LKxzFbgKThPil-image-1702522749287.png)
+    ![image-1702522705319.png](./downloaded_image_1705285316426.png)
+2. Select **New Policy** ![image-1702522749287.png](./downloaded_image_1705285317437.png)
 3. Enter the relevant details  
-    [![image-1702522867459.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9oyURx38BfPTtSkG-image-1702522867459.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9oyURx38BfPTtSkG-image-1702522867459.png)
-4. Press **Create and Open**** [![image-1702522896903.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/PjgOdhhzI6wGth6a-image-1702522896903.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/PjgOdhhzI6wGth6a-image-1702522896903.png)
+    ![image-1702522867459.png](./downloaded_image_1705285318446.png)
+4. Press **Create and Open**** ![image-1702522896903.png](./downloaded_image_1705285319457.png)
 5. Click on the Policy Embedded File and upload your policy document. (This step is required if you want a Sharelink to the policy to be sent out)  
-    [![image-1702522961862.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/MdZY6QVXNMRHM7m4-image-1702522961862.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/MdZY6QVXNMRHM7m4-image-1702522961862.png)
+    ![image-1702522961862.png](./downloaded_image_1705285320467.png)
 6. Press **Save** or **Save and Close**
 
 ### How to Edit a Policy
 
 1. Navigate to Human Resources &gt; Policies  
-    [![image-1702522705319.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/IMGJdndczSQ45kbX-image-1702522705319.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/IMGJdndczSQ45kbX-image-1702522705319.png)
+    ![image-1702522705319.png](./downloaded_image_1705285321488.png)
 2. Open the desired policy. (Locate the policy by either scrolling through the list or using the search bar)  
-    [![image-1702523772396.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/qachnmIDJoCWUnGP-image-1702523772396.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/qachnmIDJoCWUnGP-image-1702523772396.png)
+    ![image-1702523772396.png](./downloaded_image_1705285322504.png)
 3. Edit the desired fields  
-    [![image-1702523793222.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/8sSgZhXcu8fQb57S-image-1702523793222.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/8sSgZhXcu8fQb57S-image-1702523793222.png)
-4. Press **Save** or ****Save and Close**** [![image-1702523821862.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/hYPMxZRI1nhPg1ft-image-1702523821862.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/hYPMxZRI1nhPg1ft-image-1702523821862.png)
+    ![image-1702523793222.png](./downloaded_image_1705285323515.png)
+4. Press **Save** or ****Save and Close**** ![image-1702523821862.png](./downloaded_image_1705285324532.png)
 
 ### How to delete a policy
 
@@ -31,15 +31,15 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 #### Deleting multiple Policies from the policy list
 
 1. Navigate to Human Resources &gt; Policies  
-    [![image-1702522705319.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/IMGJdndczSQ45kbX-image-1702522705319.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/IMGJdndczSQ45kbX-image-1702522705319.png)
+    ![image-1702522705319.png](./downloaded_image_1705285325548.png)
 2. Select the policies you wish to delete  
-    [![image-1702523913741.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/4Kjt6wUPLchpC5r1-image-1702523913741.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/4Kjt6wUPLchpC5r1-image-1702523913741.png)
-3. Press **Delete X Policies** [![image-1702523939731.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/clHkyoLBJpj9RURN-image-1702523939731.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/clHkyoLBJpj9RURN-image-1702523939731.png)
+    ![image-1702523913741.png](./downloaded_image_1705285326565.png)
+3. Press **Delete X Policies** ![image-1702523939731.png](./downloaded_image_1705285327580.png)
 
 #### How to delete a single policy from the policy page
 
 1. Navigate to Human Resources &gt; Policies  
-    [![image-1702522705319.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/IMGJdndczSQ45kbX-image-1702522705319.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/IMGJdndczSQ45kbX-image-1702522705319.png)
+    ![image-1702522705319.png](./downloaded_image_1705285328594.png)
 2. Open the desired policy. (Locate the policy by either scrolling through the list or using the search bar)  
-    [![image-1702523772396.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/qachnmIDJoCWUnGP-image-1702523772396.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/qachnmIDJoCWUnGP-image-1702523772396.png)
-3. Press **Delete** [![image-1702523990476.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LeTtz07F7V08MMVG-image-1702523990476.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LeTtz07F7V08MMVG-image-1702523990476.png)
+    ![image-1702523772396.png](./downloaded_image_1705285329603.png)
+3. Press **Delete** ![image-1702523990476.png](./downloaded_image_1705285330620.png)

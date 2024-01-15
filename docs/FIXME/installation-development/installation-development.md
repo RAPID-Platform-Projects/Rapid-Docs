@@ -26,7 +26,7 @@ This will build the source using `esbuild` and serve the result to [localhost:90
 
 When navigating to [localhost:9000](http://localhost:9000) we should be met by the SDK login experience.
 
-[![image-1687191896210.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/scaled-1680-/RPEJFn8zSpzExDuH-image-1687191896210.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/RPEJFn8zSpzExDuH-image-1687191896210.png)
+![image-1687191896210.png](./downloaded_image_1705285788538.png)
 
 Continue to the app by entering your environment, tenant, and site.  
   

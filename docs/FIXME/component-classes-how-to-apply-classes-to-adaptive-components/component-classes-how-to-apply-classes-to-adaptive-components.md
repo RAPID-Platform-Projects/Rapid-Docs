@@ -8,7 +8,7 @@ To apply a class simply:
 2. Select the styling tab on the right of the screen
 3. Enter your class name in the Class field
 
-[![image-1693977274533.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/kNTJ10gAiTtP5NKT-image-1693977274533.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/kNTJ10gAiTtP5NKT-image-1693977274533.png)
+![image-1693977274533.png](./downloaded_image_1705285196560.png)
 
 ### Useful Classes
 

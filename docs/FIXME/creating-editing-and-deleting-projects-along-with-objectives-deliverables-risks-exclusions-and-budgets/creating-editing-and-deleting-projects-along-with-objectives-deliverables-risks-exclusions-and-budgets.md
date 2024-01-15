@@ -9,51 +9,51 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 ##### How to create the Project Item
 
 1. Click on Projects &gt; Projects  
-    [![image-1703656814040.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ktc5ipy6FahrwFLP-image-1703656814040.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ktc5ipy6FahrwFLP-image-1703656814040.png)
+    ![image-1703656814040.png](./downloaded_image_1705285331639.png)
 2. Click on "New Project".  
-    [![image-1703656837859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9CCxA3WINx0jBSJF-image-1703656837859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9CCxA3WINx0jBSJF-image-1703656837859.png)
+    ![image-1703656837859.png](./downloaded_image_1705285332646.png)
 3. Enter all relevant details  
-    [![image-1703656861833.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/JQ4AA2irgdv824YN-image-1703656861833.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/JQ4AA2irgdv824YN-image-1703656861833.png)
-4. Click ****Create and Open**** [![image-1703656886956.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LaQLOHg7cQ2jkx3I-image-1703656886956.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LaQLOHg7cQ2jkx3I-image-1703656886956.png)
+    ![image-1703656861833.png](./downloaded_image_1705285333670.png)
+4. Click ****Create and Open**** ![image-1703656886956.png](./downloaded_image_1705285334678.png)
 
 ##### How to create Objectives, Deliverables, Risks, Exclusions, and Budgets within a Project
 
 1. Enter the Project you want to nest these under
 2. Click on the **Scoping** tab  
-    [![image-1703657014802.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/U8FMqmKX26ISz5SW-image-1703657014802.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/U8FMqmKX26ISz5SW-image-1703657014802.png)
+    ![image-1703657014802.png](./downloaded_image_1705285335691.png)
 3. Click on the **Objectives** or **Deliverables** or **Risks** or **Exclusions** or **Budgets** tab  
-    [![image-1703657034429.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Pg0cBVYsntzZz9Nb-image-1703657034429.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Pg0cBVYsntzZz9Nb-image-1703657034429.png)
-4. Click ****New X**** [![image-1703657084341.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/J28a6jSy8Rw22oYH-image-1703657084341.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/J28a6jSy8Rw22oYH-image-1703657084341.png)
-5. Enter all of the relevant details and press **Create** [![image-1703657148452.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/bk1FedpokXeAIKck-image-1703657148452.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/bk1FedpokXeAIKck-image-1703657148452.png)
+    ![image-1703657034429.png](./downloaded_image_1705285336708.png)
+4. Click ****New X**** ![image-1703657084341.png](./downloaded_image_1705285337720.png)
+5. Enter all of the relevant details and press **Create** ![image-1703657148452.png](./downloaded_image_1705285338730.png)
 
 ### How to Edit a Project (along with the Objectives, Deliverables, Risks, Exclusions, and Budgets)
 
 #### How to edit the Project Item
 
 1. Click on Projects &gt; Projects  
-    [![image-1703656814040.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ktc5ipy6FahrwFLP-image-1703656814040.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ktc5ipy6FahrwFLP-image-1703656814040.png)
+    ![image-1703656814040.png](./downloaded_image_1705285339740.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
-    [![image-1703657284806.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/lVD4XWl1yJXM4M1c-image-1703657284806.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/lVD4XWl1yJXM4M1c-image-1703657284806.png)
+    ![image-1703657284806.png](./downloaded_image_1705285340749.png)
 3. Edit any relevant fields on the project page as needed.  
-    [![image-1703657312384.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ja68pQb5GssqydaY-image-1703657312384.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ja68pQb5GssqydaY-image-1703657312384.png)
-4. Press **Save** [![image-1703657338546.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/7sd6XxoizFejMZPK-image-1703657338546.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/7sd6XxoizFejMZPK-image-1703657338546.png)
+    ![image-1703657312384.png](./downloaded_image_1705285341762.png)
+4. Press **Save** ![image-1703657338546.png](./downloaded_image_1705285342772.png)
 
 #### How to Edit a Project's Objectives, Deliverables, Risks, Exclusions, and Budgets
 
 1. Click on Projects &gt; Projects  
-    [![image-1703656814040.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ktc5ipy6FahrwFLP-image-1703656814040.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ktc5ipy6FahrwFLP-image-1703656814040.png)
+    ![image-1703656814040.png](./downloaded_image_1705285343782.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
-    [![image-1703657284806.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/lVD4XWl1yJXM4M1c-image-1703657284806.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/lVD4XWl1yJXM4M1c-image-1703657284806.png)
+    ![image-1703657284806.png](./downloaded_image_1705285344789.png)
 3. Click on the **Scoping** tab  
-    [![image-1703657440255.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/L0cp5Hc07aiFibSh-image-1703657440255.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/L0cp5Hc07aiFibSh-image-1703657440255.png)
+    ![image-1703657440255.png](./downloaded_image_1705285345797.png)
 4. Click on the **Objectives** or **Deliverables** or **Risks** or **Exclusions** or **Budgets** tab.  
-    [![image-1703657471186.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/rktCG9H1kXIwe8BH-image-1703657471186.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/rktCG9H1kXIwe8BH-image-1703657471186.png)
+    ![image-1703657471186.png](./downloaded_image_1705285346807.png)
 5. Click on the title of the **Objective**, **Deliverable**, **Risk**, **Exclusions**, or **Budget** you wish to edit.  
-    [![image-1703657504626.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9U36ZVPE66Uwnnd0-image-1703657504626.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9U36ZVPE66Uwnnd0-image-1703657504626.png)
+    ![image-1703657504626.png](./downloaded_image_1705285347819.png)
 6. Edit any relevant fields on the sub item page as needed.  
-    [![image-1703657526492.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/iNho8gJ2OhEk3An5-image-1703657526492.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/iNho8gJ2OhEk3An5-image-1703657526492.png)
+    ![image-1703657526492.png](./downloaded_image_1705285348828.png)
 7. Once you have finished editing, click on **Save**.  
-    [![image-1703657548416.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/22mIcACxevDO1MhY-image-1703657548416.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/22mIcACxevDO1MhY-image-1703657548416.png)
+    ![image-1703657548416.png](./downloaded_image_1705285349836.png)
 
 ### How to Edit a Project (along with the Objectives, Deliverables, Risks, Exclusions, and Budgets)
 
@@ -66,23 +66,23 @@ However, deleting the project will not delete the subitems (Objectives, Delivera
 #### How to delete a Projects Sub-Items (Objectives, Deliverables, Risks, Exclusions, and Budgets)
 
 1. Click on Projects &gt; Projects  
-    [![image-1703656814040.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ktc5ipy6FahrwFLP-image-1703656814040.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ktc5ipy6FahrwFLP-image-1703656814040.png)
+    ![image-1703656814040.png](./downloaded_image_1705285350850.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
-    [![image-1703657284806.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/lVD4XWl1yJXM4M1c-image-1703657284806.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/lVD4XWl1yJXM4M1c-image-1703657284806.png)
+    ![image-1703657284806.png](./downloaded_image_1705285351860.png)
 3. Click on the **Scoping** tab  
-    [![image-1703657440255.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/L0cp5Hc07aiFibSh-image-1703657440255.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/L0cp5Hc07aiFibSh-image-1703657440255.png)
+    ![image-1703657440255.png](./downloaded_image_1705285352868.png)
 4. Click on the **Objectives** or **Deliverables** or **Risks** or **Exclusions** or **Budgets** tab.  
-    [![image-1703657471186.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/rktCG9H1kXIwe8BH-image-1703657471186.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/rktCG9H1kXIwe8BH-image-1703657471186.png)
+    ![image-1703657471186.png](./downloaded_image_1705285353875.png)
 5. Select the Objectives or **Deliverables** or **Risks** or **Exclusions** or **Budgets** you wish to **delete**
     
-    [![image-1703657755975.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ISmscAeVMOtoTJqr-image-1703657755975.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ISmscAeVMOtoTJqr-image-1703657755975.png)
-6. Press the **Delete X Sub-Items** [![image-1703657824724.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/3B1vC0dhyR3Xq8Oa-image-1703657824724.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/3B1vC0dhyR3Xq8Oa-image-1703657824724.png)
+    ![image-1703657755975.png](./downloaded_image_1705285354889.png)
+6. Press the **Delete X Sub-Items** ![image-1703657824724.png](./downloaded_image_1705285355904.png)
 
 #### How to Delete a Project Item
 
 1. Click on Projects &gt; Projects  
-    [![image-1703656814040.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ktc5ipy6FahrwFLP-image-1703656814040.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ktc5ipy6FahrwFLP-image-1703656814040.png)
+    ![image-1703656814040.png](./downloaded_image_1705285356930.png)
 2. Open the desired Project. Locate the project you wish to delete either by scrolling through the list or using the search bar.  
-    [![image-1703657284806.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/lVD4XWl1yJXM4M1c-image-1703657284806.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/lVD4XWl1yJXM4M1c-image-1703657284806.png)
+    ![image-1703657284806.png](./downloaded_image_1705285357942.png)
 3. Press **Delete**.  
-    [![image-1703657901259.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9YGkF1FpHzBBKbOX-image-1703657901259.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9YGkF1FpHzBBKbOX-image-1703657901259.png)
+    ![image-1703657901259.png](./downloaded_image_1705285358950.png)

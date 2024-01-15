@@ -19,9 +19,9 @@ The first way is by far the most common way of configuring this on-click action 
 
 You will notice that this new table will be added to the menu hierarchy and that the configuration is set to Open in Flyout and the Page ID has already been filled. This menu button now works and if pressed will navigate to the desired table.
 
-#### [![image-1701926805774.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/pPcKN19Q6BW0vF2s-image-1701926805774.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/pPcKN19Q6BW0vF2s-image-1701926805774.png)
+#### ![image-1701926805774.png](./downloaded_image_1705285679387.png)
 
-#### [![image-1701926872164.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/dncS0ue3IwZuSYQB-image-1701926872164.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/dncS0ue3IwZuSYQB-image-1701926872164.png)
+#### ![image-1701926872164.png](./downloaded_image_1705285680401.png)
 
 #### Configuring Blank Menu Button:
 
@@ -34,9 +34,9 @@ Sometimes you may want to manually enter the **Open in Flyout** configuration. F
 5. Enter the Page ID (The Page ID is simply the Page title. See the Pages Manager section of - [All About Pages in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer) to find out how to access a list of all page titles)
 6. Save
 
-[![image-1701927110223.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/JLSpe3aBLVuxTeI1-image-1701927110223.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/JLSpe3aBLVuxTeI1-image-1701927110223.png)
+![image-1701927110223.png](./downloaded_image_1705285681414.png)
 
-[![image-1701927211958.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/N24bSugZqHJVdJ3X-image-1701927211958.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/N24bSugZqHJVdJ3X-image-1701927211958.png)
+![image-1701927211958.png](./downloaded_image_1705285682437.png)
 
 ##### **Related article**
 

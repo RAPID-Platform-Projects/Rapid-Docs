@@ -8,7 +8,7 @@ The Gantt Chart respects the defined *Table Views* and the visual presentation i
 
 The default Table View can be defined in Designer while [configuring the Gantt Page Settings.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?")
 
-[![Screenshot 2023-09-14 at 12.52.15 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/cJzSDKE039q27JgW-screenshot-2023-09-14-at-12-52-15-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/cJzSDKE039q27JgW-screenshot-2023-09-14-at-12-52-15-pm.png)
+![Screenshot 2023-09-14 at 12.52.15 PM.png](./downloaded_image_1705285737496.png)
 
 The above image depicts that the Gantt Chart prepared on Table View titled - All Tasks.
 
@@ -18,17 +18,17 @@ Please note: The Gantt Chart will always sort Tasks based on the Start Date. How
 
 A Table View can be easily changed from within the Gantt Chart using the dropdown button shown below.
 
-[![Screenshot 2023-09-14 at 12.53.47 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/rBxV0McdZF2Y7q20-screenshot-2023-09-14-at-12-53-47-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/rBxV0McdZF2Y7q20-screenshot-2023-09-14-at-12-53-47-pm.png)
+![Screenshot 2023-09-14 at 12.53.47 PM.png](./downloaded_image_1705285738527.png)
 
 As you click on the dropdown, a list of all the created Table Views will appear.
 
-[![Screenshot 2023-09-14 at 1.10.10 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/GccWTQc0lnYpq0n4-screenshot-2023-09-14-at-1-10-10-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/GccWTQc0lnYpq0n4-screenshot-2023-09-14-at-1-10-10-pm.png)
+![Screenshot 2023-09-14 at 1.10.10 PM.png](./downloaded_image_1705285739556.png)
 
 You can select your desired Table View from the list and the Gantt Chart shall change according to the filters and parameters defined in the selected Table View.
 
 Please refer to the GIF below for illustration
 
-[![Table view change-480p-230914.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/WGdlxOrobHLNM4V5-table-view-change-480p-230914.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/WGdlxOrobHLNM4V5-table-view-change-480p-230914.gif)
+![Table view change-480p-230914.gif
 
 Please note: you can create new Table Views from the dropdown option as well. This will create Table Views which will be visible on Table data throughout Explorer, not just limited to Gantt Charts.
 
@@ -38,11 +38,11 @@ Apart from selecting and creating Table Views, you can also modify the selected 
 
 You can edit the Table View using the Edit View button shown below:
 
-[![Edit Table view Gantt.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/bgED7qbXI98p2Ofv-edit-table-view-gantt.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/bgED7qbXI98p2Ofv-edit-table-view-gantt.png)
+![Edit Table view Gantt.png](./downloaded_image_1705285740591.png)
 
 As you click on the Edit View button, a panel with existing View parameters will open in the right. You can make necessary modifications and Save.
 
-[![14.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/3tcNJPWT0NLPDiEM-14.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/3tcNJPWT0NLPDiEM-14.png)
+![14.png](./downloaded_image_1705285741614.png)
 
 **Please note:**
 

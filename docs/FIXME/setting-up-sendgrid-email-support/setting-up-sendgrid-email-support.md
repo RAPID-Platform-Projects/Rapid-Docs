@@ -36,11 +36,11 @@ In order to process inbound email with SendGrid, the Omnichannel takes advantage
 
 First create an integration on the site you want to receive messages. Take special note of the generated Webhook URL as we will need this later.
 
-[![Omnichannel Overview Item.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/scaled-1680-/nVyX55jV9uBfPq7T-omnichannel-overview-item.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-01/nVyX55jV9uBfPq7T-omnichannel-overview-item.png)
+![Omnichannel Overview Item.png](./downloaded_image_1705285920360.png)
 
 Next, in SendGrid navigate to the Inbound Parse section (under settings) and add a Host &amp; URL
 
-[![Omnichannel Overview Sendgrid Inbound Parse.png](https://docs.rapidplatform.com/uploads/images/gallery/2022-03/scaled-1680-/6M3z5QURr8SYpHop-omnichannel-overview-sendgrid-inbound-parse.png)](https://docs.rapidplatform.com/uploads/images/gallery/2022-03/6M3z5QURr8SYpHop-omnichannel-overview-sendgrid-inbound-parse.png)
+![Omnichannel Overview Sendgrid Inbound Parse.png](./downloaded_image_1705285921377.png)
 
 1. Set the subdomain that is receiving the inbound traffic
 2. Set the registered domain

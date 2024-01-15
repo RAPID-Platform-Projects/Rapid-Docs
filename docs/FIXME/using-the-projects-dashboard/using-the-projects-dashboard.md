@@ -7,7 +7,7 @@ Two reports are linked to the project's module. The first is an item-level repor
 ### How to access the Projects Dashboard
 
 1. Navigate to Projects &gt; Project Reporting  
-    [![image-1703720716996.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9kkjy2JzCqqAJBdu-image-1703720716996.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9kkjy2JzCqqAJBdu-image-1703720716996.png)
+    ![image-1703720716996.png](./downloaded_image_1705286255139.png)
 
 ### Using the Projects Dashboard
 
@@ -29,7 +29,7 @@ Green = Nothing is overdue
 
 For example, you could use the slicers to filter down the visuals to Projects that are “Green” and associated with the client “Example Inc”.
 
-[![image-1703720803555.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/51yxPlT4rrWOCWLm-image-1703720803555.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/51yxPlT4rrWOCWLm-image-1703720803555.png)
+![image-1703720803555.png](./downloaded_image_1705286256156.png)
 
 #### Cards
 
@@ -42,7 +42,7 @@ The provided cards are as follows:
 - Amber – Displays the number of projects where the project is not overdue but at least one subtask is overdue
 - Red – Displays the number of projects where the project is overdue.
 
-[![image-1703720847041.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ih01K2HTYJCq9AIJ-image-1703720847041.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ih01K2HTYJCq9AIJ-image-1703720847041.png)
+![image-1703720847041.png](./downloaded_image_1705286257170.png)
 
 #### Charts
 
@@ -52,7 +52,7 @@ The Estimated Time vs Actual Time visual shows a clustered column group for each
 
 It is an interactive visual, allowing users to click on any of the status bars to filter the rest of the report by that specific status.
 
-[![image-1703720885666.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/72UVayCwW0TBKDnI-image-1703720885666.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/72UVayCwW0TBKDnI-image-1703720885666.png)
+![image-1703720885666.png](./downloaded_image_1705286258188.png)
 
 ##### Estimated Budget vs Actual Budget
 
@@ -60,7 +60,7 @@ The Estimated Budget vs Actual Budget visual shows a clustered column group for 
 
 It is an interactive visual, allowing users to click on any of the status bars to filter the rest of the report by that specific status.
 
-[![image-1703720955435.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XCsg1jek9EQ7nObW-image-1703720955435.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XCsg1jek9EQ7nObW-image-1703720955435.png)
+![image-1703720955435.png](./downloaded_image_1705286259204.png)
 
 #### Projects Table
 
@@ -68,4 +68,4 @@ The Projects Table displays the Project Name, Client, Start date, Due date, Est.
 
 It is an interactive visual, allowing users to click any task line and the report visuals will highlight or filter based on the selected employee.
 
-[![image-1703720970994.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/gFiAAWjcttKRfTsC-image-1703720970994.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/gFiAAWjcttKRfTsC-image-1703720970994.png)
+![image-1703720970994.png](./downloaded_image_1705286260220.png)

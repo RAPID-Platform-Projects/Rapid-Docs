@@ -14,13 +14,13 @@ As the Designer Window opens up, it will be by default on the tables page.
 
 This is how the **Designer** screen looks like. The blue coloured left column is called the Designer [Sidebar](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar"). The white portion lists the existing database tables.
 
-[![image-1701845658756.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/hbulMCsQuoUBS4Km-image-1701845658756.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/hbulMCsQuoUBS4Km-image-1701845658756.png)
+![image-1701845658756.png](./downloaded_image_1705285518733.png)
 
 For a newly created site, there would be no list of tables.
 
 Please note the Designer Sidebar has collapsed design options titled - Tables, Features, Menus, Pages, Advanced.
 
-[![image-1701899186075.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/n4RiSVSVn4yDnCRb-image-1701899186075.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/n4RiSVSVn4yDnCRb-image-1701899186075.png)
+![image-1701899186075.png](./downloaded_image_1705285519751.png)
 
 These represent the key functions of Designer and houses all the design options in your site.
 

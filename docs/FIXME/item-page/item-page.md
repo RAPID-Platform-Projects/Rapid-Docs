@@ -17,10 +17,10 @@ This is the Item's permissions configuration. It lists the users and groups whic
 3. Inline Refresh This button will perform an inline refresh on the current context. For an Item it will fetch the information pertaining to the item. A good use of this feature would be to view a Universal link added by another user which has not yet been displayed as the page has remained open. Read more about Inline Refresh [here](https://docs.rapidplatform.com/books/rapid-overview).
 4. Linked Items Menu The linked items component is default on any entity, system or custom. However the page component can be removed. This Linked Items Menu however is consistent throughout Rapid and can be opened by pressing the **⋮** button. This will expand menu and will list any items which have been linked. This list, displayed Universal links between items. More can be read [here](https://docs.rapidplatform.com/books/rapid-overview).
 
-[![Item Page 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/xs2ioRugTjpm7c8e-item-page-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/xs2ioRugTjpm7c8e-item-page-01.png)*Linked Items Menu*
+![Item Page 01.png](./downloaded_image_1705285793609.png)*Linked Items Menu*
 
 To add a new linked item press the +
 
-[![Item Page 02.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/ctTWXOgqLOFzLuOI-item-page-02.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/ctTWXOgqLOFzLuOI-item-page-02.png)*Interface for Adding a new Linked Item*
+![Item Page 02.png](./downloaded_image_1705285794616.png)*Interface for Adding a new Linked Item*
 
 Refer to section &lt;**TODO**&gt; for more details on universally linking items. To close the item flyout press the 'x' in the top right of the screen, under the jumbotron. It is also possible to close all proceeding flyouts by tapping the jumbotron either on a previous flyout or on the base page.

@@ -15,11 +15,11 @@ This endpoint can be used in two different ways in Rapid platform; Set up on a m
 When configuring on a menu button simply use the following:  
 **Address**: [Endpoint address](https://app.rapidplatform.com/rapidplatform/projects/explorer/Endpoints/Endpoint:Endpoints:58) with the following url parameters appended to the end "&amp;env={env}&amp;site={site}&amp;tenant={tenant}"
 
-### ![image-1694475339411.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/Y8aLlYlBAtxumkRa-image-1694475339411.png)Configuring on a service task
+### ![image-1694475339411.png](./downloaded_image_1705285869151.png)Configuring on a service task
 
 When configuring on a service task in workflow simply use the following configuration:
 
-[![image-1694475489865.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/PmmPTOY2oUA08FN7-image-1694475489865.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/PmmPTOY2oUA08FN7-image-1694475489865.png)
+![image-1694475489865.png](./downloaded_image_1705285870160.png)
 
 **Trigger Endpoint:** [Endpoint address](https://app.rapidplatform.com/rapidplatform/projects/explorer/Endpoints/Endpoint:Endpoints:58) with the following url parameters appended to the end "&amp;env={env}&amp;site={site}&amp;tenant={tenant}"
 

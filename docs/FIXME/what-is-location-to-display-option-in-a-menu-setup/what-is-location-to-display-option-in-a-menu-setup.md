@@ -2,7 +2,7 @@
 
 This is configurable on the ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu type.
 
-[![image-1701928530668.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zq6Qdg1EvuMYrWb6-image-1701928530668.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zq6Qdg1EvuMYrWb6-image-1701928530668.png)
+![image-1701928530668.png](./downloaded_image_1705286281715.png)
 
 This option has three radio buttons:
 
@@ -20,9 +20,9 @@ However, if you select *Item* in this option, then the button will appear only a
 
 ##### Selecting Table
 
-Selecting Location to display as "Table" will show the menu button on the table view as per the images below:[![image-1701928489489.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/iBx8coEWMcfNZvDH-image-1701928489489.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/iBx8coEWMcfNZvDH-image-1701928489489.png)
+Selecting Location to display as "Table" will show the menu button on the table view as per the images below:![image-1701928489489.png](./downloaded_image_1705286282743.png)
 
-[![image-1701928452717.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/FizOikTudLvp3aeN-image-1701928452717.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/FizOikTudLvp3aeN-image-1701928452717.png)
+![image-1701928452717.png](./downloaded_image_1705286283767.png)
 
 #####  
 
@@ -30,9 +30,9 @@ Selecting Location to display as "Table" will show the menu button on the table 
 
 Selecting Location to display as "Item" will show the menu button on the item view as per the images below:
 
-[![image-1701928675571.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/JmE1WJyR0Ad10RzT-image-1701928675571.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/JmE1WJyR0Ad10RzT-image-1701928675571.png)
+![image-1701928675571.png](./downloaded_image_1705286284785.png)
 
-[![image-1701928704867.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/gRjuSBARMnKRrKSH-image-1701928704867.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/gRjuSBARMnKRrKSH-image-1701928704867.png)
+![image-1701928704867.png](./downloaded_image_1705286285810.png)
 
 ##### Selecting Table
 

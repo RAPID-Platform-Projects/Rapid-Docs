@@ -19,9 +19,9 @@ Should a manager prefer not to receive email reminders, they can easily configur
 As a manager, by default you will receive birthday and work anniversary reminders from any employees that have you listed as their direct manager. To switch these off follow the steps below:
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1702515802672.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zbxdqhZWjdCsrh3Q-image-1702515802672.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zbxdqhZWjdCsrh3Q-image-1702515802672.png)
+    ![image-1702515802672.png](./downloaded_image_1705285192509.png)
 2. Open YOUR employee item. (Find the employee item by either scrolling through the list or using the search bar)  
-    [![image-1702516317433.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/DgimJrAXTwJQ3oB0-image-1702516317433.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/DgimJrAXTwJQ3oB0-image-1702516317433.png)
+    ![image-1702516317433.png](./downloaded_image_1705285193519.png)
 3. Set the **Birthday Reminders** and **Work Anniversary Reminders** Toggles to False.  
-    [![image-1702517066457.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/yoMTeP3o25yR3eQo-image-1702517066457.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/yoMTeP3o25yR3eQo-image-1702517066457.png)
-4. Press **Save** or ****Save and Close**** [![image-1702517094841.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/hjPgIJmA5OryRjny-image-1702517094841.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/hjPgIJmA5OryRjny-image-1702517094841.png)
+    ![image-1702517066457.png](./downloaded_image_1705285194535.png)
+4. Press **Save** or ****Save and Close**** ![image-1702517094841.png](./downloaded_image_1705285195545.png)

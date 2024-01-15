@@ -6,7 +6,7 @@ Now that an item has been created, it will appear in the data table. each entry 
 
 The quick filter performs a partial string match against data in all visible columns of the data table. To perform a quick filter, click on the quick filter component, type the string you wish to search for followed by the Enter key.
 
-[![Data Tables 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/1cyth8Ty4j6nnJLy-data-tables-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/1cyth8Ty4j6nnJLy-data-tables-01.png)*Using the Quick Filter*
+![Data Tables 01.png](./downloaded_image_1705285468938.png)*Using the Quick Filter*
 
 Once the search has been made, there are three ways to clear the quick filter; manually deleting the search phrase followed by enter, pressing the exit character in the quick filter or refreshing the page.
 
@@ -28,9 +28,9 @@ Rule based filtering allows you to narrow down the data set with more precision 
 
 To open configuration for the rules press the edit view button, then to add a rule press '**+ Rule**'.
 
-[![Data Tables 02.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/6aVt3kN18ZZINsKQ-data-tables-02.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/6aVt3kN18ZZINsKQ-data-tables-02.png)*Edit View*
+![Data Tables 02.png](./downloaded_image_1705285469947.png)*Edit View*
 
-[![Data Tables 03.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/U9fXkjcIZRx497n4-data-tables-03.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/U9fXkjcIZRx497n4-data-tables-03.png)
+![Data Tables 03.png](./downloaded_image_1705285470961.png)
 
 *Adding Rules to the View*
 
@@ -45,7 +45,7 @@ In certain contexts, having all columns visible in a data table can be redundant
 
 Column filtering allows you to hide columns from the view, it is a simple reversible action that can help reduce clutter. To hide one or more columns from the view open the view edit configuration and change the selection of fields that are visible in the view.
 
-[![Data Tables 04.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/eK8aAHSsFuK9RxKV-data-tables-04.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/eK8aAHSsFuK9RxKV-data-tables-04.png)
+![Data Tables 04.png](./downloaded_image_1705285471978.png)
 
  *Removing Columns from the View*
 
@@ -55,11 +55,11 @@ The default sort on a data table is 'Created Date', meaning that the newest item
 
 Row sorting allows users to order the data table by the specified field. The default sort filter that is applied to a data table is 'Created Date', in which that the newest items will be at the top. Users will also be able to sort from smallest to largest or vice versa.
 
-[![Data Tables 05.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/J9KOlWzMaEv7f88d-data-tables-05.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/J9KOlWzMaEv7f88d-data-tables-05.png)*Entering Edit Mode*
+![Data Tables 05.png](./downloaded_image_1705285472990.png)*Entering Edit Mode*
 
 To enable a sort, click on a column header. Once a sort has been enabled, clicking again will cycle between sorting descending and ascending. The sort will not be saved until the save button is pressed, this will also leave the edit mode. After saving, the change will be committed to the database and any user who then accesses the site will see the change in the view reflected as such.
 
-[![Data Tables 06.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/ODAqC0NNaXJ3fDev-data-tables-06.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/ODAqC0NNaXJ3fDev-data-tables-06.png)*Saving a Sort*
+![Data Tables 06.png](./downloaded_image_1705285474002.png)*Saving a Sort*
 
 ## The All View
 
@@ -71,8 +71,8 @@ The 'All View' is a default, system created view that displays all items in a da
 
 `Having custom views allows for multiple different views to be chosen. These views may be dependant on an item set or different users may require a different view. Having a custom view is a quick way of cycling between the same data set but with different sorts and filters applied. The alternative to having multiple custom views would be exclusively using the '*All View*' and changing the filters and sorts each time you wish to change the view. To create a new custom view, press the '*Views*' button this will open a drop-down.
 
-[![Data Tables 06.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/ODAqC0NNaXJ3fDev-data-tables-06.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/ODAqC0NNaXJ3fDev-data-tables-06.png)*Creating a Custom View*
+![Data Tables 06.png](./downloaded_image_1705285475015.png)*Creating a Custom View*
 
 Pressing '*Create View*' will bring up the configuration for the view. The initial configuration for the view being made will always be the current configuration of the view already selected. Inputting any sorts and filters on the '*Edit View*' flyout will commit those changes to the view after it is created. After giving the view a title you will now be able to create it. Any custom views will be selectable in the drop-down menu for the views.
 
-[![Data Tables 08.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/NKPAJrI6IoHx9gX5-data-tables-08.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/NKPAJrI6IoHx9gX5-data-tables-08.png)*Custom Views*
+![Data Tables 08.png](./downloaded_image_1705285476024.png)*Custom Views*

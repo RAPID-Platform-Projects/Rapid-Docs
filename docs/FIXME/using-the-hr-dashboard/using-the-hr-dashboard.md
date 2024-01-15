@@ -7,9 +7,9 @@ The HR Dashboard offers valuable summative employee related statistics, such as 
 ### How to Access the HR Dashboard
 
 1. On the Explorer sidebar click Human Resources &gt; HR Reporting  
-    [![image-1703654216148.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/TXgAEOTVhgybmnvF-image-1703654216148.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/TXgAEOTVhgybmnvF-image-1703654216148.png)
+    ![image-1703654216148.png](./downloaded_image_1705286170459.png)
 2. Click on the **HR Dashboard** tab  
-    [![image-1703655551561.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/jGjnq0rH4gZLJWwB-image-1703655551561.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/jGjnq0rH4gZLJWwB-image-1703655551561.png)
+    ![image-1703655551561.png](./downloaded_image_1705286171476.png)
 
 ### Using the HR Dashboard
 
@@ -21,7 +21,7 @@ The HR Dashboard can be sliced based on no attributes, one attribute, or multipl
 
 For example, you could use the slicers to filter down the visuals Employees in the Sales department that are On Probation.
 
-[![image-1703655621365.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ETJnbXgxW5PQTovR-image-1703655621365.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ETJnbXgxW5PQTovR-image-1703655621365.png)
+![image-1703655621365.png](./downloaded_image_1705286172495.png)
 
 #### Cards
 
@@ -35,7 +35,7 @@ The provided cards are as follows:
 - On Probation – Number of employees with a status of “On Probation”
 - Onboarding –Number of employees with a status of “Onboarding”
 
-[![image-1703655901332.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/MSXESifx0brRiG5u-image-1703655901332.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/MSXESifx0brRiG5u-image-1703655901332.png)
+![image-1703655901332.png](./downloaded_image_1705286173515.png)
 
 #### Employee Headcount Changes Visual
 
@@ -43,13 +43,13 @@ The "Employee Headcount Changes" visual displays the number of new hires and dep
 
 It is also possible to change the unit of time from “Month” to “Year”. To do this simply click on the “Drill Up” arrow on the top right of the visual. To move back from the “Year” view to the “Month” view click on the “Drill Down” button and select the year you wish to drill down to.
 
-[![image-1703655927983.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Wu3fKzYLcfxIVxj3-image-1703655927983.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Wu3fKzYLcfxIVxj3-image-1703655927983.png)
+![image-1703655927983.png](./downloaded_image_1705286174530.png)
 
 #### Department Size
 
 The department size graph showcases various departments on the x-axis and the number of employees on the y-axis. This interactive visual allows users to click on department columns to filter the other visuals in the HR Dashboard to display employees within that specific department.
 
-[![image-1703655951725.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/WmbY4tqj9jSMyvmV-image-1703655951725.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/WmbY4tqj9jSMyvmV-image-1703655951725.png)
+![image-1703655951725.png](./downloaded_image_1705286175544.png)
 
 #### Employee Table
 
@@ -117,4 +117,4 @@ The columns displayed are: “Employee Name”, “Department”, “Role”, �
 
 </td></tr></tbody></table>
 
-[![image-1703655875305.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Mlm5BmL3pxKtiNaW-image-1703655875305.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Mlm5BmL3pxKtiNaW-image-1703655875305.png) -->
+![image-1703655875305.png](./downloaded_image_1705286176558.png) -->

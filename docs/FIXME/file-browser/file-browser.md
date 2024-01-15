@@ -9,12 +9,12 @@ To configure the Document Storage of the item through the single page of an item
 1. In the Explorer experience, in the **File** tab of the item that you'd like to configure the documentation storage.
 2. Click **Configure Document Storage**. It will then take you to the Options tab of the entity.
 
-[![File Browser 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/A9HVOZzdlQxVK5aV-file-browser-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/A9HVOZzdlQxVK5aV-file-browser-01.png)
+![File Browser 01.png](./downloaded_image_1705285491244.png)
 
 1. Follow the steps to configure the storage [here](https://docs.rapidplatform.com/Home/User-Documentation/Getting-Started-with-Rapid-Platform).
 2. Once the Documentation Storage has been configured, users have the option to select where to place the items, either **Linked Item** or **This item**.
 
-[![File Browser 02.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/snLK9J6NkhoragaC-file-browser-02.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/snLK9J6NkhoragaC-file-browser-02.png)
+![File Browser 02.png](./downloaded_image_1705285492259.png)
 
 1. Select **This Item** to save documents to this specific item.
 

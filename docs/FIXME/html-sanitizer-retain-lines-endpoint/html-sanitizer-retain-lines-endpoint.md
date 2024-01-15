@@ -12,6 +12,6 @@ To use this function follow these steps:
 
 3\. Copy the lodash for the required object, array, or string into the body. Note that if you are copying Objects or Arrays you will need to JSON.Stringify( ) them. See the example the below example configured service task.
 
-[![image-1692249858298.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/siB8PgqrTWWLLnT3-image-1692249858298.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/siB8PgqrTWWLLnT3-image-1692249858298.png)
+![image-1692249858298.png](./downloaded_image_1705285779416.png)
 
 4\. Hit endpoint

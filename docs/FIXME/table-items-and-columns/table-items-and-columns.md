@@ -4,4 +4,4 @@ An **item** in a table refers to the a single group of related data within a tab
 
 Columns are vertical, and hold a list of values all from the same field. Items are your horizontal elements in a table. The values in an item belong to different fields, but all refer to a single unit (like a row that contains information about one customer or one order).
 
-[![Items..png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/7p6bOu1Zhf8jMJ6y-items.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/7p6bOu1Zhf8jMJ6y-items.png)
+![Items..png](./downloaded_image_1705286101875.png)

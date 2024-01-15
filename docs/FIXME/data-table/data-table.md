@@ -2,7 +2,7 @@
 
 A data table is a collection of data organised across columns.
 
-[![Data Table.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/scaled-1680-/8lixkMdNRwaPwrVx-data-table.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/8lixkMdNRwaPwrVx-data-table.png)
+![Data Table.png](./downloaded_image_1705285467928.png)
 
 Here,
 

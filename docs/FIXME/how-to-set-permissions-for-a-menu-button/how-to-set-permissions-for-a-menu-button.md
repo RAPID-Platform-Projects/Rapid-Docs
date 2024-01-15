@@ -10,25 +10,25 @@ The purpose of the permissions pane is to allow you to configure who in the syst
 
 Every menu setup has a permissions section.
 
-[![image-1701987493107.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/p0jEohsMbfu8a8mQ-image-1701987493107.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/p0jEohsMbfu8a8mQ-image-1701987493107.png)
+![image-1701987493107.png](./downloaded_image_1705285722230.png)
 
 By default, "Enable permissions for this menu item" is unchecked. This means that by default all the users in the system will be able to view and operate the menu button. Note that the options to select users is all greyed.
 
-[![image-1701987528762.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Cffvtwl6WJRXdaa4-image-1701987528762.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Cffvtwl6WJRXdaa4-image-1701987528762.png)
+![image-1701987528762.png](./downloaded_image_1705285723256.png)
 
 Check the "Enable permissions for this menu item". This will enable the selection of users.
 
 If just leave it here and save ie. if you do not check any user OR do not check "Select All", then the menu will **disappear for all users**.
 
-[![image-1701987557771.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/AKg9SIL5Li3n8lQG-image-1701987557771.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/AKg9SIL5Li3n8lQG-image-1701987557771.png)
+![image-1701987557771.png](./downloaded_image_1705285724281.png)
 
 If you check "Select All", then all the users will be able to see and operate the subject menu button.
 
-[![image-1701987582483.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/K7cMY766GyfydpSm-image-1701987582483.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/K7cMY766GyfydpSm-image-1701987582483.png)
+![image-1701987582483.png](./downloaded_image_1705285725302.png)
 
 If you check specific users from the list, then only the selected users will be able to view the subject menu button, rest all would not be able to see the menu button.
 
-[![image-1701987617884.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/h4mN5vHUgPt9Hay2-image-1701987617884.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/h4mN5vHUgPt9Hay2-image-1701987617884.png)
+![image-1701987617884.png](./downloaded_image_1705285726318.png)
 
 In other words, only those system users who have a check mark against their title will be able to view the subject menu button.
 

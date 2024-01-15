@@ -2,7 +2,7 @@
 
 There may be occasions when you wish to set up components in a specific order.
 
-[![Screenshot 2023-10-12 at 8.21.37 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/Dip7vtK0ZoZMKr21-screenshot-2023-10-12-at-8-21-37-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/Dip7vtK0ZoZMKr21-screenshot-2023-10-12-at-8-21-37-pm.png)
+![Screenshot 2023-10-12 at 8.21.37 PM.png](./downloaded_image_1705285536302.png)
 
 The position of the component can be an important aspect for improved assimilation.
 
@@ -16,7 +16,7 @@ To move a component on a grid layout, simply hold click and drag it to the prefe
 
 Just like positioning, the size of the component is also important to display the right amount of information per frame. Based on its type, each component comes with a default size on the layout when added. This size is demarcated by a dotted edge around the component.
 
-[![Screenshot 2023-10-12 at 8.35.55 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/2BhIvvHxO1P9YUj1-screenshot-2023-10-12-at-8-35-55-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/2BhIvvHxO1P9YUj1-screenshot-2023-10-12-at-8-35-55-pm.png)
+![Screenshot 2023-10-12 at 8.35.55 PM.png](./downloaded_image_1705285537321.png)
 
 To resize a component, just click and drag a dark triangle icon at the bottom right corner of the component boundary.
 

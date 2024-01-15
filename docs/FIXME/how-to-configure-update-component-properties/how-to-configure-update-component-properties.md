@@ -8,11 +8,11 @@ For example :
 
 A Counter component will allow you to define which table you wish to select and the Table View.
 
-[![Screenshot 2023-10-16 at 15.05.59.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/eEvMDfmf6I4tMGdP-screenshot-2023-10-16-at-15-05-59.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/eEvMDfmf6I4tMGdP-screenshot-2023-10-16-at-15-05-59.png)
+![Screenshot 2023-10-16 at 15.05.59.png](./downloaded_image_1705285590651.png)
 
 Whereas a Gantt Chart component will allow you to select other relevant options (shown below).
 
-[![Screenshot 2023-10-16 at 15.05.27.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/EC3HRRoTC6IicQo6-screenshot-2023-10-16-at-15-05-27.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/EC3HRRoTC6IicQo6-screenshot-2023-10-16-at-15-05-27.png)
+![Screenshot 2023-10-16 at 15.05.27.png](./downloaded_image_1705285591672.png)
 
 The properties for a component can be defined in their respective "Edit" Properties panel.
 
@@ -20,7 +20,7 @@ The properties for a component can be defined in their respective "Edit" Propert
 
 Every component has a horizontal options panel at the bottom right corner of its boundary. Look for the pencil icon. As you click on this icon, the Edit panel will open for the component on the right side.
 
-[![Screenshot 2023-10-16 at 4.26.37 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/NihNkgrFXC8pTFzi-screenshot-2023-10-16-at-4-26-37-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/NihNkgrFXC8pTFzi-screenshot-2023-10-16-at-4-26-37-pm.png)
+![Screenshot 2023-10-16 at 4.26.37 PM.png](./downloaded_image_1705285592689.png)
 
 Please refer to the below video for illustration.
 

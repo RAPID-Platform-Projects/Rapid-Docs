@@ -10,4 +10,4 @@ The list page, by default is where the data table resides. Upon opening an entit
 
 Looking at a data table, it can be tedious and even difficult to view a particular row or field. It is also difficult to make edits to data if it is in a table view. This is the basis for having the form page. The item page is usually opened from a list page context, doing so will display all of that item's fields in a very easy to read and editable experience. In order to add fields to an entity, it is necessary to first open the item page in Designer.
 
-[![List and Item Page.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/XCDmOLrlp9MAUseq-list-and-item-page.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/XCDmOLrlp9MAUseq-list-and-item-page.png)*Screen captures of List and Item Pages in Designer*
+![List and Item Page.png](./downloaded_image_1705285810075.png)*Screen captures of List and Item Pages in Designer*

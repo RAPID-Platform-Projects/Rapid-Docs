@@ -11,4 +11,4 @@ Another point to note is that each Simpli member (represented on the businesses 
 
 Below is a diagram showing the entity relationships:
 
-[![image-1675734560975.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/scaled-1680-/PIgdyw1KOJrGyE8v-image-1675734560975.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/PIgdyw1KOJrGyE8v-image-1675734560975.png)
+![image-1675734560975.png](./downloaded_image_1705285850870.png)

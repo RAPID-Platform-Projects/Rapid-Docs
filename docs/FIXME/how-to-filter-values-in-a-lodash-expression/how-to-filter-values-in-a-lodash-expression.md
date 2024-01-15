@@ -10,7 +10,7 @@ The filter method now moves onto the next element.
 
 '2' is divisible by 2 returning a true value and that element is added to the new array.
 
-[![image-1674425777297.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/3obT5xT4RqNIKciy-image-1674425777297.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/3obT5xT4RqNIKciy-image-1674425777297.png)
+![image-1674425777297.png](./downloaded_image_1705285662060.png)
 
 Generally speaking, the array you will encounter in workflow from the 'get all items' service task will be arrays of objects not numbers. As such you can filter by one of the object properties. To illustrate this below is the items response from a 'get all items' service task that returns a list of contacts.
 

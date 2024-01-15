@@ -11,12 +11,12 @@ To alter users and groups that have access to items within an entity:
 1. In the [Designer Experience](https://docs.rapidplatform.com/Home/User-Documentation/Designer), select the entity that you wish to alter permissions on.
 2. Select the **Security &amp; Permissions** tab.
 
-[![Permissions 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/qcGiYW1OrokGGVXd-permissions-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/qcGiYW1OrokGGVXd-permissions-01.png)
+![Permissions 01.png](./downloaded_image_1705285828424.png)
 
 1. Users can utilise the search box to add other users or groups.
 2. Users can also have the option to remove users and groups from the security and permissions of an item. This is done by clicking **X** next to the user or group users wish to remove.
 
-[![Permissions 02.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/FMp15pd6DHlaqnt7-permissions-02.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/FMp15pd6DHlaqnt7-permissions-02.png)
+![Permissions 02.png](./downloaded_image_1705285829445.png)
 
 ## Different Types of Permissions
 
@@ -43,6 +43,6 @@ To change the Entity-level permissions:
 1. In the [Designer Experience](https://docs.rapidplatform.com/Home/User-Documentation/Designer), select the entity that you wish to alter permissions on.
 2. Select the **Security &amp; Permissions** tab.
 
-[![Permissions 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/qcGiYW1OrokGGVXd-permissions-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/qcGiYW1OrokGGVXd-permissions-01.png)
+![Permissions 01.png](./downloaded_image_1705285830459.png)
 
 1. Users can toggle the relevant permissions that will be applied to future items.

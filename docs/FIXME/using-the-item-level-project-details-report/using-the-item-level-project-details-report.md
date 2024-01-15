@@ -7,11 +7,11 @@ Two reports are linked to the project's module. The first is an item-level repor
 ### How to access the item-level Project Details Report
 
 1. Navigate to Projects &gt; Projects  
-    [![image-1703658099164.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/785HKSfdzdkeWW0U-image-1703658099164.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/785HKSfdzdkeWW0U-image-1703658099164.png)
+    ![image-1703658099164.png](./downloaded_image_1705286177574.png)
 2. Open the Project you wish to view the item level report of. (Find the project by scrolling through the list or using the search bar)  
-    [![image-1703658166530.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Hyhb1L0DLBO2moEm-image-1703658166530.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Hyhb1L0DLBO2moEm-image-1703658166530.png)
+    ![image-1703658166530.png](./downloaded_image_1705286178586.png)
 3. Select the **Report** tab  
-    [![image-1703720356170.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/c8IMDXiKJWnw3zZA-image-1703720356170.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/c8IMDXiKJWnw3zZA-image-1703720356170.png)
+    ![image-1703720356170.png](./downloaded_image_1705286179606.png)
 
 ### Using the Project Details Report
 
@@ -25,7 +25,7 @@ The Project Details report can be “sliced” based on no attributes, one attri
 
 For example, you could use the slicers to filter down the visuals to Tasks that are “Not Started” and “Overdue”.
 
-[![image-1703720450732.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/0C9ZxxpFujVMEhSF-image-1703720450732.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/0C9ZxxpFujVMEhSF-image-1703720450732.png)
+![image-1703720450732.png](./downloaded_image_1705286180625.png)
 
 #### Cards
 
@@ -38,7 +38,7 @@ The provided cards are as follows:
 - Budgeted Cost – Displays the sum of all the budget items against the project.
 - Actual Cost – Displays the Actual cost summed from the budget items against the project.
 
-[![image-1703720487178.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/dKxpJhbMm9HJ3AdP-image-1703720487178.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/dKxpJhbMm9HJ3AdP-image-1703720487178.png)
+![image-1703720487178.png](./downloaded_image_1705286181639.png)
 
 #### Charts
 
@@ -48,11 +48,11 @@ The Estimated Time vs Actual Time visual shows a clustered column group for each
 
 It is an interactive visual, allowing users to click on any of the status bars to filter the rest of the report by that specific status.
 
-[![image-1703720529747.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Q0RejaMWZvTEjLYK-image-1703720529747.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Q0RejaMWZvTEjLYK-image-1703720529747.png)
+![image-1703720529747.png](./downloaded_image_1705286182696.png)
 
 ##### Estimated Budget vs Actual Budget
 
-[![image-1703720562932.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/orQocoPAhJWKubNZ-image-1703720562932.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/orQocoPAhJWKubNZ-image-1703720562932.png)
+![image-1703720562932.png](./downloaded_image_1705286183760.png)
 
 #### Tasks Table
 
@@ -60,4 +60,4 @@ The Tasks Table displays the Task, Assigned to (User), Start date , Due date, Es
 
 It is an interactive visual, allowing users to click any task line and the report visuals will highlight or filter based on the selected employee.
 
-[![image-1703720596866.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Cnedh8orFBmze18Z-image-1703720596866.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Cnedh8orFBmze18Z-image-1703720596866.png)
+![image-1703720596866.png](./downloaded_image_1705286184782.png)

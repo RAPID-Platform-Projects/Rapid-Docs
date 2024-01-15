@@ -3,25 +3,25 @@
 ##### **Let us now look at Conditional Statements in SendGrid email.**  
 
 
-**[![61a.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/7Qjc5dSY94OCoPXF-61a.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/7Qjc5dSY94OCoPXF-61a.png)**
+**![61a.png](./downloaded_image_1705285132916.png)**
 
-[![62.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/5ERsUoK1QHRzQxTp-62.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/5ERsUoK1QHRzQxTp-62.png)
+![62.png](./downloaded_image_1705285169027.png)
 
-[![Picture 63.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/vRNUmNlJFTlfRhLz-picture-63.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/vRNUmNlJFTlfRhLz-picture-63.png)
+![Picture 63.png](./downloaded_image_1705285170053.png)
 
-[![Picture 64.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/BL4qurRv7492925P-picture-64.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/BL4qurRv7492925P-picture-64.png)
+![Picture 64.png](./downloaded_image_1705285171083.png)
 
-[![Picture 65.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/svvyfd9yAm5mTMCz-picture-65.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/svvyfd9yAm5mTMCz-picture-65.png)
+![Picture 65.png](./downloaded_image_1705285172102.png)
 
-[![Picture 66.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/RHD5AwJCOrLxdLDh-picture-66.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/RHD5AwJCOrLxdLDh-picture-66.png)
+![Picture 66.png](./downloaded_image_1705285173119.png)
 
-[![67.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/YX3AVPBgbIoDhYFT-67.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/YX3AVPBgbIoDhYFT-67.png)
+![67.png](./downloaded_image_1705285174135.png)
 
-[![68.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/93UDfkP1GLmS6Y4e-68.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/93UDfkP1GLmS6Y4e-68.png)
+![68.png](./downloaded_image_1705285175148.png)
 
-[![Picture 69.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/T8HYyipwMHybaUFx-picture-69.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/T8HYyipwMHybaUFx-picture-69.png)
+![Picture 69.png](./downloaded_image_1705285176171.png)
 
-[![Picture 70.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/scaled-1680-/w1ENx5o9MWkyC9Wj-picture-70.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-07/w1ENx5o9MWkyC9Wj-picture-70.png)
+![Picture 70.png](./downloaded_image_1705285177190.png)
 
 **Tip! - You have now seen an example of how to include Conditional Statement into your Dynamic Template (Basic if, else, else if).**  
 **There can be other types of Conditional Statements and applications like :**

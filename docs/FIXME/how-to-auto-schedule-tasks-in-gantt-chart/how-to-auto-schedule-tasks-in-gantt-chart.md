@@ -8,7 +8,7 @@ You can *Auto-schedule* all the task with a single click.
 
 Please refer to the GIF below for illustration:
 
-[![Auto Schedule-480p-230914.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/cVk5XQG9yO6Qyg8y-auto-schedule-480p-230914.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/cVk5XQG9yO6Qyg8y-auto-schedule-480p-230914.gif)**Please note:**
+![Auto Schedule-480p-230914.gif**Please note:**
 
 - The Auto-schedule feature respects all the dependencies established between tasks.
 - The duration of the tasks remain constant, however, start and end dates of the tasks can change.

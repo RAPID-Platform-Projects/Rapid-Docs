@@ -14,7 +14,7 @@ Ensure you have a SharePoint site associated with your group and sufficient admi
 
 1\) Navigate to the [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
-2\) Login and consent to the `Sites.FullControl.All` permission[![Graph permissions.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/EgsF92v0Fi6WGQXS-graph-permissions.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/EgsF92v0Fi6WGQXS-graph-permissions.png)
+2\) Login and consent to the `Sites.FullControl.All` permission![Graph permissions.png](./downloaded_image_1705285197568.png)
 
 3\) Fetch the site details by name
 
@@ -22,11 +22,11 @@ Ensure you have a SharePoint site associated with your group and sufficient admi
 
 For example to fetch the details of the internal site here at rapidplatform. Note that sites with a space in their name are removed; for example 'Product Testing' becomes 'ProductTesting'.
 
-[![image-1703121971296.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/mCUF5BiOkRqhzJlg-image-1703121971296.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/mCUF5BiOkRqhzJlg-image-1703121971296.png)
+![image-1703121971296.png](./downloaded_image_1705285198576.png)
 
 4\) Copy out id value
 
-[![image-1703122106535.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/8npRztxCjIM85Hrm-image-1703122106535.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/8npRztxCjIM85Hrm-image-1703122106535.png)
+![image-1703122106535.png](./downloaded_image_1705285199583.png)
 
 ##### Create the permission
 

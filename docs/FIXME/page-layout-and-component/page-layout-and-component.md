@@ -18,7 +18,7 @@ Layouts serve three main purposes:
 2. It assists in defining the arrangement of components on a page.
 3. If you want to hide / show all the components on Details or Creation, it can be done with a single click
 
-[![Page G.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/79FsZWG4jveuuq4B-page-g.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/79FsZWG4jveuuq4B-page-g.png)
+![Page G.png](./downloaded_image_1705285823309.png)
 
 Please note :
 
@@ -27,4 +27,4 @@ Please note :
 - Each layout can have multiple components.
 - There are a total of 19 component options that are possible in Rapid Platform.
 
-[![Component.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/UJlh8hlZXvg1XLV9-component.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/UJlh8hlZXvg1XLV9-component.png)
+![Component.png](./downloaded_image_1705285824328.png)

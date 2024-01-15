@@ -2,7 +2,7 @@
 
 This article has reference to the "Details" and "Create Screen" breakpoints as visible on the Design Tab of a Table in Designer.
 
-[![Hide DC1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/CC95Anbq1yQk0KVl-hide-dc1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/CC95Anbq1yQk0KVl-hide-dc1.png)
+![Hide DC1.png](./downloaded_image_1705285706824.png)
 
 ##### **The Premise - Details and Create Screen are always in sync**
 
@@ -34,10 +34,10 @@ Therefore, you would want to have this displayed on "Details" breakpoint but hid
 
 You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**, **[component or layout](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")** from Create Screen by using the circle icon in the horizontal options bar. This is highlighted below:
 
-[![HideCreate1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ltmMt5VzqRH2cKYg-hidecreate1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ltmMt5VzqRH2cKYg-hidecreate1.png)
+![HideCreate1.png](./downloaded_image_1705285707844.png)
 
-- When the circle appears full, this means the subject is visible on the "Create Screen" breakpoint. [![CreateHideNo.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/eIEbNDkcJhcoMJnJ-createhideno.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/eIEbNDkcJhcoMJnJ-createhideno.png)
-- When the circle appears with a diagonal strike, this means the subject is hidden from the "Create Screen" breakpoint.[![CreateHideYes.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/23HmYf2S1tF85mZr-createhideyes.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/23HmYf2S1tF85mZr-createhideyes.png)
+- When the circle appears full, this means the subject is visible on the "Create Screen" breakpoint. ![CreateHideNo.png](./downloaded_image_1705285708876.png)
+- When the circle appears with a diagonal strike, this means the subject is hidden from the "Create Screen" breakpoint.![CreateHideYes.png](./downloaded_image_1705285709899.png)
 
 ##### **Hiding a group of components / fields from Create Screen breakpoint**
 
@@ -47,14 +47,14 @@ Imagine you are displaying the invoice information for a client on the "Details"
 
 If you want all of the above information in the Form component to be hidden from the "Create Screen" breakpoint, just toggle the circle icon on the Form component. You need not individually hide each field from the Page. All the fields in the Form Component will be hidden as the Form is set hidden from "Create Screen" breakpoint.
 
-[![C show.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/Bxqm4qdJetSxKvfY-c-show.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/Bxqm4qdJetSxKvfY-c-show.png)[![C hide.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ePAeYUjTMfTD9TRb-c-hide.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ePAeYUjTMfTD9TRb-c-hide.png)
+![C show.png](./downloaded_image_1705285710928.png)](./downloaded_image_1705285712020.png)
 
 Similarly you can hide / show a layout. All the components in the layout will be hidden or shown with a single click on circle.
 
 <table border="1" id="bkmrk-all-components-in-gr" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 41.4146%;">  
-[![2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/GWRmPpRg06gStTCU-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/GWRmPpRg06gStTCU-2.png)</td><td style="width: 58.5854%;">  
+![2.png](./downloaded_image_1705285713039.png)</td><td style="width: 58.5854%;">  
 All components in Grid Layout will be hidden from the "Create Screen" breakpoint</td></tr><tr><td style="width: 41.4146%;">  
-[![1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/jvSc332H0sM3y3NT-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/jvSc332H0sM3y3NT-1.png)</td><td style="width: 58.5854%;">  
+![1.png](./downloaded_image_1705285714056.png)</td><td style="width: 58.5854%;">  
 All components in Grid Layout will appear in the "Create Screen" breakpoint (if they are not set as hidden individually)</td></tr></tbody></table>
 
 ##### **Hide field / component from Details breakpoint**
@@ -65,27 +65,27 @@ In such cases, you would want a certain fields / components to be present at the
 
 You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**, **[component or layout](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")** from Details breakpoint by using the eye icon in the horizontal options bar. This is highlighted below:
 
-[![Screenshot 2023-10-30 at 9.07.00 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/VHX9i04br8DARrWx-screenshot-2023-10-30-at-9-07-00-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/VHX9i04br8DARrWx-screenshot-2023-10-30-at-9-07-00-pm.png)
+![Screenshot 2023-10-30 at 9.07.00 PM.png](./downloaded_image_1705285715076.png)
 
 - When only the eye icon appears, this means the subject is visible on the "Details" breakpoint.  
-    [![D show.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/EpLIwHS5M4Manqei-d-show.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/EpLIwHS5M4Manqei-d-show.png)
+    ![D show.png](./downloaded_image_1705285716097.png)
 - When the eye icon appears with a small stroked circle at the bottom right, this means the subject is hidden from the "Details" breakpoint.  
-    [![D hide.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7Q8v825PALcjYRK9-d-hide.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7Q8v825PALcjYRK9-d-hide.png)
+    ![D hide.png](./downloaded_image_1705285717127.png)
 
 ##### **Hiding a group of components / fields from Details breakpoint**
 
 Just like hiding a single component or field from the "Details", you can also hide a group of fields (present in a **[Form component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**) or a group of components (present in a **[Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")**) from "Details".
 
 <table border="1" id="bkmrk-all-fields-in-form-c" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 41.4198%;">  
-[![F-2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/8O3XEHoTrOolzAFy-f-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/8O3XEHoTrOolzAFy-f-2.png)  
+![F-2.png](./downloaded_image_1705285718147.png)  
 </td><td style="width: 58.7038%;">  
 All fields in Form component will be hidden from the "Details" breakpoint</td></tr><tr><td style="width: 41.4198%;">  
-[![F-1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/IC9A9ZR901iHszmt-f-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/IC9A9ZR901iHszmt-f-1.png)</td><td style="width: 58.7038%;">  
+![F-1.png](./downloaded_image_1705285719163.png)</td><td style="width: 58.7038%;">  
 All fields will appear in the "Details" breakpoint (if they are not set as hidden individually)</td></tr><tr><td style="width: 41.4198%;">  
-[![G--2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/5EUQ8uo399FIay6K-g-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/5EUQ8uo399FIay6K-g-2.png)  
+![G--2.png](./downloaded_image_1705285720179.png)  
 </td><td style="width: 58.7038%;">  
 All components in Grid Layout will be hidden from the "Details" breakpoint</td></tr><tr><td style="width: 41.4198%;">  
-[![G-1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/U1IbHA3PeV4PKMyn-g-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/U1IbHA3PeV4PKMyn-g-1.png)  
+![G-1.png](./downloaded_image_1705285721204.png)  
 </td><td style="width: 58.7038%;">  
 All components in Grid Layout will appear in the "Details" breakpoint (if they are not set as hidden individually)</td></tr></tbody></table>
 

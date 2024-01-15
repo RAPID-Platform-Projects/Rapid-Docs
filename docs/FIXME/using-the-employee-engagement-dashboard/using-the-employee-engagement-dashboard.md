@@ -7,9 +7,9 @@ As part of the HR module, you are provided with an Out-Of-The-Box Employee Engag
 ### How to Access the Employee Engagement Dashboard
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1703651698901.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Wjh9cXTQiFM15MwK-image-1703651698901.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Wjh9cXTQiFM15MwK-image-1703651698901.png)
+    ![image-1703651698901.png](./downloaded_image_1705286159254.png)
 2. Select the **Employee Engagement** tab  
-    [![image-1703656115343.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/WrH8RmHU6ku66EbS-image-1703656115343.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/WrH8RmHU6ku66EbS-image-1703656115343.png)
+    ![image-1703656115343.png](./downloaded_image_1705286160274.png)
 
 ### Using the Employee Engagement Dashboard
 
@@ -21,7 +21,7 @@ The Employee Engagement Report can be “sliced” based on no attributes, one a
 
 For example, you could use the slicers to filter down the visuals to 2024 for the Finance department.
 
-[![image-1703656169527.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/jmHUqKdXmQWwWAj2-image-1703656169527.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/jmHUqKdXmQWwWAj2-image-1703656169527.png)
+![image-1703656169527.png](./downloaded_image_1705286161294.png)
 
 ### Questionnaires Sent and Responses Received
 
@@ -38,7 +38,7 @@ The provided cards are as follows:
 
 Response Rate – The percentage of responses based on the count sent.
 
-[![image-1703656237847.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/VRF1goVMbsrF3eKD-image-1703656237847.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/VRF1goVMbsrF3eKD-image-1703656237847.png)
+![image-1703656237847.png](./downloaded_image_1705286162312.png)
 
 ##### Questionnaires Sent vs Responses Received Graph
 
@@ -46,7 +46,7 @@ The Questionnaires Sent vs Responses Received Graph is a simple visual that show
 
 It is also possible to change the unit of time from “Month” to “Year”. To do this simply click on the “Drill Up” arrow on the top right of the visual. To move back from the “Year” view to the “Month” view click on the “Drill Down” button and select the year you wish to drill down to.
 
-[![image-1703656301112.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/wGwPTrbxFgVVVmA1-image-1703656301112.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/wGwPTrbxFgVVVmA1-image-1703656301112.png)
+![image-1703656301112.png](./downloaded_image_1705286163336.png)
 
 #### eNPS Overview
 
@@ -63,10 +63,10 @@ The provided cards are as follows:
 - \# of Neutrals \\ % of Neutrals – Represents the count of responses with a score of 7-8. While percentage represents the percentage of responses with a score of 7-8 (Can be sliced by Month, Year, and Department).
 - \# of Promotors \\ % of Promotors – Represents the count of responses with a score of 9-10. While percentage represents the percentage of responses with a score of 9-10(Can be sliced by Month, Year, and Department).
 
-[![image-1703656362602.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/sP4hUhJogMNV6D2L-image-1703656362602.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/sP4hUhJogMNV6D2L-image-1703656362602.png)
+![image-1703656362602.png](./downloaded_image_1705286164356.png)
 
 ##### eNPS by Department Graph
 
 The eNPS by Department Graph is a simple visual that shows the eNPS score at a department level. This can be sliced by Month, Year, and Department.
 
-[![image-1703656409290.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zUyNEwPPbgx49Qyw-image-1703656409290.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zUyNEwPPbgx49Qyw-image-1703656409290.png)
+![image-1703656409290.png](./downloaded_image_1705286165369.png)

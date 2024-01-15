@@ -15,7 +15,7 @@ Gantt Chart Dependencies show how project tasks are connected and help you deter
 
 In RAPID Platform, dependencies in Gantt Chart are depicted with arrows connecting the boundaries of related tasks.
 
-[![Screenshot 2023-09-14 at 8.41.23 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/qIdBpujdq7CibLv0-screenshot-2023-09-14-at-8-41-23-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/qIdBpujdq7CibLv0-screenshot-2023-09-14-at-8-41-23-pm.png)
+![Screenshot 2023-09-14 at 8.41.23 PM.png](./downloaded_image_1705285626472.png)
 
 ##### **Understanding Types of Dependencies in Gantt Chart**
 
@@ -56,7 +56,7 @@ Assuming that Task A and Task B cannot be run in parallel, you can finish phasin
 
 In a Gantt Chart, the above four dependencies can be represented as shown below:
 
-[![Screenshot 2023-09-14 at 6.22.38 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/kST70QS3GYAX69gZ-screenshot-2023-09-14-at-6-22-38-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/kST70QS3GYAX69gZ-screenshot-2023-09-14-at-6-22-38-pm.png)
+![Screenshot 2023-09-14 at 6.22.38 PM.png](./downloaded_image_1705285627495.png)
 
 #####   
 
@@ -88,7 +88,7 @@ To create dependencies among tasks, please consider the following points:
 
 Please refer to the below GIF for illustration
 
-[![Create dependency-480p-230914.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/lxeFz3bkT6JIwvBd-create-dependency-480p-230914.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/lxeFz3bkT6JIwvBd-create-dependency-480p-230914.gif)
+![Create dependency-480p-230914.gif
 
 ##### **Editing dependencies in Gantt Chart**
 
@@ -117,7 +117,7 @@ To edit a dependency, please consider the following points:
 
 Please refer to the below GIF for illustration
 
-[![Edit dependency-480p-230914.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/8fqIRSZmOcTO2g4v-edit-dependency-480p-230914.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/8fqIRSZmOcTO2g4v-edit-dependency-480p-230914.gif)
+![Edit dependency-480p-230914.gif
 
 ##### **Related articles**
 

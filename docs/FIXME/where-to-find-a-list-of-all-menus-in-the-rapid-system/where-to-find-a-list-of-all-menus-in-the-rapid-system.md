@@ -11,9 +11,9 @@ The system provides a centralized list of all menus.
 #### Accessing the list of Menus
 
 1. Navigate to Designer &gt; Menus &gt; All Menus  
-    [![image-1701997110502.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/hm9kXyFL5OE0xMMn-image-1701997110502.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/hm9kXyFL5OE0xMMn-image-1701997110502.png)
+    ![image-1701997110502.png](./downloaded_image_1705286288865.png)
 2. (Optional) Double-Clicking on the Menu item will open it and enable you to edit it (To find out more about editing Menus see [How to configure a Menu Button in Command Bar](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar))  
-    [![image-1701999920858.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/mSF4LF210M9btLHA-image-1701999920858.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/mSF4LF210M9btLHA-image-1701999920858.png)
+    ![image-1701999920858.png](./downloaded_image_1705286289880.png)
 
 #### Menu List Details
 
@@ -27,19 +27,19 @@ Built-In types are the Sidebar menus that come preconfigured in a blank install 
 
 Standard types are any Command Bar menus that you have configured. On tables where you have not configured a Command Bar menu there will not be an entry.
 
-[![image-1701998664035.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/7eduVuUXKdUGKacp-image-1701998664035.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/7eduVuUXKdUGKacp-image-1701998664035.png)
+![image-1701998664035.png](./downloaded_image_1705286290904.png)
 
 ##### Title Column:
 
 The title column shows the name of the Menu. The Build-In menus have hard coded titles of: "Designer" and "Explorer Sidebar". While the Standard menus are system generated based on where the menu was created. For example, if you create a Command Bar menu on the Assets table the menu will be title: Asset Profile.
 
-[![image-1701999715922.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/1AWEFkPQmjaHWBe0-image-1701999715922.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/1AWEFkPQmjaHWBe0-image-1701999715922.png)
+![image-1701999715922.png](./downloaded_image_1705286291928.png)
 
 ##### List Column:
 
 The list column shows which list the menu is created on if relevant. If the **Command Bar** menu is created on the **Assets** list this column will shows **Assets**.
 
-[![image-1701999696258.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LAl97gOhTguKqKXo-image-1701999696258.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LAl97gOhTguKqKXo-image-1701999696258.png)
+![image-1701999696258.png](./downloaded_image_1705286292954.png)
 
 ##### **Related article**
 

@@ -15,23 +15,23 @@ The Perform Remote Action makes a post request to the specified address.
 #### How to configure a menu button to Perform a remote action
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285683456.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702265202904.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/QjdJ55Cjf9PhBmWy-image-1702265202904.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/QjdJ55Cjf9PhBmWy-image-1702265202904.png)
+    ![image-1702265202904.png](./downloaded_image_1705285684470.png)
 3. Click on Menu  
-    [![image-1702270949641.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Rp5v8OxykXSgFjGQ-image-1702270949641.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Rp5v8OxykXSgFjGQ-image-1702270949641.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** [![image-1702271004715.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/tj1UoCTCZzpNoHOh-image-1702271004715.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/tj1UoCTCZzpNoHOh-image-1702271004715.png)
+    ![image-1702270949641.png](./downloaded_image_1705285685482.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285686494.png)
 5. Choose a name and Icon  
-    [![image-1702271084339.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/CbDl79gtd3qvltyO-image-1702271084339.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/CbDl79gtd3qvltyO-image-1702271084339.png)
+    ![image-1702271084339.png](./downloaded_image_1705285687510.png)
 6. Select Perform Remote Action as the On-Click Action  
-    [![image-1702271563763.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/BnySLJgnAvPFOlsc-image-1702271563763.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/BnySLJgnAvPFOlsc-image-1702271563763.png)
+    ![image-1702271563763.png](./downloaded_image_1705285688528.png)
 7. Configure the Include Item toggle (Configure to true if you want to include the current item context in the network request)
 8. Configure the Single Request toggle (Configure to true, if you have multiple items selected and you want a single network request with these sent as an array of items as opposed to many network requests with one item each)
 9. Paste in your post address
 10. OPTIONAL Enter info text for reference in Rapid as to what this post request does
 11. OPTIONAL Enter an Action ID (This is a hard coded string that can be used for reference in the post address)
 12. Configure the "Include Form" toggle (Set this to true if you want to have a drop-down form appear when the menu button is pressed to add in additional information to the request)  
-    [![image-1702271917727.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/yj2U569dWssK2bpi-image-1702271917727.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/yj2U569dWssK2bpi-image-1702271917727.png)
+    ![image-1702271917727.png](./downloaded_image_1705285689546.png)
 
 #### Remote Action Options Further Details
 
@@ -52,7 +52,7 @@ As we can observe, the following fields are prompted by the system upon selectio
 - **Silent -** This toggle field when in OFF state, prevents the action from adding a note to the item indicating it was performed. In other words, this field allows you to define if the action behaves in silent mode.
 - **Include form -** Sometimes there is a need for a form to collect user input and provide it to the action. The inputs needs to accompany the network request. In such a case, you can toggle this field to ON state. As it goes to ON state, a new field will appear below it.
 - **Select form -** This field is enabled only if the "Include form" field is toggled ON. This is a dropdown field and allows you to select the relevant Adaptive Form from a list of all existing forms created in RAPID's Adaptive Designer. You can select the relevant form by clicking on the form title. 
-    - Note: The form must only be configured to fields that the menu button is on. Submission of the form will NOT create a new item but include the form data in the network request. See the image below showing what a menu button looks like when a form is included. [![image-1701912652813.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/WCDaYBqwQaCngtce-image-1701912652813.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/WCDaYBqwQaCngtce-image-1701912652813.png)
+    - Note: The form must only be configured to fields that the menu button is on. Submission of the form will NOT create a new item but include the form data in the network request. See the image below showing what a menu button looks like when a form is included. ![image-1701912652813.png](./downloaded_image_1705285690560.png)
 
 #### Post Body:
 

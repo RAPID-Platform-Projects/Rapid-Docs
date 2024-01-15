@@ -4,7 +4,7 @@ The purpose of this endpoint allows a user to convert Word or PowerPoint (or oth
 
 To integrate this into a workflow follow these steps:
 
-1. Ensure that you have a fill document service task before the webhook (convert to pdf) service task. [![image-1673925425475.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/lrtcehnwLricrVnC-image-1673925425475.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/lrtcehnwLricrVnC-image-1673925425475.png)
+1. Ensure that you have a fill document service task before the webhook (convert to pdf) service task. ![image-1673925425475.png](./downloaded_image_1705286157219.png)
 2. Configure the word to pdf service task as a webhook
 3. Paste in the following endpoint and be sure to fill in your code, tenant, site, and environment: 
     1. If you are working on a Simpli end point you can find the code on the Rapid Internal Site &gt; DevOps &gt; Software Products &gt; SimpliLTDAPI &gt; ConvertDocumentToPDF
@@ -14,4 +14,4 @@ To integrate this into a workflow follow these steps:
     5.
 4. Ensure the Method is set to "POST"
 5. In the custom body create a JSON with the following format <div>`{`</div><div>`    "drive_item_id": "ENTER ITEM ID OF FILLED DOCUMENT",`</div><div>`    "drive_id": "ENTER DRIVE ID OF FILLED DOCUMENT",`</div><div>`    "target_drive_id": "OPTIONAL: TARGET DRIVE ID",`</div><div>`    "target_drive_item_id": "OPTIONAL: FOLDER"`</div><div>`}`</div>
-6. See below example of configured Word to PDF [![image-1673926840636.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/jODAru4UPGj1tLZ4-image-1673926840636.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/jODAru4UPGj1tLZ4-image-1673926840636.png)
+6. See below example of configured Word to PDF ![image-1673926840636.png](./downloaded_image_1705286158229.png)

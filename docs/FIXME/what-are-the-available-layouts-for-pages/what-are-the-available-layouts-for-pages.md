@@ -4,13 +4,13 @@
 
 Rapid Platform provides you a set of five layout options to organise [**components**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") across a [**Page**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component").
 
-[![Screenshot 2023-10-25 at 15.46.18.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7XQiiEOjfUeDwxPq-screenshot-2023-10-25-at-15-46-18.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7XQiiEOjfUeDwxPq-screenshot-2023-10-25-at-15-46-18.png)
+![Screenshot 2023-10-25 at 15.46.18.png](./downloaded_image_1705286261231.png)
 
 - ##### **Horizontal Layout**
 
 As the name suggests, in this layout the components are arranged horizontally.
 
-[![Horizontal.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/nCbeOBOKc20TxP0t-horizontal.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/nCbeOBOKc20TxP0t-horizontal.png)
+![Horizontal.png](./downloaded_image_1705286262245.png)
 
 Please note:
 
@@ -20,15 +20,15 @@ Please note:
 - This layout will attempt to fit to the size of the screen viewing it.
 - This layout is default when a **[new page is created via a Tab Strip](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page-in-designer "How to create a Page in Designer?")**, without changing the default Page name. The system provides a default Page name as the Table name using which the page is being created.
 
-[![Hori - 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/icT8dTA0ptw3ITXv-hori-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/icT8dTA0ptw3ITXv-hori-1.png)
+![Hori - 1.png](./downloaded_image_1705286263258.png)
 
-[![Hori - 2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/u56vLATJom7saT1y-hori-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/u56vLATJom7saT1y-hori-2.png)
+![Hori - 2.png](./downloaded_image_1705286264273.png)
 
 - ##### **Vertical Layout**
 
 In this layout the components are arranged vertically.
 
-[![Vertical.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/SBpqJmuuvB87B0pd-vertical.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/SBpqJmuuvB87B0pd-vertical.png)
+![Vertical.png](./downloaded_image_1705286265287.png)
 
 Please note:
 
@@ -45,9 +45,9 @@ The Flex Layout allows you to choose whether you want to the subject layout to b
 
 As you click on the Edit icon (*Pencil)*, the Edit panel will open on the right side of the screen.
 
-[![Flex - 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/GPziLQMGPUioRaz9-flex-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/GPziLQMGPUioRaz9-flex-1.png)
+![Flex - 1.png](./downloaded_image_1705286266301.png)
 
-[![Flex 2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/vlSVu6q9wh7S7Ynf-flex-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/vlSVu6q9wh7S7Ynf-flex-2.png)
+![Flex 2.png](./downloaded_image_1705286267312.png)
 
 You can select the direction of the layout either Vertical or Horizontal. The layout will behave as defined.
 
@@ -61,7 +61,7 @@ Please note:
 
 In a Grid Layout, you can arrange the components as per your need.
 
-[![Grid.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ef6q3sIsMCzIuYt5-grid.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ef6q3sIsMCzIuYt5-grid.png)
+![Grid.png](./downloaded_image_1705286268322.png)
 
 Please note:
 
@@ -69,7 +69,7 @@ Please note:
 - Grid Layouts will not attempt to scale to the size of the screen vertically and can be scrolled. They will still attempt to scale horizontally.
 - This is present by default on the Details Tab of a Table in Designer.
 
-[![Screenshot 2023-10-25 at 18.08.32.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/OQUeNblQ5Zib1NWV-screenshot-2023-10-25-at-18-08-32.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/OQUeNblQ5Zib1NWV-screenshot-2023-10-25-at-18-08-32.png)
+![Screenshot 2023-10-25 at 18.08.32.png](./downloaded_image_1705286269333.png)
 
 - ##### **Tab Strip**
 
@@ -80,19 +80,19 @@ Please note:
 - [**Using a Tab Strip you can create new tabs and new Pages.**](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page-in-designer "How to create a Page in Designer?")
 - You can edit Tab Strip preferences by clicking on the Edit icon (*Pencil*)
 
-[![Tab1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7hjoKf2ZxzgDrh9A-tab1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7hjoKf2ZxzgDrh9A-tab1.png)
+![Tab1.png](./downloaded_image_1705286270349.png)
 
   
-[![Tab Map.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/tMk6hNcaopXlBQZw-tab-map.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/tMk6hNcaopXlBQZw-tab-map.png)
+![Tab Map.png](./downloaded_image_1705286271365.png)
 
 **In this panel you can:**
 
 1. View the Tab Title (the name with which it appears in the Tab Strip)
 2. View the Page Title (the name of the page in the system)
-3. Toggle whether the Tab should be visible on Tab Strip or not [![DisplayTab Yes.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/PQRTEWJ1LiUVB8WX-displaytab-yes.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/PQRTEWJ1LiUVB8WX-displaytab-yes.png)[![DisplayTab No.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/rh80lE9psKDai4fZ-displaytab-no.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/rh80lE9psKDai4fZ-displaytab-no.png)
-4. Toggle whether the Embedded File Bar should be visible on the page or not. [![Embedded File Bar VISIBLE .png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/orkqbb1F4H9OuJIJ-embedded-file-bar-visible.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/orkqbb1F4H9OuJIJ-embedded-file-bar-visible.png)[![Embedded File Bar NOT VISIBLE .png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/4g1TScSaDJGSUXqC-embedded-file-bar-not-visible.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/4g1TScSaDJGSUXqC-embedded-file-bar-not-visible.png)
+3. Toggle whether the Tab should be visible on Tab Strip or not ![DisplayTab Yes.png](./downloaded_image_1705286272382.png)](./downloaded_image_1705286273468.png)
+4. Toggle whether the Embedded File Bar should be visible on the page or not. ![Embedded File Bar VISIBLE .png](./downloaded_image_1705286274492.png)]
 5. Remove a Tab from the Tab Strip (by pressing the bin icon in the far right of the subject Tab row) &lt;&lt;
-6. Select a Tab by clicking on the Tab row. A tick mark indicates that the subject Tab is selected [![Tab Selection.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7LyEKrMyrRTEQy87-tab-selection.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7LyEKrMyrRTEQy87-tab-selection.png)
+6. Select a Tab by clicking on the Tab row. A tick mark indicates that the subject Tab is selected ![Tab Selection.png](./downloaded_image_1705286276614.png)
 7. As you select a Tab, the Tab particulars open. Here you can : 
     - Edit the Tab Title
     - Edit the Page Title
@@ -101,16 +101,16 @@ Please note:
 
 **Other features in Tab Strip in Designer**
 
-- You can see the existing Tabs on the strip [![ViewTabs.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/XHggDhxYE7xqtWDZ-viewtabs.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/XHggDhxYE7xqtWDZ-viewtabs.png)
-- When a Tab is hidden it still can be seen on the Tab Strip as greyed.[![Hidden 1,2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/xSEsrwYtgFzgoIp6-hidden-12.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/xSEsrwYtgFzgoIp6-hidden-12.png)
-- When you select the hidden tab, it provides an option to enable it. [![Hidden3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/izzIzDRVCzYQ65As-hidden3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/izzIzDRVCzYQ65As-hidden3.png)
+- You can see the existing Tabs on the strip ![ViewTabs.png](./downloaded_image_1705286277629.png)
+- When a Tab is hidden it still can be seen on the Tab Strip as greyed.![Hidden 1,2.png](./downloaded_image_1705286278653.png)
+- When you select the hidden tab, it provides an option to enable it. ![Hidden3.png](./downloaded_image_1705286279677.png)
 - You can rearrange the order of the tabs on the strip by dragging them in desired position in the Edit panel.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/G1fQj2VaOr0?si=Ie7oOk-l9T0KstFi" title="YouTube video player" width="750"></iframe>
 
 **Important Tip:** Post saving the changes in the Tab Strip Edit Panel, you still need to press the Save button on the Page for the changes to take effect.
 
-[![Save.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7P4eS1AZrVNBGATy-save.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7P4eS1AZrVNBGATy-save.png)
+![Save.png](./downloaded_image_1705286280695.png)
 
 #####   
 

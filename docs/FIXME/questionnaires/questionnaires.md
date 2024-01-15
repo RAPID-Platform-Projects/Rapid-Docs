@@ -14,13 +14,13 @@ Click [HERE](https://simpliltd.sharepoint.com/:u:/s/Internal/Edq0C-pNT61Ht8A_mAS
 
 To import the bundle into a site, go to designer &gt; advanced (bottom left) &gt; Bundles &gt; Upload custom Bundle
 
-[![image-1675140648683.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/NUvBI3KAvt6Xt1G9-image-1675140648683.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/NUvBI3KAvt6Xt1G9-image-1675140648683.png)
+![image-1675140648683.png](./downloaded_image_1705285863067.png)
 
 Select the file you downloaded, and the bundle will be installed to your site.
 
 In Explorer mode, you should now have these tables on your sidebar (Templates, Questionnaires, Questions, Answers, People)
 
-[![image-1675140944379.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/3zyNVw7JZSPmoerS-image-1675140944379.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/3zyNVw7JZSPmoerS-image-1675140944379.png)
+![image-1675140944379.png](./downloaded_image_1705285864083.png)
 
 At this point, you will probably wish to switch out the People table for whatever table you are using to track your Clients, Members, Principles etc.
 
@@ -81,11 +81,11 @@ To test your setup, create a new test workflow.
 
 To the default start event, add two tasks, then an end. click on the background and add two inputs, People and Template. (if you are making anonymous questionnaires, don't add People) make these inputs of Number type.
 
-[![image-1675142991070.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/X9RVtU1cudIdyUjE-image-1675142991070.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/X9RVtU1cudIdyUjE-image-1675142991070.png)
+![image-1675142991070.png](./downloaded_image_1705285865100.png)
 
 Make the first task a 'get rapid items' task. make the second task, a user task.
 
-[![image-1675143126482.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/Djudn8PPe6TvEvKn-image-1675143126482.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/Djudn8PPe6TvEvKn-image-1675143126482.png)
+![image-1675143126482.png](./downloaded_image_1705285866119.png)
 
 The fist task is to get all the questions that relate to the template in question. So you want to get items from the Questions table.
 
@@ -117,7 +117,7 @@ For the Questionnaire you need the Template, this is just the id of the template
 
 And, if you are making trackable questionnaires, you need to prefill the ID of the person who is filling out the form. in this example case that is **&lt;%= inputs.person %&gt;**
 
-[![image-1675144165142.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/wO9bxHv2bNDphRH6-image-1675144165142.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/wO9bxHv2bNDphRH6-image-1675144165142.png)
+![image-1675144165142.png](./downloaded_image_1705285867130.png)
 
 Finally, you need to Prefill the questions themselves. For this, you need a Stringified version of the output from the last task:
 
@@ -139,6 +139,6 @@ Then, manually trigger your workflow, set the Template and Person inputs to the 
 
 The form task will have created a form. When submitted, this form should create a 'Questionnaire' item, linked to your person, and with a number of answer items linked to it.
 
-[![image-1675145236262.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/scaled-1680-/YBe6goRnp9YOmXWC-image-1675145236262.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-01/YBe6goRnp9YOmXWC-image-1675145236262.png)
+![image-1675145236262.png](./downloaded_image_1705285868139.png)
 
 Your form should prefill with all questions linked to the template you have chosen.

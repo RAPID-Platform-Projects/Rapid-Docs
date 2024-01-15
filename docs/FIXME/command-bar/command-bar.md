@@ -4,11 +4,11 @@ A command bar is the horizontal area containing command buttons like Save, Delet
 
 **Command bar in Table view**
 
-[![Command Bar - Data Table.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-11/Vr9LoPLuVCOmSZd6-command-bar-data-table.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/9oMCkDEUBiXhcR8V-command-bar-table.png)
+![Command Bar - Data Table.png
 
 **Command bar in Item view**
 
-[![Command Bar - Item Profile.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-11/wlwDAsKdOJmXqv58-command-bar-item-profile.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/pfeTx2LBamZvooG4-command-bar-item.png)
+![Command Bar - Item Profile.png
 
 ##### **Related article**
 

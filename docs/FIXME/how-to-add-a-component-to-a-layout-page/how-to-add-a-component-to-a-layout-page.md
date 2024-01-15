@@ -17,35 +17,35 @@ This article only focuses on how to add a component to the Page. It is assumed t
 To add a new component to a [**Page layout**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component"), please follow the below steps:
 
 
-[![Picture 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/7p5w2tu4d0rqPWcT-picture-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/7p5w2tu4d0rqPWcT-picture-1.png)
+![Picture 1.png](./downloaded_image_1705285521002.png)
 
-[![Picture 2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/DM6dlF0c0ilrGUTT-picture-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/DM6dlF0c0ilrGUTT-picture-2.png)
+![Picture 2.png](./downloaded_image_1705285522026.png)
 
-[![Picture 3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/BLkSlh0sphkPrkwJ-picture-3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/BLkSlh0sphkPrkwJ-picture-3.png)
+![Picture 3.png](./downloaded_image_1705285523037.png)
 
-[![Picture 4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/Y0coSNPnd9qm68yr-picture-4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/Y0coSNPnd9qm68yr-picture-4.png)
+![Picture 4.png](./downloaded_image_1705285524060.png)
 
-[![Picture 5.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/YVyWlRqH9fjxkwTL-picture-5.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/YVyWlRqH9fjxkwTL-picture-5.png)
+![Picture 5.png](./downloaded_image_1705285525081.png)
 
-[![Picture 6.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/bQBZHOJYIH89PGT9-picture-6.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/bQBZHOJYIH89PGT9-picture-6.png)
+![Picture 6.png](./downloaded_image_1705285526107.png)
 
-[![Picture 7.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/R8aTwNAyzuyB9V3V-picture-7.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/R8aTwNAyzuyB9V3V-picture-7.png)
+![Picture 7.png](./downloaded_image_1705285527129.png)
 
-[![Picture 8.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/CjIE1aRE0pZ6x7Yo-picture-8.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/CjIE1aRE0pZ6x7Yo-picture-8.png)
+![Picture 8.png](./downloaded_image_1705285528144.png)
 
-[![Picture 9.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/oe51ZD5C7GOBmAZq-picture-9.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/oe51ZD5C7GOBmAZq-picture-9.png)
+![Picture 9.png](./downloaded_image_1705285529169.png)
 
-[![Picture 10.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ks7iRRUpTupxasoc-picture-10.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ks7iRRUpTupxasoc-picture-10.png)
+![Picture 10.png](./downloaded_image_1705285530191.png)
 
-[![Picture 11.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/jemuWJLLF9II2Wx2-picture-11.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/jemuWJLLF9II2Wx2-picture-11.png)
+![Picture 11.png](./downloaded_image_1705285531211.png)
 
-[![Picture 11a.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/kXmGw0a7q8PBkStM-picture-11a.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/kXmGw0a7q8PBkStM-picture-11a.png)
+![Picture 11a.png](./downloaded_image_1705285532222.png)
 
-[![Picture 12.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/hEF9uRnDuzFeFFhw-picture-12.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/hEF9uRnDuzFeFFhw-picture-12.png)
+![Picture 12.png](./downloaded_image_1705285533242.png)
 
-[![Picture 13.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/UEdzK6paKPtBalGO-picture-13.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/UEdzK6paKPtBalGO-picture-13.png)
+![Picture 13.png](./downloaded_image_1705285534260.png)
 
-[![Picture 14.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ruHvLu27FBjiyqz1-picture-14.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ruHvLu27FBjiyqz1-picture-14.png)
+![Picture 14.png](./downloaded_image_1705285535289.png)
 
 ##### **Related articles**
 

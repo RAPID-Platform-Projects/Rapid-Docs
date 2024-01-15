@@ -22,7 +22,7 @@ There are two ways to send batches of forms. The first is by providing an array 
         <div><div><div><div>`{`</div><div>`  "source": {`</div><div>`    "environment": "prod",`</div><div>`    "site": "foundations-template-4",`</div><div>`    "tenant": "simpliltd"`</div><div>`  },`</div><div>`  "target": {`</div><div>`    "environment": "prod",`</div><div>`    "site": "home",`</div><div>`    "tenant": "ohmarketingau"`</div><div>`  },`</div><div>`  "Formids":[7,10]`</div><div>`}`</div></div></div></div>
     4. Press send. You should get a response saying forms created. Ensure that the forms were created on the target site by navigating to Settings&gt; Adaptive &gt; Adaptive Documents &gt; Look for you copied form in the list (Note: the title will remain the same but not the ID)
 
-[![image-1675741478533.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/scaled-1680-/JVvzB7xBhsy8YMQK-image-1675741478533.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/JVvzB7xBhsy8YMQK-image-1675741478533.png)
+![image-1675741478533.png](./downloaded_image_1705286155192.png)
 
 ### Group Name Import
 
@@ -38,4 +38,4 @@ There are two ways to send batches of forms. The first is by providing an array 
         <div><div>`{`</div><div>`    "source": {`</div><div>`      "environment": "prod",`</div><div>`      "site": "foundations-template-4",`</div><div>`      "tenant": "simpliltd"`</div><div>`    },`</div><div>`    "target": {`</div><div>`      "environment": "test",`</div><div>`      "site": "foundations-template-3",`</div><div>`      "tenant": "simpliltd"`</div><div>`    },`</div><div>`  "groupname": "Business Plan Forms"`</div><div>`  }`</div></div>
     4. Press send. You should get a response saying forms created. Ensure that the forms were created on the target site by navigating to Settings&gt; Adaptive &gt; Adaptive Documents &gt; Look for you copied form in the list (Note: the title will remain the same but not the ID)
 
-[![image-1675752667691.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/scaled-1680-/Nm5K6s6gaEtX8JrP-image-1675752667691.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/Nm5K6s6gaEtX8JrP-image-1675752667691.png)
+![image-1675752667691.png](./downloaded_image_1705286156205.png)

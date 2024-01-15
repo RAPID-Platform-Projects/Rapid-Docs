@@ -4,4 +4,4 @@ Creating a new form is quite easy within the RapidPlatform, first navigate to ex
 
 Open Explorer and click on the "Create Form" button on the sidebar to create a new form. You will be greeted with a new form page.
 
-[![image-1633561804682.rapidplatform.com.jpeg](https://docs.rapidplatform.com/uploads/images/gallery/2021-10/scaled-1680-/NYoo3CcExU4DLSBI-image-1633561804682-rapidplatform-com.jpeg)](https://docs.rapidplatform.com/uploads/images/gallery/2021-10/NYoo3CcExU4DLSBI-image-1633561804682-rapidplatform-com.jpeg)
+![image-1633561804682.rapidplatform.com.jpeg](./downloaded_image_1705285232062.jpeg)

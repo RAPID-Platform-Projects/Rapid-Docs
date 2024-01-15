@@ -8,7 +8,7 @@ The Task Experience can be accessed via  ***https://tasks.rapidplatform.com/\_pr
 
 Alternatively, if your site has the hour log and task dashboard on the launchpad, simply go to the tasks tab, find your task, and click the hyperlink next to it.
 
-[![image-1676599290079.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/scaled-1680-/vLw8WwcHwbz6cGLI-image-1676599290079.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/vLw8WwcHwbz6cGLI-image-1676599290079.png)
+![image-1676599290079.png](./downloaded_image_1705285811099.png)
 
 ##   
 
@@ -19,7 +19,7 @@ To select a Client Task to log hours against, you will want to change the view f
 
 With a Client Task selected the log hours form will display on the page as below (assuming the client task has no other form attached to it (eg. through workflow) ).
 
-[![image-1676611126534.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/scaled-1680-/pRq7dA17zpMdsZIg-image-1676611126534.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-02/pRq7dA17zpMdsZIg-image-1676611126534.png)
+![image-1676611126534.png](./downloaded_image_1705285812116.png)
 
 Simply fill in the user who worked the hours, how many hours were worked, and the date the hours were worked.
 

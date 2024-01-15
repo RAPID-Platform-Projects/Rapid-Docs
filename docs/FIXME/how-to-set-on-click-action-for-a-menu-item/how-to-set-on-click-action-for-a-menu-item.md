@@ -2,7 +2,7 @@
 
 Each menu item can be configured to perform certain action when clicked upon.
 
-[![Menus - Select action.png](https://docs.rapidplatform.com/uploads/images/gallery/2024-01/fUu65kZuAKZNlZCJ-menus-select-action.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/qbUDwCHdF190HT9W-image-1701842502024.png)
+![Menus - Select action.png
 
 RAPID Platform allows 9 types of on-click actions for menu items. These are:
 

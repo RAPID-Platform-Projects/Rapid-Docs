@@ -10,10 +10,10 @@ The process is triggered in two ways:
 
 1. **Automated Trigger:** On creation of the employee, if the “Trigger Performance Reviews” Boolean is true, the process will automatically be live for this employee.
 2. **Manuel Trigger:** The second way to trigger the process is by creating a “Performance Review” item. 
-    1. On the explorer side bar click **Human Resources** &gt; ****Performance Reviews**** [![image-1702529692518.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LgtLB5BxTcOUQSW4-image-1702529692518.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LgtLB5BxTcOUQSW4-image-1702529692518.png)
-    2. Click ****New Performance Review**** [![image-1702529707258.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/JLZrnrtvqiXl7Llb-image-1702529707258.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/JLZrnrtvqiXl7Llb-image-1702529707258.png)
+    1. On the explorer side bar click **Human Resources** &gt; ****Performance Reviews**** ![image-1702529692518.png](./downloaded_image_1705285825360.png)
+    2. Click ****New Performance Review**** ![image-1702529707258.png](./downloaded_image_1705285826378.png)
     3. Fill in the following required fields: **Employee**, **Manager**, **Review Date**, **Recurrence Rate** and click **Create**.  
-        [![image-1702529747782.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/rQrjNpicLeC2ijlY-image-1702529747782.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/rQrjNpicLeC2ijlY-image-1702529747782.png)
+        ![image-1702529747782.png](./downloaded_image_1705285827405.png)
 
 Once triggered, the performance review process follows these stages:
 

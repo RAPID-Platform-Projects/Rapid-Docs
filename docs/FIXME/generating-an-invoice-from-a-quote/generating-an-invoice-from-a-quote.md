@@ -7,14 +7,14 @@ As part of the Finance module comes the ability to automatically generate an inv
 ### How to Generate an Invoice from a Quote
 
 1. Navigate to the **Finance** &gt; **Quotes**  
-    [![image-1703721152456.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XSyLYlWPA7DQTC0Y-image-1703721152456.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XSyLYlWPA7DQTC0Y-image-1703721152456.png)
+    ![image-1703721152456.png](./downloaded_image_1705285509535.png)
 2. Open the quote you wish to create an Invoice from either by scrolling through the list or using the search bar.  
-    [![image-1703721410967.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/YkpBomsFzDzH127f-image-1703721410967.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/YkpBomsFzDzH127f-image-1703721410967.png)
+    ![image-1703721410967.png](./downloaded_image_1705285510549.png)
 3. Click the **Generate Invoice From Quote** menu button located in the top right of the page.  
-    [![image-1703723316248.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/3qHHtBEZr9BgYsXl-image-1703723316248.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/3qHHtBEZr9BgYsXl-image-1703723316248.png)
+    ![image-1703723316248.png](./downloaded_image_1705285511563.png)
 4. A form will appear, enter the Invoice Date and press **OK** and wait for the green “Work Executed Successfully” notification  
-    [![image-1703723348551.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/liMNmsK1WRsFZp5F-image-1703723348551.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/liMNmsK1WRsFZp5F-image-1703723348551.png)
+    ![image-1703723348551.png](./downloaded_image_1705285512585.png)
 5. Click on the Invoices tab – Here you will find any invoices that lookup to the quote item  
-    [![image-1703723384776.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/KIrjlwKro3MNy2oK-image-1703723384776.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/KIrjlwKro3MNy2oK-image-1703723384776.png)
+    ![image-1703723384776.png](./downloaded_image_1705285513605.png)
 6. Click on the title to access the newly created invoice item  
-    [![image-1703723396969.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/N2laCDoci2xf4XLu-image-1703723396969.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/N2laCDoci2xf4XLu-image-1703723396969.png)
+    ![image-1703723396969.png](./downloaded_image_1705285514626.png)

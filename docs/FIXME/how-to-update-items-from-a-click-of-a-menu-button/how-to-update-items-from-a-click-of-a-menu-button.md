@@ -11,20 +11,20 @@ For example - updating the status of tasks as complete with a click of a menu bu
 #### How to configure an "Update Items" menu button
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285727336.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    [![image-1702265202904.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/QjdJ55Cjf9PhBmWy-image-1702265202904.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/QjdJ55Cjf9PhBmWy-image-1702265202904.png)
+    ![image-1702265202904.png](./downloaded_image_1705285728348.png)
 3. Click on Menu  
-    [![image-1702270949641.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Rp5v8OxykXSgFjGQ-image-1702270949641.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Rp5v8OxykXSgFjGQ-image-1702270949641.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** [![image-1702271004715.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/tj1UoCTCZzpNoHOh-image-1702271004715.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/tj1UoCTCZzpNoHOh-image-1702271004715.png)
+    ![image-1702270949641.png](./downloaded_image_1705285729356.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285730369.png)
 5. Choose a name and Icon  
-    [![image-1702271084339.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/CbDl79gtd3qvltyO-image-1702271084339.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/CbDl79gtd3qvltyO-image-1702271084339.png)
+    ![image-1702271084339.png](./downloaded_image_1705285731378.png)
 6. Choose **Update Items** as the On-Click Action  
-    [![image-1702271143878.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/E3bANJnJ7KYCmCMl-image-1702271143878.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/E3bANJnJ7KYCmCMl-image-1702271143878.png)
+    ![image-1702271143878.png](./downloaded_image_1705285732396.png)
 7. Select the form you wish to dropdown when the menu button is clicked  
-    [![image-1702273809498.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LupicGAaetHtn1QS-image-1702273809498.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LupicGAaetHtn1QS-image-1702273809498.png)
+    ![image-1702273809498.png](./downloaded_image_1705285733416.png)
 8. Press Save  
-    [![image-1702273827649.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/F33dGoouHEAHVd7l-image-1702273827649.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/F33dGoouHEAHVd7l-image-1702273827649.png)
+    ![image-1702273827649.png](./downloaded_image_1705285734437.png)
 
 #### Additional Details:
 
@@ -40,8 +40,8 @@ This On-Click Action, basically executes an Adaptive Document. The user can inpu
 
 Now that the menu button is configured, makes it simple to update many items in bulks. Simply select the multiple items, press the menu button, fill in the field and press "OK". In image below the user wants to update the name of all three selected items to be the same.
 
-[![image-1701914296870.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/JpU3RS5TyRfW3MBz-image-1701914296870.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/JpU3RS5TyRfW3MBz-image-1701914296870.png)
+![image-1701914296870.png](./downloaded_image_1705285735454.png)
 
-[![image-1701914334147.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Y4PELMlkuYSZHKFN-image-1701914334147.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Y4PELMlkuYSZHKFN-image-1701914334147.png)
+![image-1701914334147.png](./downloaded_image_1705285736468.png)
 
 [Go back to ***On-Click Actions*** learning resource](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")

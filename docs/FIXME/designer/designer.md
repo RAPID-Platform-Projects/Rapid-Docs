@@ -6,7 +6,7 @@ It helps in defining Table Data Structures, Menu Configurations, Pages and other
 
 You can access Designer from your main Rapid site using the navigation bar on the bottom of the menu.
 
-[![Designer Button.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-11/fxFgaqQUlii5e3aa-designer-button.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-08/U8NlykECKnYYwmPr-designer-button.png)
+![Designer Button.png
 
 ##### **Related article**
 

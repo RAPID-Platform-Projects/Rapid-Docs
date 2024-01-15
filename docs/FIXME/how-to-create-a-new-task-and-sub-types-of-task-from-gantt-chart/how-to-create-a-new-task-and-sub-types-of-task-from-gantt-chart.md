@@ -4,23 +4,23 @@ A Gantt chart visually depicts the organisation of tasks across time.
 
 However, while analysing the sequence of tasks, there can be a need to create new tasks or sub-types of tasks (like phases or milestones). This can be easily achieved in Gantt Chart in RAPID Platform.
 
-[![New element Gantt.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/0bZmBA8ESZpig9HZ-new-element-gantt.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/0bZmBA8ESZpig9HZ-new-element-gantt.png)
+![New element Gantt.png](./downloaded_image_1705285593710.png)
 
 The above image displays the set of buttons which allows you to create new Tasks and new Sub-types of Tasks from within the Gantt chart.
 
 **New Task** - This a part of the permanent buttons set; always present on the Gantt Chart. When you click on this button, the panel to enter new Task Details will open on the right side of the screen.
 
-[![New Task Gantt.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/FgJscoWIRwyLIa42-new-task-gantt.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/FgJscoWIRwyLIa42-new-task-gantt.png)
+![New Task Gantt.png](./downloaded_image_1705285594733.png)
 
 As you fill out the required details, and press Create, the new Task will appear on the Gantt Chart. The new Task is sequenced in the list of tasks based on its Start Date.
 
-[![7.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/A6o1w8svSyBhfcYw-7.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/A6o1w8svSyBhfcYw-7.png)
+![7.png](./downloaded_image_1705285595760.png)
 
 **New Sub-types of Task** - These are the configured elements on the command bar. Therefore, they are not part of the permanent buttons, rather appear based on the [configuration done in the Designer Page](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?").
 
 To create a new sub-type of task of your choice, just click on the relevant button. This will open the corresponding panel at the right side of the page. Just like New Task, once you fill in the details and create, the new sub-type of task will appear on the Gantt Chart. Its position in the chart is based on the Start Date.
 
-##### **[![8.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/scaled-1680-/aLTclBKWXJ3JSs0U-8.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/aLTclBKWXJ3JSs0U-8.png)**
+##### **![8.png](./downloaded_image_1705285596781.png)**
 
 In the above image, a "New Phase" is added with Start Date as 7th September and End Date as 13th September.
 
@@ -39,10 +39,10 @@ Please refer to the below GIF for illustration.
 
 **Adding a new task from Gantt Chart**
 
-[![New Task Gantt 1-480p-230913.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/pmiWcT4Lrieu0J8W-new-task-gantt-1-480p-230913.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/pmiWcT4Lrieu0J8W-new-task-gantt-1-480p-230913.gif)
+![New Task Gantt 1-480p-230913.gif
 
 **Adding a new sub-type of task from Gantt Chart  
-[![New Task Gantt 2-480p-230913.gif](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/icMmCOviH7Pqw8xs-new-task-gantt-2-480p-230913.gif)](https://docs.rapidplatform.com/uploads/images/gallery/2023-09/icMmCOviH7Pqw8xs-new-task-gantt-2-480p-230913.gif)**
+![New Task Gantt 2-480p-230913.gif**
 
 ##### **Related articles**
 

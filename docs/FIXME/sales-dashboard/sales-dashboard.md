@@ -7,7 +7,7 @@ The **Sales Dashboard** provides users with a snapshot of the current state of t
 ### How to access the Sales Dashboard
 
 1. Navigate to CRM &gt; CRM Reporting  
-    [![image-1702611510800.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/Ue81wEVYeD32Gt0t-image-1702611510800.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Ue81wEVYeD32Gt0t-image-1702611510800.png)
+    ![image-1702611510800.png](./downloaded_image_1705285871187.png)
 
 ### Using the Sales Dashboard
 
@@ -17,7 +17,7 @@ The Sales Dashboard offers users an insightful overview of their sales and oppor
 
 Slicers provides the user with the ability to filter all of the visuals on the page by a specific attribute and can be found at the top of the page.
 
-[![image-1702881751415.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/ZpQnI9JYuEtkvcw9-image-1702881751415.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/ZpQnI9JYuEtkvcw9-image-1702881751415.png)
+![image-1702881751415.png](./downloaded_image_1705285872208.png)
 
 The Sales Dashboard can be “sliced” based on no attributes, one attribute, or multiple attributes. The attributes available to “slice” by are Status, Industry, Opportunity Owner, and Year. Each of which can be edited on the Opportunity or related Account item.
 
@@ -34,7 +34,7 @@ The provided cards are as follows:
 - Avg Age - The average age of opportunities that are Closed Won or Closed Lost. In other words, the average time to close.
 - Win Rate - The proportion of Closed Won opportunities as a percentage of all closed opportunities.
 
-[![image-1702882214436.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XYnd5fVZlJHx1vTi-image-1702882214436.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XYnd5fVZlJHx1vTi-image-1702882214436.png)
+![image-1702882214436.png](./downloaded_image_1705285873227.png)
 
 #### Graphs
 
@@ -44,28 +44,28 @@ The sales dashboard is comprised of 5 different graphs: Pipeline, Days to Close,
 
 The Pipeline visual shows the weighted value of each of the pipeline stages. This gives an indication of at what stage the majority of the value is sitting. It can be found in the top left of the Sales Dashboard.
 
-[![image-1702882395169.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/36LNnGyOXC6QXLgG-image-1702882395169.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/36LNnGyOXC6QXLgG-image-1702882395169.png)
+![image-1702882395169.png](./downloaded_image_1705285874249.png)
 
 ##### Days to Close
 
 The Days to Close visual shows the average Number of days from Opportunity creation to Opportunity closed. This is irrespective of whether it was closed won or closed lost.
 
-[![image-1702882558335.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/acFWzzNC07yVujG8-image-1702882558335.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/acFWzzNC07yVujG8-image-1702882558335.png)
+![image-1702882558335.png](./downloaded_image_1705285875267.png)
 
 ##### Forecast
 
 The Forecast visual shows the weighted estimated values of future opportunities by estimated closed date. This given an indication of the potential revenue and cashflow that could occur if the opportunities are closed at the estimated chance of success rate.
 
-[![image-1702882647916.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/weCeV6XHt7EpMnOk-image-1702882647916.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/weCeV6XHt7EpMnOk-image-1702882647916.png)
+![image-1702882647916.png](./downloaded_image_1705285876289.png)
 
 ##### Win Rate
 
 The Win Rate visual shows the proportion of Closed Won opportunities of all Closed opportunities through time. This can be used to assess the organizational performance or individual performance of Opportunity Managers.
 
-[![image-1702882854914.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/q613M9VxrXkherY0-image-1702882854914.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/q613M9VxrXkherY0-image-1702882854914.png)
+![image-1702882854914.png](./downloaded_image_1705285877313.png)
 
 ##### Revenue
 
 The revenue graph shows the total value of Closed Won opportunities through time.
 
-[![image-1702882900771.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/p4LfpIqxl2Co3EkB-image-1702882900771.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/p4LfpIqxl2Co3EkB-image-1702882900771.png)
+![image-1702882900771.png](./downloaded_image_1705285878332.png)

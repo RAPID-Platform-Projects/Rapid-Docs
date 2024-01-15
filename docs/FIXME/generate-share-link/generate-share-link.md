@@ -10,7 +10,7 @@ Note: In order to use this method to share a file, the file must exist in the ou
 
 A webhook is available to automatically create a Sharepoint Sharelink with an Azure function for easy use within Workflow.
 
-[![image-1701045189358.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-11/scaled-1680-/4ieHUaVSocLXWNhE-image-1701045189358.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-11/4ieHUaVSocLXWNhE-image-1701045189358.png)
+![image-1701045189358.png](./downloaded_image_1705285496318.png)
 
 Create a service task and select "trigger a webhook". In the "Trigger Endpoint" enter the endpoint URL of the Azure function:
 

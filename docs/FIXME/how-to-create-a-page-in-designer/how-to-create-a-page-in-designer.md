@@ -30,35 +30,35 @@ There can be two cases here:
 
 **Please follow the below steps:**
 
-[![Picture 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/O6C8AMD3JvuW2w0B-picture-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/O6C8AMD3JvuW2w0B-picture-1.png)
+![Picture 1.png](./downloaded_image_1705285597815.png)
 
 **If you wish to add a page to the [Item Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer"), then a Tab Strip Layout is present by default on it.**
 
-[![Picture 2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/QbBjpwl42BcguVa5-picture-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/QbBjpwl42BcguVa5-picture-2.png)
+![Picture 2.png](./downloaded_image_1705285598860.png)
 
-[![Screenshot 2023-10-17 at 10.33.10 PM.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/0oSxG0R8NNgoFVnz-screenshot-2023-10-17-at-10-33-10-pm.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/0oSxG0R8NNgoFVnz-screenshot-2023-10-17-at-10-33-10-pm.png)
+![Screenshot 2023-10-17 at 10.33.10 PM.png](./downloaded_image_1705285599888.png)
 
-[![Picture 4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/tXZUkI3xdUgUMj6F-picture-4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/tXZUkI3xdUgUMj6F-picture-4.png)
+![Picture 4.png](./downloaded_image_1705285600912.png)
 
-[![Picture 5.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/TeGQjTsvnLPImNyH-picture-5.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/TeGQjTsvnLPImNyH-picture-5.png)
+![Picture 5.png](./downloaded_image_1705285601953.png)
 
-[![Picture 6.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/y0kVt7MmDdUWu84i-picture-6.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/y0kVt7MmDdUWu84i-picture-6.png)
+![Picture 6.png](./downloaded_image_1705285602978.png)
 
-[![Picture 7.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/HJ7VNRnRVObR3CTc-picture-7.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/HJ7VNRnRVObR3CTc-picture-7.png)
+![Picture 7.png](./downloaded_image_1705285604007.png)
 
-[![Picture 8.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/Aut4I28Yd8bSEHvh-picture-8.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/Aut4I28Yd8bSEHvh-picture-8.png)
+![Picture 8.png](./downloaded_image_1705285605029.png)
 
-[![Picture 9.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/5QSVaMSKy5sfPF3m-picture-9.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/5QSVaMSKy5sfPF3m-picture-9.png)
+![Picture 9.png](./downloaded_image_1705285606058.png)
 
-[![Picture 10.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/x471XvtpcGiKkDQH-picture-10.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/x471XvtpcGiKkDQH-picture-10.png)
+![Picture 10.png](./downloaded_image_1705285607076.png)
 
-[![Picture 11.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/wFlEWDDNLJ0ERfzI-picture-11.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/wFlEWDDNLJ0ERfzI-picture-11.png)
+![Picture 11.png](./downloaded_image_1705285608105.png)
 
-[![Picture 12.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/2MP31u9bkFQF3xnG-picture-12.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/2MP31u9bkFQF3xnG-picture-12.png)
+![Picture 12.png](./downloaded_image_1705285609128.png)
 
-[![Picture 13.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/s1YLIlw03foaoZAL-picture-13.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/s1YLIlw03foaoZAL-picture-13.png)
+![Picture 13.png](./downloaded_image_1705285610150.png)
 
-[![Picture 14.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/xhfL22w28hsBmm6X-picture-14.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/xhfL22w28hsBmm6X-picture-14.png)
+![Picture 14.png](./downloaded_image_1705285611168.png)
 
 **As you press Save, your new page will be created. You can then add Layout or Components as desired.**
 
@@ -71,17 +71,17 @@ In case of Plural (Item group) Details breakpoint, the Tab Strip is not availabl
 
 **Please follow the below steps:**
 
-**[![Picture 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/iLWHLOxiMYL95agp-picture-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/iLWHLOxiMYL95agp-picture-1.png)**
+**![Picture 1.png](./downloaded_image_1705285612198.png)**
 
-**[![Picture 2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/xj0uR4skaBy7ONcA-picture-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/xj0uR4skaBy7ONcA-picture-2.png)**
+**![Picture 2.png](./downloaded_image_1705285613226.png)**
 
-**[![Picture 3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/eXcIDlaGtDedZnpn-picture-3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/eXcIDlaGtDedZnpn-picture-3.png)**
+**![Picture 3.png](./downloaded_image_1705285614243.png)**
 
-**[![Picture 4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/zXqLywf4jNJsYIBH-picture-4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/zXqLywf4jNJsYIBH-picture-4.png)**
+**![Picture 4.png](./downloaded_image_1705285615268.png)**
 
-**[![Picture 5.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/UNgtZmsRqpfDz5Ca-picture-5.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/UNgtZmsRqpfDz5Ca-picture-5.png)**
+**![Picture 5.png](./downloaded_image_1705285616296.png)**
 
-**[![Picture 6.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/QUhEYrubnj1LrhxT-picture-6.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/QUhEYrubnj1LrhxT-picture-6.png)**
+**![Picture 6.png](./downloaded_image_1705285617317.png)**
 
 **You can then follow Step 3. onwards as discussed above in Singular's case.**
 
@@ -93,21 +93,21 @@ Imagine you wish to create a CRM Report Dashboard, something that is not directl
 
 To create independent page from Page Manager, please consider the following steps:
 
-[![1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/ErUdESdzlt9JubNI-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/ErUdESdzlt9JubNI-1.png)
+![1.png](./downloaded_image_1705285618338.png)
 
-[![2.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/mIp9Xmf9XeYeCckL-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/mIp9Xmf9XeYeCckL-2.png)
+![2.png](./downloaded_image_1705285619355.png)
 
-[![3.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/vS89LTtQreVkYUc2-3.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/vS89LTtQreVkYUc2-3.png)
+![3.png](./downloaded_image_1705285620380.png)
 
-[![4.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/yXHBDo3Hv1bhuJHe-4.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/yXHBDo3Hv1bhuJHe-4.png)
+![4.png](./downloaded_image_1705285621395.png)
 
-[![5.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/Tw80u2SA8GpnjvHU-5.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/Tw80u2SA8GpnjvHU-5.png)
+![5.png](./downloaded_image_1705285622407.png)
 
-[![6.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/bdLtZ3ywFnBT6fq7-6.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/bdLtZ3ywFnBT6fq7-6.png)
+![6.png](./downloaded_image_1705285623418.png)
 
-[![7.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/HDjtRgxIH7Ux3Zub-7.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/HDjtRgxIH7Ux3Zub-7.png)
+![7.png](./downloaded_image_1705285624436.png)
 
-[![8.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/rYAYsrYrzks3TuNE-8.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/rYAYsrYrzks3TuNE-8.png)
+![8.png](./downloaded_image_1705285625453.png)
 
 **Please note :**
 

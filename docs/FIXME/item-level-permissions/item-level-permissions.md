@@ -2,7 +2,7 @@
 
 This is the Item's permissions configuration. It lists the users and groups which have access to the item. These are displayed as a user coin. To open more details as to what users exactly you are able to click on the 'Edit Permissions' button this will bring up the Permissions management config for that particular item.
 
-[![Item-Level Permissions 01.png](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/scaled-1680-/nRxB0agmin61WwWh-item-level-permissions-01.png)](https://docs.rapidplatform.com/uploads/images/gallery/2021-09/nRxB0agmin61WwWh-item-level-permissions-01.png)
+![Item-Level Permissions 01.png](./downloaded_image_1705285792600.png)
 
 *Item Permission Configuration*
 

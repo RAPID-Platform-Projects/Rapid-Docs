@@ -17,21 +17,21 @@ You have two tables - **Invoices** and **Payments.**
 Follow the steps below for how to add a table in the context of another table:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    [![image-1702254881217.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/XjUe0B4t03dGjPju-image-1702254881217.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XjUe0B4t03dGjPju-image-1702254881217.png)
+    ![image-1702254881217.png](./downloaded_image_1705285628521.png)
 2. Open your desired table. (In this case the desired table is invoices as we want to add Payments to this)  
-    [![image-1702254926859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/GyxPDMjyHPNVDKHW-image-1702254926859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/GyxPDMjyHPNVDKHW-image-1702254926859.png)
+    ![image-1702254926859.png](./downloaded_image_1705285629533.png)
 3. Click on the **Design** tab  
-    [![image-1702339447280.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/63ecqbo3ahVggxTG-image-1702339447280.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/63ecqbo3ahVggxTG-image-1702339447280.png)
+    ![image-1702339447280.png](./downloaded_image_1705285630545.png)
 4. Click on the + button on the tab strip to add a tab for you linked table (In this case we are adding a payments tab to the invoices table)  
-    [![image-1702339505429.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/tAwEyfUqSKuSxhb0-image-1702339505429.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/tAwEyfUqSKuSxhb0-image-1702339505429.png)
+    ![image-1702339505429.png](./downloaded_image_1705285631561.png)
 5. Select the **Table** dropdown and select the table you want nested in this table (In this illustration it is the Payments table)  
     NOTE: After selecting the table this should automatically fill in the Page Name and the Tab name. If not fill in the page name with exact table name and fill in the tab name with what you want to appear on the tab when viewing the item in Explorer  
-    [![image-1702339600192.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/vTZBjmHhAzhv9hnj-image-1702339600192.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/vTZBjmHhAzhv9hnj-image-1702339600192.png)
+    ![image-1702339600192.png](./downloaded_image_1705285632574.png)
 6. Press Save  
-    [![image-1702339807859.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/xyxXVeGEJytNatci-image-1702339807859.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/xyxXVeGEJytNatci-image-1702339807859.png)
-7. Click ****Launch in Explorer**** [![image-1702339843053.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/LFK0J84eEsbKRISG-image-1702339843053.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/LFK0J84eEsbKRISG-image-1702339843053.png)
+    ![image-1702339807859.png](./downloaded_image_1705285633593.png)
+7. Click ****Launch in Explorer**** ![image-1702339843053.png](./downloaded_image_1705285634605.png)
 8. Open an item &gt; Press on the newly created tab &gt; and create a linked item  
-    [![image-1702339938343.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/7DHW3FQ0iNBue844-image-1702339938343.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/7DHW3FQ0iNBue844-image-1702339938343.png)
+    ![image-1702339938343.png](./downloaded_image_1705285635618.png)
 
 NOTE: If there is a lookup from the nested table to the table you created the tab, the items will be linked through the lookup. If there is no lookup between the tables a universal link will be created.
 

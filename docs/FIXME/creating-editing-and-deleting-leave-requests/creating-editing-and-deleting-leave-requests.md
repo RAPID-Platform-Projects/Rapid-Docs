@@ -14,12 +14,12 @@ Leave requests can be created in two ways: through a public form and through the
 #### How to Create a Leave Request through the Leave Requests Table in Explorer
 
 1. Click Human Resources &gt; Leave Requests  
-    [![image-1703652281898.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/71fqXeqgULq8AiSI-image-1703652281898.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/71fqXeqgULq8AiSI-image-1703652281898.png)
+    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
 2. Click on "New Leave Request".  
-    [![image-1703652306709.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/WJ6sGt4kxs6HyWkK-image-1703652306709.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/WJ6sGt4kxs6HyWkK-image-1703652306709.png)
+    ![image-1703652306709.png](./downloaded_image_1705285303230.png)
 3. Enter all relevant details  
-    [![image-1703652321955.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/zt8dNkbG6B04DieY-image-1703652321955.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/zt8dNkbG6B04DieY-image-1703652321955.png)
-4. Click on **Create** or **Create and Open** [![image-1703652363414.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/HFDcapTAxF54AWyv-image-1703652363414.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/HFDcapTAxF54AWyv-image-1703652363414.png)
+    ![image-1703652321955.png](./downloaded_image_1705285304251.png)
+4. Click on **Create** or **Create and Open** ![image-1703652363414.png](./downloaded_image_1705285305264.png)
 
 ### How to edit a Leave Request
 
@@ -28,12 +28,12 @@ If you are taking advantage of the “Leave Request Approval” process it is NO
 In the case that you may not be using the Leave Request Approval process in your system you can edit leave requests by following the steps below:
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
-    [![image-1703652281898.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/71fqXeqgULq8AiSI-image-1703652281898.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/71fqXeqgULq8AiSI-image-1703652281898.png)
+    ![image-1703652281898.png](./downloaded_image_1705285306280.png)
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
-    [![image-1703652473710.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/eipcl6O35Sk0m5Ib-image-1703652473710.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/eipcl6O35Sk0m5Ib-image-1703652473710.png)
+    ![image-1703652473710.png](./downloaded_image_1705285307297.png)
 3. Edit any relevant fields on the leave request page as needed.  
-    [![image-1703652535544.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/iH62v0qoOygqdW6t-image-1703652535544.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/iH62v0qoOygqdW6t-image-1703652535544.png)
-4. Once you have finished editing, click **Save** or ****Save and Close**** [![image-1703652591325.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/dR7zQUbTVUO710tv-image-1703652591325.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/dR7zQUbTVUO710tv-image-1703652591325.png)
+    ![image-1703652535544.png](./downloaded_image_1705285308313.png)
+4. Once you have finished editing, click **Save** or ****Save and Close**** ![image-1703652591325.png](./downloaded_image_1705285309330.png)
 
 ### Deleting Leave Requests
 
@@ -44,16 +44,16 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 #### How to Delete Multiple Leave Requests from the List Page
 
 1. Navigate to **Human Resources** &gt; **Leave Requests  
-    [![image-1703652281898.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/71fqXeqgULq8AiSI-image-1703652281898.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/71fqXeqgULq8AiSI-image-1703652281898.png)**
+    ![image-1703652281898.png](./downloaded_image_1705285310347.png)**
 2. Select the **Leave Requests** you wish to delete  
-    [![image-1703652818112.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/6x2XF7rH2QJe83TE-image-1703652818112.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/6x2XF7rH2QJe83TE-image-1703652818112.png)
+    ![image-1703652818112.png](./downloaded_image_1705285311357.png)
 3. Press **Delete X Leave Requests**  
-    [![image-1703652856232.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/9sV2Egp6THhZgyha-image-1703652856232.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/9sV2Egp6THhZgyha-image-1703652856232.png)
+    ![image-1703652856232.png](./downloaded_image_1705285312369.png)
 
 #### How to Delete a Single Leave Request from the Item Page
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
-    [![image-1703652281898.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/71fqXeqgULq8AiSI-image-1703652281898.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/71fqXeqgULq8AiSI-image-1703652281898.png)
+    ![image-1703652281898.png](./downloaded_image_1705285313389.png)
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
-    [![image-1703652473710.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/eipcl6O35Sk0m5Ib-image-1703652473710.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/eipcl6O35Sk0m5Ib-image-1703652473710.png)
-3. Press **Delete** [![image-1703652946616.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/AfTJEK6YVIFk7sFS-image-1703652946616.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/AfTJEK6YVIFk7sFS-image-1703652946616.png)
+    ![image-1703652473710.png](./downloaded_image_1705285314398.png)
+3. Press **Delete** ![image-1703652946616.png](./downloaded_image_1705285315407.png)

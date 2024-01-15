@@ -12,7 +12,7 @@ These items are surfaced on a report called 'Responsibilities' which can be foun
 
 https://reports.rapidplatform.com/\_prod/rapidplatform/projects/pbireports/pbireport:2648bb7c-1ece-43e9-aa02-1bf23665c8be
 
-[![image-1686205109155.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/scaled-1680-/9wcv4r2HAhDYORGX-image-1686205109155.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/9wcv4r2HAhDYORGX-image-1686205109155.png)
+![image-1686205109155.png](./downloaded_image_1705285813142.png)
 
 The purpose of these list items is to provide a consultant with a list of items that require testing when new releases come out.
 
@@ -26,7 +26,7 @@ If the target site already has a 'managed items' list and the RAPID API integrat
 
 2\) Go to either the 'Process Diagrams' or 'Adaptive Documents' table, For every item you need to maintain, open the item and open its 'linked items' tab on the right of the screen.
 
-[![image-1686269293462.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/scaled-1680-/2EXas1rRMkZyZ5kZ-image-1686269293462.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/2EXas1rRMkZyZ5kZ-image-1686269293462.png)
+![image-1686269293462.png](./downloaded_image_1705285814159.png)
 
  -Add a new link
 
@@ -38,7 +38,7 @@ Alternatively, on a tables data view, multiselect all items you wish to link and
 
 Watched items will be auto synced once per day. Alternatively, to sync your watched items back to the rapid Projects site imediately, go to the 'Managed Items' list, and press the 'Sync to Projects Site' button in the top right.
 
-[![image-1686269964015.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/scaled-1680-/ZVrrOzXxwxO6g3l3-image-1686269964015.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-06/ZVrrOzXxwxO6g3l3-image-1686269964015.png)
+![image-1686269964015.png](./downloaded_image_1705285815174.png)
 
 ### Setting Up a Syncer On a New Tenant / Site
 

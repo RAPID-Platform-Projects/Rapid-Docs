@@ -53,6 +53,6 @@ To achieve this, you need to fill:
 
 Hence, in the Sub-path, you only need to provide the portion of the URL as seen after the application keyword.
 
-[![image-1701903524077.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/q6UD1MKk7ozVpU7d-image-1701903524077.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/q6UD1MKk7ozVpU7d-image-1701903524077.png)
+![image-1701903524077.png](./downloaded_image_1705285678373.png)
 
 [Go back to ***On-Click Actions*** learning resource](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")

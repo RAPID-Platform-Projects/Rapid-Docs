@@ -35,11 +35,11 @@ In this relationship
 
 It is easy to identify which table is a Sub-Type of which other table in Designer. The last column displays the Sub-Type of values. If the table is not a sub-type of any other table, then it displays "Not inherited", otherwise it displays the name of the parent table.
 
-[![Sub 1.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/qCTBZSGjs7qYlc3N-sub-1.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/qCTBZSGjs7qYlc3N-sub-1.png)
+![Sub 1.png](./downloaded_image_1705285781445.png)
 
 For a particular table, we can easily identify which columns have been inherited from parent and which have been created afterwards. In the columns tab for a table in Designer, you can observe the last column ***Base Type.*** For the columns inherited from parent, this column provides the name of the column. For newly created columns, this field will display "*Not inherited*".
 
-[![Sub 2..png](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/scaled-1680-/WRllCIaYCbgSE4ZM-sub-2.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-10/WRllCIaYCbgSE4ZM-sub-2.png)
+![Sub 2..png](./downloaded_image_1705285782473.png)
 
 ##### **Related article**
 
