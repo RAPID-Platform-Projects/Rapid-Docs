@@ -99,6 +99,11 @@ const config: Config = {
               type: "docSidebar",
               sidebarId: "developer_manual",
               label: "Developer Manual"
+            },
+            {
+              type: "docSidebar",
+              sidebarId: "fix_me",
+              label: "FIXME"
             }
           ],
           dropdownActiveClassDisabled: true
