@@ -43,6 +43,6 @@ To change the Entity-level permissions:
 1. In the [Designer Experience](https://docs.rapidplatform.com/Home/User-Documentation/Designer), select the entity that you wish to alter permissions on.
 2. Select the **Security &amp; Permissions** tab.
 
-![Permissions 01.png](./downloaded_image_1705285830459.png)
+![Permissions 01.png](./downloaded_image_1705285828424.png)
 
 1. Users can toggle the relevant permissions that will be applied to future items.

@@ -26,7 +26,7 @@ The below image shows Year Level
 
 Observe there are two buttons in the command bar - Lens (+) and Lens (-) icons.
 
-![Zoom buttons Gantt.png](./downloaded_image_1705285776381.png)
+![Zoom buttons Gantt.png](./downloaded_image_1705285663082.png)
 
 These buttons are :
 

@@ -3,7 +3,7 @@
 ### How to Create a new Employee
 
 1. Navigate to Human Resources &gt; Employees  
-    ![image-1702515802672.png](./downloaded_image_1705285287993.png)
+    ![image-1702515802672.png](../Global-Images/downloaded_image_1705285192509.png)
 2. Click on "New Employee".  
     ![image-1702515822329.png](./downloaded_image_1705285289010.png)
 3. Enter all relevant details 
@@ -21,9 +21,9 @@
 ### How to edit an Employee item
 
 1. Navigate to Human Resources &gt; Employees  
-    ![image-1702515802672.png](./downloaded_image_1705285292081.png)
+    ![image-1702515802672.png](../Global-Images/downloaded_image_1705285192509.png)
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
-    ![image-1702516317433.png](./downloaded_image_1705285293090.png)
+    ![image-1702516317433.png](./../Global-Images/downloaded_image_1705285193519.png)
 3. Edit fields as required. There are additional fields on the **Additional Details** tab that you can also edit.  
     ![image-1702516400436.png](./downloaded_image_1705285294100.png)
 4. Press **Save** or ****Save and Close**** ![image-1702516433288.png](./downloaded_image_1705285295112.png)
@@ -37,17 +37,17 @@ However, if you need to delete an employee due to incorrect data entry or a dupl
 #### How to delete multiple employees from the list page
 
 1. Navigate to Human Resources &gt; Employees  
-    ![image-1702515802672.png](./downloaded_image_1705285296127.png)
+    ![image-1702515802672.png](../Global-Images/downloaded_image_1705285192509.png)
 2. Select the employees you wish to delete  
-    ![image-1702516593212.png](./downloaded_image_1705285297143.png)
+    ![image-1702516593212.png](./../Global-Images/downloaded_image_1705285297143.png)
 3. Press the **Delete X Employees** button  
     ![image-1702516629802.png](./downloaded_image_1705285298151.png)
 
 #### How to delete a single employee from employee page
 
 1. Navigate to Human Resources &gt; Employees  
-    ![image-1702515802672.png](./downloaded_image_1705285299167.png)
+    ![image-1702515802672.png](../Global-Images/downloaded_image_1705285192509.png)
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
-    ![image-1702516317433.png](./downloaded_image_1705285300183.png)
+    ![image-1702516317433.png](./../Global-Images/downloaded_image_1705285193519.png)
 3. Press the **Delete** button  
     ![image-1702516699235.png](./downloaded_image_1705285301193.png)

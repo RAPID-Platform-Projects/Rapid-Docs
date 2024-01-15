@@ -31,7 +31,7 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 #### How to edit the Project Item
 
 1. Click on Projects &gt; Projects  
-    ![image-1703656814040.png](./downloaded_image_1705285339740.png)
+    ![image-1703656814040.png](./downloaded_image_1705285331639.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
     ![image-1703657284806.png](./downloaded_image_1705285340749.png)
 3. Edit any relevant fields on the project page as needed.  
@@ -41,9 +41,9 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 #### How to Edit a Project's Objectives, Deliverables, Risks, Exclusions, and Budgets
 
 1. Click on Projects &gt; Projects  
-    ![image-1703656814040.png](./downloaded_image_1705285343782.png)
+    ![image-1703656814040.png](./downloaded_image_1705285331639.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
-    ![image-1703657284806.png](./downloaded_image_1705285344789.png)
+    ![image-1703657284806.png](./downloaded_image_1705285340749.png)
 3. Click on the **Scoping** tab  
     ![image-1703657440255.png](./downloaded_image_1705285345797.png)
 4. Click on the **Objectives** or **Deliverables** or **Risks** or **Exclusions** or **Budgets** tab.  
@@ -66,13 +66,13 @@ However, deleting the project will not delete the subitems (Objectives, Delivera
 #### How to delete a Projects Sub-Items (Objectives, Deliverables, Risks, Exclusions, and Budgets)
 
 1. Click on Projects &gt; Projects  
-    ![image-1703656814040.png](./downloaded_image_1705285350850.png)
+    ![image-1703656814040.png](./downloaded_image_1705285331639.png)
 2. Open the desired Project. Locate the project you wish to edit either by scrolling through the list or using the search bar.  
-    ![image-1703657284806.png](./downloaded_image_1705285351860.png)
+    ![image-1703657284806.png](./downloaded_image_1705285340749.png)
 3. Click on the **Scoping** tab  
-    ![image-1703657440255.png](./downloaded_image_1705285352868.png)
+    ![image-1703657440255.png](./downloaded_image_1705285345797.png)
 4. Click on the **Objectives** or **Deliverables** or **Risks** or **Exclusions** or **Budgets** tab.  
-    ![image-1703657471186.png](./downloaded_image_1705285353875.png)
+    ![image-1703657471186.png](./downloaded_image_1705285346807.png)
 5. Select the Objectives or **Deliverables** or **Risks** or **Exclusions** or **Budgets** you wish to **delete**
     
     ![image-1703657755975.png](./downloaded_image_1705285354889.png)
@@ -81,8 +81,8 @@ However, deleting the project will not delete the subitems (Objectives, Delivera
 #### How to Delete a Project Item
 
 1. Click on Projects &gt; Projects  
-    ![image-1703656814040.png](./downloaded_image_1705285356930.png)
+    ![image-1703656814040.png](./downloaded_image_1705285331639.png)
 2. Open the desired Project. Locate the project you wish to delete either by scrolling through the list or using the search bar.  
-    ![image-1703657284806.png](./downloaded_image_1705285357942.png)
+    ![image-1703657284806.png](./downloaded_image_1705285340749.png)
 3. Press **Delete**.  
     ![image-1703657901259.png](./downloaded_image_1705285358950.png)

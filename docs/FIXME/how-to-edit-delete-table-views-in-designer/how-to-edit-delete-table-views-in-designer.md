@@ -19,9 +19,9 @@ Every table in your Rapid System has a views tab in its configuration. Here you 
 Follow the steps below the access the views tab for a table:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285640711.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285641724.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Click on the Views Tab  
     ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 
@@ -43,11 +43,11 @@ When a Table View is locked, it is not editable by a user in explorer. You canno
 To lock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285644785.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285645797.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Click on the Views Tab  
-    ![image-1702336973138.png](./downloaded_image_1705285646811.png)
+    ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 4. Locate the view you want to lock and press the lock icon  
     ![image-1702337958148.png](./downloaded_image_1705285647829.png)
 
@@ -58,11 +58,11 @@ When a Table View is unlocked, it is editable by a user in explorer. You can alt
 To unlock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285648851.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285649862.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Click on the Views Tab  
-    ![image-1702336973138.png](./downloaded_image_1705285650876.png)
+    ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 4. Locate the view you want to lock and press the lock icon  
     ![image-1702338082831.png](./downloaded_image_1705285651895.png)
 
@@ -94,11 +94,11 @@ Visibility refers to whether the subject Table View is visible in Explorer for a
 Follow the steps below to make a table view visible / not visible to users in explorer:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285652911.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285653922.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Click on the Views Tab  
-    ![image-1702336973138.png](./downloaded_image_1705285654933.png)
+    ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 4. Locate the view you want to make visible / not visible and press the toggle button  
     ![image-1702338531193.png](./downloaded_image_1705285655952.png)
 
@@ -111,11 +111,11 @@ Please refer to the video below for additional information.
 If a view is no longer in use and you want to remove it from the table you have the ability to delete it. To do so follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285656973.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285657986.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Click on the Views Tab  
-    ![image-1702336973138.png](./downloaded_image_1705285658999.png)
+    ![image-1702336973138.png](./downloaded_image_1705285642744.png)
 4. Select the view / views you want to delete  
     ![image-1702338252408.png](./downloaded_image_1705285660021.png)
 5. Select the **Delete x items** button (note if the view is locked you will not be able to delete it. See above for how to unlock a view)  

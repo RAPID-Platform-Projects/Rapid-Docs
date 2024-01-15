@@ -9,9 +9,9 @@ Budgets under the scoping tab, and Budgets under the financials tab will both sh
 ### How to create an Invoice or Quote in the Context of a Project
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703658099164.png](./downloaded_image_1705285851887.png)
+    ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar)  
-    ![image-1703658166530.png](./downloaded_image_1705285852901.png)
+    ![image-1703658166530.png](./../Global-Images/downloaded_image_1705285246317.png)
 3. Click Financials &gt; Invoices or Quotes  
     ![image-1703719786967.png](./downloaded_image_1705285853913.png)
 4. Press New Invoice or Quote  

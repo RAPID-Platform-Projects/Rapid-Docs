@@ -15,7 +15,7 @@
 ### How to Edit a Policy
 
 1. Navigate to Human Resources &gt; Policies  
-    ![image-1702522705319.png](./downloaded_image_1705285321488.png)
+    ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 2. Open the desired policy. (Locate the policy by either scrolling through the list or using the search bar)  
     ![image-1702523772396.png](./downloaded_image_1705285322504.png)
 3. Edit the desired fields  
@@ -31,7 +31,7 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 #### Deleting multiple Policies from the policy list
 
 1. Navigate to Human Resources &gt; Policies  
-    ![image-1702522705319.png](./downloaded_image_1705285325548.png)
+    ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 2. Select the policies you wish to delete  
     ![image-1702523913741.png](./downloaded_image_1705285326565.png)
 3. Press **Delete X Policies** ![image-1702523939731.png](./downloaded_image_1705285327580.png)
@@ -39,7 +39,7 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 #### How to delete a single policy from the policy page
 
 1. Navigate to Human Resources &gt; Policies  
-    ![image-1702522705319.png](./downloaded_image_1705285328594.png)
+    ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 2. Open the desired policy. (Locate the policy by either scrolling through the list or using the search bar)  
-    ![image-1702523772396.png](./downloaded_image_1705285329603.png)
+    ![image-1702523772396.png](./downloaded_image_1705285322504.png)
 3. Press **Delete** ![image-1702523990476.png](./downloaded_image_1705285330620.png)

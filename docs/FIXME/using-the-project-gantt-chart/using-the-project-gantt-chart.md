@@ -18,13 +18,13 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 ### How to adjust the Start and End dates of Project Tasks using the Project Gantt
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703717756942.png](./downloaded_image_1705286194203.png)
+    ![image-1703717756942.png](./downloaded_image_1705286190152.png)
 2. Open the Project you wish to view the Gantt of. Find this project by either scrolling through the list or using the search bar.   
-    ![image-1703717832162.png](./downloaded_image_1705286195216.png)
+    ![image-1703717832162.png](./downloaded_image_1705286191168.png)
 3. Click on the “Project Management” tab  
-    ![image-1703717852384.png](./downloaded_image_1705286196228.png)
+    ![image-1703717852384.png](./downloaded_image_1705286192178.png)
 4. Click on the “Gantt”  
-    ![image-1703717867592.png](./downloaded_image_1705286197240.png)
+    ![image-1703717867592.png](./downloaded_image_1705286193192.png)
 5. Identify the task you wish to alter the Start Date / End Date of 
     1. Click and drag the front of the task to edit the Start Date  
         ![image-1703717970844.png](./downloaded_image_1705286198253.png)
@@ -39,13 +39,13 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 A Gantt chart dependency is a relationship between two or more tasks in a project that dictates the sequence in which they must be executed. Dependencies illustrate the order and timing of task completion, outlining the relationships that exist between different project activities. A Finish-to-Start dependency is the most common type, where the start of one task depends on the completion of another. Task B cannot begin until Task A finishes. Follow the steps below to create a Finish-to-Start Dependencies:
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703717756942.png](./downloaded_image_1705286202314.png)
+    ![image-1703717756942.png](./downloaded_image_1705286190152.png)
 2. Open the Project you wish to view the Gantt of. Find this project by either scrolling through the list or using the search bar.   
-    ![image-1703717832162.png](./downloaded_image_1705286203329.png)
+    ![image-1703717832162.png](./downloaded_image_1705286191168.png)
 3. Click on the “Project Management” tab  
-    ![image-1703717852384.png](./downloaded_image_1705286204341.png)
+    ![image-1703717852384.png](./downloaded_image_1705286192178.png)
 4. Click on the “Gantt”  
-    ![image-1703717867592.png](./downloaded_image_1705286205354.png)
+    ![image-1703717867592.png](./downloaded_image_1705286193192.png)
 5. Identify the task you wish to create a dependency from (Task A) and the task to you wish to create a dependency to (Task B)
 6. Hover your cursor over Task A, you will notice a white circle appear at the end of this task. Click and drag your cursor to the white circle at the start of Task B.  
     ![image-1703718320105.png](./downloaded_image_1705286206372.png)
@@ -58,13 +58,13 @@ For further information on using the Gantt and creating other dependencies see t
 ### How to edit a task from a Projects Gantt Chart
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703717756942.png](./downloaded_image_1705286209422.png)
+    ![image-1703717756942.png](./downloaded_image_1705286190152.png)
 2. Open the Project you wish to view the Gantt of. Find this project by either scrolling through the list or using the search bar.   
-    ![image-1703717832162.png](./downloaded_image_1705286210436.png)
+    ![image-1703717832162.png](./downloaded_image_1705286191168.png)
 3. Click on the “Project Management” tab  
-    ![image-1703717852384.png](./downloaded_image_1705286211449.png)
+    ![image-1703717852384.png](./downloaded_image_1705286192178.png)
 4. Click on the “Gantt”  
-    ![image-1703717867592.png](./downloaded_image_1705286212462.png)
+    ![image-1703717867592.png](./downloaded_image_1705286193192.png)
 5. Double-click on the task you want to edit  
     ![image-1703718565226.png](./downloaded_image_1705286213478.png)
 6. Edit any relevant fields on the sub item page as needed.  
@@ -82,13 +82,13 @@ It is important to note that while tasks cover a date range milestones represent
 #### How to create Milestones
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703717756942.png](./downloaded_image_1705286216530.png)
+    ![image-1703717756942.png](./downloaded_image_1705286190152.png)
 2. Open the Project you wish to view the Gantt of. Find this project by either scrolling through the list or using the search bar.   
-    ![image-1703717832162.png](./downloaded_image_1705286217541.png)
+    ![image-1703717832162.png](./downloaded_image_1705286191168.png)
 3. Click on the “Project Management” tab  
-    ![image-1703717852384.png](./downloaded_image_1705286218553.png)
+    ![image-1703717852384.png](./downloaded_image_1705286192178.png)
 4. Click on the “Gantt”  
-    ![image-1703717867592.png](./downloaded_image_1705286219567.png)
+    ![image-1703717867592.png](./downloaded_image_1705286193192.png)
 5. Click “New Milestone” in the top left corner  
     ![image-1703718704866.png](./downloaded_image_1705286220582.png)
 6. Enter details as needed 
@@ -103,13 +103,13 @@ It is important to note that while tasks cover a date range milestones represent
 ### How to Adjust a Milestones Date
 
 1. Navigate to Projects &gt; Projects  
-    ![image-1703717756942.png](./downloaded_image_1705286224650.png)
+    ![image-1703717756942.png](./downloaded_image_1705286190152.png)
 2. Open the Project you wish to view the Gantt of. Find this project by either scrolling through the list or using the search bar.   
-    ![image-1703717832162.png](./downloaded_image_1705286225663.png)
+    ![image-1703717832162.png](./downloaded_image_1705286191168.png)
 3. Click on the “Project Management” tab  
-    ![image-1703717852384.png](./downloaded_image_1705286226675.png)
+    ![image-1703717852384.png](./downloaded_image_1705286192178.png)
 4. Click on the “Gantt”  
-    ![image-1703717867592.png](./downloaded_image_1705286227686.png)
+    ![image-1703717867592.png](./downloaded_image_1705286193192.png)
 5. Identify the milestone you wish to alter the Date of
 6. Click and drag the Milestone Marker task to shift Milestone date.  
     ![image-1703718864583.png](./downloaded_image_1705286228707.png)

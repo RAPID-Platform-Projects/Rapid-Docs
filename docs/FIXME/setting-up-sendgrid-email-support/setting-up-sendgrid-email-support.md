@@ -36,7 +36,7 @@ In order to process inbound email with SendGrid, the Omnichannel takes advantage
 
 First create an integration on the site you want to receive messages. Take special note of the generated Webhook URL as we will need this later.
 
-![Omnichannel Overview Item.png](./downloaded_image_1705285920360.png)
+![Omnichannel Overview Item.png](./downloaded_image_1705285822288.png)
 
 Next, in SendGrid navigate to the Inbound Parse section (under settings) and add a Host &amp; URL
 

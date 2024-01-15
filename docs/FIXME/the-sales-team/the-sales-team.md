@@ -15,7 +15,7 @@ This allows the sales team to easily have visibility of all of their tasks and a
 ### How to remove a user / users from the sales team
 
 1. Navigate to the Users &amp; Groups table by clicking System &gt; Settings &gt; Users &amp; Groups  
-    ![image-1702446752093.png](./downloaded_image_1705286149092.png)
+    ![image-1702446752093.png](./downloaded_image_1705286147042.png)
 2. Select the **Sales Team** from the list of Principals (Users) (Find this group by either scrolling through the list or using the search bar)  
     ![image-1702447257755.png](./downloaded_image_1705286150105.png)
 3. Select the **Members** tab  

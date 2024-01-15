@@ -34,9 +34,9 @@ Once triggered, the probation review process follows these stages:
 6. **Manager Meeting Confirmation (Six Month):** A task will be set for the manager to confirm the meeting time based on the specified “Review Date”. The manager has the option to change the meeting date, cancel the meeting, skip to the six month meeting or confirm the meeting.  
     ![image-1702529108947.png](./downloaded_image_1705285845785.png)
 7. **Employee Pre-Review Form (Six Month):** Following the manager's confirmation, the employee receives an email requesting them to complete a "Pre-Review Form." Completion of all fields on this form is mandatory.  
-    ![image-1702528913018.png](./downloaded_image_1705285846802.png)
+    ![image-1702528913018.png](./downloaded_image_1705285842745.png)
 8. **Manager's Assessment (Six Month):** Subsequently, the manager is tasked with answering the same set of questions, evaluating the employee's performance. The form displays the employee's responses to the manager, but the employee fields are disabled.  
-    ![image-1702528913018.png](./downloaded_image_1705285847812.png)
+    ![image-1702528913018.png](./downloaded_image_1705285842745.png)
 9. **Report Generation (Six Month):** Once the manager completes their assessment, a report containing both manager and employee responses is generated and sent to the manager for reference during the performance review meeting.  
     ![image-1702529297637.png](./downloaded_image_1705285848832.png)
 10. **Probation Review Meeting (Six Month):** Following the report generation, the manager is assigned a task to conduct the performance review meeting with the employee and following this decide if the employee was successful in their probation.

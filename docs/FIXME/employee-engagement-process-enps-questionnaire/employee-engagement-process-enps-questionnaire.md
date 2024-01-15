@@ -11,7 +11,7 @@ Finally, the eNPS is calculated by subtracting the percentage of detracts from p
 ### How to send out the eNPS Questionnaires:
 
 1. Navigate to Human Resources &gt; Employees  
-    ![image-1703651698901.png](./downloaded_image_1705285487178.png)
+    ![image-1703651698901.png](./../Global-Images/downloaded_image_1705285487178.png)
 2. Select the employees you wish for the questionnaire to be sent to  
     ![image-1703651762900.png](./downloaded_image_1705285488204.png)
 3. Press the “Send Employee Engagement Questionnaire”  

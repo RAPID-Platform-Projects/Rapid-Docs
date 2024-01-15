@@ -3,7 +3,7 @@
 ##### **Let us now look at Conditional Statements in SendGrid email.**  
 
 
-**![61a.png](./downloaded_image_1705285132916.png)**
+**![61a.png](./downloaded_image_1705284954975.png)**
 
 ![62.png](./downloaded_image_1705285169027.png)
 

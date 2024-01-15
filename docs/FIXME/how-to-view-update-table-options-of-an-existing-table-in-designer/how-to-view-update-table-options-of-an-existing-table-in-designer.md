@@ -5,9 +5,9 @@ You can view and update table options for an existing table.
 ### **How to reach Table Options tab?**
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285742628.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702254926859.png](./downloaded_image_1705285743640.png)
+    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
 3. Select the Options Tab  
     ![image-1702265474921.png](./downloaded_image_1705285744660.png)
 

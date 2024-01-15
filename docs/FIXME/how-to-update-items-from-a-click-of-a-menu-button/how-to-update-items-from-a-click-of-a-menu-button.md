@@ -11,16 +11,16 @@ For example - updating the status of tasks as complete with a click of a menu bu
 #### How to configure an "Update Items" menu button
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./downloaded_image_1705285727336.png)
+    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![image-1702265202904.png](./downloaded_image_1705285728348.png)
+    ![image-1702265202904.png](./../Global-Images/downloaded_image_1705285684470.png)
 3. Click on Menu  
-    ![image-1702270949641.png](./downloaded_image_1705285729356.png)
-4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./downloaded_image_1705285730369.png)
+    ![image-1702270949641.png](./../Global-Images/downloaded_image_1705285685482.png)
+4. Click on the **New Blank Item Drop down** then on **New Blank Item** ![image-1702271004715.png](./../Global-Images/downloaded_image_1705285686494.png)
 5. Choose a name and Icon  
-    ![image-1702271084339.png](./downloaded_image_1705285731378.png)
+    ![image-1702271084339.png](./../Global-Images/downloaded_image_1705285687510.png)
 6. Choose **Update Items** as the On-Click Action  
-    ![image-1702271143878.png](./downloaded_image_1705285732396.png)
+    ![image-1702271143878.png](./../Global-Images/downloaded_image_1705285702735.png)
 7. Select the form you wish to dropdown when the menu button is clicked  
     ![image-1702273809498.png](./downloaded_image_1705285733416.png)
 8. Press Save  
