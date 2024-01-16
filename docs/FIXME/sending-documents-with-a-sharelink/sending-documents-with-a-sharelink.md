@@ -14,9 +14,9 @@ TBA
 
 Carefully add to the end of this URL:
 
-&amp;env=prod&amp;tenant={tenantName}&amp;site={siteName}&amp;elementId={taskHere}
+&amp;env=prod&amp;tenant=\{tenantName}&amp;site=\{siteName}&amp;elementId=\{taskHere}
 
-Making sure to replace the {elements} with the tenant, site and task reference respectively. The elementId is the reference of the task that created the document to be shared. *Note, it is usually safer, and easier, to make this URL in a separate word processor so you can see what you are doing.*
+Making sure to replace the \{elements} with the tenant, site and task reference respectively. The elementId is the reference of the task that created the document to be shared. *Note, it is usually safer, and easier, to make this URL in a separate word processor so you can see what you are doing.*
 
 The final Endpoint should look something like this:
 

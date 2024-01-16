@@ -88,7 +88,7 @@ To create dependencies among tasks, please consider the following points:
 
 Please refer to the below GIF for illustration
 
-![Create dependency-480p-230914.gif
+![Create dependency](lxeFz3bkT6JIwvBd-create-dependency-480p-230914.gif)
 
 ##### **Editing dependencies in Gantt Chart**
 
@@ -117,7 +117,7 @@ To edit a dependency, please consider the following points:
 
 Please refer to the below GIF for illustration
 
-![Edit dependency-480p-230914.gif
+![Edit dependency](8fqIRSZmOcTO2g4v-edit-dependency-480p-230914.gif)
 
 ##### **Related articles**
 

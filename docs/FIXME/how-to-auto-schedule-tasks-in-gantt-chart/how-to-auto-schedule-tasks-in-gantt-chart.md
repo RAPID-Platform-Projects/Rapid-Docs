@@ -8,7 +8,7 @@ You can *Auto-schedule* all the task with a single click.
 
 Please refer to the GIF below for illustration:
 
-![Auto Schedule-480p-230914.gif**Please note:**
+![Auto Schedule](cVk5XQG9yO6Qyg8y-auto-schedule-480p-230914.gif)
 
 - The Auto-schedule feature respects all the dependencies established between tasks.
 - The duration of the tasks remain constant, however, start and end dates of the tasks can change.

@@ -1,4 +1,4 @@
-<!-- # Setting up SendGrid Email support
+# Setting up SendGrid Email support
 
 Omnichannel integrates with SendGrid to provide Email communication support.
 
@@ -36,7 +36,7 @@ In order to process inbound email with SendGrid, the Omnichannel takes advantage
 
 First create an integration on the site you want to receive messages. Take special note of the generated Webhook URL as we will need this later.
 
-![Omnichannel Overview Item.png](./downloaded_image_1705285822288.png)
+![Omnichannel Overview Item.png](nVyX55jV9uBfPq7T-omnichannel-overview-item.png)
 
 Next, in SendGrid navigate to the Inbound Parse section (under settings) and add a Host &amp; URL
 
@@ -66,7 +66,8 @@ This endpoint is secured using the same User bearer token as the rest of the RAP
 
 The post body then should match the Sendgrid API v3. Here is a basic example
 
-```lang-{
+```JSON
+{
   "to": {
     "email": "{Email address sending to}",
     "name": "{Contacts' display name}"
@@ -94,9 +95,9 @@ Reply To Alias : $.replyTo.name
 
 SendGrid have two modes when displaying dynamic content on a template.
 
-Double moustache syntax {{}} will be rendered safely. This means any rich text will display html tags in the email itself &lt;p&gt; like so &lt;/p&gt;.
+Double moustache syntax \{\{}} will be rendered safely. This means any rich text will display html tags in the email itself &lt;p&gt; like so &lt;/p&gt;.
 
-Triple moustache syntax {{{}}} will be rendered raw. This will render any html tags in your content directly
+Triple moustache syntax \{\{\{}}} will be rendered raw. This will render any html tags in your content directly
 
 like so
 
@@ -115,4 +116,4 @@ To assist with this, Omnichannel forwards on inbound parsed messages. It assumes
 
 Requests can be made directly to Omnichannel via
 
-http://api.rapidplatform.com/omnichannel/{tenant}/{site} -->
+http://api.rapidplatform.com/omnichannel/\{tenant}/\{site}

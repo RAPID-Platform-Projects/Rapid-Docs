@@ -37,7 +37,7 @@ For example to fetch the details of the internal site here at rapidplatform. Not
 2\) Assemble the post body
 
 ```JSON
-{<br></br>    "roles": [<br></br>        "fullcontrol"<br></br>    ],<br></br>    "grantedToIdentities": [<br></br>        {<br></br>            "application": {<br></br>                "id": "cd5db0ec-1419-4ae6-9434-21cfb83fc42d",<br></br>                "displayName": "Rapid Platform"<br></br>            }<br></br>        }<br></br>    ]<br></br>}
+{    "roles": [        "fullcontrol"    ],    "grantedToIdentities": [        {            "application": {                "id": "cd5db0ec-1419-4ae6-9434-21cfb83fc42d",                "displayName": "Rapid Platform"            }        }    ]}
 ```
 
 3\) Make the request. You should see a pair of permissions being created for v1 and v2.

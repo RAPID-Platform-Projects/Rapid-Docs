@@ -8,6 +8,6 @@ This chapter shows a step-wise guide to iterations on the next page of this chap
 
 You can also view a video tutorial here:
 
-<iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/zc_moohzobQ" style="width: 733px; height: 409px;" width="787"></iframe>
+<iframe allowfullscreen="allowfullscreen" height="440" width="785" src="https://www.youtube.com/embed/zc_moohzobQ"/>
 
 ##### **At the time of writing this guide, iterations do not work properly with RAPID integration.**

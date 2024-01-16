@@ -1,4 +1,4 @@
-<!-- # How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?
+# How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?
 
 This article has reference to the "Details" and "Create Screen" breakpoints as visible on the Design Tab of a Table in Designer.
 
@@ -51,11 +51,10 @@ If you want all of the above information in the Form component to be hidden from
 
 Similarly you can hide / show a layout. All the components in the layout will be hidden or shown with a single click on circle.
 
-<table border="1" id="bkmrk-all-components-in-gr" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 41.4146%;">  
-![2.png](./downloaded_image_1705285713039.png)</td><td style="width: 58.5854%;">  
-All components in Grid Layout will be hidden from the "Create Screen" breakpoint</td></tr><tr><td style="width: 41.4146%;">  
-![1.png](./downloaded_image_1705285714056.png)</td><td style="width: 58.5854%;">  
-All components in Grid Layout will appear in the "Create Screen" breakpoint (if they are not set as hidden individually)</td></tr></tbody></table>
+|        ![2.png](./downloaded_image_1705285713039.png)|All components in Grid Layout will be hidden from the "Create Screen" breakpoint|
+|:----|:----|
+|        ![1.png](./downloaded_image_1705285714056.png)|All components in Grid Layout will appear in the "Create Screen" breakpoint (if they are not set as hidden        individually)|
+
 
 ##### **Hide field / component from Details breakpoint**
 
@@ -76,18 +75,11 @@ You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page
 
 Just like hiding a single component or field from the "Details", you can also hide a group of fields (present in a **[Form component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**) or a group of components (present in a **[Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")**) from "Details".
 
-<table border="1" id="bkmrk-all-fields-in-form-c" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 41.4198%;">  
-![F-2.png](./downloaded_image_1705285718147.png)  
-</td><td style="width: 58.7038%;">  
-All fields in Form component will be hidden from the "Details" breakpoint</td></tr><tr><td style="width: 41.4198%;">  
-![F-1.png](./downloaded_image_1705285719163.png)</td><td style="width: 58.7038%;">  
-All fields will appear in the "Details" breakpoint (if they are not set as hidden individually)</td></tr><tr><td style="width: 41.4198%;">  
-![G--2.png](./downloaded_image_1705285720179.png)  
-</td><td style="width: 58.7038%;">  
-All components in Grid Layout will be hidden from the "Details" breakpoint</td></tr><tr><td style="width: 41.4198%;">  
-![G-1.png](./downloaded_image_1705285721204.png)  
-</td><td style="width: 58.7038%;">  
-All components in Grid Layout will appear in the "Details" breakpoint (if they are not set as hidden individually)</td></tr></tbody></table>
+|        ![F-2.png](./downloaded_image_1705285718147.png)|All fields in Form component will be hidden from the "Details" breakpoint|
+|:----|:----|
+|        ![F-1.png](./downloaded_image_1705285719163.png)|All fields will appear in the "Details" breakpoint (if they are not set as hidden individually)|
+|        ![G--2.png](./downloaded_image_1705285720179.png)|All components in Grid Layout will be hidden from the "Details" breakpoint|
+|        ![G-1.png](./downloaded_image_1705285721204.png)|All components in Grid Layout will appear in the "Details" breakpoint (if they are not set as hidden        individually)|
 
 ##### **Important points**
 
@@ -102,4 +94,4 @@ All components in Grid Layout will appear in the "Details" breakpoint (if they a
 
 [What are the available components for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages "What are the available components for Pages?")
 
-[***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer") -->
+[***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer")

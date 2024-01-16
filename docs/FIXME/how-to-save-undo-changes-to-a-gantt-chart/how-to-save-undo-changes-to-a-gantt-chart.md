@@ -26,7 +26,7 @@ Observe that two new button appear in the command bar of the Gantt chart. These 
 
 Please refer to the below GIF for illustration:
 
-![Save-480p-230912.gif
+![Save](4hMR4nt772dzioTc-save-480p-230912.gif)
 
 ##### **Related articles**
 

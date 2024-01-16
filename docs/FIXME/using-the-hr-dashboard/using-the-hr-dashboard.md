@@ -1,4 +1,4 @@
-<!-- # Using the HR Dashboard
+# Using the HR Dashboard
 
 ### Overview
 
@@ -57,64 +57,61 @@ The Employee table has a row for each Employee along with relevant Human Resourc
 
 The columns displayed are: “Employee Name”, “Department”, “Role”, “Status”, “Start Date”, Employment Duration”, “Review”, “Latest Review Date”, and “Link”. Each of the columns are described in the table below.
 
-<table border="1" id="bkmrk-column-title-column-" style="border-collapse: collapse; width: 100%;"><tbody><tr><td style="width: 31.026%;">**Column Title**</td><td style="width: 37.9481%;" width="307">**Column Description**
+<table border="1" id="bkmrk-column-title-column-">
+  <tbody>
+    <tr>
+      <td>**Column Title**</td>
+      <td width="307">**Column Description**</td>
+      <td width="181">**Example**</td>
+    </tr>
+    <tr>
+      <td width="113">Employee</td>
+      <td width="307">The name of the employee</td>
+      <td width="181">John Doe</td>
+    </tr>
+    <tr>
+      <td width="113">Department</td>
+      <td width="307">The department the employee is in.</td>
+      <td width="181">Sales</td>
+    </tr>
+    <tr>
+      <td width="113">Role</td>
+      <td width="307">The employee job role</td>
+      <td width="181">Software Developer</td>
+    </tr>
+    <tr>
+      <td width="113">Status</td>
+      <td width="307">The status of the employee (Options: Onboarding, On Probation, Active, Archived).</td>
+      <td width="181">Onboarding</td>
+    </tr>
+    <tr>
+      <td width="113">Start Date</td>
+      <td width="307">The start date of the employee (when they commenced work at the company).</td>
+      <td width="181">17/05/2018</td>
+    </tr>
+    <tr>
+      <td width="113">Employment Duration</td>
+      <td width="307">The length of time the employee has been employed at the organisation. This is calculated by
+        findingthe difference between today and their start date.</td>
+      <td width="181">2 Years 3 Months</td>
+    </tr>
+    <tr>
+      <td width="113">Review</td>
+      <td width="307">This will display “Yes” if the employee has the performance review process turned on and “No” if
+        itis turned off.</td>
+      <td width="181">Yes</td>
+    </tr>
+    <tr>
+      <td width="113">Latest Review Date</td>
+      <td width="307">This displays the date of the employees most recent performance review</td>
+      <td width="181">12/01/2023</td>
+    </tr>
+    <tr>
+      <td width="113">Link</td>
+      <td width="307">This provides a clickable link which will open the employee item.</td>
+      <td width="181">NA</td>
+    </tr>
+  </tbody>
+</table>
 
-</td><td style="width: 31.026%;" width="181">**Example**
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Employee
-
-</td><td style="width: 37.9481%;" width="307">The name of the employee
-
-</td><td style="width: 31.026%;" width="181">John Doe
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Department
-
-</td><td style="width: 37.9481%;" width="307">The department the employee is in.
-
-</td><td style="width: 31.026%;" width="181">Sales
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Role
-
-</td><td style="width: 37.9481%;" width="307">The employee job role
-
-</td><td style="width: 31.026%;" width="181">Software Developer
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Status
-
-</td><td style="width: 37.9481%;" width="307">The status of the employee (Options: Onboarding, On Probation, Active, Archived).
-
-</td><td style="width: 31.026%;" width="181">Onboarding
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Start Date
-
-</td><td style="width: 37.9481%;" width="307">The start date of the employee (when they commenced work at the company).
-
-</td><td style="width: 31.026%;" width="181">17/05/2018
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Employment Duration
-
-</td><td style="width: 37.9481%;" width="307">The length of time the employee has been employed at the organisation. This is calculated by finding the difference between today and their start date.
-
-</td><td style="width: 31.026%;" width="181">2 Years 3 Months
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Review
-
-</td><td style="width: 37.9481%;" width="307">This will display “Yes” if the employee has the performance review process turned on and “No” if it is turned off.
-
-</td><td style="width: 31.026%;" width="181">Yes
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Latest Review Date
-
-</td><td style="width: 37.9481%;" width="307">This displays the date of the employees most recent performance review
-
-</td><td style="width: 31.026%;" width="181">12/01/2023
-
-</td></tr><tr><td style="width: 31.026%;" width="113">Link
-
-</td><td style="width: 37.9481%;" width="307">This provides a clickable link which will open the employee item.
-
-</td><td style="width: 31.026%;" width="181">NA
-
-</td></tr></tbody></table>
-
-![image-1703655875305.png](./downloaded_image_1705286176558.png) -->
+![image-1703655875305.png](./downloaded_image_1705286176558.png)

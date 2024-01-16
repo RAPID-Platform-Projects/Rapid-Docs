@@ -7,9 +7,9 @@ Let's have a look at what that means in action, We provide many components by de
 <p class="callout info">Example Naming and File structure [(Read More)](#top)</p>
 
 
-style="display: none;">text-input-control/ ├─ text-input.tsx ├─ text-input.scsss ├─ text-input-control.ts
+>text-input-control/ ├─ text-input.tsx ├─ text-input.scsss ├─ text-input-control.ts
       readonly="readonly" spellcheck="false"
-      style="position: absolute; bottom: -1em; padding: 0px; width: 1px; height: 1em; outline: currentcolor none medium;"
+      
       tabindex="0" wrap="off"
 ```
   text-input-control/

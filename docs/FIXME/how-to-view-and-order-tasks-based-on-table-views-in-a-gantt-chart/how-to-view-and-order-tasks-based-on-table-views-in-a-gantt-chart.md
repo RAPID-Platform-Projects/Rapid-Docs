@@ -28,7 +28,7 @@ You can select your desired Table View from the list and the Gantt Chart shall c
 
 Please refer to the GIF below for illustration
 
-![Table view change-480p-230914.gif
+![Table view change](WGdlxOrobHLNM4V5-table-view-change-480p-230914.gif)
 
 Please note: you can create new Table Views from the dropdown option as well. This will create Table Views which will be visible on Table data throughout Explorer, not just limited to Gantt Charts.
 

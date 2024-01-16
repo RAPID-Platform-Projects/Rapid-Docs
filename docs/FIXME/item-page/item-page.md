@@ -10,7 +10,7 @@ This is the Item's permissions configuration. It lists the users and groups whic
 2. Save and Close Button Performs the same action as a save button except closes the flyout as well. This is particularly useful if the save is the final edit to an item or if you wish to edit another item from the same list.
 3. Deleting an Item This deletes the opened item. This is a basic delete which sets the item to a deleted state in the database. Deleted items' will not show up in Rapid Explorer. Deleting an item will close its flyout.
 
-<table border="1" id="bkmrk-note%3A-deleting-an-it" style="width: 100%; border-collapse: collapse; border-color: #DDDDAA; background-color: #fafaf0;"><tbody><tr><td style="width: 100%;">**Note:** Deleting an item will only remove it from the Rapid Site. The entry will still exist in the database meaning the action can be reverted by your system administrator.</td></tr></tbody></table>
+<table border="1" id="bkmrk-note%3A-deleting-an-it" ><tbody><tr><td >**Note:** Deleting an item will only remove it from the Rapid Site. The entry will still exist in the database meaning the action can be reverted by your system administrator.</td></tr></tbody></table>
 
 1. Complete Button This button is universal across the task system entity as well as any inherited entities created from tasks. Other custom entities will not have this UI feature. Pressing this button will perform the following action: Set task status to complete and then save the item.
 2. Item History The following button will open a UI which will list any changes made to an item along with the user that made the changes. More can be read [here](https://docs.rapidplatform.com/books/rapid-overview "RAPID Overview").

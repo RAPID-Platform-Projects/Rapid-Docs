@@ -39,10 +39,11 @@ Please refer to the below GIF for illustration.
 
 **Adding a new task from Gantt Chart**
 
-![New Task Gantt 1-480p-230913.gif
+![New Task Gantt 1](pmiWcT4Lrieu0J8W-new-task-gantt-1-480p-230913.gif)
 
 **Adding a new sub-type of task from Gantt Chart  
-![New Task Gantt 2-480p-230913.gif**
+
+![New Task Gantt 2](icMmCOviH7Pqw8xs-new-task-gantt-2-480p-230913.gif)
 
 ##### **Related articles**
 

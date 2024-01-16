@@ -29,5 +29,5 @@ When creating a git branch, you must create it with the following format:
 When writing commit messages, you must create it with the following format:
 
 ```CSS
-<type>: A short description of what you changed<br></br>[optional body]<br></br>[optional footer(s)]
+<type>: A short description of what you changed[optional body][optional footer(s)]
 ```
