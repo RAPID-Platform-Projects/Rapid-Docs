@@ -57,7 +57,7 @@ https://login.microsoftonline.com/common/adminconsent?client\_id=fb8147ed-7455-4
 -Replace the client oid below with the oid obtained in the previous step.
 
 ```SQL
-INSERT INTO principal (display_name, type, oid, status)<br></br>VALUES ('Rapid-Integrations', 'Application', '{clients oid}', 'Active')
+INSERT INTO principal (display_name, type, oid, status)VALUES ('Rapid-Integrations', 'Application', '{clients oid}', 'Active')
 ```
 
 -Send this to Mitch for him to insert into the principals table.

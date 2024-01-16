@@ -1,4 +1,4 @@
-<!-- # Installation & Development
+# Installation & Development
 
 ### Installation
 
@@ -12,7 +12,7 @@ yarn install
 
 This will install the packages required to run the SDK.
 
-<p class="callout info">The RAPID Platform internal packages are installed from `template/rapid_modules` where their tarballs are found. </p>
+The RAPID Platform internal packages are installed from `template/rapid_modules` where their tarballs are found.
 
 ### Development
 
@@ -34,7 +34,6 @@ After logging in through Microsoft, we will be placed on an empty page with the 
 
 #### localhost:9000/\_environment/tenant/site
 
-<p class="callout info">In future, manually adding these parameters to the URL will bypass the login page.  
-</p>
+In future, manually adding these parameters to the URL will bypass the login page.
 
-The next step is setting up routing through the `<RapidApplication />` component. -->
+The next step is setting up routing through the `<RapidApplication />` component.

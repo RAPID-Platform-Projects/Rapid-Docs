@@ -1,4 +1,4 @@
-<!-- # How to perform a Remote Action from click of a Menu button?
+# How to perform a Remote Action from click of a Menu button?
 
 This is configurable on both the ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** and ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu types.
 
@@ -63,7 +63,7 @@ The body of the post request will change based on the configuration of the menu 
 A "Perform Remote Action" Menu button with the minimum configuration where only the address is filled will send the following post body
 
 ```JSON
-{<br></br>  "site": "example",<br></br>  "tenant": "rapidplatform",<br></br>  "environment": "production",<br></br>  "requestor": 13,<br></br>  "item": {},<br></br>  "formData": {}<br></br>}
+{  "site": "example",  "tenant": "rapidplatform",  "environment": "production",  "requestor": 13,  "item": {},  "formData": {}}
 ```
 
 ##### Action ID Configuration:
@@ -71,14 +71,67 @@ A "Perform Remote Action" Menu button with the minimum configuration where only 
 A "Perform Remote Action" Menu button with the Action ID Configured will return the following body:
 
 ```JSON
-{<br></br>  "site": "tristantesting",<br></br>  "tenant": "rapidplatform",<br></br>  "environment": "production",<br></br>  "requestor": 13,<br></br>  "actionId": "123abc",<br></br>  "item": {},<br></br>  "formData": {}<br></br>}
+{  "site": "tristantesting",  "tenant": "rapidplatform",  "environment": "production",  "requestor": 13,  "actionId": "123abc",  "item": {},  "formData": {}}
 ```
 
-<div id="bkmrk-%7B-%C2%A0-%22site%22%3A-%22tristan"><div>Include Item ON and Send as Single Request OFF:  
-</div></div>As seen the item key returns an object with the selected item. If more than one item was selected from the list view, it will send one network request per item.
+Include Item ON and Send as Single Request OFF:  
+As seen the item key returns an object with the selected item. If more than one item was selected from the list view, it will send one network request per item.
 
-<div id="bkmrk--0"><div><div>````</div></div></div>```JSON
-{<br></br>  "site": "home",<br></br>  "tenant": "stationaryinc",<br></br>  "environment": "test",<br></br>  "requestor": 4,<br></br>  "item": {<br></br>    "id": 3,<br></br>    "Attachments": [],<br></br>    "Dependencies": [],<br></br>    "LinkedItemsToAdd": [],<br></br>    "ScopedLinkedItemsToAdd": [],<br></br>    "author": "Admin",<br></br>    "author_id": 4,<br></br>    "created": "2023-11-21T02:04:42.176Z",<br></br>    "editor": "Admin",<br></br>    "editor_id": 4,<br></br>    "modified": "2023-12-07T01:19:53.213Z",<br></br>    "parent_id": null,<br></br>    "drive_id": null,<br></br>    "folder_id": null,<br></br>    "rank": null,<br></br>    "embedded_files": [],<br></br>    "sys_external_id": null,<br></br>    "purchased_new": true,<br></br>    "status": "Active",<br></br>    "name": "Paper Cup Making Machine ",<br></br>    "value": 650,<br></br>    "condition": "Fair",<br></br>    "asset_name": null,<br></br>    "manufactured_date": "2005-06-15T14:00:00.000Z",<br></br>    "make": "S. K. Engineers",<br></br>    "_model": "Three Phase 220v",<br></br>    "registration_number": null,<br></br>    "pseudo_email": null,<br></br>    "purchase_price": 650,<br></br>    "seller_link": "https://www.skengineer.org/wax-coated-paper-cup-and-glass-making-machine.html#paper-glass-or-cup-making-machine",<br></br>    "Permissions": [<br></br>      {<br></br>        "principal_id": 2,<br></br>        "mode_flags": 7,<br></br>        "type": "SecurityGroup"<br></br>      },<br></br>      {<br></br>        "principal_id": 4,<br></br>        "mode_flags": 7,<br></br>        "type": "User"<br></br>      }<br></br>    ],<br></br>    "__metadata": {<br></br>      "type": "Assets"<br></br>    }<br></br>  },<br></br>  "formData": {}<br></br>}
+```JSON
+{
+  "site": "home",
+  "tenant": "stationaryinc",
+  "environment": "test",
+  "requestor": 4,
+  "item": {
+    "id": 3,
+    "Attachments": [],
+    "Dependencies": [],
+    "LinkedItemsToAdd": [],
+    "ScopedLinkedItemsToAdd": [],
+    "author": "Admin",
+    "author_id": 4,
+    "created": "2023-11-21T02:04:42.176Z",
+    "editor": "Admin",
+    "editor_id": 4,
+    "modified": "2023-12-07T01:19:53.213Z",
+    "parent_id": null,
+    "drive_id": null,
+    "folder_id": null,
+    "rank": null,
+    "embedded_files": [],
+    "sys_external_id": null,
+    "purchased_new": true,
+    "status": "Active",
+    "name": "Paper Cup Making Machine ",
+    "value": 650,
+    "condition": "Fair",
+    "asset_name": null,
+    "manufactured_date": "2005-06-15T14:00:00.000Z",
+    "make": "S. K. Engineers",
+    "_model": "Three Phase 220v",
+    "registration_number": null,
+    "pseudo_email": null,
+    "purchase_price": 650,
+    "seller_link": "https://www.skengineer.org/wax-coated-paper-cup-and-glass-making-machine.html#paper-glass-or-cup-making-machine",
+    "Permissions": [
+      {
+        "principal_id": 2,
+        "mode_flags": 7,
+        "type": "SecurityGroup"
+      },
+      {
+        "principal_id": 4,
+        "mode_flags": 7,
+        "type": "User"
+      }
+    ],
+    "__metadata": {
+      "type": "Assets"
+    }
+  },
+  "formData": {}
+}
 ```
 
 ##### Include Item ON and Send as Single Request ON:
@@ -86,15 +139,104 @@ A "Perform Remote Action" Menu button with the Action ID Configured will return 
 As seen the item key returns an array with the item profiles of the selected items.
 
 ```JSON
-{<br></br>  "site": "home",<br></br>  "tenant": "stationaryinc",<br></br>  "environment": "test",<br></br>  "requestor": 4,<br></br>  "item": [<br></br>    {<br></br>      "id": 3,<br></br>      "Attachments": [],<br></br>      "Dependencies": [],<br></br>      "LinkedItemsToAdd": [],<br></br>      "ScopedLinkedItemsToAdd": [],<br></br>      "author": "Admin",<br></br>      "author_id": 4,<br></br>      "created": "2023-11-21T02:04:42.176Z",<br></br>      "editor": "Admin",<br></br>      "editor_id": 4,<br></br>      "modified": "2023-12-07T01:19:53.213Z",<br></br>      "parent_id": null,<br></br>      "drive_id": null,<br></br>      "folder_id": null,<br></br>      "rank": null,<br></br>      "embedded_files": [],<br></br>      "sys_external_id": null,<br></br>      "purchased_new": true,<br></br>      "status": "Active",<br></br>      "name": "Paper Cup Making Machine ",<br></br>      "value": 650,<br></br>      "condition": "Fair",<br></br>      "asset_name": null,<br></br>      "manufactured_date": "2005-06-15T14:00:00.000Z",<br></br>      "make": "S. K. Engineers",<br></br>      "_model": "Three Phase 220v",<br></br>      "registration_number": null,<br></br>      "pseudo_email": null,<br></br>      "purchase_price": 650,<br></br>      "seller_link": "https://www.skengineer.org/wax-coated-paper-cup-and-glass-making-machine.html#paper-glass-or-cup-making-machine",<br></br>      "Permissions": [<br></br>        {<br></br>          "principal_id": 2,<br></br>          "mode_flags": 7,<br></br>          "type": "SecurityGroup"<br></br>        },<br></br>        {<br></br>          "principal_id": 4,<br></br>          "mode_flags": 7,<br></br>          "type": "User"<br></br>        }<br></br>      ],<br></br>      "__metadata": {<br></br>        "type": "Assets"<br></br>      }<br></br>    },<br></br>    {<br></br>      "id": 2,<br></br>      "Attachments": [],<br></br>      "Dependencies": [],<br></br>      "LinkedItemsToAdd": [],<br></br>      "ScopedLinkedItemsToAdd": [],<br></br>      "author": "Admin",<br></br>      "author_id": 4,<br></br>      "created": "2023-11-21T02:02:37.938Z",<br></br>      "editor": "Admin",<br></br>      "editor_id": 4,<br></br>      "modified": "2023-12-07T01:19:53.473Z",<br></br>      "parent_id": null,<br></br>      "drive_id": null,<br></br>      "folder_id": null,<br></br>      "rank": null,<br></br>      "embedded_files": [],<br></br>      "sys_external_id": null,<br></br>      "purchased_new": true,<br></br>      "status": "Active",<br></br>      "name": "Best Paper Plate Making Machine",<br></br>      "value": 750,<br></br>      "condition": "Good",<br></br>      "asset_name": null,<br></br>      "manufactured_date": "2016-08-17T14:00:00.000Z",<br></br>      "make": "S. K. Engineers",<br></br>      "_model": "220 v",<br></br>      "registration_number": null,<br></br>      "next_service_date": "2023-11-29T14:00:00.000Z",<br></br>      "pseudo_email": null,<br></br>      "purchase_price": 940,<br></br>      "seller_link": "https://www.skengineer.org/dies-silver-dona-plate-making-machine-immediately-selling-24x7-08081308899.html#best-paper-plate-making-machine",<br></br>      "__metadata": {<br></br>        "type": "Assets"<br></br>      }<br></br>    }<br></br>  ],<br></br>  "formData": {}<br></br>}
+{
+  "site": "home",
+  "tenant": "stationaryinc",
+  "environment": "test",
+  "requestor": 4,
+  "item": [
+    {
+      "id": 3,
+      "Attachments": [],
+      "Dependencies": [],
+      "LinkedItemsToAdd": [],
+      "ScopedLinkedItemsToAdd": [],
+      "author": "Admin",
+      "author_id": 4,
+      "created": "2023-11-21T02:04:42.176Z",
+      "editor": "Admin",
+      "editor_id": 4,
+      "modified": "2023-12-07T01:19:53.213Z",
+      "parent_id": null,
+      "drive_id": null,
+      "folder_id": null,
+      "rank": null,
+      "embedded_files": [],
+      "sys_external_id": null,
+      "purchased_new": true,
+      "status": "Active",
+      "name": "Paper Cup Making Machine ",
+      "value": 650,
+      "condition": "Fair",
+      "asset_name": null,
+      "manufactured_date": "2005-06-15T14:00:00.000Z",
+      "make": "S. K. Engineers",
+      "_model": "Three Phase 220v",
+      "registration_number": null,
+      "pseudo_email": null,
+      "purchase_price": 650,
+      "seller_link": "https://www.skengineer.org/wax-coated-paper-cup-and-glass-making-machine.html#paper-glass-or-cup-making-machine",
+      "Permissions": [
+        {
+          "principal_id": 2,
+          "mode_flags": 7,
+          "type": "SecurityGroup"
+        },
+        {
+          "principal_id": 4,
+          "mode_flags": 7,
+          "type": "User"
+        }
+      ],
+      "__metadata": {
+        "type": "Assets"
+      }
+    },
+    {
+      "id": 2,
+      "Attachments": [],
+      "Dependencies": [],
+      "LinkedItemsToAdd": [],
+      "ScopedLinkedItemsToAdd": [],
+      "author": "Admin",
+      "author_id": 4,
+      "created": "2023-11-21T02:02:37.938Z",
+      "editor": "Admin",
+      "editor_id": 4,
+      "modified": "2023-12-07T01:19:53.473Z",
+      "parent_id": null,
+      "drive_id": null,
+      "folder_id": null,
+      "rank": null,
+      "embedded_files": [],
+      "sys_external_id": null,
+      "purchased_new": true,
+      "status": "Active",
+      "name": "Best Paper Plate Making Machine",
+      "value": 750,
+      "condition": "Good",
+      "asset_name": null,
+      "manufactured_date": "2016-08-17T14:00:00.000Z",
+      "make": "S. K. Engineers",
+      "_model": "220 v",
+      "registration_number": null,
+      "next_service_date": "2023-11-29T14:00:00.000Z",
+      "pseudo_email": null,
+      "purchase_price": 940,
+      "seller_link": "https://www.skengineer.org/dies-silver-dona-plate-making-machine-immediately-selling-24x7-08081308899.html#best-paper-plate-making-machine",
+      "__metadata": {
+        "type": "Assets"
+      }
+    }
+  ],
+  "formData": {}
+}
 ```
 
-<div id="bkmrk--1"></div>##### Include Form ON:
+##### Include Form ON:
 
 As seen the formDate key returns an object with the form information entered.
 
 ```JSON
-{<br></br>  "site": "home",<br></br>  "tenant": "stationaryinc",<br></br>  "environment": "test",<br></br>  "requestor": 4,<br></br>  "item": {},<br></br>  "formData": {<br></br>    "name": "Jamie"<br></br>  }<br></br>}
+{  "site": "home",  "tenant": "stationaryinc",  "environment": "test",  "requestor": 4,  "item": {},  "formData": {    "name": "Jamie"  }}
 ```
-
-<div id="bkmrk--2"></div><div id="bkmrk--3"></div><div id="bkmrk--4"></div><div id="bkmrk--5"></div><div id="bkmrk--6"></div>[Go back to ***On-Click Actions*** learning resource](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?") -->

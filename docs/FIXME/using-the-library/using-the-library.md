@@ -37,5 +37,5 @@ yarn install @rapid/template-engine
 1\. Evaluating a simple template
 
 ```JavaScript
-import { TemplateProxy } from '@rapid/template-engine';<br></br><br></br>const data = {<br></br>  user_name: 'Fred Smith';<br></br>};<br></br><br></br>const taskTemplate = {<br></br>  title: 'A task for: <%= user_name %>',<br></br>}<br></br><br></br>const task = TemplateProxy(taskTemplate, data);<br></br><br></br>console.log(task.title) // "A task for: Fred Smith"
+import { TemplateProxy } from '@rapid/template-engine';const data = {  user_name: 'Fred Smith';};const taskTemplate = {  title: 'A task for: <%= user_name %>',}const task = TemplateProxy(taskTemplate, data);console.log(task.title) // "A task for: Fred Smith"
 ```

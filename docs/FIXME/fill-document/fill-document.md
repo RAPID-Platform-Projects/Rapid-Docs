@@ -13,7 +13,7 @@ To deal with an unknown number of items in a list DocX has implemented [loops](h
 #### Document Example
 
 ```
-{project.title | upper} <br></br>Start: {project.start_date | endOf: ‘day’ | format: ‘dd-MM-yyyy'} <br></br>{#project.tasks} <br></br>{title} {start_date | format:’dd/MM/yy’} {due_date} {total | currency:’fil-PH’:’PHP’}<br></br>{/}
+{project.title | upper} Start: {project.start_date | endOf: ‘day’ | format: ‘dd-MM-yyyy'} {#project.tasks} {title} {start_date | format:’dd/MM/yy’} {due_date} {total | currency:’fil-PH’:’PHP’}{/}
 ```
 
 #### Supported Filter Expressions

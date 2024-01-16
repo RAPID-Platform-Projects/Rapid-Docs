@@ -1,4 +1,4 @@
-<!-- # Generating a Bearer Token for custom applications
+# Generating a Bearer Token for custom applications
 
 First you will need
 
@@ -10,7 +10,7 @@ First you will need
 
 ### Adding the application to another tenant
 
-- Go to this url [https://login.microsoftonline.com/{tenant-id}/adminconsent?client\_id={client-id}](https://login.microsoftonline.com/%7Btenant-id%7D/adminconsent?client_id=%7Bclient-id%7D) replace tenant-id with the tenant id of the tenant you want to add the app too and replace client-id with YOUR application client-id.
+- Go to this url [https://login.microsoftonline.com/\{tenant-id}/adminconsent?client\_id=\{client-id}](https://login.microsoftonline.com/%7Btenant-id%7D/adminconsent?client_id=%7Bclient-id%7D) replace tenant-id with the tenant id of the tenant you want to add the app too and replace client-id with YOUR application client-id.
 - Grant admin consent with the admin user of the tenant you are trying to add the app to.
 
 ### Generate Auth on behalf of another application
@@ -30,7 +30,7 @@ POST: https://login.microsoftonline.com/contoso.onmicrosoft.com/oauth2/token
 ### Generate Auth
 
 - To generate auth you are gonna need the client-id, the client-secret and the scope uri from the first step
-- The url to POST to looks like this -&gt; [https://login.microsoftonline.com/{tenant](https://login.microsoftonline.com/%7Btenant) name}.onmicrosoft.com/oauth2/v2.0/token
+- The url to POST to looks like this -&gt; [https://login.microsoftonline.com/\{tenant](https://login.microsoftonline.com/%7Btenant) name}.onmicrosoft.com/oauth2/v2.0/token
 - When making the request use the url above, the method for the request it a POST
 
 **Example Request**
@@ -60,4 +60,4 @@ The scope is the Application ID URI attaching the scopes to the requested token
 - Go to the tenant you want to add the Application user to.
 - Go to that tenants Enterprise Applications
 - You will see the App you added in step 2
-- Copy the OID from there and use that to create a principal in the principal list for that tenants RAPID -->
+- Copy the OID from there and use that to create a principal in the principal list for that tenants RAPID

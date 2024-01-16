@@ -20,6 +20,6 @@ To learn more about these, visit - [https://docs.sendgrid.com/for-developers/sen
 
 A video tutorial has been prepared here:
 
-<iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/WOQBN1gnSsQ" style="width: 728px; height: 405px;" width="789"></iframe>
+<iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/WOQBN1gnSsQ" width="789"></iframe>
 
 ##### **At the time of writing this guide, the conditional statements do not work properly with RAPID integration.**

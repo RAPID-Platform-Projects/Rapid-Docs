@@ -1,4 +1,4 @@
-<!-- # Outlook Integration
+# Outlook Integration
 
 Omnichannel supports Outlook event syncing natively. This allows you to create meeting events in your RAPID site and have them sync up to your Outlook calendar.
 
@@ -43,58 +43,58 @@ Subscriptions empower Outlook to update RAPID with changes. Each subscription 'l
 
 In order to power the outlook syncing, a series of internal webhooks are required to be installed on the site.
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Delete Outlook Subscription|
 |Table|Meeting Subscriptions|
 |Trigger|Items Deleted|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/delete|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/delete`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Delete Event in Outlook|
 |Table|Meeting Events|
 |Trigger|Items Deleted|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/delete|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/event/delete`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Delete Event in Outlook|
 |Table|Meeting Events|
 |Trigger|Item Deleted|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/delete|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/event/delete`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Update Event in Outlook|
 |Table|Meeting Events|
 |Trigger|Item Updated|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/update|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/event/update`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Create Event in Outlook|
 |Table|Meeting Events|
 |Trigger|Item Created|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/event/create|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/event/create`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Create Subscription for Outlook|
 |Table|Meeting|
 |Trigger|Item Created|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/meeting/create|
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/meeting/create`|
 
-|\**Field**|\**Value**|
+|Field|Value|
 |:----|:----|
 |Title|Update Meeting Subscription|
 |Table|Meeting Subscriptions|
 |Trigger|Item Updated|
 |Service|Omnichannel|
-|Callback URL|/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/update| -->
+|Callback URL|`/<Tenant>/<Site>/0/services/rapid-meetings/subscriptions/update`|

@@ -22,5 +22,5 @@ Here is a link to the video showcasing the whole process :
 
 <iframe allowfullscreen="allowfullscreen" height="314" src="https://www.youtube.com/embed/61JJU77jObU" width="560"></iframe>
 
-<div id="bkmrk--1" style="max-width: 640px;"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">  
+<div id="bkmrk--1" ><div >  
 </div></div>

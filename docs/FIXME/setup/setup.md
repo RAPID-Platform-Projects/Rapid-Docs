@@ -16,13 +16,13 @@ To complete this guide, you will need:
 Having installed and set up the SDK Template, we add a base route pointing towards an `<App />` component.
 
 ```JavaScript
-//... SDK Template index.tsx<br></br><br></br>import App from './app';<br></br><br></br>const root = ReactDOM.createRoot(document.getElementById("root")!);<br></br><br></br>root.render(<br></br>    <RapidApplication<br></br>        subRoutes={[<br></br>            {<br></br>                id: 'base',<br></br>                element: <App />,<br></br>                path: '',<br></br>            }<br></br>        ]}<br></br>    /><br></br>);<br></br>
+//... SDK Template index.tsximport App from './app';const root = ReactDOM.createRoot(document.getElementById("root")!);root.render(    <RapidApplication        subRoutes={[            {                id: 'base',                element: <App />,                path: '',            }        ]}    />);
 ```
 
 To begin with, `app.tsx` is just an empty component.
 
 ```JavaScript
-import React from 'react';<br></br><br></br>export default function App() {<br></br>	return <div></div>;<br></br>}
+import React from 'react';export default function App() {	return <div></div>;}
 ```
 
 #### Styling
@@ -32,11 +32,11 @@ Styling will not be the focus of this tutorial, but it will help display our lis
 Create `app.css` pasting in the below styles:
 
 ```CSS
-.app {<br></br>    display: grid;<br></br>    grid-template-columns: 30% 1fr;<br></br>    grid-template-rows: 1fr;<br></br>    grid-template-areas: "sidebar list-item";<br></br>    justify-items: stretch;<br></br>    align-items: stretch;<br></br>    height: 100%;<br></br>}<br></br><br></br>.sidebar {<br></br>    grid-area: sidebar;<br></br><br></br>    border: 1px solid gray;<br></br><br></br>    display: flex;<br></br>    flex-direction: column;<br></br>    justify-content: stretch;<br></br>}<br></br><br></br>.select-data-source {<br></br>    padding: 1rem;<br></br>}<br></br><br></br>.data-table {<br></br>    display: flex;<br></br>    flex-direction: column;<br></br>    padding: 1rem;<br></br>}<br></br><br></br>.item {<br></br>    padding: 0.3rem;<br></br>    display: flex;<br></br>    align-items: center;<br></br>}<br></br><br></br>.status {<br></br>    margin-left: auto;<br></br>    font-size: 0.8rem;<br></br>    color: gray;<br></br>}<br></br><br></br>.item-page {<br></br>    grid-area: list-item;<br></br><br></br>    padding: 1rem;<br></br>}<br></br><br></br>.item-page-header {<br></br>    display: flex;<br></br>    align-items: center;<br></br>}<br></br><br></br>.item-page-header h2 {<br></br>    margin-right: auto;<br></br>}<br></br><br></br>label {<br></br>    display: flex;<br></br>    flex-direction: column;<br></br>}<br></br>
+.app {    display: grid;    grid-template-columns: 30% 1fr;    grid-template-rows: 1fr;    grid-template-areas: "sidebar list-item";    justify-items: stretch;    align-items: stretch;    height: 100%;}.sidebar {    grid-area: sidebar;    border: 1px solid gray;    display: flex;    flex-direction: column;    justify-content: stretch;}.select-data-source {    padding: 1rem;}.data-table {    display: flex;    flex-direction: column;    padding: 1rem;}.item {    padding: 0.3rem;    display: flex;    align-items: center;}.status {    margin-left: auto;    font-size: 0.8rem;    color: gray;}.item-page {    grid-area: list-item;    padding: 1rem;}.item-page-header {    display: flex;    align-items: center;}.item-page-header h2 {    margin-right: auto;}label {    display: flex;    flex-direction: column;}
 ```
 
 Then, import it into `app.tsx` making sure to add the `"app"` `className` to the root div.
 
 ```JavaScript
-import React from 'react';<br></br>import "./app.css";<br></br><br></br>export default function App() {<br></br>	return <div className="app" ></div>;<br></br>}
+import React from 'react';import "./app.css";export default function App() {	return <div className="app" ></div>;}
 ```
