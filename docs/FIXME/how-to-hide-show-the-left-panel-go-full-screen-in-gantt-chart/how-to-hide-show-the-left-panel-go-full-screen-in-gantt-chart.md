@@ -16,7 +16,7 @@ You can toggle between hiding and showing the Left Panel using a single button.
 
 Please view the below GIF for illustration:
 
-![Left Panel-480p-230912.gif
+![Left Panel](vzmtQOo9cM3P7chI-left-panel-480p-230912.gif)
 
 ##### **Gantt Chart in Full Screen**
 
@@ -28,7 +28,7 @@ The Gantt Chart can be viewed in Full Screen mode. The Full Screen mode allows y
 
 ![Exit full screen gantt.png](./downloaded_image_1705285668191.png)Please refer to the below GIF for illustration
 
-![Full screen Gantt-480p-230913.gif
+![Full screen Gantt](42FjD4DlOllCs8ol-full-screen-gantt-480p-230913.gif)
 
 ##### **Related articles**
 

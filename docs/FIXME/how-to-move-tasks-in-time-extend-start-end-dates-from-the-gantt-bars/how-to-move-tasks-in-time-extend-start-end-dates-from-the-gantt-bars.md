@@ -6,7 +6,7 @@ The Gantt Chart in RAPID Platform is not just an excellent visualisation tool, r
 
 A task can be easily dragged across timeline to change its Start Date and End Date (or Due Date).
 
-![Dragging-480p-230914.gif
+![Dragging timeline](7N3DzoiYMFnF2dzA-dragging-480p-230914.gif)
 
 **Please note:**
 
@@ -24,7 +24,7 @@ Consider the following points:
 3. Click and drag the arrow in desired direction to modify Start Date / End Date.
 4. The duration of the task will update automatically.
 
-![Drag Start End-480p-230914.gif
+![Drag Start End](zRG3i4nhnatLaJyQ-drag-start-end-480p-230914.gif)
 
 ##### **Important points to note**
 
