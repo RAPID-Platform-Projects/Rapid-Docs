@@ -22,7 +22,7 @@ This is where the Label component is useful. A Label component is like a text ta
 
 Please refer to the below video for illustration:  
   
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="422" src="https://www.youtube.com/embed/39xCB7v7FKM?si=SnHEeB7JfsKNsFb_" style="width: 750px; height: 420px;" title="YouTube video player" width="750"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="422" src="https://www.youtube.com/embed/39xCB7v7FKM?si=SnHEeB7JfsKNsFb_" title="YouTube video player" width="750"></iframe>
 
 - Similar to Label on Grid Layout, you can [move and resize](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout), set visibility over [Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints) and [Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints).
 

@@ -14,7 +14,7 @@ Imagine you are the Sales Manager. You want to always keep a sight of the number
 
 In such scenarios, you can configure the Counter component.
 
-The Counter Component can give you the <span style="text-decoration: underline;">**count of items**</span> present in a defined **[Table View](https://docs.rapidplatform.com/books/experiences-oxn/page/data-table-component-views "Data Table Component - Views")**. Therefore, for Case 1 above, you would need to :
+The Counter Component can give you the ***count of items*** present in a defined **[Table View](https://docs.rapidplatform.com/books/experiences-oxn/page/data-table-component-views "Data Table Component - Views")**. Therefore, for Case 1 above, you would need to :
 
 1. Create a Table View on Projects Table that is configured to show "Active" Projects.
 2. **[Add a Counter component](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")** to the desired **[Page](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")**.

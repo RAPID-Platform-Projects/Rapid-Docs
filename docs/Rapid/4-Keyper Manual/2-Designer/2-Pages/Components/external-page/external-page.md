@@ -35,7 +35,7 @@ This component enables you to display websites and webpages onto your Rapid Page
 
 **Please note**
 
-- **&lt;%-value.{column}%&gt;** is the syntax to pass variable value of url to the component.
+- `<%-value.{column}%>` is the syntax to pass variable value of url to the component.
 - The External Page component can be added to both Item Details (Singular) and Items List (Plural) levels.
 - There is no "Save" button in the Edit preferences panel of the component. After entering the value in the field, just click outside the field and it gets saved.
 - Not all websites can be connected to the External Page component. Only the sites that allow iFrame connection can be displayed on the Page. For sites that do not allow iFrame connection will display an error message as below: 

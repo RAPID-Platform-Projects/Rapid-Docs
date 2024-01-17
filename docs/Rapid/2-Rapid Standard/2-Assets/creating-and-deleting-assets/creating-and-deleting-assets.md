@@ -6,30 +6,31 @@ Creating, editing, or deleting assets is the same process for each of the three 
 ## How to create an Asset (Asset, IT Asset, Vehicle)
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![Cool file](Coolfile.png)
+    ![Navigating to assets](<../Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
+    ![Navigate to asset type](<Navigate to asset type.png>)
 3. Click on **New Asset** (or **New IT Asset** or **New Vehicle**).  
-    ![image-1702443588445.png](./downloaded_image_1705285376233.png)
+    ![Click on new asset](<Click on new asset.png>)
 4. Enter all relevant details (To maintain good bookkeeping practices, it is recommended to enter as much information as possible)  
     
     1. For Vehicle Assets: Registration Expiry and Next Service Date are required fields if you wish to receive Registration and Service reminders.
     2. For IT Assets: Next Service Date is a required field if you want to receive service reminders  
-        ![image-1702443641331.png](./downloaded_image_1705285377258.png)
-5. Click on **Create** or ****Create and Open**** ![image-1702443731907.png](./downloaded_image_1705285378271.png)
+        ![New asset creation menu](<New asset creation menu.png>)
+5. Click on **Create** or ****Create and Open**** 
+    ![Press create button](<Press create button.png>)
 
 ## How to Edit and Asset (Asset, IT Asset, Vehicle)
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
+    ![Navigating to assets](<../Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
+    ![Navigate to asset type](<Navigate to asset type.png>)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  
-    ![image-1702443895142.png](./downloaded_image_1705285381308.png)
+    ![Open the asset](<Open the asset.png>)
 4. Edit any relevant fields on the asset page as needed.  
-    ![image-1702443945023.png](./downloaded_image_1705285382324.png)
+    ![Alt text](<Updating the asset information on the details page.png>)
 5. Once you have finished editing, click on **Save** or **Save and Close**.  
-    ![image-1702443985195.png](./downloaded_image_1705285383344.png)
+    ![Save the changes](<Save the changes.png>)
 
 ### How to Delete an Asset (Asset, IT Asset, Vehicle)
 
@@ -40,23 +41,23 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 **Deleting from the list:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
+    ![Navigating to assets](<../Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
+    ![Navigate to asset type](<Navigate to asset type.png>)
 3. Select the assets you wish to delete  
-    ![image-1702444055175.png](./downloaded_image_1705285386384.png)
+    ![Selecting multiple assets](<Selecting multiple assets.png>)
 4. Press the **Delete** button  
-    ![image-1702444083359.png](./downloaded_image_1705285387398.png)
+    ![Delete the selected assets](<Delete the selected assets.png>)
 
 **Deleting from the asset page:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![image-1702443533410.png](./downloaded_image_1705285374195.png)
+    ![Navigating to assets](<../Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
-    ![image-1702443567350.png](./downloaded_image_1705285375218.png)
+    ![Navigate to asset type](<Navigate to asset type.png>)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  
-    ![image-1702443895142.png](./downloaded_image_1705285381308.png)
+    ![Open the asset](<Open the asset.png>)
 4. Click on the delete button.  
-    ![image-1702444145706.png](./downloaded_image_1705285391443.png)
+    ![Delete the asset from the details page](<Delete the asset from the details page.png>)
 
 **Note:** When deleting assets from the base Assets List, their entries on the subtypes (i.e., IT Assets or Vehicles) will also be deleted, and vice versa.
