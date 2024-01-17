@@ -4,11 +4,11 @@ A command bar is the horizontal area containing command buttons like Save, Delet
 
 **Command bar in Table view**
 
-![Command Bar - Data Table.png
+![Command Bar - Data Table.png](./command-bar-data-table.png)
 
 **Command bar in Item view**
 
-![Command Bar - Item Profile.png
+![Command Bar - Item Profile.png](./command-bar-item-profile.png)
 
 ##### **Related article**
 

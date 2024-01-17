@@ -7,7 +7,7 @@ There are two types of menu buttons:
 - In the [Sidebars](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar")  
     ![Experience Sidebars.png
 
-- In [command bars](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar") ![Command Bar - Data Table.png
+- In [command bars](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar") ![Command Bar - Data Table.png](./command-bar-data-table.png)
 
 The On-Click Action of the menu button can be configured.
 
