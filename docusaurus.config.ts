@@ -114,7 +114,7 @@ const config: Config = {
           label: "Changelog"
         },
         {
-          href: "https://github.com/rapid-platform",
+          href: "https://github.com/RAPID-Platform-Projects/Rapid-Docs/issues/new?assignees=MattFranklin-Rapid&labels=bug&projects=&template=bug-form.yml",
           position: "right",
           label: "Feedback"
         }

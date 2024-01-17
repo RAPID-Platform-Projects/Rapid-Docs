@@ -1,14 +1,14 @@
-name: Bug Report
-description: File a bug report
+name: Issue Report
+description: File a documentation issue report
 title: "[A short description of your issue]: "
-labels: ["bug"]
+labels: ["Report"]
 assignees:
   - MattFranklin-Rapid
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this issue report!
   - type: input
     id: contact
     attributes:
@@ -18,12 +18,12 @@ body:
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: what-is-the-issue
     attributes:
-      label: What happened?
+      label: What is the issue?
       description: Also tell us, what did you expect to happen?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "A clear description of the issue"
     validations:
       required: true
   - type: dropdown
