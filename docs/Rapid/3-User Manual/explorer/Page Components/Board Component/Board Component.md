@@ -114,7 +114,7 @@ In case your subject table is a Parent AND you do not find the option to create 
 
 ![Image showing option to create child table item hidden](<Explorer_Board - Hidden Create Child Item.png>)
 
-# The unspecified category
+# The "unspecified" category
 
 You may also find a category titled as "unspecified". 
 
