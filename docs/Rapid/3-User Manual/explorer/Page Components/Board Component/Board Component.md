@@ -104,7 +104,7 @@ Click on the new item button. This will open the Create Item Form.
 
 If your subject table is a Parent Table and there are other child tables which inherit properties from your subject (parent) table, then you can create new items for the child table from within the Board.
 
-In the below illustration, ***Tasks*** is a Parent Table and ***Projects*** is a **[*Sub-Type Of*](https://docs.rapidplatform.com/books/glossary/page/inherit-table-sub-type-of "Inherit Table / Sub-Type Of")**  ***Tasks***.  
+In the below illustration, ***Tasks*** is a Parent Table and ***Projects*** is a **[*Sub Type of*](../../../Glossary/glossary.md#inherit-table--sub-type-of)**  ***Tasks***.  
 You can create new Project items from the Board. 
 
 ![Image showing option to create Child Table Item](<Explorer_Board - Create Child Item.png>)
@@ -132,4 +132,3 @@ Such items, where the category value is blank, are placed under an unspecified c
 In case you do not see "unspecified" as a category on your board, this means that this option has been disabled from the Board Component preferences level.
 
 ![Image showing unspecified category as hidden](<Explorer_Board - Hidden unspecified category.png>)
-
