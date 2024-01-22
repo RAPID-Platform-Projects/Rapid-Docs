@@ -1,6 +1,6 @@
 # What is an Attachments component on a Layout / Page?
 
-## **What is an Attachments component?**
+## What is an Attachments component?
 
 The Files Tab ([File Browser component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?")) is the place to upload / view files with reference to an item. However, in real-life business scenarios the Files Tab can a long list, and sometimes heavy files.
 
