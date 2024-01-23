@@ -2,7 +2,7 @@
 
 Omnichannel integrates with SendGrid to provide Email communication support.
 
-### Creating a SendGrid registration
+## Creating a SendGrid registration
 
 Before you start you will need
 
@@ -30,7 +30,7 @@ Once a registration is created you can now use it's generated key to interact wi
 
 You can make multiple registrations for different SendGrid registrations to split different 'areas' of communication.
 
-### Setting up Inbound Parse with Omnichannel
+## Setting up Inbound Parse with Omnichannel
 
 In order to process inbound email with SendGrid, the Omnichannel takes advantage of it's Inbound Parse functionality.
 
@@ -54,9 +54,9 @@ With this set up all email traffic that is sent to &lt;anything&gt;@&lt;subdomai
     - This will use the inherited links system if you want to see notes in other, related contexts
 - Forward the email to &lt;anything&gt;@&lt;domain&gt; so you can see the sent email in your inbox
 
-### Using the Omnichannel API
+## Using the Omnichannel API
 
-##### Sending an Email
+### Sending an Email
 
 To send an email using your registration
 
@@ -79,7 +79,7 @@ The post body then should match the Sendgrid API v3. Here is a basic example
 
 ```
 
-##### Configuring a Send Email button
+### Configuring a Send Email button
 
 When configuring the form there are special data paths that can be used
 
@@ -87,11 +87,11 @@ Reply To : $.replyTo.email
 
 Reply To Alias : $.replyTo.name
 
-##### Receiving an Email  
+### Receiving an Email  
   
 
 
-##### Configuring an ad-hoc send template
+### Configuring an ad-hoc send template
 
 SendGrid have two modes when displaying dynamic content on a template.
 
@@ -101,7 +101,7 @@ Triple moustache syntax \{\{\{}}} will be rendered raw. This will render any htm
 
 like so
 
-##### Inbound Parse &amp; Email Forwarding
+### Inbound Parse &amp; Email Forwarding
 
 SendGrid inbound parse enables the detection of inbound email messages. When setting up inbound parse it is recommended to create a subdomain for each 'area' of influence you want to recognize when messages come in. This provides two benefits:
 
@@ -112,7 +112,7 @@ Additionally, SendGrid uses DNS routing to direct mail traffic to their servers 
 
 To assist with this, Omnichannel forwards on inbound parsed messages. It assumes that the recipient address exists on the base domain with the registration, For example, a message sent to updates@robot.rapidplatform.com.au will be forwarded to updates@rapidplatform.com.au.
 
-##### Direct API Requests
+### Direct API Requests
 
 Requests can be made directly to Omnichannel via
 
