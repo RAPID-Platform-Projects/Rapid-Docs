@@ -7,17 +7,17 @@ For security reasons RAPID will not sync meetings created outside your site. To 
 1. Create a new Meeting item to hold the event
 2. Create a new Event item
 
-#### Tables Required
+## Tables Required
 
 Meetings integration depends on the Meetings Bundle (available in the bundle library).
 
 This includes the following tables
 
-##### Meetings
+### Meetings
 
 This covers the base of a meeting or meeting series. The Organiser will be the principal calendar that will store the events for that meeting.
 
-##### Meeting Events
+### Meeting Events
 
 Each time people meet up is an event. The events table covers the who, when and where to help people meet up. For once-off meetings, they will need a single Meeting and Event item. For recurring meetings, each event falls under the same meeting item.
 
@@ -27,15 +27,15 @@ Invitees, Attendees, and Guests:
 - Attendees are person who actually attended the meeting events (Besides guests).
 - Guests are persons from an external organization invited to the meeting event (Multiple lookup to External Contacts).
 
-##### Meeting Agendas
+### Meeting Agendas
 
 Tracking what will be covered in the meeting, agenda items can be used to prepare a sorted and organised list of topics.
 
-##### Meeting Minutes
+### Meeting Minutes
 
 Minutes are a kind of note, tracking what was decided within an event. By default the Meetings bundle has enabled link inheritance for Minutes so they can be applied to Agenda items and/or Events and still bubble up to the appropriate Event/Meeting to make seeing what was decided easier.
 
-##### Meeting Subscriptions
+### Meeting Subscriptions
 
 Subscriptions empower Outlook to update RAPID with changes. Each subscription 'listens' for changes on Outlook for Events created in your site. Removing a subscription will turn off syncing from Outlook, while adding a new meeting will create a subscription.
 

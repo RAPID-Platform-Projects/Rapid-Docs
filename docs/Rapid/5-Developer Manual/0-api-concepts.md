@@ -405,7 +405,7 @@ So for this entity configuration
 
 To fetch the links needed to be added to a Note being created against Task 2, while Notes have Inherit Links configured for Projects you would call
 
-### Title Update
+## Title Update
 
 Due to table inheritance causing entity fields to be split across multiple tables you can post to the title-field endpoint to set an entities' title field.
 
@@ -421,7 +421,7 @@ This is only a PUT action that requires the title field in the body like
 }
 ```
 
-### Navigating to a Particular Page in Designer or Explorer
+## Navigating to a Particular Page in Designer or Explorer
 
 It is sometimes necessary to navigate to a particular page in either Explorer (having a direct link to a page on nav bar for example) or in Designer, which is necessary if you need to edit the page.
 
@@ -433,7 +433,7 @@ For Designer:
 ?tab=Designer&page={pageName}#
 ```
 
-### Search Endpoint
+## Search Endpoint
 
 You can search for items on a specific view from a string input and it will regard any columns on the table marked searchable.
 
@@ -441,7 +441,7 @@ You can search for items on a specific view from a string input and it will rega
 GET /lists/{listName}/{view}/items?term={searchTerm}
 ```
 
-### Dynamically Populating a Lookup
+## Dynamically Populating a Lookup
 
 When creating items that contain a lookup field to another table, it is frequently the case where you need to check if the item you want to reference exists on the target table and find it's ID OR if it doesn't exist to create it. This comes up sufficiently that we have implemented an alternate sugar value to smooth this process out.
 
@@ -457,6 +457,8 @@ When populating a lookup in a create/update request on an item you can instead p
 ```
 
 This will execute the filter to attempt to find an item. If at least one is found it will take the first and replace the object with the found items ID. If no items are returned from the filter expression it will take the supplied keys and generate a new item, then replace the object with the newly created items ID.
+
+## Common Endpoints
 
 ### Get Site File
 

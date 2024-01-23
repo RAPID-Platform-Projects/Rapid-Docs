@@ -4,15 +4,15 @@ The Omnichannel service provides communication integration between RAPID and ext
 
 A site can have multiple integrations active on it at once. For example you could have a Send Grid integration for Sales &amp; Marketing that is managed and handled by that team and another for Invoices that is managed and handled by the Finance team. This allows for different easy control of different 'spheres' of integration and communication to make tracking, control and process easier to manage.
 
-#### Supported Integrations
+## Supported Integrations
 
 [Send Grid](https://sendgrid.com/) : Bulk email support as well as email templates
 
-[Twilio](https://www.twilio.com/) : SMS support using automated phones
+~~[Twilio](https://www.twilio.com/) : SMS support using automated phones~~
 
-[Outlook Events](https://outlook.com/) : Meeting and event support from the Graph
+~~[Outlook Events](https://outlook.com/) : Meeting and event support from the Graph~~
 
-#### Registering an Integration
+## Registering an Integration
 
 Each integration can require different authentication information. For security these are stored outside of your site in a secure [Azure Key Vault](https://azure.microsoft.com/en-au/services/key-vault/). To register an integration to your site, navigate to Designer and find Integrations under the Advanced tab.
 
