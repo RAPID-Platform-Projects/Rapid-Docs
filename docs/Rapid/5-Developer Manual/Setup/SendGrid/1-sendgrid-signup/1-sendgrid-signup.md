@@ -1,6 +1,6 @@
 # SendGrid Signup
 
-![image-1689230442381.png](./downloaded_image_1705285905998.png)
+In order to have SendGrid, you need to own a SendGrid account. Below are the current steps and recommendations to do this.
 
 ![Picture 1.png](./downloaded_image_1705285907041.png)
 

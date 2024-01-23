@@ -26,4 +26,6 @@
 
 ![Picture 32.png](./downloaded_image_1705285404739.png)
 
-##### Tip! - For more detailed information on Sender Email in SendGrid, please refer - [docs.sendgrid.com/ui/sending-email/senders](https://docs.rapidplatform.com/docs.sendgrid.com/ui/sending-email/senders)
+:::info
+Tip! - For more detailed information on Sender Email in SendGrid, please refer - [docs.sendgrid.com/ui/sending-email/senders](https://docs.rapidplatform.com/docs.sendgrid.com/ui/sending-email/senders)
+:::
