@@ -7,9 +7,12 @@ As part of the HR module, you are provided with an Out-Of-The-Box Employee Engag
 ### How to Access the Employee Engagement Dashboard
 
 1. Navigate to Human Resources &gt; Employees  
-    [![image-1703651698901.png](./Wjh9cXTQiFM15MwK-image-1703651698901.png)](./Wjh9cXTQiFM15MwK-image-1703651698901.png)
+    ![Sidebar menu location of employees dashboard](<Sidebar menu location of employees dashboard.png>)
 2. Select the **Employee Engagement** tab  
-    [![image-1703656115343.png](./WrH8RmHU6ku66EbS-image-1703656115343.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/WrH8RmHU6ku66EbS-image-1703656115343.png)
+    ![Tab navigation to employee engagement report](<Tab navigation to employee engagement report.png>)
+
+
+//   FIX THESE IMAGE LINKS, RENAME THE IMAGES ETC. DELETE THIS NOTE
 
 ### Using the Employee Engagement Dashboard
 
@@ -21,7 +24,7 @@ The Employee Engagement Report can be “sliced” based on no attributes, one a
 
 For example, you could use the slicers to filter down the visuals to 2024 for the Finance department.
 
-[![image-1703656169527.png](./jmHUqKdXmQWwWAj2-image-1703656169527.png)](./jmHUqKdXmQWwWAj2-image-1703656169527.png)
+![Employee engagement report slicer location](<Employee engagement report slicer location.png>)
 
 ### Questionnaires Sent and Responses Received
 
@@ -38,7 +41,7 @@ The provided cards are as follows:
 
 Response Rate – The percentage of responses based on the count sent.
 
-[![image-1703656237847.png](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/scaled-1680-/VRF1goVMbsrF3eKD-image-1703656237847.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/VRF1goVMbsrF3eKD-image-1703656237847.png)
+![Employee engagement cards highlighted](<Employee engagement cards highlighted.png>)
 
 ##### Questionnaires Sent vs Responses Received Graph
 
@@ -46,7 +49,7 @@ The Questionnaires Sent vs Responses Received Graph is a simple visual that show
 
 It is also possible to change the unit of time from “Month” to “Year”. To do this simply click on the “Drill Up” arrow on the top right of the visual. To move back from the “Year” view to the “Month” view click on the “Drill Down” button and select the year you wish to drill down to.
 
-[![image-1703656301112.png](./wGwPTrbxFgVVVmA1-image-1703656301112.png)](./wGwPTrbxFgVVVmA1-image-1703656301112.png)
+![Employee engagement questionaire graph highlighted](<Employee engagement questionaire graph highlighted.png>)
 
 #### eNPS Overview
 
@@ -63,10 +66,10 @@ The provided cards are as follows:
 - \# of Neutrals \\ % of Neutrals – Represents the count of responses with a score of 7-8. While percentage represents the percentage of responses with a score of 7-8 (Can be sliced by Month, Year, and Department).
 - \# of Promotors \\ % of Promotors – Represents the count of responses with a score of 9-10. While percentage represents the percentage of responses with a score of 9-10(Can be sliced by Month, Year, and Department).
 
-[![image-1703656362602.png](./sP4hUhJogMNV6D2L-image-1703656362602.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/sP4hUhJogMNV6D2L-image-1703656362602.png)
+![Employee engagement report Cards highlighted](<Employee engagement report Cards highlighted.png>)
 
 ##### eNPS by Department Graph
 
 The eNPS by Department Graph is a simple visual that shows the eNPS score at a department level. This can be sliced by Month, Year, and Department.
 
-[![image-1703656409290.png](./zUyNEwPPbgx49Qyw-image-1703656409290.png)](./zUyNEwPPbgx49Qyw-image-1703656409290.png)
+![Employee Engagement Report Department Graph](<Employee Engagement Report Department Graph.png>)
