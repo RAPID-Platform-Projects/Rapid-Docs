@@ -79,3 +79,8 @@
 a {
   color: #099Cde;
 }
+
+.small_image {
+  width: 30%;
+  height: 30%;
+}
