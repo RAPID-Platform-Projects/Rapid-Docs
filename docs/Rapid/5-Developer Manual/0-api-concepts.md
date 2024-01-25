@@ -220,7 +220,7 @@ GET /lists/Tasks/All/items?$filter=inScoped('Principals', 'contributors', 8, 11,
 ### How to create an item
 
 ```
-POST /lists/{listName-dynamic}/all$/items
+POST /lists/{listName-dynamic}/items
 ```
 
 Posting to the items table with a JSON body containing the item values will generate a new item and return reply with the generated item in JSON. This is mainly useful for tracking the ID and other system generated values when creating items This uses the built in all$ datasource which contains every field. Other datasources can be reused instead, though they will be available in the UI and changeable by Users. Fields not listed in a datasource are not returned.
