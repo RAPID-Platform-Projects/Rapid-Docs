@@ -1,6 +1,7 @@
 # Basic Substitution
 
-##### **Let us now begin with Dynamic elements configuration - Substitution.**
+## Substitution
+Let us now begin with Dynamic elements configuration - 
 
 ![Picture 43.png](./downloaded_image_1705285178213.png)
 
@@ -30,13 +31,13 @@
 
 ![Picture 56.png](./downloaded_image_1705285191492.png)
 
-#####  
+:::info
+Tip! - You can learn more about Substitution and its applications like :
 
-##### **Tip! - You can learn more about Substitution and its applications like :** 
+- **Deep Object Replacement,**
+- **Object Failure,**
+- **Date Format,**
+- **Insert etc.**
 
-- ##### **Deep Object Replacement,**
-- ##### **Object Failure,**
-- ##### **Date Format,**
-- ##### **Insert etc.**
-
-##### **from - [https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#substitution](https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#substitution)**  
+**From - [https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#substitution](https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#substitution)**  
+:::
