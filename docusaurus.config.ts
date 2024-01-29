@@ -132,7 +132,7 @@ const config: Config = {
             },
             {
               label: "Youtube",
-              href: "https://www.youtube.com/channel/UCcuPXlHnC2MxKzzDhk3NkQw"
+              href: "https://www.youtube.com/@rapidplatform"
             },
             {
               label: "Webpage",
