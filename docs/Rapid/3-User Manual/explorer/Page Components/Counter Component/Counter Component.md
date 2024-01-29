@@ -8,7 +8,7 @@ In the below image, you can identify the Table and View that provides the count.
 
 :::info[**Please Note**]
 
-The counter can appear differently than depicted above. It depends on how the Counter Component is configured on the Page.
+The counter can appear in different size and position than depicted above. It depends on how the Counter Component is configured on the Page.
 
 ![Image showing Counter component on Item Details Page](Counter_2.png)
 
