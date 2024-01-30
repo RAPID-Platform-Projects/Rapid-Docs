@@ -1,4 +1,4 @@
-# Step-by-step guide
+# Sending a dynamic email from Explorers' menu buttons
 
 Please follow the below steps to send a Dynamic Email using SendGrid triggered from an Explorer Menu Button.
 

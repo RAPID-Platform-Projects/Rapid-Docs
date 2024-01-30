@@ -1,5 +1,4 @@
-# Step-by-step guide
-
+# Sending an email from a Workflow User Task
 In this tutorial, we will learn how to configure SendGrid options from a User Task.
 
 Please consider the below steps:

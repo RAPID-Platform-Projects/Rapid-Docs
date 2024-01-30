@@ -1,4 +1,4 @@
-# Step-by-step guide
+# Sending an email from a Workflow Service Task
 
 ##### Please follow the below steps to configure a basic Workflow Process diagram in RAPID Platform that can send a simple static email via SendGrid's Template:
 

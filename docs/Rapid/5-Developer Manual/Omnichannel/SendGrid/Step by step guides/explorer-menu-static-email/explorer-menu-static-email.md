@@ -1,4 +1,4 @@
-# Step-by-step guide
+# Sending an email from Explorers' menu buttons
 
 ![s2.0.png](./downloaded_image_1705286053625.png)
 
