@@ -10,10 +10,10 @@ The process is triggered in two ways:
 
 1. **Automated Trigger:** On creation of the employee, if the “Trigger Performance Reviews” Boolean is true, the process will automatically be live for this employee.
 2. **Manuel Trigger:** The second way to trigger the process is by creating a “Performance Review” item. 
-    1. On the explorer side bar click **Human Resources** &gt; ****Performance Reviews**** ![image-1702529692518.png](./downloaded_image_1705285825360.png)
-    2. Click ****New Performance Review**** ![image-1702529707258.png](./downloaded_image_1705285826378.png)
+    1. On the explorer side bar click **Human Resources** &gt; ****Performance Reviews**** ![Side bar navigate to performance review](<Side bar navigate to performance review.png>)
+    2. Click ****New Performance Review**** ![create new performance review](<create new performance review button.png>)
     3. Fill in the following required fields: **Employee**, **Manager**, **Review Date**, **Recurrence Rate** and click **Create**.  
-        ![image-1702529747782.png](./downloaded_image_1705285827405.png)
+        ![Performance review create screen](<performance review create screen.png>)
 
 Once triggered, the performance review process follows these stages:
 

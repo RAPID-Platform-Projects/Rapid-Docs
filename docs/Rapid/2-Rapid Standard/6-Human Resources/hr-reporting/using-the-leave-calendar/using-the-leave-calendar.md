@@ -9,9 +9,9 @@ Did you want to customise the calendar to show other important dates. This is po
 ### How to Access the HR Calendar
 
 1. On the Explorer sidebar click Human Resources &gt; HR Reporting  
-    ![image-1703654216148.png](./../Global-Images/downloaded_image_1705286166393.png)
+    ![Side bar navigate to Leave Calendar](<Side bar navigate to Leave Calendar.png>)
 2. Click on the **Leave Calendar** tab  
-    ![image-1703655219112.png](./downloaded_image_1705286186826.png)
+    ![Tab strip navigate to leave calendar](<Tab strip navigate to leave calendar.png>)
 
 ### Using the Leave Calendar
 
@@ -19,10 +19,10 @@ Did you want to customise the calendar to show other important dates. This is po
 
 Slicers provides the user with the ability to filter the calendar by: Departments, Employee, or Approval Status. This means that if you only want to see approved leave requests for the “Sales Department” you can set the “Department” slicer to “Sales” and the “Approval Status” slicer to “Approved”.
 
-![image-1703655273209.png](./downloaded_image_1705286187845.png)
+![Leave calendar slicers highlighted](<Leave calendar slicers highlighted.png>)!
 
 #### Calendar
 
 The calendar section comprises of simple calendar showing a month. To navigate to the current calendar month simply click on the “Today” button in the top left of the calendar. To move to the subsequent month, click on the right arrow. To move to the previous month, click on the left arrow.
 
-![image-1703655307891.png](./downloaded_image_1705286189139.png)
+![Leave Calendar Calendar highlighted](<Leave Calendar Calendar highlighted.png>)
