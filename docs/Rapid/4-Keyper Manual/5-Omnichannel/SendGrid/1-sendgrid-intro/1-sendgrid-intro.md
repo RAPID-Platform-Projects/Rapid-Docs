@@ -1,8 +1,8 @@
 # Chapter Introduction and Video
 
-##### This chapter covers two aspects:
+This chapter covers two aspects:
 
-##### 1) How to create a new Dynamic Template in SendGrid. 
+## 1) How to create a new Dynamic Template in SendGrid. 
 
 In this part of the chapter, we would discuss the exact sequence of steps needed to create a new Dynamic template.
 
@@ -14,7 +14,7 @@ You can view the video tutorial here:
 
 <iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/b43a1nD4qS0" width="785"></iframe>
 
-##### 2) How to insert and modify static design modules to the Dynamic Template Canvas. 
+## 2) How to insert and modify static design modules to the Dynamic Template Canvas. 
 
 In this part of the chapter, we would introduce the various modules that can be inserted in the Template Canvas.
 

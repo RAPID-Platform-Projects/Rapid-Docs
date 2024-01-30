@@ -1,6 +1,6 @@
 # Iteration
 
-##### **Let us now look at Iterations and how to display an array of values in email.**
+Let us now look at Iterations and how to display an array of values in email.
 
 ![Picture 71.png](./downloaded_image_1705285795637.png)
 
@@ -30,10 +30,8 @@
 
 ![Picture 83.png](./downloaded_image_1705285809043.png)
 
-#####   
-**Tip! - You can learn more about Iterations and some combined examples at this link - [https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#iterations](https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#iterations)**  
+:::info
+Tip! - You can learn more about Iterations and some combined examples at this link - [https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#iterations](https://docs.sendgrid.com/for-developers/sending-email/using-handlebars#iterations)
+:::
 
-
-#####  
-
-##### **CONGRATULATIONS!** You have now completed this learning material on Dynamic Templates in SendGrid.
+**CONGRATULATIONS!** You have now completed this learning material on Dynamic Templates in SendGrid.

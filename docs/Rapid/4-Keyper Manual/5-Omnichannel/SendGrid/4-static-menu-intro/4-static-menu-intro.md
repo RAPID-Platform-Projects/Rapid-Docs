@@ -1,4 +1,4 @@
-# Chapter Introduction
+# Sending from Explorer
 
 In the previous chapters, we have seen how SendGrid can be triggered using a Workflow process designed in RAPID Platform.
 

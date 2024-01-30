@@ -1,4 +1,4 @@
-# Chapter Introduction
+# Sending from Workflow
 
 In the previous chapter, we had seen :
 

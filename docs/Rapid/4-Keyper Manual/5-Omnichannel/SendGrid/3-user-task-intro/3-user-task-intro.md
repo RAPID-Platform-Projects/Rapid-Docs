@@ -1,4 +1,4 @@
-# Chapter Introduction
+# Sending with User Tasks
 
 In chapter 1 and 2, we saw how we can send emails via SendGrid Templates from a RAPID Workflow. In those chapters we configured a SEND TASK in the workflow.
 

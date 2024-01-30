@@ -1,4 +1,4 @@
-# Chapter Introduction
+# Sending from Explorer Dynamically
 
 In the previous chapter, we looked at how a SendGrid can be triggered using a Menu button from Explorer view of a data table.
 

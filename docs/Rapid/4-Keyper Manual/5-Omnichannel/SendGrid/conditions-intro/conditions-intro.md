@@ -1,4 +1,4 @@
-# Chapter Introduction
+# Logical Conditions
 
 Many a times, there is a need to display data based on conditions. For example - if the variable "account status" is not active, then you would want to send an email stating "Your account is blocked!". Such are the applications of a conditional statement.
 

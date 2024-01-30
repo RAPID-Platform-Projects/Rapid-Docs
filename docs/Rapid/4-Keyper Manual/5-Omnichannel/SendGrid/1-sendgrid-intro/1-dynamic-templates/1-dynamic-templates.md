@@ -1,4 +1,4 @@
-# Chapter Introduction
+# SendGrid dynamic templates
 
 Dynamic templates derive their name from the fact that they can dynamically produce emails with personalised data.
 
