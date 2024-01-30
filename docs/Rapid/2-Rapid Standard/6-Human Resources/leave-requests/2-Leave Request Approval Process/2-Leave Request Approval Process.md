@@ -8,8 +8,8 @@ As a part of Rapid Standard, you get access to the leave request approval proces
 
 The process is triggered in two ways:
 
-1. **Public Form Trigger:** Through the creation of a leave request via the public form (See [Creating, Editing, and Deleting Leave](https://docs.rapidplatform.com/books/human-resources/page/creating-editing-and-deleting-leave-requests) requests for more details)
-2. **Rapid Explorer Triggers:** Through the creation of the leave request through Rapid Explorer (See [Creating, Editing, and Deleting Leave](https://docs.rapidplatform.com/books/human-resources/page/creating-editing-and-deleting-leave-requests) requests for more details)
+1. **Public Form Trigger:** Through the creation of a leave request via the public form (See [Creating, Editing, and Deleting Leave](../1-creating-editing-and-deleting-leave-requests/1-creating-editing-and-deleting-leave-requests.md) requests for more details)
+2. **Rapid Explorer Triggers:** Through the creation of the leave request through Rapid Explorer (See [Creating, Editing, and Deleting Leave](../1-creating-editing-and-deleting-leave-requests/1-creating-editing-and-deleting-leave-requests.md) requests for more details)
 
 ### Process Summary
 

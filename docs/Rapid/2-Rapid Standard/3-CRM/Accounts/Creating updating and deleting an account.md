@@ -6,7 +6,7 @@ Accounts represent the various businesses that your organisation interacts with,
 
 ### How to Create an Account
 
-Accounts can be created in two ways. The first is through the Lead conversion button, where it will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../Leads/crm-client-relations-manager.md)). The second way, like many other tables is through the table list page and those steps can be found below.
+Accounts can be created in two ways. The first is through the Lead conversion button, where it will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../Leads/converting-a-lead/converting-a-lead.md)). The second way, like many other tables is through the table list page and those steps can be found below.
 
 1. In Explorer select CRM &gt; Accounts  
     ![Navigate to Accounts](<Navigate to Accounts.png>)

@@ -6,7 +6,7 @@ Creating, editing, or deleting assets is the same process for each of the three 
 ## How to create an Asset (Asset, IT Asset, Vehicle)
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![Navigating to assets](<../Navigating to Assets.png>)
+    ![Navigating to assets](<Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
     ![Navigate to asset type](<Navigate to asset type.png>)
 3. Click on **New Asset** (or **New IT Asset** or **New Vehicle**).  
@@ -22,7 +22,7 @@ Creating, editing, or deleting assets is the same process for each of the three 
 ## How to Edit and Asset (Asset, IT Asset, Vehicle)
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![Navigating to assets](<../Navigating to Assets.png>)
+    ![Navigating to assets](<Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
     ![Navigate to asset type](<Navigate to asset type.png>)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  
@@ -41,7 +41,7 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 **Deleting from the list:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![Navigating to assets](<../Navigating to Assets.png>)
+    ![Navigating to assets](<Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
     ![Navigate to asset type](<Navigate to asset type.png>)
 3. Select the assets you wish to delete  
@@ -52,7 +52,7 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 **Deleting from the asset page:**
 
 1. Click on the Explorer sidebar click Assets &gt; Assets  
-    ![Navigating to assets](<../Navigating to Assets.png>)
+    ![Navigating to assets](<Navigating to Assets.png>)
 2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles).  
     ![Navigate to asset type](<Navigate to asset type.png>)
 3. Open the asset you wish to edit (Locate the asset you wish to edit either by scrolling through the list or using the search bar).  

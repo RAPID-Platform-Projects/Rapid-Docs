@@ -22,9 +22,9 @@ Unlike Assets, Leads does not have a base-type / sub-type structure. This makes 
 1. In Explorer select CRM &gt; Sales &gt; Leads  
     ![image-1702937862974.png](./downloaded_image_1705285405769.png)
 2. Click on the **Leads List** tab  
-    ![image-1702447747487.png](./../Global-Images/downloaded_image_1705285201620.png)
+    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 3. Open the **Lead** you wish to edit. (Locate the **Lead** either by scrolling through the list or using the search bar).  
-    ![image-1702447794039.png](./../Global-Images/downloaded_image_1705285202634.png)
+    ![Select a Lead](<Select a Lead.png>)
 4. Edit any relevant fields on the **Lead** page as needed.  
     ![image-1702448037058.png](./downloaded_image_1705285412904.png)
 5. Once you have finished editing, click on **Save** or **Save and Close**.  
@@ -41,7 +41,7 @@ However, if you need to delete a lead due to incorrect data entry or a duplicate
 1. In Explorer select CRM &gt; Sales &gt; Leads  
     ![image-1702937871117.png](./downloaded_image_1705285405769.png)
 2. Click on the **Leads List** tab  
-    ![image-1702447747487.png](./../Global-Images/downloaded_image_1705285201620.png)
+    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 3. Select the Leads you want to delete  
     ![image-1702450036101.png](./downloaded_image_1705285416971.png)
 4. Click on the **Delete X Leads** button.  
@@ -49,10 +49,10 @@ However, if you need to delete a lead due to incorrect data entry or a duplicate
 
 #### How to delete a single lead from the leads page
 
-1. In Explorer select CRM &gt; Leads  
-    ![image-1702447512241.png](./../Global-Images/downloaded_image_1705285200607.png)
+1. In Explorer select CRM &gt; Sales &gt; Leads  
+    ![image-1702937862974.png](./downloaded_image_1705285405769.png)
 2. Click on the **Leads List** tab  
-    ![image-1702447747487.png](./../Global-Images/downloaded_image_1705285201620.png)
+    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 3. Open the Lead you wish to delete (Find the lead either by scrolling through the list or using the search bar)  
-    ![image-1702450194958.png](./downloaded_image_1705285421045.png)
+    ![Select a Lead](<Select a Lead.png>)
 4. Press **Delete** ![image-1702450224332.png](./downloaded_image_1705285422059.png)
