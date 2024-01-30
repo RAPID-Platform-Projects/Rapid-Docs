@@ -7,9 +7,9 @@ The HR Dashboard offers valuable summative employee related statistics, such as 
 ### How to Access the HR Dashboard
 
 1. On the Explorer sidebar click Human Resources &gt; HR Reporting  
-    ![image-1703654216148.png](./../Global-Images/downloaded_image_1705286166393.png)
+    ![Side bar navigate to HR report page](<Side bar navigate to HR report page.png>)
 2. Click on the **HR Dashboard** tab  
-    ![image-1703655551561.png](./downloaded_image_1705286171476.png)
+    ![Tab strip navigate to HR dashboard](<Tab strip navigate to HR dashboard.png>)
 
 ### Using the HR Dashboard
 
@@ -21,7 +21,7 @@ The HR Dashboard can be sliced based on no attributes, one attribute, or multipl
 
 For example, you could use the slicers to filter down the visuals Employees in the Sales department that are On Probation.
 
-![image-1703655621365.png](./downloaded_image_1705286172495.png)
+![HR dashboard slicers highlighted](<HR dashboard slicers highlighted.png>)
 
 #### Cards
 
@@ -35,7 +35,7 @@ The provided cards are as follows:
 - On Probation – Number of employees with a status of “On Probation”
 - Onboarding –Number of employees with a status of “Onboarding”
 
-![image-1703655901332.png](./downloaded_image_1705286173515.png)
+![HR dashboard cards highlighted](<HR dashboard cards highlighted.png>)
 
 #### Employee Headcount Changes Visual
 
@@ -43,13 +43,13 @@ The "Employee Headcount Changes" visual displays the number of new hires and dep
 
 It is also possible to change the unit of time from “Month” to “Year”. To do this simply click on the “Drill Up” arrow on the top right of the visual. To move back from the “Year” view to the “Month” view click on the “Drill Down” button and select the year you wish to drill down to.
 
-![image-1703655927983.png](./downloaded_image_1705286174530.png)
+![HR dashboard employee count graph highlighted](<HR dashboard employee count graph highlighted.png>)
 
 #### Department Size
 
 The department size graph showcases various departments on the x-axis and the number of employees on the y-axis. This interactive visual allows users to click on department columns to filter the other visuals in the HR Dashboard to display employees within that specific department.
 
-![image-1703655951725.png](./downloaded_image_1705286175544.png)
+![HR dashboard department size highlighted](<HR dashboard department size highlighted.png>)
 
 #### Employee Table
 
@@ -57,61 +57,18 @@ The Employee table has a row for each Employee along with relevant Human Resourc
 
 The columns displayed are: “Employee Name”, “Department”, “Role”, “Status”, “Start Date”, Employment Duration”, “Review”, “Latest Review Date”, and “Link”. Each of the columns are described in the table below.
 
-<table border="1" id="bkmrk-column-title-column-">
-  <tbody>
-    <tr>
-      <td>**Column Title**</td>
-      <td width="307">**Column Description**</td>
-      <td width="181">**Example**</td>
-    </tr>
-    <tr>
-      <td width="113">Employee</td>
-      <td width="307">The name of the employee</td>
-      <td width="181">John Doe</td>
-    </tr>
-    <tr>
-      <td width="113">Department</td>
-      <td width="307">The department the employee is in.</td>
-      <td width="181">Sales</td>
-    </tr>
-    <tr>
-      <td width="113">Role</td>
-      <td width="307">The employee job role</td>
-      <td width="181">Software Developer</td>
-    </tr>
-    <tr>
-      <td width="113">Status</td>
-      <td width="307">The status of the employee (Options: Onboarding, On Probation, Active, Archived).</td>
-      <td width="181">Onboarding</td>
-    </tr>
-    <tr>
-      <td width="113">Start Date</td>
-      <td width="307">The start date of the employee (when they commenced work at the company).</td>
-      <td width="181">17/05/2018</td>
-    </tr>
-    <tr>
-      <td width="113">Employment Duration</td>
-      <td width="307">The length of time the employee has been employed at the organisation. This is calculated by
-        findingthe difference between today and their start date.</td>
-      <td width="181">2 Years 3 Months</td>
-    </tr>
-    <tr>
-      <td width="113">Review</td>
-      <td width="307">This will display “Yes” if the employee has the performance review process turned on and “No” if
-        itis turned off.</td>
-      <td width="181">Yes</td>
-    </tr>
-    <tr>
-      <td width="113">Latest Review Date</td>
-      <td width="307">This displays the date of the employees most recent performance review</td>
-      <td width="181">12/01/2023</td>
-    </tr>
-    <tr>
-      <td width="113">Link</td>
-      <td width="307">This provides a clickable link which will open the employee item.</td>
-      <td width="181">NA</td>
-    </tr>
-  </tbody>
-</table>
+| Column Title | Column Description | Example |
+| --- | --- | --- |
+| Employee | The name of the employee | John Doe |  
+Department|The department the employee is in.|Sales
+Role|The employee job role|Software Developer
+Status|The status of the employee (Options: Onboarding, On Probation, Active, Archived).|Onboarding
+Start Date|The start date of the employee (when they commenced work at the company).|17/05/2018
+Employment Duration|The length of time the employee has been employed at the organisation. This is calculated by findingthe difference between today and their start date.|2 Years 3 Months
+Review|This will display “Yes” if the employee has the performance review process turned on and “No” if itis turned off.|Yes
+Latest Review Date|This displays the date of the employees most recent performance review|12/01/2023
+Link|This provides a clickable link which will open the employee item.|NA
 
-![image-1703655875305.png](./downloaded_image_1705286176558.png)
+
+
+![HR table highlighted](<HR table highlighted.png>)
