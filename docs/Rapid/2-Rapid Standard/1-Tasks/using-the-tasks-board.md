@@ -2,13 +2,13 @@
 ## Overview
 The task board is a great way to visualise the status of each of the project’s sub-tasks. It also provides the user the ability to easily move tasks between each of the status fields which will automatically update the status of that task. Moreover, the “view” can be changed to show tasks on the task board that are only your tasks or “All” tasks depending if you want visibility of your responsibilities or the tasks from the project as a whole.
 
-## Accessing the Task Board:
+## Accessing the Task Board
 1. On the sidebar select Tasks > Task Portal
 ![Alt text](1702440913229.png)
 2. Select the "Taks Board" tab
 ![Alt text](1702440935692.png)
 
-## Moving Items between status categories:
+## Moving Items between status categories
 1. On the sidebar select Tasks > Task Portal
 ![Alt text](1702440913229.png)
 
@@ -21,7 +21,7 @@ The task board is a great way to visualise the status of each of the project’s
 4. Press Save
 ![Alt text](1702441050988.png)
 
-## Changing the View:
+## Changing the View
 The default view on the Task Board is the “My Tasks – All” view which shows all tasks assigned to the user or a group the user is a part of. This view can be changed to the “All” view to show all tasks in the project irrespective of who it is assigned to. To do this follow the steps below.
 
 1. On the sidebar select Tasks > Task Portal
@@ -39,7 +39,7 @@ The default view on the Task Board is the “My Tasks – All” view which show
 5. The tasks board now shows all tasks in the project. The same steps can be used to revert the view back to “My Tasks – All”
 ![Alt text](1702441160270.png)
 
-## Editing a Task from the Task Board:
+## Editing a Task from the Task Board
 1. On the sidebar select Tasks > Task Portal
 ![Alt text](1702440913229.png)
 

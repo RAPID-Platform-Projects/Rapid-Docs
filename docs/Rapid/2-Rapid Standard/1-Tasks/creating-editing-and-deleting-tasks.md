@@ -1,6 +1,6 @@
 # Creating, Editing and Deleting Tasks
 
-## Creating a Task from the Tasks List or Task Board:
+## Creating a Task from the Tasks List or Task Board
 1. On the sidebar select Tasks > Task Portal
 2. Select the “Task Board” or “Task List” tab
 ![Alt text](1702439870662.png)
@@ -14,7 +14,7 @@
 5. Click on “Create” or “Create and Open”
 ![Alt text](1702439978569.png)
 
-## Editing a Task from the Tasks List:
+## Editing a Task from the Tasks List
 1. On the sidebar select Tasks > Task Portal
 image-1702439841767.png
 2. Select the “Task List” tab
@@ -34,7 +34,7 @@ It is not recommended to delete a Task if it has been abandoned; instead, change
 
 However, if you need to delete a task due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple Tasks at once.
  
-### Deleting a Task from the Tasks List:
+### Deleting a Task from the Tasks List
 1. On the sidebar select Tasks > Task Portal
 ![Alt text](1702439841767.png)
 
@@ -47,7 +47,7 @@ However, if you need to delete a task due to incorrect data entry or a duplicate
 4. Click on the delete button.
 ![Alt text](1702440763059.png)
 
-### Deleting a Task from the Task Page:
+### Deleting a Task from the Task Page
 1. On the sidebar select Tasks > Task Portal
 ![Alt text](1702439841767.png)
 
