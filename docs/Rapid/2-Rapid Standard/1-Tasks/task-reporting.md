@@ -3,7 +3,7 @@
 The Tasks module includes a pivotal report known as the Task Dashboard. This report grants stakeholders the capability to view tasks based on the assigned user or their status, offering comprehensive oversight at both organizational and employee levels regarding task statuses
 
 ## Task Dashboard
-### Accessing the Task Dashboard:
+### Accessing the Task Dashboard
 On the Explorer sidebar click on Tasks > Task Reporting
 ![Task Reporting Dashboard Location](1702441524758.png)
 
