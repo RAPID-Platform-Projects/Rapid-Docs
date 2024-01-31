@@ -8,7 +8,7 @@ This is a method of quantifying employee loyalty and satisfaction and is gathere
 
 Finally, the eNPS is calculated by subtracting the percentage of detracts from promotors. This results in a score between -100 and 100. A good eNPS score depends on the industry and the context, but generally, scores between 10 and 30 are considered good, while scores between 50 and 70 are considered excellent.
 
-### How to send out the eNPS Questionnaires:
+### How to send out the eNPS Questionnaires
 
 1. Navigate to Human Resources &gt; Employees  
     [![image-1703651698901.png](./Wjh9cXTQiFM15MwK-image-1703651698901.png)](./Wjh9cXTQiFM15MwK-image-1703651698901.png)

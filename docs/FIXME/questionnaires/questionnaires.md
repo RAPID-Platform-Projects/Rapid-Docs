@@ -83,7 +83,7 @@ To the default start event, add two tasks, then an end. click on the background 
 
 ![image-1675142991070.png](./downloaded_image_1705285865100.png)
 
-Make the first task a 'get rapid items' task. make the second task, a user task.
+Make the first task a 'get rapid items' task. make the second task a user task.
 
 ![image-1675143126482.png](./downloaded_image_1705285866119.png)
 
@@ -107,7 +107,7 @@ This Json, when put into the 'Select' field, will select which fields to include
 
 **deleted, parent\_id, parent, drive\_id, folder\_id, question, template\_id, template, quest\_ref\_id**
 
-Not all of these columns are necessarily needed, but you may as well have them,. Depending on your use case, you may need to add more columns to this list.
+Not all of these columns are necessarily needed, but you may as well have them. Depending on your use case, you may need to add more columns to this list.
 
 ### Setting up the form prefill
 

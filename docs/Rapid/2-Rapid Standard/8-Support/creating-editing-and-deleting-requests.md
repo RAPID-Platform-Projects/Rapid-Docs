@@ -29,12 +29,12 @@ The original request fields are set to Read only to maintain the integrity of th
 It is not recommended to delete a request instead, change its status to "Cancelled". Keeping in mind that changing the status will send an email to the original requestor.  
 However, if you need to delete a request due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple assets at once.
 
-### Deleting from the list:
+### Deleting from the list
 1.	Navigate to Support > Requests
 ![Alt text](Nav.png)
 2.	Select the requests you wish to delete.
 3.	Click on the delete button.
-### Deleting from the request page:
+### Deleting from the request page
 1.	Navigate to Support > Requests
 ![Alt text](Nav.png)
 2.	Open the individual request you wish to delete.

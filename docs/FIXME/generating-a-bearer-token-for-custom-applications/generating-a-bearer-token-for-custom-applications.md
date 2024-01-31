@@ -30,7 +30,11 @@ POST: https://login.microsoftonline.com/contoso.onmicrosoft.com/oauth2/token
 ### Generate Auth
 
 - To generate auth you are gonna need the client-id, the client-secret and the scope uri from the first step
-- The url to POST to looks like this -&gt;  https://login.microsoftonline.com/{tenant name}.onmicrosoft.com/oauth2/v2.0/token
+- The url looks like this -&gt;  
+```
+POST 
+https://login.microsoftonline.com/{tenant name}.onmicrosoft.com/oauth2/v2.0/token
+```
 - When making the request use the url above, the method for the request it a POST
 
 **Example Request**
