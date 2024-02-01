@@ -53,7 +53,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/RPD_logo_STK_2D.png",
     navbar: {
       title: "Rapid Docs",
 

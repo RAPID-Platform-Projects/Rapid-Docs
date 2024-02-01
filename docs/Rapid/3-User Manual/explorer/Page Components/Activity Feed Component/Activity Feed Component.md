@@ -95,7 +95,7 @@ Users can also edit notes that have been created. To edit notes:
 3. You may now alter the note in the Edit Note popup window.  
 ![Image showing Edit Note popup window](<Edit Note popup.png>)  
 
-4. Click Save and Close to save the changes that have been made and close the window. Your note has now been updated.  
+4. Click Save and Close to save the changes that have been made and close the window. Your note has now been updated.
 ![Image showing edited note published on Activity Feed timeline](<Note edited.png>)
 
 ## Suggested Reminders
@@ -105,10 +105,10 @@ Suggested Reminders allows users to set reminders for themselves either using th
 Automatically generated reminders utilise specific phrases to identify reminders. To set an automatically generated reminders:
 
 1. In the text box, begin the sentence with phrases such as Remind me..., Chase up..., Check on..., along with the rest of the reminder followed with a date and time, e.g. Remind me to check invoices today at 6:00PM.
-2. Click the Submit button at the edge of the text box to save your reminder note to the item.  
+2. Click the Submit button at the edge of the text box to save your reminder note to the item.
 ![Image showing how to create a smart reminder in Activity Feed](<Smart reminder.png>)  
 
-[***Click here to learn more about Smart Reminders***](smart-reminders/smart-reminders.md)  
+[***Click here to learn more about Smart Reminders***](./smart-reminders/smart-reminders.md)
 
 ### Manually Generated Reminders
 To manually generate reminders:
