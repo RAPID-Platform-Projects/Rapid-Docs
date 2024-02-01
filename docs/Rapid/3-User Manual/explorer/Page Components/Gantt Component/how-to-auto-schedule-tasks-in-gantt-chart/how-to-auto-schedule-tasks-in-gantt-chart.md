@@ -1,4 +1,4 @@
-# How to Auto-schedule tasks in Gantt Chart?
+# How to Auto-schedule tasks in Gantt Chart
 
 Organising tasks across a Gantt Chart can be a complex activity. When working with a lot of tasks, scheduling them optimally can become a challenge.
 
@@ -16,7 +16,7 @@ Please refer to the GIF below for illustration:
 - Any intentional gaps/ lags defined in the dependencies are respected.
 - The changes made to the chart due to Auto-Schedule are not saved automatically. You would need to Save the changes.
 
-##### **Related articles**
+## **Related articles**
 
 **[How to move tasks in time, extend start / end dates from the Gantt bars?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars "How to move tasks in time, extend start / end dates from the Gantt bars?")**
 

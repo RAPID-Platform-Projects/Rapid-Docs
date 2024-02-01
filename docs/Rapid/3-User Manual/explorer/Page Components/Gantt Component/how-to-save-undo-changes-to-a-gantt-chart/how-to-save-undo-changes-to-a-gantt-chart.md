@@ -1,4 +1,4 @@
-# How to Save / Undo changes to a Gantt Chart?
+# How to Save / Undo changes to a Gantt Chart
 
 You can make changes to the Gantt Chart.
 
