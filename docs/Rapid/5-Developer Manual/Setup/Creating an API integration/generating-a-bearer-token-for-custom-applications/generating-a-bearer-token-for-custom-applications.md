@@ -8,12 +8,12 @@ First you will need
 - Create a scopes uri for your client scopes by heading the the overview page and clicking on the Application ID URI option and clicking set.
 - Finally add your scopes in the API permissions section and grant admin consent for them
 
-### Adding the application to another tenant
+## Adding the application to another tenant
 
 - Go to this url [https://login.microsoftonline.com/\{tenant-id}/adminconsent?client\_id=\{client-id}](https://login.microsoftonline.com/%7Btenant-id%7D/adminconsent?client_id=%7Bclient-id%7D) replace tenant-id with the tenant id of the tenant you want to add the app too and replace client-id with YOUR application client-id.
 - Grant admin consent with the admin user of the tenant you are trying to add the app to.
 
-### Generate Auth on behalf of another application
+## Generate Auth on behalf of another application
 
 **Example Request**
 

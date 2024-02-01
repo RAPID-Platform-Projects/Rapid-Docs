@@ -1,6 +1,6 @@
 # How to configure Item Details and Item Creation?
 
-#### **The defaults on a Design Tab of a new Table**
+## **The defaults on a Design Tab of a new Table**
 
 When you [**create a new table**](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?"), the Design Tab will have the following:
 
@@ -10,20 +10,24 @@ When you [**create a new table**](https://docs.rapidplatform.com/books/experienc
 
 Observe a [**Tab Strip**](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?") is present by default. It has four tabs:
 
-- - - - **Details Tab** - This is an important tab which has a **[Grid Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")** by default. The Grid Layout has two components: 
-                - - [**Forms Component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")
-                    - [**Activity Feed**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-activity-feed-component-on-a-layout-page "What is an Activity Feed component on a Layout / Page?")
+- **Details Tab** - This is an important tab which has a **[Grid Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")** by default. The Grid Layout has two components: 
+  - [**Forms Component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")
+  - [**Activity Feed**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-activity-feed-component-on-a-layout-page "What is an Activity Feed component on a Layout / Page?")
 
 ![Picture 1.png](./downloaded_image_1705285551585.png)
 
-- - - - **Activity Tab** - This tab has the **[Horizontal Layout](./downloaded_image_1705285552682.png)
-            - **Files Tab -** This tab has the **[Horizontal Layout](./downloaded_image_1705285553773.png)
-            - **Tasks Tab -** This tab has the **[Horizontal Layout](./downloaded_image_1705285554866.png)
+- **Activity Tab** - This tab has the Horizontal Layout by default. There is an Activity Feed Component by default in the layout.
+    ![Activity Tab Default](<Activity Tab Default.png>)
+- **Files Tab -** This tab has the Horizontal Layout by default. There is a File Browser Component by default in the layout.
+    ![Files Tab Default](<Files Tab Default.png>)
+- **Tasks Tab -** This tab has the Horizontal Layout by default. There is a Data Table Component by default in the layout. The Data Table component is configured for Tasks Table and All Views.
+    ![Tasks Tab Default](<Tasks Tab Default.png>)
+
 - **Singular - Create Screen breakpoint**
 
 ![S-create.png](./downloaded_image_1705285555890.png)
 
-[**The "Create Screen" breakpoint is always in sync with the "Details" breakpoint and vice versa.**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?") Therefore, we can observe that the "Create Screen" breakpoint is identical to its "Details" breakpoint counterpart. It has Tab Strip with same four Tabs and Details Tab (as seen in the image) has Grid Layout with Form component and Activity Feed component.
+[**The "Create Screen" breakpoint is always in sync with the "Details" breakpoint and vice versa.**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?") Therefore, we can observe that the "Create Screen" breakpoint is identical to its "Details" breakpoint counterpart. It has Tab Strip with same four Tabs and Details Tab (as seen in the image) has Grid Layout with Form component and Activity Feed component.
 
 - **Plural - Details breakpoint**
 
@@ -31,7 +35,7 @@ Observe a [**Tab Strip**](https://docs.rapidplatform.com/books/experiences/page/
 
 The Plural Details breakpoint has a **[Horizontal Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")** by default. There is a [**Data Table Component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-data-table-component-on-a-layout-page "What is a File Browser component on a Layout / Page?") by default in the layout. The Data Table component is configured for *the subject* Table. This means that this page will show the list of items for the subject table.
 
-#### **How to configure Item Details and Item Creation?**
+## **How to configure Item Details and Item Creation?**
 
 - **Singular - Details breakpoint**
 
@@ -51,7 +55,7 @@ Therefore, whatever we configure in the Singular - Details breakpoint, will be v
 
 **Imagine if this isn't configured then you wont be able to add / view Item Details in Explorer.**
 
-- ##### **How to configure Singular - Item Details?**
+### **How to configure Singular - Item Details?**
 
 Here you would first want to configure the Forms Component in the Details Tab. This will allow you show the required details about the subject item in Explorer.
 
@@ -109,11 +113,11 @@ Here you would first want to configure the Forms Component in the Details Tab. T
       
     ![14.png](./downloaded_image_1705285573229.png)
 
-- ##### **Singular - Create Screen breakpoint**
+### **Singular - Create Screen breakpoint**
 
 **What this will do?**
 
-[**The Create Screen breakpoint is always in sync with the Details breakpoint and vice versa.**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?")
+[**The Create Screen breakpoint is always in sync with the Details breakpoint and vice versa.**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
 Once you have created the Singular - Details breakpoint, it will automatically reflect in the Create Screen breakpoint. Observe in the image below. The Singular - Create Screen shows exactly how the Forms component was configured above.
 
@@ -121,11 +125,12 @@ Once you have created the Singular - Details breakpoint, it will automatically r
 
 Please note, on the you would need to [**arrange the fields**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?") in the order you want to see them in the Create Item Form.
 
-##### **Important**
+:::info[Important]
 
-You can set the fields of the Form Component as [**hidden / visible on the Item Details and Item Creation form**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").
+You can set the fields of the Form Component as [**hidden / visible on the Item Details and Item Creation form**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
+::
 
-##### **Related articles**
+## **Related articles**
 
 [How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
 
@@ -135,6 +140,6 @@ You can set the fields of the Form Component as [**hidden / visible on the Item 
 
 [What are the available components for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages "What are the available components for Pages?")
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?")
+[How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
 [***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer")
