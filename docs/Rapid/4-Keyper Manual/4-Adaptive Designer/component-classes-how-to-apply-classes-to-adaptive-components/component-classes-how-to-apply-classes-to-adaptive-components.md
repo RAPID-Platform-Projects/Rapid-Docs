@@ -21,5 +21,3 @@ To apply a class simply:
 |rp-margin-left|Most components|Adds margin to the left of the component|
 |rp-margin-right|Most components|Adds margin to the right of the component|
 |rp-input-heading-h1-6|Single Line of Text Fields|Makes the text look like and input field.|
-| | | |
-| | | |
