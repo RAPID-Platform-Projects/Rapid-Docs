@@ -13,7 +13,7 @@ To achieve so you can follow the below steps:
 1. Navigate to Designer &gt; Tables &gt; All Tables  
     ![Navigate to designer](NaviagetToDesigner.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![Open your desired table](../OpenYourDesiredTable.png)
+    ![Open your desired table](../../OpenYourDesiredTable.png)
 3. Select the **Security &amp; Permissions** tab  
 ![Select the security and permissions tab](SelectTheSecurityAndPermissionsTab.png)
 4. Click on the **Add User or Group** field and begin typing their display name and click on the desired names as they appear 
@@ -29,7 +29,7 @@ To achieve so you can follow the below steps:
 1. Navigate to Designer &gt; Tables &gt; All Tables
     ![Navigate to designer](NaviagetToDesigner.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![Open your desired table](../OpenYourDesiredTable.png)
+    ![Open your desired table](../../OpenYourDesiredTable.png)
 3. Select the **Security &amp; Permissions** tab  
     ![Select the security and permission tab](SelectTheSecurityAndPermissionsTab.png)
 4. Click on the **Cross** next to the user or group you want to remove permissions of  
@@ -49,7 +49,7 @@ To configure placeholder permissions, follow the steps below:
 1. Navigate to Designer &gt; Tables &gt; All Tables  
   ![Navigate to designer](NaviagetToDesigner.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![Open your desired table](../OpenYourDesiredTable.png)    
+    ![Open your desired table](../../OpenYourDesiredTable.png)    
 3. Select the **Security &amp; Permissions** tab  
     ![Select the Security Permissions tab](SelectTheSecurityAndPermissionsTab.png)
 4. Toggle the permissions of the desired user column. (By default, user columns have Read, Write, and Delete Permissions toggled on) 

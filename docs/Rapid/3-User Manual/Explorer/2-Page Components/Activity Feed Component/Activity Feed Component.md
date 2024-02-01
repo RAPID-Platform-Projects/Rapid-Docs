@@ -151,7 +151,7 @@ If the notification is for the reminder, you will receive action buttons to snoo
 
 ![Image showing how to access notifications section for reminders](<Reminder notification.png>)
 
-To know more about notifications - [**click here**](../../Notifications/Notifications.md)
+To know more about notifications - [**click here**](../../5-Notifications/Notifications.md)
 
 #### Actions buttons for reminders in Notifications
 

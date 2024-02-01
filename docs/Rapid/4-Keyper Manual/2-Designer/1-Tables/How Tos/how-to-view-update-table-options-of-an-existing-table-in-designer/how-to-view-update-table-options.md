@@ -5,11 +5,11 @@ You can view and update table options for an existing table.
 ### **How to reach Table Options tab?**
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![Navigate to Designer](../NavigateToDesignerTablesAllTablesImg.png)
+    ![Navigate to Designer](../../NavigateToDesignerTablesAllTablesImg.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![Open your desired table](../OpenYourDesiredTable.png)
+    ![Open your desired table](../../OpenYourDesiredTable.png)
 3. Select the Options Tab  
-   ![Select the Options Tab](../SelectTheOptionsTab.png)
+   ![Select the Options Tab](../../SelectTheOptionsTab.png)
 
 More details can be found at **Point no. 12 of [*All about Tables in* Designer.](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
 
@@ -17,7 +17,7 @@ More details can be found at **Point no. 12 of [*All about Tables in* Designer.]
 
 The Options tab for a table displays the most fundamental information about it. The below image depicts the Options tab for an existing table in Designer:
 
-![Options tab content](../OptionsTabContents.png)
+![Options tab content](../../OptionsTabContents.png)
 
 Let us take a look at all the information presented on this page in a segment-wise manner.
 
@@ -103,9 +103,6 @@ The below table provides a list of ghosted options and their corresponding activ
 We shall discuss each of these options in more detail; but it is important to note here that options get enabled when their activation conditions are met.
 
 The first requirement for enabling the ghosted options is to define a Document Storage folder. So let us discuss this first.
-
-#####   
-
 
 #### **Document Storage**
 

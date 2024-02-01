@@ -46,9 +46,9 @@ Let us try to simulate Link Inheritance with this information.
 
 1. Navigate to the Notes Table in Designer 
     1. Navigate to Designer &gt; Tables &gt; All Tables   
-        ![Navigate to designer](../NavigateToDesignerTablesAllTablesImg.png)
+        ![Navigate to designer](../../NavigateToDesignerTablesAllTablesImg.png)
     2. Press **Show built-in tables** (As notes is a system table)  
-       ![Show built in tables](../ShowBuiltInTables.png)
+       ![Show built in tables](../../ShowBuiltInTables.png)
     3. Open the notes table (Find it by scrolling through the list or using the search bar)  
       ![Open the notes table](OpenTheNotesTable.png)
 2. Tick the Checkbox in Link Inheritance against ***Project*** Table   
