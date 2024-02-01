@@ -10,7 +10,7 @@
 
 It is possible to enable *Access Control* on Explorer, Designer &amp; Workflow (collectively known as Core Rapid).
 
-### Configuring Access Control
+## Configuring Access Control
 
 Enabling *Access Control* on an experience is a simple process. First, navigate to any experience through the *Designer* navigation bar. *Rapid Experiences* will be listed under the sub-heading called *Features*.
 
@@ -30,7 +30,7 @@ To enable *Access Control* press the **Enable** button. This will bring up the l
 
 You can add more Users and Groups by searching for them and selecting them.
 
-### Experience 404
+## Experience 404
 
 If an experience has been disabled for a user, any attempts to access that experience will result in a 404 page being presented.
 
