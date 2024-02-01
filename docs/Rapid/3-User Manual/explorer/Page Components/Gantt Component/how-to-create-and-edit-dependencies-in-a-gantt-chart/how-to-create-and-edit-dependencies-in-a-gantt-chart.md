@@ -1,4 +1,4 @@
-# How to create and edit dependencies in a Gantt Chart?
+# How to create and edit dependencies in a Gantt Chart
 
 A Gantt Chart provides a visual representation of tasks in a project. However, in real life scenarios, these tasks are often related to each other.
 
@@ -17,7 +17,7 @@ In RAPID Platform, dependencies in Gantt Chart are depicted with arrows connecti
 
 ![Screenshot 2023-09-14 at 8.41.23 PM.png](./downloaded_image_1705285626472.png)
 
-##### **Understanding Types of Dependencies in Gantt Chart**
+## **Understanding Types of Dependencies in Gantt Chart**
 
 Understanding task dependencies in Gantt Charts is a crucial element. This dependency affects the project schedule. Changing the predecessor of a task will affect the successor task, which will affect the next task, and so on.
 
@@ -58,16 +58,16 @@ In a Gantt Chart, the above four dependencies can be represented as shown below:
 
 ![Screenshot 2023-09-14 at 6.22.38 PM.png](./downloaded_image_1705285627495.png)
 
-#####   
+##   
 
 
-##### **Concept of Lag / Gap**
+## **Concept of Lag / Gap**
 
 Sometimes there is a need to define a mandatory delay between two tasks. For example - after completing the cementing of wall, it would require two days of drying before painting can begin.
 
 This could be represented as an FS dependency with a lag / gap of 2 days.
 
-##### **Creating dependencies in Gantt Chart in RAPID Platform**
+## **Creating dependencies in Gantt Chart in RAPID Platform**
 
 To create dependencies among tasks, please consider the following points:
 
@@ -90,7 +90,7 @@ Please refer to the below GIF for illustration
 
 ![Create dependency](lxeFz3bkT6JIwvBd-create-dependency-480p-230914.gif)
 
-##### **Editing dependencies in Gantt Chart**
+## **Editing dependencies in Gantt Chart**
 
 There can be various occasions where editing the dependency is needed.
 
@@ -119,7 +119,7 @@ Please refer to the below GIF for illustration
 
 ![Edit dependency](8fqIRSZmOcTO2g4v-edit-dependency-480p-230914.gif)
 
-##### **Related articles**
+## **Related articles**
 
 **[How to create a new task and sub-types of task from Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart "How to create a new task and sub-types of task from Gantt Chart?")**
 
