@@ -1,29 +1,5 @@
 # Smart Reminders
 
-<<<<<<< Updated upstream
-=======
-This is a guide for keywords that are relevant for smart reminders.
-- [Smart Reminders Guide](#smart-reminders-guide)
-    - [Detectors](#bkmrk-detectors)
-    - [Good Date Parts](#bkmrk-good-date-parts)
-        - [Numbers](#bkmrk-numbers)
-        - [Time intervals](#bkmrk-time-intervals)
-        - [Dates](#bkmrk-dates)
-        - [Words](#bkmrk-words)
-        - [Examples](#bkmrk-examples)
-    - [Bad Date Parts](#bkmrk-bad-date-parts)
-        - [Numbers](#numbers-1)
-        - [Time intervals](#time-intervals-1)
-        - [Words](#words-1)
-    - [Good Time Parts](#bkmrk-good-time-parts)
-        - [Times](#bkmrk-times)
-        - [Named Times](#bkmrk-named-times)
-        - [Examples](#examples-1)
-    - [Bad Time Parts](#bkmrk-bad-time-parts)
-        - [Times](#times-1)
-        - [Names Times](#bkmrk-names-times)
-
->>>>>>> Stashed changes
 When adding smart reminders there are a large number of cases it can pick up. This guide provides a breakdown on what is known to be understood by the system and an outline of the limitations that are known to not be understood.
 
 Smart reminders are created out of sentences but need to follow a fairly defined structure.
