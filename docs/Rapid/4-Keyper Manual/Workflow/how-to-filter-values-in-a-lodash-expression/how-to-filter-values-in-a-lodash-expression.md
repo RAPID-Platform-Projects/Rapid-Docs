@@ -40,7 +40,7 @@ If we want to send an email to this contact we will not to retrieve the email fr
 
 Note the use of the question mark above. This is called an Optional Chaining Operator and is added to handle null values. To find out more about the Optional Chaining Operator see the following MDN documentation.
 
-##### **Related articles**
+## **Related articles**
 
 [**Formatting Values in a LODASH expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/formatting-values-in-a-lodash-expression)
 
