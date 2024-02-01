@@ -17,9 +17,9 @@ You have two tables - **Invoices** and **Payments.**
 Follow the steps below for how to add a table in the context of another table:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
-    ![image-1702254881217.png](./../Global-Images/downloaded_image_1705285628521.png)
+    ![Navigate to Designer](<Navigate to Designer.png>)
 2. Open your desired table. (In this case the desired table is invoices as we want to add Payments to this)  
-    ![image-1702254926859.png](./../Global-Images/downloaded_image_1705285629533.png)
+    ![Open the Table](<Open the Table.png>)
 3. Click on the **Design** tab  
     ![image-1702339447280.png](./downloaded_image_1705285630545.png)
 4. Click on the + button on the tab strip to add a tab for you linked table (In this case we are adding a payments tab to the invoices table)  
