@@ -1,4 +1,4 @@
-# Dashboard
+# The Dashboard
 
 Once the site has been created, you will be directed to the Explorer Dashboard. The Dashboard is completely customisable as it utilises Rapid's paging system where a User can add any component and layout to any page.
 
