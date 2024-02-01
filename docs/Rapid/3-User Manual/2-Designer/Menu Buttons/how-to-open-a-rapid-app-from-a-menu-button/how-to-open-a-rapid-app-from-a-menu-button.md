@@ -27,9 +27,9 @@ There can be other reasons, but if the question is - Is it possible configure a 
 
 Presently, there are three principle apps in RAPID:
 
-1. 1. 1. 1. Explorer
-            2. Designer
-            3. Workflow
+1. Explorer
+2. Designer
+3. Workflow
 
 There is another application - Forms, but it is being replaced by Adaptive Documents now.
 
