@@ -6,7 +6,7 @@ Rapid Platform provides you a set of five layout options to organise [**componen
 
 ![Screenshot 2023-10-25 at 15.46.18.png](./downloaded_image_1705286261231.png)
 
-- ##### **Horizontal Layout**
+## **Horizontal Layout**
 
 As the name suggests, in this layout the components are arranged horizontally.
 
@@ -24,7 +24,7 @@ Please note:
 
 ![Hori - 2.png](./downloaded_image_1705286264273.png)
 
-- ##### **Vertical Layout**
+## **Vertical Layout**
 
 In this layout the components are arranged vertically.
 
@@ -37,7 +37,7 @@ Please note:
 - This layout is not a default layout for any condition
 - This layout will attempt to fit to the size of the screen viewing it.
 
-- ##### **Flex Layout**
+## **Flex Layout**
 
 Sometimes, if you are not sure, whether the components will arrange better in a Vertical Layout or a Horizontal Layout, you can go for the Flex Layout.
 
@@ -53,17 +53,18 @@ You can select the direction of the layout either Vertical or Horizontal. The la
 
 Therefore, you can easily switch between Vertical and Horizontal Layout arrangements for your components on Page.
 
-Please note:
+**Please note:**
 
-- This layout will attempt to fit to the size of the screen viewing it.
+This layout will attempt to fit to the size of the screen viewing it.
 
-- ##### **Grid Layout**
+
+## **Grid Layout**
 
 In a Grid Layout, you can arrange the components as per your need.
 
 ![Grid.png](./downloaded_image_1705286268322.png)
 
-Please note:
+**Please note:**
 
 - [**You can resize and arrange the components on the Grid Layout.**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?") This is not possible with any other layout.
 - Grid Layouts will not attempt to scale to the size of the screen vertically and can be scrolled. They will still attempt to scale horizontally.
@@ -71,11 +72,11 @@ Please note:
 
 ![Screenshot 2023-10-25 at 18.08.32.png](./downloaded_image_1705286269333.png)
 
-- ##### **Tab Strip**
+## **Tab Strip**
 
 Tab Strip is a special type of a layout which is used to add / organise other pages within a layout / Page.
 
-Please note:
+**Please note:**
 
 - [**Using a Tab Strip you can create new tabs and new Pages.**](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page-in-designer "How to create a Page in Designer?")
 - You can edit Tab Strip preferences by clicking on the Edit icon (*Pencil*)
@@ -112,10 +113,8 @@ Please note:
 
 ![Save.png](./downloaded_image_1705286280695.png)
 
-#####   
 
-
-##### **Related articles**
+## **Related articles**
 
 [How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
 
@@ -124,5 +123,3 @@ Please note:
 [How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
 
 [How to configure / update component properties?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")
-
-[***Go back to Pages Main Resource***](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer")

@@ -1,10 +1,10 @@
 # Using the Project Task Board
 
-### Overview
+## Overview
 
 The task board is a great way to visualise the status of each of the project’s sub-tasks. It also provides the user the ability to easily move tasks between each of the status fields which will automatically update the status of that task. Moreover, the “view” can be changed to show tasks on the task board that are only your tasks or “All” tasks depending if you want visibility of your responsibilities or the tasks from the project as a whole.
 
-### How to access a Projects Task Board
+## How to access a Projects Task Board
 
 1. Navigate to Projects &gt; Projects  
     ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
@@ -14,7 +14,7 @@ The task board is a great way to visualise the status of each of the project’s
     ![image-1703658186438.png](./../Global-Images/downloaded_image_1705285247331.png)
 4. Click on **Tasks Board** ![image-1703658932885.png](./downloaded_image_1705286233782.png)
 
-### How to change the status of a task using the tasks board
+## How to change the status of a task using the tasks board
 
 1. Navigate to Projects &gt; Projects  
     ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
@@ -46,7 +46,7 @@ The default view on the Task Board is the “My Tasks – All” view which show
     ![image-1703659292108.png](./downloaded_image_1705286247004.png)
 7. The tasks board now shows all tasks in the project. The same steps can be used to revert the view back to “My Tasks – All”
 
-### How to edit a task from a Project's task board
+## How to edit a task from a Project's task board
 
 1. Navigate to Projects &gt; Projects  
     ![image-1703658099164.png](./../Global-Images/downloaded_image_1705285245302.png)
