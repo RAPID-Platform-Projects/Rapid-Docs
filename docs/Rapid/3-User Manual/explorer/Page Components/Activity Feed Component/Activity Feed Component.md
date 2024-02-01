@@ -9,7 +9,7 @@ The activity feed comes default with every item that is created.  The below imag
 ![Image of an Activity Feed Page](<Activity Feed 1.png>)
 
 ## Viewing The Activity Feed
-It is important to note that Activity Feed component displays information related to an [item of an entity.](../../../Glossary/glossary.md#table-items-and-columns)  
+It is important to note that the Activity Feed component displays information related to an [item of an entity.](../../../Glossary/glossary.md#table-items-and-columns)  
 
 To view the default activity feed from Explorer, it is assumed that an item is present within the entity for which you want to view the Activity Feed. To view the activity feed from the default tab that is provided with every item:
 
@@ -108,7 +108,7 @@ Automatically generated reminders utilise specific phrases to identify reminders
 2. Click the Submit button at the edge of the text box to save your reminder note to the item.  
 ![Image showing how to create a smart reminder in Activity Feed](<Smart reminder.png>)  
 
-[***Click here to learn more about Smart Reminders***](smart-reminders.md)  
+[***Click here to learn more about Smart Reminders***](smart-reminders/smart-reminders.md)  
 
 ### Manually Generated Reminders
 To manually generate reminders:
