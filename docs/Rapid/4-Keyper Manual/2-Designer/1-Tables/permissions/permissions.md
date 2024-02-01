@@ -22,19 +22,19 @@ To alter users and groups that have access to items within an entity:
 
 There are three distinct types of permissions, each having their own functionality. These three permissions are as below:
 
-##### 'Read' Permissions
+### 'Read' Permissions
 
 The 'Read' permission determines whether or not a user or users can view items or an item.
 
-##### 'Write' Permissions
+### 'Write' Permissions
 
 The 'Write' permission determines whether or not a user or users can edit an existing item.
 
-##### 'Delete' Permissions
+### 'Delete' Permissions
 
 The 'Delete' permissions determines whether or not a user or users can delete an existing item. Checking the **Delete** permission allows users to delete
 
-### Changing Entity-Level Permissions
+## Changing Entity-Level Permissions
 
 Changing the Entity-Level permissions alters the permissions that are inherited by future items that are created. This means that items that are already created prior to the changing of entity-level permissions will **not** inherit the new security permissions and must be changed individually if the newly set permissions were to be placed on previously created items.
 

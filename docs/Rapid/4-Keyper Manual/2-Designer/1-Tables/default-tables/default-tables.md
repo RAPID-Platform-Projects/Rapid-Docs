@@ -8,7 +8,7 @@ When installing a fresh Rapid site, there are a number of system lists which are
 
 All of these entities (lists) are required and their configuration should not be altered, with the exception of Tasks as it is special. Tasks will be covered in greater detail in the next section.
 
-#### Database Migrations
+## Database Migrations
 
 The Database Migration table is a list which tracks major site changes. It is to keep a log of key events in the site file updates so a site administrator or user can trace major changes made to their Rapid site. This list tracks events such as:
 
@@ -23,15 +23,15 @@ You will now be in the context of the Database Migration table in Explorer. You 
 
 ![Default Tables 03.png](./downloaded_image_1705285480083.png)D*atabase Migration Table - Explorer*
 
-#### Dependencies
+## Dependencies
 
 Dependencies are not accessible through the user interface. Attempting to open this table in Explorer will present an error message, this is intended. Dependencies are most commonly used in Gantt charts where one task is dependant on another task if that is the case, there will be an item in the Dependency table which consists of a sourceID and targetID.
 
-#### Notes
+## Notes
 
 Notes is another table which is not directly accessible through the user interface. Attempting to directly open this table in Explorer will present an error message, this is intended. Notes are however widely used throughout a Rapid site. The Notes table allows for the storage of the notes that are created on the site.
 
-#### Principals
+## Principals
 
 Principals is an immutable list of people and groups who have access to this particular Rapid Site. Opening this table in Explorer will display the full list of users who are recognised by the site and have access to it. Permissions run a lot deeper than this, but if a User is not on this list they will not be able to be authenticated to even open the Rapid site.
 
@@ -47,6 +47,6 @@ Despite not being able to manually delete entries in this list, or manually modi
 
 *Users and Groups Importer Interface*
 
-#### Tasks
+## Tasks
 
 There are multiple page components and Rapid experiences that are dependant on the Tasks table. It is the backbone for My Work and ToDo where one work item or notification represents one task.
