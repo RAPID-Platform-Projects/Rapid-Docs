@@ -4,13 +4,13 @@ SharePoint [offers](https://devblogs.microsoft.com/microsoft365dev/controlling-a
 
 Configuring this permission set is currently not supported by Microsoft UIs.
 
-### How to set a Sites.Selected permission
+## How to set a Sites.Selected permission
 
-##### Before you begin
+### Before you begin
 
 Ensure you have a SharePoint site associated with your group and sufficient admin privileges to consent to the `Sites.FullControl.All` permission.
 
-##### Get the Site ID for your site
+### Get the Site ID for your site
 
 1\) Navigate to the [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer)
 
@@ -28,7 +28,7 @@ For example to fetch the details of the internal site here at rapidplatform. Not
 
 ![image-1703122106535.png](./downloaded_image_1705285199583.png)
 
-##### Create the permission
+### Create the permission
 
 1\) Assemble the URL in Graph Explorer
 
