@@ -4,7 +4,7 @@ When configuring your component's side panel, It must have a consistent style an
 
 Let's have a look at what that means in action, We provide many components by default, and these components are used to help you create a nice and consistent Configuration panel for your component. The first step to creating your components' schema, (which also holds your schema for the configuration panel of your component) is to have a memorial name which matches what your component is called.
 
-<p class="callout info">Example Naming and File structure [(Read More)](#top)</p>
+<p class="callout info">Example Naming and File structure Read More</p>
 
 
 >text-input-control/ ├─ text-input.tsx ├─ text-input.scsss ├─ text-input-control.ts
