@@ -192,3 +192,17 @@ a {
   justify-self: start;
   opacity: 0.3;
 }
+
+/* Slanted bottom to hero banner */
+svg#divider {
+  height: 170px;
+  margin-top: -170px;
+  width: 100%;
+  background-color: transparent;
+  fill: transparent;
+  z-index: 1;
+}
+
+path#slant {
+  fill: var(--ifm-color-emphasis-100);
+}
