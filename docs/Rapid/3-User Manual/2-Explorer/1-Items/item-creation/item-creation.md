@@ -1,6 +1,6 @@
 # Item Creation
 
-Creating an item on a data table allows users to store data in lists called [Tables](https://docs.rapidplatform.com/). Users are are then able to view and manage items to their liking.
+Items are created and stored on lists. Users are are then able to view and manage items to their liking.
 
 ## Creating a new item
 

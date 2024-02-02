@@ -2,7 +2,7 @@
 
 ![Default Fields 01.png](./downloaded_image_1705285477035.png)*A Custom Entity in Explorer*
 
-This is the default view and page for an [Entity](https://docs.rapidplatform.com/Home/User-Documentation/Designer/Entities). Notice there are multiple fields (columns) which are present in the header. These are the system fields which are present on any entity on a Rapid site; custom or system entities (like tasks). In some situations, having one or more of these system fields may be useful, in either adding them to a view or creating a query which includes them. Below is an outline of what each of these system fields do.
+This is the default view and page for an Entity. Notice there are multiple fields (columns) which are present in the header. These are the system fields which are present on any entity on a Rapid site; custom or system entities (like tasks). In some situations, having one or more of these system fields may be useful, in either adding them to a view or creating a query which includes them. Below is an outline of what each of these system fields do.
 
 - Created By: Outputs the name of the user who created the item
 - Created: Outputs a date in which the item was created
