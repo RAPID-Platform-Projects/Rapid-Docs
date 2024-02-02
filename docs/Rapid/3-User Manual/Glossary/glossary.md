@@ -108,7 +108,7 @@ Each of the below shown in the tree is an example of menu item.
 
 **Related articles**
 
-[**All about Menus**](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-dezigna "All about Menus in Dezigna")
+[**All about Menus**](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-all-about-menus-in-designer.md "All about Menus in Designer")
 
 ## Workflow
 
@@ -120,11 +120,11 @@ You can access Workflow from the quick navigation buttons at the bottom of your 
 
 **Related articles**
 
-[Workflow User Manual](https://docs.rapidplatform.com/books/workflow-keyper "Workflow - Keyper")
+[Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
 
 ## Table items and columns
 
-An **item** in a table refers to the a single group of related data within a table. Relational databases contain **[tables](https://docs.rapidplatform.com/books/glossary/page/data-table "Data Table")** with items / rows and columns (also known as records and fields, respectively).
+An **item** in a table refers to the a single group of related data within a table. Relational databases contain [**tables**](#data-table "Data Table") with items / rows and columns (also known as records and fields, respectively).
 
 Columns are vertical, and hold a list of values all from the same field. Items are your horizontal elements in a table. The values in an item belong to different fields, but all refer to a single unit (like a row that contains information about one customer or one order).
 
@@ -177,7 +177,7 @@ For a particular table, we can easily identify which columns have been inherited
 
 [How to create a new table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?")
 
-[How to view / update table options of an existing table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer "How to view / update table options of an existing table in Designer?")
+[How to view / update table options of an existing table in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/How%20Tos/how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options.md "How to view / update table options of an existing table in Designer?")
 
 ## Page, layout and component
 
@@ -214,6 +214,4 @@ Please note :
 
 Task Experience is the name given to a separate environment where a user can manage tasks. This is different from Explorer. Task Experience provides the details about the task along with other essential fields like Due Date, Priority, Task Status etc. Further, the User Interface enables the user to add time-logs against tasks.
 
-The environment is accessed at url - tasks.rapidplatform.com/
-
-**&lt;&lt;More Details + screenshots needed&gt;&gt;**
+The environment is accessed at url - [tasks.rapidplatform.com](https://tasks.rapidplatform.com)
