@@ -3,7 +3,7 @@
  * bundles Infima by default. Infima is a CSS framework designed to
  * work well for content-centric websites.
  */
- /*==================================================
+/*==================================================
   * Colors - Brand
   *==================================================
   $brand-deep-navy: rgb(12, 21, 42);      //#0c152a
@@ -58,12 +58,12 @@
   --ifm-color-primary-lighter: #081020;
   --ifm-color-primary-lightest: #060515;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
-
 }
 
 .footer {
   background-color: var(--ifm-footer-background-color);
 }
+
 .footer--dark {
   --ifm-footer-background-color: #0c152a;
 }
@@ -83,4 +83,112 @@ a {
 .small_image {
   width: 30%;
   height: 30%;
+}
+
+#__docusaurus {
+  overflow-x: hidden;
+}
+
+/* Swizzled footer styling */
+.footer::before {
+  content: '';
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  display: block;
+  width: 150px;
+  height: 87px;
+  background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTQ5LjkyNjMxN3B4IiBoZWlnaHQ9Ijg2Ljc0MjY1MThweCIgdmlld0JveD0iMCAwIDE0OS45MjYzMTcgODYuNzQyNjUxOCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDxnIGlkPSJTeW1ib2xzIiBzdHJva2U9Im5vbmUiIHN0cm9rZS13aWR0aD0iMSIgZmlsbD0ibm9uZSIgZmlsbC1ydWxlPSJldmVub2RkIj4KICAgICAgICA8ZyBpZD0iRm9vdGVyIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLCAtMjApIiBmaWxsPSIjMDA5MUQwIj4KICAgICAgICAgICAgPHBvbHlnb24gaWQ9IlRyaWFuZ2xlIiBwb2ludHM9Ii02LjY5ODExNDI5ZS0xNCAyMCAxNDkuOTI2MzE3IDIwIC0xLjQ3ODE0NTM3ZS0xMyAxMDYuNzQyNjUyIj48L3BvbHlnb24+CiAgICAgICAgPC9nPgogICAgPC9nPgo8L3N2Zz4=);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+.footer {
+  position: relative;
+  border-top: 20px solid #0091d0;
+
+  display: grid;
+  grid-template-rows: 150px 50px;
+  grid-template-columns: 340px 500px 340px;
+  grid-template-areas: "logo links cta" "copyright copyright empty";
+
+  justify-content: center;
+  align-items: start;
+}
+
+.footer .logo-container {
+  grid-area: logo;
+}
+
+.footer .logo-container .blurb {
+  margin-top: 0.6rem;
+  text-wrap: nowrap;
+}
+
+.footer .logo-container .footer__logo {
+  width: 285px;
+  height: 59px;
+  margin-top: 0;
+}
+
+.footer .links-container {
+  grid-area: links;
+  justify-self: center;
+}
+
+.footer .cta-container {
+  grid-area: cta;
+  justify-self: end;
+  position: relative;
+  padding: 1rem;
+}
+
+.footer .cta-container .cta-button {
+  color: #ffffff !important;
+  border-width: 0px !important;
+  border-color: #43c7f4;
+  font-weight: 600 !important;
+  background-color: RGBA(255, 255, 255, 0);
+
+  isolation: isolate;
+}
+
+.footer .cta-container .cta-button::before {
+  content: "" !important;
+  display: block !important;
+  opacity: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-image: linear-gradient(228deg, #34b8e9 0, #0070b8 100%);
+  border-radius: 8px;
+  z-index: -2;
+}
+
+.footer .cta-container .cta-button::after {
+  transition: ease-in-out 150ms;
+  content: "" !important;
+  display: block !important;
+  margin: 0 !important;
+  opacity: 1;
+  width: calc(100% - 4px);
+  height: calc(100% - 4px);
+  position: absolute;
+  top: 2px;
+  left: 2px !important;
+  background: var(--ifm-footer-background-color);
+  border-radius: 6px;
+  z-index: -1;
+}
+
+.footer .cta-container .cta-button:hover::after {
+  opacity: 0;
+}
+
+.footer .copyright-container {
+  grid-area: copyright;
+  justify-self: start;
+  opacity: 0.3;
 }

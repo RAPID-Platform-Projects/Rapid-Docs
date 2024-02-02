@@ -117,6 +117,9 @@ const config: Config = {
     },
     footer: {
       style: "dark",
+      logo: {
+        src: 'img/rpd_white.svg',
+      },
       links: [
         {
           title: "Community",
@@ -149,7 +152,13 @@ const config: Config = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Rapid Platform Pty Ltd, Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} Rapid Platform Pty Ltd, Built with Docusaurus.`,
+    },
+    customFields: {
+      demo: {
+        href: 'https://rapidplatform.com/contact-us/',
+        text: 'Book a free demo today.'
+      }
     },
     prism: {
       theme: prismThemes.github,
