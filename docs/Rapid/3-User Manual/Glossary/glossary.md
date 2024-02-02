@@ -12,7 +12,7 @@ You can access Designer from your main Rapid site using the navigation bar on th
 
 **Releated Articles**
 
-[What is Designer?](https://docs.rapidplatform.com/books/experiences/page/what-is-dezigna-designer-application "What is Dezigna (Designer application)?")
+[What is Designer?](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md "What is Dezigna (Designer application)?")
 
 
 ## Data Table
@@ -31,10 +31,6 @@ Here,
 
 are columns that organise the data about various items in the table.
 
-**Releated Articles**
-
-[What is a data table structure?](https://docs.rapidplatform.com/books/glossary/page/data-table-structure "Data Table Structure")
-
 ## Table
 
 A table defines the shape of data across various columns. The term table refers to the list of these columns along with their attributes. Tables also include additional configuration, such as where they store files, the default permissions when creating rows on the table and various default values.
@@ -52,7 +48,7 @@ The Rapid Platform allows defining of data table structures that suits informati
 
 **Related articles**
 
-[What is Designer?](https://docs.rapidplatform.com/books/experiences/page/what-is-dezigna-designer-application "What is Dezigna (Designer application)?")
+[What is Designer?](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md "What is Designer?")
 
 ## Command bar
 
@@ -88,10 +84,10 @@ A menu can be most fundamentally be perceived as a button.
 
 There are two types of menu buttons:
 
-- In the [Sidebars](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar")  
+- In the [Sidebars](#sidebar "Sidebar")
     ![Main experince example sidebars](<Main experince example sidebars.png>)
 
-- In [command bars](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar") 
+- In [command bars](#command-bar "Command bar")
     ![Command Bar - Data Table.png](./command-bar-data-table.png)
 
 The On-Click Action of the menu button can be configured.
@@ -100,11 +96,11 @@ Rapid Platform allows for several different types of On-Click Actions that can b
 
 **Related articles**
 
-[All about Menus](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-dezigna "All about Menus in Dezigna")
+[All about Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-all-about-menus-in-designer.md "All about Menus in Designer")
 
 ## Menu item
 
-A Menu item is an item added in the menus list. This item is configured to give a ***[menu button](https://docs.rapidplatform.com/books/glossary/page/menu "Menu")*** desired properties.
+A Menu item is an item added in the menus list. This item is configured to give a [***menu button***](#menu "Menu") desired properties.
 
 Each of the below shown in the tree is an example of menu item.
 
