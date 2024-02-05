@@ -1,4 +1,4 @@
-# How to add columns to a data table?
+# How to add columns to a data table
 
 ## Overview
 
@@ -10,7 +10,7 @@ The purpose of this page is to demonstrate how to create a new column. Which is 
 2. Adding New Columns to a Blank Table
 3. Adding Columns to a Table that already has configured Columns
 
-## Accessing the Columns Configuration
+### Accessing the Columns Configuration
 
 To create a new column, you need to access the "**Columns**" tab for a table in Designer. To do so follow the steps below:
 
@@ -21,7 +21,7 @@ To create a new column, you need to access the "**Columns**" tab for a table in 
 3. Click on the columns tab  
 ![Click on the columns tab](ClickOnTheColumnsTabImg.png)
 
-### **Adding columns to a new blank table**
+### Adding columns to a new blank table
 
 ![Adding columns to clank table](AddingColumnsToBlankTable.png)
 
@@ -33,7 +33,7 @@ To add a column to a table, just click on the "**Create Column**" button or "**C
 
 As you click on it, a panel will open up in right, which would read "**Add Column**".
 
-### **Adding columns to a table already having columns**
+### Adding columns to a table already having columns
 
 You can add more columns to an existing table or a new table having inherited columns from another table.
 
@@ -42,7 +42,7 @@ You can add more columns to an existing table or a new table having inherited co
 As you click on the insert column, a panel will open up in right, which would read "**Add Column**". This is shown in below image.
 ![Column Fields](ColumnFields.png)
 
-### **Add Column panel details**
+### Add Column panel details
 
 **Follow the steps below to configure a column:**
 

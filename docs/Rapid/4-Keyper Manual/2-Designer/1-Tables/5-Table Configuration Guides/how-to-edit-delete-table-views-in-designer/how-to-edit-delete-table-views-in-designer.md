@@ -1,4 +1,4 @@
-# How to edit / delete table views in Designer?
+# How to edit / delete table views in Designer
 
 ## Overview
 
@@ -82,7 +82,7 @@ Please refer to the below video for illustration
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/uEC231-7t0U?si=ZSVHM-1fOgOPv22i" title="YouTube video player" width="750"></iframe>
 
-## How to make a table view not visible / visible to users in explorer?
+## How to make a table view visible / not visible to users in explorer
 
 Visibility refers to whether the subject Table View is visible in Explorer for application or not. If a Visibility of a Table View is set ON (checked), it means that the subject View will be present in the list of Views in Explorer.
 
@@ -103,7 +103,7 @@ Please refer to the video below for additional information.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/4YsbofiTa9E?si=zkTgK8xBRapUl6L9" title="YouTube video player" width="750"></iframe>
 
-## How to delete a table view/s
+## How to delete a table's view/s
 
 If a view is no longer in use and you want to remove it from the table you have the ability to delete it. To do so follow the steps below:
 
@@ -118,7 +118,7 @@ If a view is no longer in use and you want to remove it from the table you have 
 5. Select the **Delete x items** button (note if the view is locked you will not be able to delete it. See above for how to unlock a view)  
     ![Press the delete button](<Press the delete button.png>)
 
-## **Related articles**
+## Related articles
 
 [How to edit / delete a column from a table?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-a-column-from-a-table "How to edit / delete a column from a table?")
 

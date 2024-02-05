@@ -2,7 +2,7 @@
 
 ### Overview
 
-The project financials tab is a easy to access place to access all budgets, quotes , and invoices associated with the project.
+The project financials tab is a helpful place to access all budgets, quotes , and invoices associated with the project.
 
 Budgets under the scoping tab, and Budgets under the financials tab will both show the same items as budgets refer to both a projects financials and scoping.
 

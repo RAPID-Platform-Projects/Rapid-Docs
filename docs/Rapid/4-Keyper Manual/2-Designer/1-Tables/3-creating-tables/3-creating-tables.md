@@ -1,4 +1,4 @@
-# How to create a new data table in Designer?
+# Creating Tables
 
 Creating a data table is among the primary and most critical tasks for a system designer. It is important to define a table with the correct field names and types.
 

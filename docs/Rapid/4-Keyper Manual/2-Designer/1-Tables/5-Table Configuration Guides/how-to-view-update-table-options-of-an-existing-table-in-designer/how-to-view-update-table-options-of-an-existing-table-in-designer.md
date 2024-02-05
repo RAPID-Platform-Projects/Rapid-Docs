@@ -1,8 +1,8 @@
-# How to view / update table options of an existing table in Designer?
+# How to view / update table options of an existing table in Designer
 
 You can view and update table options for an existing table.
 
-### **How to reach Table Options tab?**
+### How to reach the 'Table Options' tab
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
     ![Navigate to Designer](../../NavigateToDesignerTablesAllTablesImg.png)
@@ -13,7 +13,7 @@ You can view and update table options for an existing table.
 
 More details can be found at **Point no. 12 of [*All about Tables in* Designer.](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
 
-### **What does a Table Options tab contain?**
+### 'Table Options' tab contents
 
 The Options tab for a table displays the most fundamental information about it. The below image depicts the Options tab for an existing table in Designer:
 
@@ -33,7 +33,7 @@ The following items will be covered in this page:
 4. **Undo Changes**
 5. **Create Sub-Type**
 
-### **Naming Conventions (Singular, Plural, Database Table)**
+### Naming Conventions (Singular, Plural, Database Table)
 
 If you are building PowerBI Reports or accessing the backend of your system understanding the various table names is useful. Each of these are explained below.
 
@@ -56,9 +56,9 @@ Four out of these five fields are non-editable and derive their value, as provid
    
    ![Title Field Selector](TitleFieldOption.png)
 
-**Next let us look at the Link Inheritance segment**
 
-### **Link Inheritance**
+
+### Link Inheritance
 
 While creating the table, we had discussed the Sub-Type Of / inheritance concept. This Link Inheritance should not be confused with the "Sub-Type of" / table inheritance.
 
@@ -72,7 +72,7 @@ This segment has the names of all the tables (custom as well as built-in) in the
 
 **Next let us look at the Document Storage and other options segment**
 
-### **Document Storage, Options and Item Folder Template**
+### Document Storage, Options and Item Folder Template
 
 This segment provides options to configure how to organise data created in the subject table. The Rapid Platform provides options to upload files against every item created in a table. For example - imagine you have an Invoices table. Each item of the table refers to an invoice generated for a customer. It would be beneficial to upload the actual invoice document against the table item.   
   
