@@ -10,8 +10,12 @@ export default function Home(): JSX.Element {
     <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
       <HeroBanner title={siteConfig.title} subTitle={siteConfig.tagline} />
 
-      <main>
+      <main className="container">
+        <br></br>
         <FeatureList />
+        <br></br>
+        <FeatureList />
+        <br></br>
       </main>
     </Layout>
   );

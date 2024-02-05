@@ -36,6 +36,7 @@ const config: Config = {
         docs: {
           sidebarPath: "./sidebars.ts"
         },
+
         blog: {
           blogTitle: "Changelog",
           blogDescription: "Updates to Rapid Platform",
@@ -44,10 +45,20 @@ const config: Config = {
           readingTime: ({ content, frontMatter, defaultReadingTime }) =>
             frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content })
         },
+
         theme: {
           customCss: "./src/css/custom.css"
         }
       } satisfies Preset.Options
+    ]
+  ],
+
+  plugins: [
+    [
+      "./src/plugins/training-plugin/index.ts",
+      {
+        dir: "training"
+      }
     ]
   ],
 
@@ -69,6 +80,11 @@ const config: Config = {
           to: "docs/Rapid/Rapid Standard/rapidStandardHomePage",
           position: "left",
           label: "Base Rapid"
+        },
+        {
+          to: "/training",
+          position: "left",
+          label: "Rapid Training"
         },
         {
           type: "dropdown",
@@ -121,7 +137,6 @@ const config: Config = {
       ]
     },
     footer: {
-      style: "dark",
       links: [
         {
           title: "Community",
