@@ -14,7 +14,7 @@ To better understand, if a table is deleted then:
 - The page is deleted if created via option 1. above (subject table).
 - The page remains present in the system if created via option 2. above.
 
-## **Pages in Designer Sidebar (Pages Manager)**
+## Pages in Designer Sidebar (Pages Manager)
 
 ![Pages page layout](<Pages page layout.png>)
 
@@ -24,7 +24,7 @@ This window enables you with the following information / options
 2. **List of all pages in the system** - This section displays the list of all the pages in the system whether created from within Table in Designer or independently. The list is arranged in alphabetical order.
 3. **Find a page** - This field allows you to enter a keyword (or a part of it) to filter the list of pages. It helps you easily find your desired page from the list.
 
-## **Design Tab of Table in Designer**
+## Design Tab of Table in Designer
 
 ![Design tab page layout](<Table Design tab layout.png>)
 
@@ -59,7 +59,7 @@ Please refer to the below video for illustration of above points.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/NyhF0gWS7lk?si=VgEXLlrMQ0yhxdY2" title="YouTube video player" width="750"></iframe>
 
-## **Features and functions for Pages in Designer**
+## Features and functions for Pages in Designer
 
 Please consider the below links to learn more about Pages in Designer
 
@@ -85,7 +85,7 @@ Please consider the below links to learn more about Pages in Designer
 
 [How to delete a Layout from a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-layout-from-a-page "How to delete a Layout from a Page?")
 
-## **Related articles**
+## Related articles
 
 **[All about *Tables* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
 
