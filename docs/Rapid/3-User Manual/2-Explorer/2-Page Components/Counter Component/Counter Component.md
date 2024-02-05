@@ -1,4 +1,4 @@
-## What is a Counter Component?
+# What is a Counter Component?
 Imagine you are a Company Executive and frequently visit the Projects Table. At any given point in time, you want to quickly reference the number of Customers of your organisation. 
 
 The Counter Component can give you the **count of items** present in a defined Table View.

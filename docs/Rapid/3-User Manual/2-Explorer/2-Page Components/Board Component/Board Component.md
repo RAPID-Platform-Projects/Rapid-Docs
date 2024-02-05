@@ -1,4 +1,4 @@
-## What is a Board component?
+# What is a Board component?
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked. 
 
@@ -12,7 +12,7 @@ To put in simple words - a Board component allows you to view the list of items 
 
 There can be many other use cases like - a sales manager viewing the status of various leads, a purchase manager looking at items' order status, an accounts manager monitoring invoices status etc.
 
-# Interpreting information on each Board Item Card
+## Interpreting information on each Board Item Card
 As seen in the image above, the Board Component categorises the Table items across various sections based on the defined Choice Type of field. Each item is displayed like a Card.
 
 Board component provides information about the following:
@@ -32,7 +32,7 @@ In the above image please note the following:
 - The initials of the User field appear in a coin of colour. Different users will be shown with different coloured coins
 :::
 
-# Search for an Item on Board
+## Search for an Item on Board
 
 It is possible that the list of items on the Board Component is extensive. In such cases, it might be difficult to identify a particular item from all the cards on the Board. 
 
@@ -42,7 +42,7 @@ Click on the "X" at the far right of the search bar to clear the Search filter.
 
 ![Image depicting item search in Board](<Explorer_Board- Search Item.png>)
 
-# Viewing / Updating Item Details
+## Viewing / Updating Item Details
 Just like the Item List, you can view the details of an item by **double clicking** on the Item Card. This will open the Item Details Page. 
 
 In case, any changes are made to the Item in the Details page, the same are visible in the Board Card upon saving.
@@ -50,7 +50,7 @@ In case, any changes are made to the Item in the Details page, the same are visi
 ![Image showing how to view and update item details from Board in Explorer ](<Explorer_Board- View-update Item Details.png>)
   
 
-# Updating item's category using Board Component
+## Updating item's category using Board Component
 One of the key benefits of using a Board Component is the ability to update an item's selected choice field by a simple drag and drop.
 
 For instance - imagine you are a Project Manager, going through the Task Items on the Board. You need to update a task from _Not Started_ **TO** _In progress_. You can simply do it by dragging and dropping the task in the category.
@@ -59,7 +59,7 @@ Refer to the below image. The task titled - "Onboard staff to new machine operat
 
 ![Image showing how card can be dragged between categories](<Explorer_Board- drag item across categories.png>)
 
-# Views in Board Component
+## Views in Board Component
 
 Views can be considered as filters which prune the items list. It is important to note that **the items cards that appear in the Board across categories obey the filter rules of the selected View.**
 
@@ -84,7 +84,7 @@ It means that they have been disabled from the Board Component preferences level
 ![Image showing case where options to change View and Edit View are hidden](<Explorer_Board- Missing Views options.png>)
 :::
 
-# Trigger Action Menus
+## Trigger Action Menus
 
 You can trigger action buttons / menus from the Board. Just click on the button and it will perform the configured action.
 
@@ -96,7 +96,7 @@ In case you have seen the action button on the Item Lists Page and is missing fr
 ![Image showing the menu button is hidden from board](<Explorer_Board - Hidden Action Menu button.png>)  
 :::
 
-# Creating new items
+## Creating new items
 
 You can create new items from within the Board Component.   
 
@@ -104,7 +104,7 @@ Click on the new item button. This will open the Create Item Form.
 
 ![Image showing option to create new item for subject table from Board](<Explorer_Board - Create Table Item.png>)
 
-## Creating new sub-type item
+### Creating new sub-type item
 
 If your subject table is a Parent Table and there are other child tables which inherit properties from your subject (parent) table, then you can create new items for the child table from within the Board.
 
@@ -119,7 +119,7 @@ In case your subject table is a Parent AND you do not find the option to create 
 ![Image showing option to create child table item hidden](<Explorer_Board - Hidden Create Child Item.png>)
 :::
 
-# The "unspecified" category
+## The "unspecified" category
 
 You may also find a category titled as "unspecified". 
 
