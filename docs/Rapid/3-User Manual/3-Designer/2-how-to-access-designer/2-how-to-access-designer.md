@@ -26,7 +26,7 @@ These represent the key functions of Designer and houses all the design options 
 
 We shall organise our discussion in this chapter around these five items:
 
-- [Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/all-about-tables-in-designer/all-about-tables-in-designer.md "All about Tables in Designer")
+- [Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
 - [Features](/docs/Rapid/4-Keyper%20Manual/2-Designer/Permissions/feature-access-control/feature-access-control.md "All about Feature Control in Designer")
 - [Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-all-about-menus-in-designer.md "All about Menus in Designer")
 - [Pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Pages in Designer")
