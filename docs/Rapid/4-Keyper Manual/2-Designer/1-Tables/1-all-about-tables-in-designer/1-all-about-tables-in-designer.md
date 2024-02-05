@@ -8,7 +8,7 @@ Rapid Platform allows you to easily create and edit database tables. The purpose
 
 Imagine you have a big file cabinet where you want to organize information about different things. Each drawer in the cabinet represents a category or a type of information. Now, let's say you want to keep track of information about your friends. Instead of having one messy pile of papers in the drawer, you decide to use a table.
 
-In the table, you have rows and columns. Each row is like a separate sheet of paper, and each column is a specific piece of information you want to keep about your friends. For example, you might have columns for their names, ages, and phone numbers.
+ITables are comprised of rows and columns. Each row is like a separate sheet of paper, and each column is a specific piece of information you want to keep about your friends. For example, you might have columns for their names, ages, and phone numbers.
 
 So, each row in the table represents one friend, and the columns represent different details about them. This way, when you want to find information about a particular friend, you can look at that friend's row and quickly see their name, age, and phone number neatly organized in the columns.
 
@@ -16,7 +16,7 @@ In the world of computers and databases, these tables work in a similar way. Eac
 
 ## Table Configuration
 
-The default Designer window will appear something similar to shown below:
+The default Designer window will appear something similar to the image shown below:
 
 ![Table Configuration Image](TableConfigurationImg.png)
 
