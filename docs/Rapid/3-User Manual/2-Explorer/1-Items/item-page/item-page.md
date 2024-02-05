@@ -10,12 +10,14 @@ This is the Item's permissions configuration. It lists the users and groups whic
 2. Save and Close Button Performs the same action as a save button except closes the flyout as well. This is particularly useful if the save is the final edit to an item or if you wish to edit another item from the same list.
 3. Deleting an Item This deletes the opened item. This is a basic delete which sets the item to a deleted state in the database. Deleted items' will not show up in Rapid Explorer. Deleting an item will close its flyout.
 
-<table border="1" id="bkmrk-note%3A-deleting-an-it" ><tbody><tr><td >**Note:** Deleting an item will only remove it from the Rapid Site. The entry will still exist in the database meaning the action can be reverted by your system administrator.</td></tr></tbody></table>
+    :::info[**Note:**]
+    Deleting an item will only remove it from the Rapid Site. The entry will still exist in the database meaning the action can be reverted by your system administrator.
+    :::
 
-1. Complete Button This button is universal across the task system entity as well as any inherited entities created from tasks. Other custom entities will not have this UI feature. Pressing this button will perform the following action: Set task status to complete and then save the item.
-2. Item History The following button will open a UI which will list any changes made to an item along with the user that made the changes. More can be read [here](https://docs.rapidplatform.com/books/rapid-overview "RAPID Overview").
-3. Inline Refresh This button will perform an inline refresh on the current context. For an Item it will fetch the information pertaining to the item. A good use of this feature would be to view a Universal link added by another user which has not yet been displayed as the page has remained open. Read more about Inline Refresh [here](https://docs.rapidplatform.com/books/rapid-overview).
-4. Linked Items Menu The linked items component is default on any entity, system or custom. However the page component can be removed. This Linked Items Menu however is consistent throughout Rapid and can be opened by pressing the **⋮** button. This will expand menu and will list any items which have been linked. This list, displayed Universal links between items. More can be read [here](https://docs.rapidplatform.com/books/rapid-overview).
+4. Complete Button This button is universal across the task system entity as well as any inherited entities created from tasks. Other custom entities will not have this UI feature. Pressing this button will perform the following action: Set task status to complete and then save the item.
+5. Item History The following button will open a UI which will list any changes made to an item along with the user that made the changes. More can be read [here](/docs/Rapid/3-User%20Manual/2-Explorer/1-Items/item-history/item-history.md "Item History").
+6. Inline Refresh This button will perform an inline refresh on the current context. For an Item it will fetch the information pertaining to the item. A good use of this feature would be to view a Universal link added by another user which has not yet been displayed as the page has remained open. Read more about Inline Refresh [here](#item-page).
+7. Linked Items Menu The linked items component is default on any entity, system or custom. However the page component can be removed. This Linked Items Menu however is consistent throughout Rapid and can be opened by pressing the **⋮** button. This will expand menu and will list any items which have been linked. This list, displayed Universal links between items. More can be read [here](#item-page).
 
 ![Item Page 01.png](./downloaded_image_1705285793609.png)*Linked Items Menu*
 
