@@ -1,0 +1,3 @@
+# Support Module
+
+The support module allows your organisation to take in requests from clients, customers, employees etc. The support module provides a form to submit requests, the data structures to easily edit and manage requests, and a process that will assign tasks to the people deemed responsible for requests. All the while keeping the original requester informed with confirmation and update emails.

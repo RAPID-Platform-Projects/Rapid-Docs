@@ -1,6 +1,6 @@
 # How to customise Sidebars using Menus?
 
-***[Sidebars](</docs/Rapid/Keyper Manual/Glossary/> "Sidebar")*** can be very useful in organizing pages and navigating to the required ones quickly.
+***[Sidebars](</docs/Rapid/3-User Manual/Glossary/glossary.md#sidebar> "Sidebar")*** can be very useful in organizing pages and navigating to the required ones quickly.
 
 ## Overview
 

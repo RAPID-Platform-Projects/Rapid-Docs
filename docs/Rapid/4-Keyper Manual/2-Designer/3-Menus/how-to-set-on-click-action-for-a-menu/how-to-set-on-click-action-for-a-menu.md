@@ -6,15 +6,15 @@ Each menu item can be configured to perform certain action when clicked upon.
 
 RAPID Platform allows 9 types of on-click actions for menu items. These are:
 
-1. [Open a hyperlink](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/open-hyperlink> "How to open a Hyperlink from a Menu button?")
-2. [Open App](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/open-app> "How to Open a RAPID App from a Menu button?")
-3. [Perform Remote Action](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/perform-remote-action> "How to perform a Remote Action from click of a Menu button?")
-4. [Raise Create Webhook Action](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/raise-create-webhook-action> "How to raise a Webhook Create Action from click of a Menu button?")
-5. [Raise Workflow Created Signal](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/raise-workflow-created-signal> "How to raise a Workflow Created Signal from a click of a Menu button?")
-6. [Update Items](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/update-items> "How to update items from a click of a Menu button?")
-7. [SendGrid Email](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/sendgrid-email> "Sending Static Email from SendGrid using Explorer Menu Button")
-8. [Open in Flyout](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/open-in-flyout> "How to open a specific page in Flyout with a click of a Menu button?")
-9. [Execute Workflow Process](</docs/Rapid/Keyper Manual/Experiences/Designer/Menus/Menu Actions/execute-workflow-process> "How to execute a specific workflow process")
+1. [Open a hyperlink](<../Menu Actions/open-hyperlink> "How to open a Hyperlink from a Menu button?")
+2. [Open App](<../Menu Actions/open-app/open-app.md> "How to Open a RAPID App from a Menu button?")
+3. [Perform Remote Action](<../Menu Actions/perform-remote-action> "How to perform a Remote Action from click of a Menu button?")
+4. [Raise Create Webhook Action](<../Menu Actions/raise-create-webhook-action> "How to raise a Webhook Create Action from click of a Menu button?")
+5. [Raise Workflow Created Signal](<../Menu Actions/raise-workflow-created-signal> "How to raise a Workflow Created Signal from a click of a Menu button?")
+6. [Update Items](<../Menu Actions/update-items> "How to update items from a click of a Menu button?")
+7. [SendGrid Email](<../Menu Actions/sendgrid-email> "Sending Static Email from SendGrid using Explorer Menu Button")
+8. [Open in Flyout](<../Menu Actions/open-in-flyout> "How to open a specific page in Flyout with a click of a Menu button?")
+9. [Execute Workflow Process](<../Menu Actions/execute-workflow-process> "How to execute a specific workflow process")
 
 Click on each of the above links to learn more.
 

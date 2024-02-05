@@ -7,11 +7,14 @@ export default function Home(): JSX.Element {
   const { siteConfig } = useDocusaurusContext();
 
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+    <Layout title={`${siteConfig.title}`} description="Rapid Platform Documentation">
       <HeroBanner title={siteConfig.title} subTitle={siteConfig.tagline} />
 
-      <main className="container">
-        <br></br>
+      <svg id="divider" viewBox="0 0 100 100" preserveAspectRatio="none">
+        <path d="m 0,100 h 100 l 0,-90z" id="slant" />
+      </svg>
+
+      <main>
         <FeatureList />
         <br></br>
         <FeatureList />

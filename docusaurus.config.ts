@@ -64,7 +64,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: "img/docusaurus-social-card.jpg",
+    image: "img/RPD_logo_STK_2D.png",
     navbar: {
       title: "Rapid Docs",
 
@@ -115,11 +115,6 @@ const config: Config = {
               type: "docSidebar",
               sidebarId: "developer_manual",
               label: "Developer Manual"
-            },
-            {
-              type: "docSidebar",
-              sidebarId: "fix_me",
-              label: "FIXME"
             }
           ],
           dropdownActiveClassDisabled: true
@@ -130,13 +125,17 @@ const config: Config = {
           label: "Changelog"
         },
         {
-          href: "https://github.com/rapid-platform",
+          href: "https://github.com/RAPID-Platform-Projects/Rapid-Docs/issues/new?assignees=MattFranklin-Rapid&labels=bug&projects=&template=bug-form.yml",
           position: "right",
           label: "Feedback"
         }
       ]
     },
     footer: {
+      style: "dark",
+      logo: {
+        src: 'img/rpd_white.svg',
+      },
       links: [
         {
           title: "Community",
@@ -147,7 +146,7 @@ const config: Config = {
             },
             {
               label: "Youtube",
-              href: "https://www.youtube.com/channel/UCcuPXlHnC2MxKzzDhk3NkQw"
+              href: "https://www.youtube.com/@rapidplatform"
             },
             {
               label: "Webpage",
@@ -169,7 +168,13 @@ const config: Config = {
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Rapid Platform Pty Ltd, Built with Docusaurus.`
+      copyright: `Copyright © ${new Date().getFullYear()} Rapid Platform Pty Ltd, Built with Docusaurus.`,
+    },
+    customFields: {
+      demo: {
+        href: 'https://rapidplatform.com/contact-us/',
+        text: 'Book a free demo today.'
+      }
     },
     prism: {
       theme: prismThemes.github,
