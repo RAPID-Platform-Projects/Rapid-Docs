@@ -100,7 +100,7 @@ It is important to note that while tasks cover a date range milestones represent
 8. The Milestone will now appear on the Gantt chart  
     ![image-1703718797992.png](./downloaded_image_1705286223634.png)
 
-## How to Adjust a Milestones Date
+### How to Adjust a Milestones Date
 
 1. Navigate to Projects &gt; Projects  
     ![image-1703717756942.png](./downloaded_image_1705286190152.png)
