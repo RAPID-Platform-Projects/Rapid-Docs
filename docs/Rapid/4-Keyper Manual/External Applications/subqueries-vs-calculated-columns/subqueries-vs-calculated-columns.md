@@ -17,6 +17,6 @@ This does come with a trade off in that it is more tolling on the database, whic
 
 ![Selecting from a view](<Selecting from a view.png>)
 
-## **Related article**
+## Related article
 
 [Creating a Financial / Fiscal Year Calendar Table - Template](https://docs.rapidplatform.com/books/powerbi/page/creating-a-financial-fiscal-year-calendar-table-template)

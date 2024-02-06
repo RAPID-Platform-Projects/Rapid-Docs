@@ -38,6 +38,6 @@ To install a bundle from the public library
 
 After a brief installation period you should see your new entities in the entity list.
 
-## **Related articles**
+## Related articles
 
 [**ADVANCED: Bundles**](https://docs.rapidplatform.com/books/designer/page/advanced-bundles)

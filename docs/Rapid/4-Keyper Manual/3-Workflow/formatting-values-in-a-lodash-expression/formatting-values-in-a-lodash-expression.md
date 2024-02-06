@@ -29,7 +29,7 @@ The "en-AU" argument tells the method to format the number as per Australian Eng
 | Return Start of given day | "2023-09-04T10:10:00.000Z" | `DateTime.now().minus({hours: 1}).startOf('day').toISO()` | "2023-09-04T00:00:00.000Z" |
 
 
-## **Related articles**
+## Related articles
 
 [**How to filter values in a lodash expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/how-to-filter-values-in-a-lodash-expression)
 
