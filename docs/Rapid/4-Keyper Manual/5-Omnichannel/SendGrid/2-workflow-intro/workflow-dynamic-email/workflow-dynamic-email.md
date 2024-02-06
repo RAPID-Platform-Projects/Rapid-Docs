@@ -1,6 +1,6 @@
 # Sending a dynamic email from a Workflow Service Task
 
-##### **Objective:**
+##### Objective:
 
   
 Create an application where:

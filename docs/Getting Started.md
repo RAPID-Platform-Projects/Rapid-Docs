@@ -38,7 +38,6 @@ sidebar_position: 1
 |Configure a Menu from Table| | |
 |Edit/ Delete/ Add a Menu Item below an existing Menu Item| | |
 |Pages| | |
-| | | |
 |Create a page| | |
 |Add a Layout to a Page| | |
 |Add a component to a Page| | |
