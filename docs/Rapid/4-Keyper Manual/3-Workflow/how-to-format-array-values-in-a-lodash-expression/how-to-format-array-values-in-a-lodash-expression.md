@@ -25,7 +25,7 @@ You may prefer to work with an array with formatted values when filling a docume
 
 To do this you would use the following lodash expression:id="bkmrk-%3C%25%3D-servicetask123.p-0">`<%= servicetask123.properties.items.map(({name, age, amount}) => ({name, age, amount: amount?.toLocaleString("en-US")}) ) %> ` In the case above, because we only want to format the amount property that is all we do with the .toLocalString method.
 
-## **Related articles**
+## Related articles
 
 [**Formatting Values in a LODASH expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/formatting-values-in-a-lodash-expression)
 
