@@ -104,6 +104,11 @@ const config: Config = {
           dropdownActiveClassDisabled: true
         },
         {
+          to: "training",
+          position: "left",
+          label: "Training Modules"
+        },
+        {
           to: "changelog",
           position: "right",
           label: "Changelog"
@@ -167,7 +172,10 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true
     }
-  } as Preset.ThemeConfig
+  } as Preset.ThemeConfig,
+  plugins: [
+    ['./plugins/rapid-training-packs-plugin/index.ts', { dir: './training' }]
+  ],
 };
 
 export default config;
