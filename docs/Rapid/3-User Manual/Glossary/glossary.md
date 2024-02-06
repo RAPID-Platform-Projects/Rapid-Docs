@@ -96,7 +96,7 @@ Rapid Platform allows for several different types of On-Click Actions that can b
 
 **Related articles**
 
-[All about Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-all-about-menus-in-designer.md "All about Menus in Designer")
+[All about Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "All about Menus in Designer")
 
 ## Menu item
 
@@ -108,7 +108,7 @@ Each of the below shown in the tree is an example of menu item.
 
 **Related articles**
 
-[**All about Menus**](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-all-about-menus-in-designer.md "All about Menus in Designer")
+[**All about Menus**](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "All about Menus in Designer")
 
 ## Workflow
 
