@@ -8,7 +8,7 @@ This information in Left panel can be useful in many ways like identifying the t
 
 ![9.png](./downloaded_image_1705285664108.png)
 
-##### **Hide / Show Left Panel**
+## Hide / Show Left Panel
 
 You can toggle between hiding and showing the Left Panel using a single button.
 
@@ -18,7 +18,7 @@ Please view the below GIF for illustration:
 
 ![Left Panel](vzmtQOo9cM3P7chI-left-panel-480p-230912.gif)
 
-##### **Gantt Chart in Full Screen**
+## Gantt Chart in Full Screen
 
 The Gantt Chart can be viewed in Full Screen mode. The Full Screen mode allows you to view the Gantt Chart over the maximum width of screen possible. This enables a better span of bars, leading to better assimilation of information. Also, particularly useful for taking screenshots / screen sharing etc.
 
@@ -30,12 +30,12 @@ The Gantt Chart can be viewed in Full Screen mode. The Full Screen mode allows y
 
 ![Full screen Gantt](42FjD4DlOllCs8ol-full-screen-gantt-480p-230913.gif)
 
-##### **Related articles**
+## Related articles
 
-**[How to Zoom in and out the Gantt Chart timeline?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-zoom-in-out-the-gantt-chart-timeline "How to Zoom in / out the Gantt Chart timeline?")**
+[**How to Zoom in and out the Gantt Chart timeline?**](../how-to-zoom-in-out-the-gantt-chart-timeline/how-to-zoom-in-out-the-gantt-chart-timeline.md "How to Zoom in / out the Gantt Chart timeline?")
 
-**[How to open Task Details page from Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-open-task-item-profiles-from-gantt-chart "How to open task item profiles from Gantt Chart?")**
+[**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 
-**[How to view and order tasks based on *Table Views*?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart "How to view and order tasks based on Table views in a Gantt Chart?")**
+[**How to view and order tasks based on *Table Views*?**](../how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart.md "How to view and order tasks based on Table views in a Gantt Chart?")
 
-**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")**
+[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

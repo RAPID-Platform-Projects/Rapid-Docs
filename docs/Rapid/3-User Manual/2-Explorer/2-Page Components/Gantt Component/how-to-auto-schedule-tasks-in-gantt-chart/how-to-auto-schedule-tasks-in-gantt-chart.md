@@ -16,10 +16,10 @@ Please refer to the GIF below for illustration:
 - Any intentional gaps/ lags defined in the dependencies are respected.
 - The changes made to the chart due to Auto-Schedule are not saved automatically. You would need to Save the changes.
 
-## **Related articles**
+## Related articles
 
-**[How to move tasks in time, extend start / end dates from the Gantt bars?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars "How to move tasks in time, extend start / end dates from the Gantt bars?")**
+[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-**[How to create and edit dependencies in a Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-create-and-edit-dependencies-in-a-gantt-chart "How to create and edit dependencies in a Gantt Chart?")**
+[**How to create and edit dependencies in a Gantt Chart?**](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
 
-[**How to interact with Gantt Chart component in Explorer with data?**](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")
+[**How to interact with Gantt Chart component in Explorer with data?**](../how-to-interact-with-a-gantt-chart-in-explorer/how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

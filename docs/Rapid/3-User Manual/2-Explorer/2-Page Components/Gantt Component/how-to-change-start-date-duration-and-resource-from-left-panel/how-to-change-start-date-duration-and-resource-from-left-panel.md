@@ -4,7 +4,7 @@ Sometimes it is convenient to modify the Start Date and Duration using numbers, 
 
 This is simple using the Gantt Chart interface in RAPID Platform.
 
-## **Modifying Start Date using Left Panel**
+## Modifying Start Date using Left Panel
 
 To edit the Start Date,
 
@@ -18,7 +18,7 @@ Please refer to the below GIF for illustration
 
 ![Date from left](JPp7ggPReJeTDzjX-date-from-left-480p-230913.gif)
 
-## **Modifying Duration using Left Panel**
+## Modifying Duration using Left Panel
 
 To edit the Task Duration,
 
@@ -32,7 +32,7 @@ Please refer to the below GIF for illustration
 
 ![Duration from left](CbwPbWARtnMIKrtm-duration-from-left-480p-230913.gif)
 
-## **Assigning / updating resource using Left Panel**
+## Assigning / updating resource using Left Panel
 
 To modify the Task Resource,
 
@@ -47,12 +47,12 @@ Please refer to the below GIF for illustration
 
 **Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.
 
-## **Related articles**
+## Related articles
 
-**[How to move tasks in time, extend start / end dates from the Gantt bars?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars "How to move tasks in time, extend start / end dates from the Gantt bars?")**
+[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-**[How to create and edit dependencies in a Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-create-and-edit-dependencies-in-a-gantt-chart "How to create and edit dependencies in a Gantt Chart?")**
+[**How to create and edit dependencies in a Gantt Chart?**](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
 
-**[How to Auto-schedule tasks in Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-auto-schedule-tasks-in-gantt-chart "How to Auto-schedule tasks in Gantt Chart?")**
+[**How to Auto-schedule tasks in Gantt Chart?**](../how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md "How to Auto-schedule tasks in Gantt Chart?")
 
-**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")**
+[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
