@@ -9,11 +9,14 @@ This is where the Label component is useful. A Label component is like a text ta
 ## How to set up Label component on a Layout / Page
 
 - You can **[add the Label component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Label component is not present anywhere by default. 
+
     ![Component list](<Component list.png>)
 - If the Label component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the **[visibility of Label on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visiblity toggle](<../Visiblity toggle.png>)
 - You can set the **[visibility of Label on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").** 
+
     ![Display toggle](<../Display toggle.png>)
 
 ## How to set up Label component on a Form

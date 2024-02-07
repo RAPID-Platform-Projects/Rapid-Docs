@@ -38,8 +38,10 @@ You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page
 ![Hide/Create icon](<Hide Create icon.png>)
 
 - When the circle appears full, this means the subject is visible on the "Create" screen. 
+
     ![Visibile component](<Visible component.png>)
 - When the circle appears with a diagonal strike, this means the subject is hidden from the "Create" screen.
+
     ![Hidden component](<Hidden component.png>)
 
 ## Hiding a group of components / fields from Create screen
@@ -55,8 +57,10 @@ If you want all of the above information in the Form component to be hidden from
 
 Similarly you can hide / show a layout. All the components in the layout will be hidden or shown with a single click on circle.
 
-| ![Hide Icon zoomed in](<Hide Icon Zoom.png>) | All components in Grid Layout will be hidden from the "Create" screen |
-| ![Show Icon zoomed in](<Show Icon Zoom.png>) | All components in the Grid Layout will appear in the "Create" screen (if they are not set as hidden individually) |
+![Hide Icon zoomed in](<Hide Icon Zoom.png>)  
+All components in Grid Layout will be hidden from the "Create" screen
+![Show Icon zoomed in](<Show Icon Zoom.png>)  
+All components in the Grid Layout will appear in the "Create" screen (if they are not set as hidden individually) 
 
 ## Hide field / component from Details screen
 
@@ -69,8 +73,10 @@ You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page
 ![Visible icon zoomed in](<Visible Icon Zoom.png>)
 
 - When only the eye icon appears, this means the subject is visible on the "Details" screen.  
+
     ![Visible component example](<Visible example.png>)
-- When the eye icon appears with a small stroked circle at the bottom right, this means the subject is hidden from the "Details" screen.  
+- When the eye icon appears with a small stroked circle at the bottom right, this means the subject is hidden from the "Details" screen. 
+
     ![Invisible component example](<Invisible example.png>)
 
 ## Hiding a group of components / fields from Details screen
@@ -79,10 +85,13 @@ Just like hiding a single component or field from the "Details", you can also hi
 
 ![Form Invisible zoomed in](<Form Invisible Zoom.png>)  
 All fields in Form component will be hidden from the "Details" screen 
+
  ![Form Visible zoomed in](<Form visibile Zoom.png>)  
  All fields will appear in the "Details" screen (if they are not set as hidden individually)  
+
  ![Grid Layout Invisible zoomed in](<Grid Layout Invisible Zoom.png>)  
  All components in Grid Layout will be hidden from the "Details" screen 
+ 
  ![Grid Layout Visible zoomed in](<Grid Layout Visibile Zoom.png>)  
  All components in Grid Layout will appear in the "Details" screen (if they are not set as hidden individually) 
 

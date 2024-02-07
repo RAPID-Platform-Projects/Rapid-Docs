@@ -20,11 +20,14 @@ The above message will appear if:
 ## How to set up File Preview component in Designer
 
 - You can **[add the File Preview component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The File Preview component is not present anywhere by default.  
+
     ![Components list](<Components list.png>)
 - If the File Preview component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the [visibility of File Preview on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the [visibility of File Preview on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Display Toggle](<../Display toggle.png>)
 
 **Please note:**

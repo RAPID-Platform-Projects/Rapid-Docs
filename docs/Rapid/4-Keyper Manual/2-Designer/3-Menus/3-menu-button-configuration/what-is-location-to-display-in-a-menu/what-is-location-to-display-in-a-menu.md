@@ -21,6 +21,7 @@ However, if you select *Item* in this option, then the button will appear only a
 ## Selecting Table
 
 Selecting Location to display as "Table" will show the menu button on the table view as per the images below:
+
 ![Table location choice](<Table Location Choice.png>)
 
 ![Menu appearing on Table](<Menu Appearing on Table.png>)
