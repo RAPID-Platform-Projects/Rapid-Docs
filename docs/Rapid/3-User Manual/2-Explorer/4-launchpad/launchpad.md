@@ -5,17 +5,21 @@ The launchpad collates notifactions from throughout Rapid, helping you stay up t
 ## Viewing the Launchpad
 
 In Explorer click your User coin in the top right to open the launchpad.
+
 ![User coin location](<User Coin Location.png>)
 
 ## Notifications in Launchpad
 
 Within the launchpad you will see a list of outstanding notifications as well as controls to filter and manage them. 
+
 ![Launchpad with a single notification](<Launchpad with a single notification.png>)
 
 Notifications that have not been read are marked in bold.
 
 ## Managing notifications
+
 ![Expanded notification with buttons](<Expanded notification with buttons.png>)
+
 While interacting with notifications there are three different things you can do.
 
 ### Snoozing notifications

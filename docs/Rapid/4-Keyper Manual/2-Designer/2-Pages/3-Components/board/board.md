@@ -28,9 +28,11 @@ If any of the above types are missing, then the Board component cannot be config
 - You can **[add the Board component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
     
     ![Component list](<Component list.png>)
+
 - As the Board component is added to the layout / page, it needs to be configured. A Board component which has missing configuration appears RED. It provides a configure button which opens the Edit panel (described below).  
     
     ![Errored board component](<Errored board component.png>)
+    
 - If the Board component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the **[visibility of Board on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     

@@ -6,9 +6,12 @@ The HR Dashboard offers valuable summative employee related statistics, such as 
 
 ### How to Access the HR Dashboard
 
-1. On the Explorer sidebar click Human Resources &gt; HR Reporting  
+1. On the Explorer sidebar click Human Resources &gt; HR Reporting 
+
     ![Side bar navigate to HR report page](<Side bar navigate to HR report page.png>)
+
 2. Click on the **HR Dashboard** tab  
+
     ![Tab strip navigate to HR dashboard](<Tab strip navigate to HR dashboard.png>)
 
 ### Using the HR Dashboard

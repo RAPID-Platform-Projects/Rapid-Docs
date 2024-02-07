@@ -9,8 +9,11 @@ Did you want to customise the calendar to show other important dates. This is po
 ### How to Access the HR Calendar
 
 1. On the Explorer sidebar click Human Resources &gt; HR Reporting  
+
     ![Side menu navigate to HR report](<Side menu navigate to HR report.png>)
+
 2. Click on the **HR Calendar** tab  
+
     ![Tab strip navigate to HR calendar](<Tab strip navigate to HR calendar.png>)
 
 ### Using the HR Calendar

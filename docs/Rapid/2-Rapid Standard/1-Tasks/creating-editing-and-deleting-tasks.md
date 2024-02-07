@@ -21,7 +21,7 @@
 ## Editing a Task from the Tasks List
 1. On the sidebar select Tasks > Task Portal
 
-![Alt text](image-1702439841767.png)
+![Alt text](1702439841767.png)
 
 2. Select the “Task List” tab
 

@@ -6,17 +6,25 @@ Rapid Platform allows you to set up SharePoint folders for each item. The File B
 
 ## How to set up File Browser component in Designer
 
-- You can [**add the File Browser component on to the Layout / Page**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). This component is present on the Individual Item (Singular) Details breakpoint [**by default**](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?"). It is in the Files Tab.  
+- You can [**add the File Browser component on to the Layout / Page**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). This component is present on the Individual Item (Singular) Details breakpoint [**by default**](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?"). It is in the Files Tab. 
+
     ![File browser in component list](<File browser in component list.png>)
+
 - If the File Browser component is on a Grid Layout, you can [**resize and move the component over the layout**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
 - You can set the **[visibility of File Browser on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
+
 - You can set the **[visibility of File Browser on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").   
+
     ![Display toggle](<../Display toggle.png>)
+
 - You can configure the File Browser component by clicking on the Edit (pencil) icon. 
+
     ![Edit panel](<Edit panel.png>)
     
 - You can enable / disable whether the preview pane (in the File Browser - Explorer) should appear by default or not. 
+
     ![Toggling default preview state](<Toggling default preview state.png>)
 
 **Please note:**

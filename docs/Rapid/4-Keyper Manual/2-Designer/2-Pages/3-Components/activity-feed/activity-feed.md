@@ -11,16 +11,21 @@ Apart from notes, events in the life of individual item can be - creation of ite
 ## How to set up Activity Feed Component in Designer
 
 - You can [**add the activity feed component on to the Layout / Page**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). The Activity feed component is **[present on the Tab Strip by default](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?").  
-![Activity feed in component list](<Activity feed in component list.png>)
+
+    ![Activity feed in component list](<Activity feed in component list.png>)
 
 - If the activity feed component is on a Grid Layout, you can [**resize and move the component over the layout**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
 - You can set the **[visibility of activity feed on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of activity feed on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").   
+- You can set the **[visibility of activity feed on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").  
+
     ![Display toggle](<../Display toggle.png>)
+
 - You can set the timeline events that **appear as default** 
     - As you click on the Edit (pencil) icon, the Edit panel will appear on the right side of the screen. 
+
     ![Edit panel](<Edit panel.png>)
+    
     - You can observe four toggle buttons 
         - - *Notes*: Toggling this filter hides / shows associated **Notes** that have been created for the subject item.
             - *System*: Toggling this filter hides / shows **System Notes** that has been created for the subject item.

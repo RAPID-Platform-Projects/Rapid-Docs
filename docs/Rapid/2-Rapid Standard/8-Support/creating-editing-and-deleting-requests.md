@@ -8,19 +8,26 @@ Requests are designed to be created using the adaptive form which can be distrib
 ## Creating a Request via Explorer (Not Recommended)
 Alternatively you may want to create a request using explorer. This could be a more useful way for internal employees with access to the Rapid system to create requests. 
 1.	Navigate to Support > Requests
+
 ![Alt text](Nav.png)
 
 2.	Click on "New Request".
+
 ![Alt text](<New Request.png>)
+
 3.	Enter all relevant details
 4.	Click on Create.
 
 ## Editing
 The original request fields are set to Read only to maintain the integrity of the data. However, it is possible to edit the fields that pertain to managing and fulfilling the request. To do so follow the steps below
 1.	Navigate to Support > Requests
+
 ![Alt text](Nav.png)
+
 2.	Locate the request  you wish to edit either by scrolling through the list or using the search bar.
+
 ![Alt text](<Find Request.png>)
+
 3.	Click on the request title to open it.
 4.	Edit any relevant fields on the policy page as needed.
 5.	Once you have finished editing, click on Save.
@@ -31,12 +38,16 @@ However, if you need to delete a request due to incorrect data entry or a duplic
 
 ### Deleting from the list
 1.	Navigate to Support > Requests
+
 ![Alt text](Nav.png)
+
 2.	Select the requests you wish to delete.
 3.	Click on the delete button.
 ### Deleting from the request page
 1.	Navigate to Support > Requests
+
 ![Alt text](Nav.png)
+
 2.	Open the individual request you wish to delete.
 3.	Click on the delete button.
 

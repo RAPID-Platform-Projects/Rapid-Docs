@@ -11,31 +11,52 @@ You can easily manage permissions on your subject table.
 To achieve so you can follow the below steps:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to designer](NaviagetToDesigner.png)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open your desired table](../../OpenYourDesiredTable.png)
+
 3. Select the **Security &amp; Permissions** tab  
-![Select the security and permissions tab](SelectTheSecurityAndPermissionsTab.png)
+
+    ![Select the security and permissions tab](SelectTheSecurityAndPermissionsTab.png)
+
 4. Click on the **Add User or Group** field and begin typing their display name and click on the desired names as they appear 
     1. NOTE: By default the **All Users and Groups** group has Read, Write, and Delete permissions  
+
         ![Click on the add user or group field](ClickOnTheAddUserOrGroupField.png)
+
 5. Toggle the relevant privileges by clicking on the relevant checkboxes  
+
    ![Toggle the relevant privileges](ToggleTheRelevantPrivileges.png)
+
 6. Click Save   
+
     ![Click Save for permissions](ClickSaveForPermissions.png)
 
 ## Removing User or Group Permissions from a Table
 
 1. Navigate to Designer &gt; Tables &gt; All Tables
+
     ![Navigate to designer](NaviagetToDesigner.png)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open your desired table](../../OpenYourDesiredTable.png)
+
 3. Select the **Security &amp; Permissions** tab  
+
     ![Select the security and permission tab](SelectTheSecurityAndPermissionsTab.png)
+
 4. Click on the **Cross** next to the user or group you want to remove permissions of  
+
    ![Click on the cross](ClickTheCorssNextToTheUserOrGroup.png)
+
 5. Press Save  
+
     ![Press Save](PressSaveForThePermissions.png)
+
 Please refer to the below video for illustration:
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/HUrlNfeeglU?si=ip6Sj52s3q8WI-lF" title="YouTube video player" width="750"></iframe>
@@ -47,14 +68,23 @@ Placeholder permissions specifically relate to a User column. By default, all ta
 To configure placeholder permissions, follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
   ![Navigate to designer](NaviagetToDesigner.png)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
-    ![Open your desired table](../../OpenYourDesiredTable.png)    
+
+    ![Open your desired table](../../OpenYourDesiredTable.png) 
+
 3. Select the **Security &amp; Permissions** tab  
+
     ![Select the Security Permissions tab](SelectTheSecurityAndPermissionsTab.png)
+
 4. Toggle the permissions of the desired user column. (By default, user columns have Read, Write, and Delete Permissions toggled on) 
+
     ![Toggle Permissions](TogglePermissionsYouWant.png) 
+
 5. Press Save  
+
     ![Press Save](PressSaveForThePermissions.png)
 
 Please refer to the below video for illustration.

@@ -3,9 +3,13 @@
 ## How to Create a new Employee
 
 1. Navigate to Human Resources &gt; Employees  
+
     ![Employee menu location](<../Employee Menu Location.png>)
+
 2. Click on "New Employee".  
+
     ![Create employee button](<Create employee button.png>)
+
 3. Enter all relevant details 
     1. For correct task assignment across modules **Principal lookup** must be linked
     2. For probation review processes to work the **Email**, **First name**, and **Last name** must be filled
@@ -15,19 +19,29 @@
         1. For a policy acknowledgment task to be assigned to the employee through the onboarding process, selected policies must be selected
     6. The probation process, by default, will be will not be triggered on creation of an employee, however this can be turned on by switching the **Trigger Probation Review Process** toggle to true
     7. If the Manager does not want to receive **Birthday** or **Work anniversary reminder** emails they can select these toggles to false  
+
         ![New employee creation form](<New employee creation form.png>)
+
 4. Click on **Create** or ****Create and Open**** 
+
     ![Create and open button](<Create and open button.png>)
 
 ## How to edit an Employee item
 
 1. Navigate to Human Resources &gt; Employees  
+
     ![Employee menu location](<../Employee Menu Location.png>)
+
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
+
     ![Finding a specific employee](<../Finding a specific employee.png>)
+
 3. Edit fields as required. There are additional fields on the **Additional Details** tab that you can also edit.  
+
     ![Employee details page](<Employee details page.png>)
+
 4. Press **Save** or ****Save and Close**** 
+
     ![Saving the edited employee](<Saving the edited employee.png>)
 
 ## Deleting Employee Records
@@ -39,17 +53,27 @@ However, if you need to delete an employee due to incorrect data entry or a dupl
 ### How to delete multiple employees from the list page
 
 1. Navigate to Human Resources &gt; Employees  
+
     ![Employee menu location](<../Employee Menu Location.png>)
+
 2. Select the employees you wish to delete  
+
     ![Selecting multiple employees](<Selecting multiple employees.png>)
-3. Press the **Delete X Employees** button  
+
+3. Press the **Delete X Employees** button 
+
     ![Deleting selected employees](<Deleting selected employees.png>)
 
 ### How to delete a single employee from employee page
 
-1. Navigate to Human Resources &gt; Employees  
+1. Navigate to Human Resources &gt; Employees 
+
     ![Employee menu location](<../Employee Menu Location.png>)
+
 2. Open the desired employee item. (Find the employee item by either scrolling through the list or using the search bar)  
+
     ![Finding a specific employee](<../Finding a specific employee.png>)
+
 3. Press the **Delete** button  
+
     ![Deleting the current employee](<Deleting the current employee.png>)
