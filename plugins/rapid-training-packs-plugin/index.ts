@@ -2,117 +2,192 @@ import path from 'path';
 import fs from 'fs/promises';
 import { LoadContext } from '@docusaurus/types';
 
-interface IChapter {
-  path: string;
-  name: string;
-  content?: string;
+export interface IPackCard {
+  title: string;
+  description?: string;
+  image?: string;
+  reading_time?: number;
 }
 
-interface ILesson {
-  path: string;
-  name: string;
+export interface IPack {
+  title: string;
+  card: IPackCard;
   overview?: string;
-  chapters: Record<IChapter['name'], IChapter>;
+  lessons: Lesson[];
 }
 
-interface ITrainingPackage {
-  path: string;
-  name: string;
+export type Lesson = IPackPage | IPackLesson;
+
+export interface IPackPage {
+  title: string;
+  reading_time: number;
+  content: string;
+}
+
+export interface IPackLesson {
+  title: string;
   overview?: string;
-  lessons: Record<ILesson['name'], ILesson>;
+  pages: IPackPage[];
 }
 
-async function attemptGetPackOverview(overviewPath: string) {
-  const overview = await fs.readFile(overviewPath, { encoding: 'utf8' }).catch((err) => {
-    console.log(err);
-  });
-
-  return overview
-}
-
-async function attemptGetLessonChapters(lessonPath: string) {
-  const lessonContents = await fs.readdir(lessonPath);
-
-  const chapters = {};
-
-  for (const chapterName of lessonContents) {
-    const chapterPath = path.join(lessonPath, chapterName);
-
-    const content = await attemptGetPackOverview(chapterPath);
-
-    chapters[chapterName] = {
-      path: chapterPath,
-      name: chapterName,
-      content
-    }
+async function readFileToString(pathToFile: string, fileName: string) {
+  try {
+    const string = await fs.readFile(path.join(pathToFile, fileName), { encoding: 'utf8' });
+    return string
+  } catch (e) {
+    console.log(e);
+    return '';
   }
 }
 
-async function attemptGetPackLessons(packPath: string) {
-  const packContents = await fs.readdir(packPath);
+async function readImageToB64Url(pathToImage: string, imageName: string) {
+  try {
+    const url = await fs.readFile(path.join(pathToImage, imageName), { encoding: 'base64url' });
+    return url
+  } catch (e) {
+    console.log(e);
+    return '';
+  }
+}
 
-  const lessons = {};
+async function generatePage() {
 
-  for (const lessonName of packContents) {
-    if (lessonName.includes('overview.md')) {
+}
+
+async function generateLesson(pathToPack: string, lessonTitle: string, lessons: Lesson[]) {
+  if (lessonTitle.match(/\w\.\w/)) {
+    await generatePage();
+    return;
+  }
+
+  const lesson: IPackLesson = {
+    title: lessonTitle,
+    pages: [],
+  };
+
+  const pathToLesson = path.join(pathToPack, lessonTitle);
+
+  const lessonDirContents = await fs.readdir(pathToLesson);
+
+  for (const fileTitle of lessonDirContents) {
+    if (fileTitle.includes('overview')) {
+      lesson.overview = await readFileToString(pathToLesson, fileTitle);
       continue;
     }
 
-    const lessonPath = path.join(packPath, lessonName);
-
-    const overviewPath = path.join(lessonPath, 'overview.md');
-
-    const overview = await attemptGetPackOverview(overviewPath);
-
-    const chapters = await attemptGetLessonChapters(lessonPath);
-
-    lessons[lessonName] = {
-      path: lessonPath,
-      name: lessonName,
-      overview,
-      chapters,
-    }
+    await generatePage();
   }
 
-  return lessons;
+  lessons.push(lesson);
 }
 
-async function buildTrainingPacks(pathToTraining: string): Promise<Record<string, ITrainingPackage>> {
-  const packs = await fs.readdir(pathToTraining);
+async function generatePack(title: string, pathToPack: string): Promise<IPack> {
+  const pack: IPack = {
+    title,
+    card: {
+      title,
+    },
+    lessons: []
+  };
 
-  const trainingPacakges = {};
+  const packDirContents = await fs.readdir(pathToPack);
 
-  for (const packName of packs) {
-    const packPath = path.join(pathToTraining, packName);
-
-    const overviewPath = path.join(packPath, 'overview.md');
-
-    const overview = await attemptGetPackOverview(overviewPath);
-
-    const lessons = await attemptGetPackLessons(packPath);
-
-    trainingPacakges[packName] = {
-      path: packPath,
-      name: packName,
-      overview,
-      lessons,
+  for (const fileTitle of packDirContents) {
+    if (fileTitle.includes('overview')) {
+      pack.overview = await readFileToString(pathToPack, fileTitle);
+      continue;
     }
+
+    if (fileTitle.includes('image')) {
+      pack.card.image = await readImageToB64Url(pathToPack, fileTitle)
+      continue;
+    }
+
+    if (fileTitle.includes('description')) {
+      pack.card.description = await readFileToString(pathToPack, fileTitle);
+      continue;
+    }
+
+    await generateLesson(pathToPack, fileTitle, pack.lessons);
   }
 
-  return trainingPacakges;
+  return pack
+}
+
+async function loadPackContent(pathToTraining: string): Promise<IPack[]> {
+  const trainingDirContents = await fs.readdir(pathToTraining);
+
+  const packs: Promise<IPack>[] = [];
+
+  for (const title of trainingDirContents) {
+    const pack = generatePack(title, path.join(pathToTraining, title));
+    packs.push(pack);
+  }
+
+  return await Promise.all(packs);
 }
 
 export default async function rapidTrainingModulesPlugin(context: LoadContext, options: { dir: string }) {
   return {
-    name: 'rapid-training-modules-plugin',
+    name: 'rapid-training-packs-plugin',
     async loadContent() {
-      return await buildTrainingPacks(path.join(context.siteDir, options.dir));
+      return await loadPackContent(path.join(context.siteDir, options.dir));
     },
     async contentLoaded({ content, actions }) {
 
+      const cards: IPackCard[] = [];
 
+      for (const pack of content as IPack[]) {
+        cards.push(pack.card);
 
+        const packPath = await actions.createData(`${pack.title}.json`, JSON.stringify(pack));
 
+        actions.addRoute({
+          path: `/training/${pack.title}`,
+          component: '@theme/Training/PackOverview',
+          modules: {
+            pack: packPath,
+          },
+          exact: true,
+        });
+      }
+
+      const cardsPath = await actions.createData(`packs.json`, JSON.stringify(cards));
+
+      actions.addRoute({
+        path: `/training`,
+        component: '@theme/Training/Packs',
+        modules: {
+          packs: cardsPath,
+        },
+        exact: true,
+      });
     },
+    injectHtmlTags() {
+      return {
+        headTags: [
+          {
+            tagName: 'link',
+            attributes: {
+              rel: "preload",
+              href: "https://kit.fontawesome.com/28a2030d60.js",
+              as: "script",
+              crossorigin: "anonymous",
+            }
+          }
+
+        ],
+        postBodyTags: [
+          {
+            tagName: 'script',
+            attributes: {
+              defer: true,
+              src: "https://kit.fontawesome.com/28a2030d60.js",
+              crossorigin: "anonymous",
+            }
+          }
+        ]
+      }
+    }
   }
 }
