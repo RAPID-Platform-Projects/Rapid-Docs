@@ -35,8 +35,8 @@ There are certain options which are always present on the Design Tab. These are:
     - Plural name refers to the set of items of a table. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun).  
           
         The Design Tab provides you with options to define pages for both Singular (item level) and Plural (item group level). Using this dropdown field you can switch between Singular and Plural set of pages. Therefore, allowing you to define what information would appear on selection of a single item and the information that appears for the collection of items.
-2. **Switch between Details and Create Screen breakpoints** - 
-    - The "Details" breakpoint refers to the page(s) that define what information will be visible for the respective Singular and Plural sets upon selection (defined above in point 1.)
+2. **Switch between Details and Create Screens** - 
+    - The "Details" screen refers to the page(s) that define what information will be visible for the respective Singular and Plural sets upon selection (defined above in point 1.)
     - The "Create Screen" refers to the page(s) that correspond to the information to be provides / displayed while creating a new item of the table. Create Screen is always in sync with Details, or you can say, it is a narrower (physical screen width wise) version of Details. While Details displays information to the user, the Create Screen provides options to fill-out information in a form. The Create Screen has the built-in Create button which enables you to submit the form to create a new item.  
           
     To summarise the combination of above points:
@@ -79,7 +79,7 @@ Please consider the below links to learn more about Pages in Designer
 
 [How to configure Item Details and Item Creation?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?")
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
+[How to set a component to be visible / hidden on "Item Details" and "Create" screens?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' screens?")
 
 [How to delete a component from a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-component-from-a-layout-page "How to delete a component from a Layout / Page?")
 

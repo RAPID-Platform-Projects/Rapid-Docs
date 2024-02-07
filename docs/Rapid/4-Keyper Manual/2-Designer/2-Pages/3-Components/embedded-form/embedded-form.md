@@ -21,16 +21,22 @@ An embedded form can be perceived as a window to an item of a table other than t
 ## How to set up Embedded Form component in Designer
 
 - You can **[add the Embedded Form component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Embedded Form component is not present anywhere by default. 
+
     ![Components list](<Components list.png>)
-- If the Embedded Form component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+
+- If the Embedded Form component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").** 
+
 - You can set the **[visibility of Embedded Form on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the **[visibility of Embedded Form on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). 
+
     ![Display toggle](<../Display toggle.png>)
 
 **Please note:**
 
 - In Rapid Platform, you can configure the Embedded Form via a Workflow Diagram. A workflow diagram has a specific section under User Task titled - "Form Details". You can learn more about it here. **&lt;&lt;PROVIDE LINK TO WORKFLOW PAGE&gt;&gt; 
+
     ![Embedded form in workflow configuration](<Embedded form in workflow configuration.png>)
 
 - Embedded Form, although can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).

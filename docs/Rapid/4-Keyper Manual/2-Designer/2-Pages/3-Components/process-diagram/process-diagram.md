@@ -1,4 +1,4 @@
-# What is a Process Diagram component on a Layout / Page?
+# What is a Process Diagram component on a Layout / Page
 
 ## **What is a Process Diagram component ?**
 
@@ -25,7 +25,7 @@ As the name suggests, a Process Diagram component will display the Process Diagr
 - This component does not have an Edit (pencil) icon. The process diagram is shown based on the item's XML Data column.
 - This component can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).
 
-## **Related articles**
+## Related articles
 
 [**Data Table component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-data-table-component-on-a-layout-page "What is a Data Table component on a Layout / Page?")
 
