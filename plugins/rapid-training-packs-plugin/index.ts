@@ -3,6 +3,7 @@ import fs from 'fs/promises';
 import { LoadContext } from '@docusaurus/types';
 
 export interface IPackCard {
+  path: string;
   title: string;
   description?: string;
   image?: string;
@@ -10,6 +11,7 @@ export interface IPackCard {
 }
 
 export interface IPack {
+  path: string;
   title: string;
   card: IPackCard;
   overview?: string;
@@ -19,12 +21,12 @@ export interface IPack {
 export type Lesson = IPackPage | IPackLesson;
 
 export interface IPackPage {
+  path: string;
   title: string;
-  reading_time: number;
-  content: string;
 }
 
 export interface IPackLesson {
+  path: string;
   title: string;
   overview?: string;
   pages: IPackPage[];
@@ -50,22 +52,28 @@ async function readImageToB64Url(pathToImage: string, imageName: string) {
   }
 }
 
-async function generatePage() {
+async function generateLesson(pathToPack: string, lessonTitle: string, pack: IPack) {
+  const lessonTitleTrimmed = lessonTitle.replace(/\d-/, '');
 
-}
+  const lessonPath = `${pack.title}/${lessonTitleTrimmed}`;
 
-async function generateLesson(pathToPack: string, lessonTitle: string, lessons: Lesson[]) {
   if (lessonTitle.match(/\w\.\w/)) {
-    await generatePage();
+    pack.lessons.push({
+      path: lessonPath,
+      title: lessonTitleTrimmed,
+    } as IPackPage);
     return;
   }
 
+  const pathToLesson = path.join(pathToPack, lessonTitle);
+
   const lesson: IPackLesson = {
-    title: lessonTitle,
+    path: lessonPath,
+    title: lessonTitleTrimmed,
     pages: [],
   };
 
-  const pathToLesson = path.join(pathToPack, lessonTitle);
+  console.log('LESSON', lesson);
 
   const lessonDirContents = await fs.readdir(pathToLesson);
 
@@ -75,16 +83,23 @@ async function generateLesson(pathToPack: string, lessonTitle: string, lessons: 
       continue;
     }
 
-    await generatePage();
+    const fileTitleTrimmed = fileTitle.replace(/\d-/, '').split('.')[0];
+
+    lesson.pages.push({
+      path: lessonTitleTrimmed + '/' + fileTitleTrimmed,
+      title: fileTitleTrimmed,
+    } as IPackPage);
   }
 
-  lessons.push(lesson);
+  pack.lessons.push(lesson);
 }
 
 async function generatePack(title: string, pathToPack: string): Promise<IPack> {
   const pack: IPack = {
     title,
+    path: `training/${title}`,
     card: {
+      path: `training/${title}`,
       title,
     },
     lessons: []
@@ -108,7 +123,7 @@ async function generatePack(title: string, pathToPack: string): Promise<IPack> {
       continue;
     }
 
-    await generateLesson(pathToPack, fileTitle, pack.lessons);
+    await generateLesson(pathToPack, fileTitle, pack);
   }
 
   return pack
@@ -140,6 +155,8 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
       for (const pack of content as IPack[]) {
         cards.push(pack.card);
 
+        console.log(pack);
+
         const packPath = await actions.createData(`${pack.title}.json`, JSON.stringify(pack));
 
         actions.addRoute({
@@ -150,7 +167,24 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
           },
           exact: true,
         });
+
+        for (const lesson of pack.lessons) {
+          console.log(lesson);
+
+          const lessonPath = await actions.createData(`${lesson.title}.json`, JSON.stringify(lesson));
+
+          actions.addRoute({
+            path: `/training/${pack.title}/${lesson.title}`,
+            component: '@theme/Training/Lesson',
+            modules: {
+              lesson: lessonPath,
+            },
+            exact: true,
+          });
+        }
       }
+
+      console.log(cards);
 
       const cardsPath = await actions.createData(`packs.json`, JSON.stringify(cards));
 
@@ -161,6 +195,12 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
           packs: cardsPath,
         },
         exact: true,
+      });
+    },
+    async postBuild({ siteConfig = {}, routesPaths = [], outDir }) {
+      // Print out to console all the rendered routes.
+      routesPaths.map((route) => {
+        console.log(route);
       });
     },
     injectHtmlTags() {

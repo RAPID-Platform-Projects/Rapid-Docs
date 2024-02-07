@@ -52,6 +52,15 @@ const config: Config = {
     ]
   ],
 
+  plugins: [
+    ['@docusaurus/plugin-content-docs', {
+      id: 'training',
+      path: 'training',
+      routeBasePath: '/training',
+    }],
+    ['./plugins/rapid-training-packs-plugin/index.ts', { dir: './training' }]
+  ],
+
   themeConfig: {
     // Replace with your project's social card
     image: "img/RPD_logo_STK_2D.png",
@@ -174,9 +183,6 @@ const config: Config = {
       respectPrefersColorScheme: true
     }
   } as Preset.ThemeConfig,
-  plugins: [
-    ['./plugins/rapid-training-packs-plugin/index.ts', { dir: './training' }]
-  ],
 };
 
 export default config;

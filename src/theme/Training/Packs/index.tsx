@@ -13,7 +13,7 @@ interface IPackCardProps {
 
 function PackCard(props: IPackCardProps) {
   return (
-    <Link to={`training/${props.card.title}`}>
+    <Link to={props.card.path}>
       <div className="PackCard" >
         {!!props.card.image ? <img src={props.card.image} /> : <i className="fas fa-fw fa-file" />}
         <h4>{props.card.title}</h4>
