@@ -1,0 +1,6 @@
+{
+  "description": "Learn to collect data like a pro using RpForm",
+  "overview": "When configuring your component's side panel, It must have a consistent style and layout so the users who come to configure your component don't need to relearn where everything is. It also means that the configuration will be predictable, freeing up your users to focus on building their form without the need to spend more effort configuring.",
+  "icon": "fa-file-invoice",
+  "reading_time": 4
+}

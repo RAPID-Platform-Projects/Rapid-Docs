@@ -16,7 +16,7 @@ export default function PacksOverview(props: IPacksOverviewProps) {
 
       <div>
         {props.pack.lessons.map(lesson => (
-          <Link to={lesson.path} >
+          <Link to={lesson.path} key={lesson.title} >
             {lesson.title}
           </Link>
         ))}

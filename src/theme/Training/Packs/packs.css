@@ -1,0 +1,29 @@
+div.main-wrapper {
+  background-color: var(--ifm-color-emphasis-100);
+}
+
+svg.swoosh-container {
+  height: 250px;
+  margin-top: -170px;
+  width: 100%;
+  background-color: transparent;
+  fill: transparent;
+  z-index: 1;
+}
+
+path.swoosh {
+  fill: var(--ifm-color-emphasis-100);
+}
+
+div.pack-card-grid {
+  max-width: 1140px;
+  align-self: center;
+
+  display: grid;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(auto-fill, 320px);
+  grid-auto-rows: 320px;
+  gap: 60px;
+
+  margin-bottom: 6rem;
+}

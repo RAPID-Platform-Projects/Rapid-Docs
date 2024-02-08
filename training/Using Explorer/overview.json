@@ -1,0 +1,6 @@
+{
+  "description": "A guide to using the Explorer experience.",
+  "overview": "The main data manipulation tool that Rapid provides is the Explorer Experience. Explorer lets you view entities, modify, add and remove data. It is the primary front end experience that nearly all users interact with.",
+  "icon": "fa-house",
+  "reading_time": 10
+}

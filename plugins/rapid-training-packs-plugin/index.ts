@@ -5,17 +5,24 @@ import { LoadContext } from '@docusaurus/types';
 export interface IPackCard {
   path: string;
   title: string;
-  description?: string;
-  image?: string;
-  reading_time?: number;
+  thumbnail?: string;
+  overview?: IPackOverview;
+  count?: number;
 }
 
 export interface IPack {
   path: string;
   title: string;
   card: IPackCard;
-  overview?: string;
+  overview?: IPackOverview;
   lessons: Lesson[];
+}
+
+export interface IPackOverview {
+  icon?: string;
+  description?: string;
+  overview?: string;
+  reading_time?: number;
 }
 
 export type Lesson = IPackPage | IPackLesson;
@@ -44,7 +51,7 @@ async function readFileToString(pathToFile: string, fileName: string) {
 
 async function readImageToB64Url(pathToImage: string, imageName: string) {
   try {
-    const url = await fs.readFile(path.join(pathToImage, imageName), { encoding: 'base64url' });
+    const url = await fs.readFile(path.join(pathToImage, imageName), { encoding: 'base64' });
     return url
   } catch (e) {
     console.log(e);
@@ -73,16 +80,9 @@ async function generateLesson(pathToPack: string, lessonTitle: string, pack: IPa
     pages: [],
   };
 
-  console.log('LESSON', lesson);
-
   const lessonDirContents = await fs.readdir(pathToLesson);
 
   for (const fileTitle of lessonDirContents) {
-    if (fileTitle.includes('overview')) {
-      lesson.overview = await readFileToString(pathToLesson, fileTitle);
-      continue;
-    }
-
     const fileTitleTrimmed = fileTitle.replace(/\d-/, '').split('.')[0];
 
     lesson.pages.push({
@@ -90,6 +90,8 @@ async function generateLesson(pathToPack: string, lessonTitle: string, pack: IPa
       title: fileTitleTrimmed,
     } as IPackPage);
   }
+
+  pack.card.count = pack.card.count + 1;
 
   pack.lessons.push(lesson);
 }
@@ -101,6 +103,7 @@ async function generatePack(title: string, pathToPack: string): Promise<IPack> {
     card: {
       path: `training/${title}`,
       title,
+      count: 0,
     },
     lessons: []
   };
@@ -108,18 +111,26 @@ async function generatePack(title: string, pathToPack: string): Promise<IPack> {
   const packDirContents = await fs.readdir(pathToPack);
 
   for (const fileTitle of packDirContents) {
-    if (fileTitle.includes('overview')) {
-      pack.overview = await readFileToString(pathToPack, fileTitle);
+    if (fileTitle === 'overview.json') {
+      const overviewStr = await readFileToString(pathToPack, fileTitle);
+
+      let overview: IPackOverview;
+
+      try {
+        overview = JSON.parse(overviewStr);
+      } catch (e) {
+        console.log('Error parsing overview for', title, '\n\n', e);
+        continue;
+      }
+
+      pack.overview = overview;
+      pack.card.overview = overview;
+
       continue;
     }
 
-    if (fileTitle.includes('image')) {
-      pack.card.image = await readImageToB64Url(pathToPack, fileTitle)
-      continue;
-    }
-
-    if (fileTitle.includes('description')) {
-      pack.card.description = await readFileToString(pathToPack, fileTitle);
+    if (fileTitle.includes('thumbnail')) {
+      pack.card.thumbnail = await readImageToB64Url(pathToPack, fileTitle)
       continue;
     }
 
@@ -155,8 +166,6 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
       for (const pack of content as IPack[]) {
         cards.push(pack.card);
 
-        console.log(pack);
-
         const packPath = await actions.createData(`${pack.title}.json`, JSON.stringify(pack));
 
         actions.addRoute({
@@ -169,8 +178,6 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
         });
 
         for (const lesson of pack.lessons) {
-          console.log(lesson);
-
           const lessonPath = await actions.createData(`${lesson.title}.json`, JSON.stringify(lesson));
 
           actions.addRoute({
@@ -184,8 +191,6 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
         }
       }
 
-      console.log(cards);
-
       const cardsPath = await actions.createData(`packs.json`, JSON.stringify(cards));
 
       actions.addRoute({
@@ -197,13 +202,8 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
         exact: true,
       });
     },
-    async postBuild({ siteConfig = {}, routesPaths = [], outDir }) {
-      // Print out to console all the rendered routes.
-      routesPaths.map((route) => {
-        console.log(route);
-      });
-    },
     injectHtmlTags() {
+      // Adding fontawesome icon kit
       return {
         headTags: [
           {
