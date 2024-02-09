@@ -58,7 +58,9 @@ const config: Config = {
       path: 'training',
       routeBasePath: '/training',
     }],
-    ['./plugins/rapid-training-packs-plugin/index.ts', { dir: './training' }]
+    ['./plugins/rapid-training-packs-plugin/index.ts', {
+      dir: './training', sidebarPath: './training-sidebars.ts'
+    }]
   ],
 
   themeConfig: {
