@@ -18,8 +18,8 @@ Please refer to the GIF below for illustration:
 
 ## Related articles
 
-[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[**How to move tasks in time, extend start / end dates from the Gantt bars?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[**How to create and edit dependencies in a Gantt Chart?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md> "How to create and edit dependencies in a Gantt Chart?")
 
-[**How to create and edit dependencies in a Gantt Chart?**](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
+[**How to interact with Gantt Chart component in Explorer with data?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")
 
-[**How to interact with Gantt Chart component in Explorer with data?**](../how-to-interact-with-a-gantt-chart-in-explorer/how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

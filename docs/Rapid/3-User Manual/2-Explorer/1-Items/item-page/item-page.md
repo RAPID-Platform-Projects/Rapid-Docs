@@ -4,7 +4,7 @@ The item page is about a specific item from a table within your site. This page 
 
 1. Item Permissions
 
-This is the Item's permissions configuration. It lists the users and groups which have access to the item. These are displayed as a user coin. To open more details as to what users exactly you are able to click on the 'Edit Permissions' button this will bring up the Permissions management config for that particular item. More can be read [here](https://docs.rapidplatform.com/books/explorer/page/item-level-permissions "Item-Level Permissions").
+This is the Item's permissions configuration. It lists the users and groups which have access to the item. These are displayed as a user coin. To open more details as to what users exactly you are able to click on the 'Edit Permissions' button this will bring up the Permissions management config for that particular item. More can be read [here](<docs/Rapid/3-User Manual/2-Explorer/1-Items/permissions/permissions.md> "Item-Level Permissions").
 
 1. Basic Save Button The save button commits any changes made to an item to the database. Actions that can dirty data which will enable the save button include; Editing fields, adding a universal link and adding files.
 2. Save and Close Button Performs the same action as a save button except closes the flyout as well. This is particularly useful if the save is the final edit to an item or if you wish to edit another item from the same list.
