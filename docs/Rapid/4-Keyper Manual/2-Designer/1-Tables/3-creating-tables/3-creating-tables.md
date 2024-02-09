@@ -32,7 +32,9 @@ To create a new table consider the following steps:
     ![Select an image](SelectAnIconImg.png)
     4. **Document storage library** - This defines the SharePoint document library where artifacts / files related to table records will be stored.
     5. **Select whether a new SharePoint folder should be created for each item -** This can be useful when dealing with certain type of business data, where you may also search / refer data manually. For example - if you have created a *Customer* table, then you may want each customer data to be saved in different folders. On the other hand, imagine all of the customer data in a single SharePoint Folder. This impacts organisation of data.
-    6. ****Press Create**** ![Press Create Button](PressCreateButtonImg.png)
+    6. ****Press Create**** 
+    
+        ![Press Create Button](PressCreateButtonImg.png)
 
 This will create a new data in the Rapid Platform.
 

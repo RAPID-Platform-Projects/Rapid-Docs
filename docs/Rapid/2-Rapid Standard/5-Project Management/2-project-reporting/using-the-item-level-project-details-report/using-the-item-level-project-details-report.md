@@ -7,10 +7,15 @@ Two reports are linked to the project's module. The first is an item-level repor
 ### How to access the item-level Project Details Report
 
 1. Navigate to Projects &gt; Projects  
+
     ![Side bar navigate to projects](<Side bar navigate to projects.png>)
-2. Open the Project you wish to view the item level report of. (Find the project by scrolling through the list or using the search bar)  
+
+2. Open the Project you wish to view the item level report of. (Find the project by scrolling through the list or using the search bar)
+
     ![Open a Project](<Open a project.png>)
+
 3. Select the **Report** tab  
+
     ![Navigate to the report tab](<Select the report tab.png>)
 
 ### Using the Project Details Report

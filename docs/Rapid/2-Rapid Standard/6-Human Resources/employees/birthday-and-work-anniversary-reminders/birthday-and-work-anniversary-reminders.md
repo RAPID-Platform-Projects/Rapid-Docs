@@ -18,11 +18,18 @@ Should a manager prefer not to receive email reminders, they can easily configur
 
 As a manager, by default you will receive birthday and work anniversary reminders from any employees that have you listed as their direct manager. To switch these off follow the steps below:
 
-1. Navigate to Human Resources &gt; Employees  
+1. Navigate to Human Resources &gt; Employees 
+
     ![Employee menu location](<../Employee Menu Location.png>)
+
 2. Open YOUR employee item. (Find the employee item by either scrolling through the list or using the search bar)  
+
     ![Finding a specific employee](<../Finding a specific employee.png>)
+
 3. Set the **Birthday Reminders** and **Work Anniversary Reminders** Toggles to False.  
+
     ![Enabling anniversy reminders](<Enabling anniversy reminders.png>)
+
 4. Press **Save** or ****Save and Close**** 
+
     ![Saving the employee](<Saveing the employee.png>)

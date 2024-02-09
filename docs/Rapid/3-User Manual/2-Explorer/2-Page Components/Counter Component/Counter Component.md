@@ -4,6 +4,7 @@ Imagine you are a Company Executive and frequently visit the Projects Table. At 
 The Counter Component can give you the **count of items** present in a defined Table View.
 
 In the below image, you can identify the Table and View that provides the count.
+
 ![Image showing a counter component](Counter_1.png)
 
 :::info[**Please Note**]

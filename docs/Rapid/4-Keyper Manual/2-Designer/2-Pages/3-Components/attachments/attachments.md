@@ -11,11 +11,15 @@ Attachments are visible in the [Tasks experience](https://docs.rapidplatform.com
 ## How to set up an Attachments component in Designer
 
 - You can **[add the Attachments component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Attachments component is not present anywhere by default.  
+
     ![Component list](<Component list.png>)
+
 - If the Attachments component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the [visibility of Attachments on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the [visibility of Attachments on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Display toggle](<../Display toggle.png>)
 
 **Please note:**

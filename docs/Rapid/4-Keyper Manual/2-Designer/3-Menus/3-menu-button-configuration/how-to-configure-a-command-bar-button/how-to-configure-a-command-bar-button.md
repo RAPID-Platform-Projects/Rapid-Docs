@@ -26,20 +26,28 @@ Imagine you are looking at the Quotes table. You may want to perform specific ac
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open the table you wish to add the menu button to from the tables list
 3. Select the Menu Tab  
+
     ![Navigate to the menu tab](<../../Navigate to Table Menus.png>)
 4. Select New Menu Item &gt; New Blank Item  
+
     ![Create new menu item](<../../Create a Menu.png>)
-5. Press the edit button on the newly created menu item  
+5. Press the edit button on the newly created menu item 
+
     ![Edit the new menu item](<Edit the new menu item.png>)
 6. Provide appropriate display text and icon  
+
     ![Set title and icon](<Configure title and icon.png>)
 7. Configure your desired On-Click Action (See [How to Set On-Click Actions](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item) for more details on how to configure these for your use case  
+
     ![Configure the on-click action](<Configure on-click action.png>)
 8. Set the **Location to Display** (See [What is Location to Display option in a Menu setup?](https://docs.rapidplatform.com/books/experiences/page/what-is-location-to-display-option-in-a-menu-setup) for more details)  
+
     ![Set location to display](<Set location to display.png>)
 9. Press Save  
+
     ![Save the menu](<Save the Menu.png>)
 10. Navigate to the table and test the button  
+
     ![Test the button in Explorer](<Test the new button in Explorer.png>)
 
 ## Related article

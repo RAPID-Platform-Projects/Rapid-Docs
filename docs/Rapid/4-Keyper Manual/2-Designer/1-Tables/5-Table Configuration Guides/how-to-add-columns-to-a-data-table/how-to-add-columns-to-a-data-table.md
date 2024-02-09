@@ -15,11 +15,16 @@ The purpose of this page is to demonstrate how to create a new column. Which is 
 To create a new column, you need to access the "**Columns**" tab for a table in Designer. To do so follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
    ![Navigate To Designer Tables > All Tables](../../NavigateToDesignerTablesAllTablesImg.png) 
+
 2. Select the table you want to add columns to using either the search bar or scrolling to find it  
+
   ![Select The Table You Want To Add](SelectTheTableImg.png)
+
 3. Click on the columns tab  
-![Click on the columns tab](ClickOnTheColumnsTabImg.png)
+
+    ![Click on the columns tab](ClickOnTheColumnsTabImg.png)
 
 ### Adding columns to a new blank table
 
@@ -40,6 +45,7 @@ You can add more columns to an existing table or a new table having inherited co
 ![Create Column Button](CreateColumnButton.png)
 
 As you click on the insert column, a panel will open up in right, which would read "**Add Column**". This is shown in below image.
+
 ![Column Fields](ColumnFields.png)
 
 ### Add Column panel details

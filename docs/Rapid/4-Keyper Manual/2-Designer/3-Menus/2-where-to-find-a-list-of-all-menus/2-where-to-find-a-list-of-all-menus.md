@@ -11,8 +11,10 @@ The system provides a centralized list of all menus.
 ## Accessing the list of Menus
 
 1. Navigate to Designer &gt; Menus &gt; All Menus  
+
     ![Navigate to all menus](<Navigate to All Menus.png>)
 2. (Optional) Double-Clicking on the Menu item will open it and enable you to edit it (To find out more about editing Menus see [How to configure a Menu Button in Command Bar](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar))  
+
     ![Open a menu](<Open a menu.png>)
 
 ## Menu List Details
@@ -26,6 +28,7 @@ The type of column has two possible options: **Built-In** and **Standard.**
 Built-In types are the Sidebar menus that come preconfigured in a blank install of Rapid. These include the Explorer Side bar and Designer Sidebar. Both of which can be customized.
 
 Standard types are any Command Bar menus that you have configured. On tables where you have not configured a Command Bar menu there will not be an entry.
+
 ![Types of menus](<Types of Menus.png>)
 
 ### Title Column:

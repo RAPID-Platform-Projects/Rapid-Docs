@@ -11,14 +11,22 @@ This component enables you to display websites and webpages onto your Rapid Page
 ## How to set up External Page component in Designer
 
 - You can **[add the External Page component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. This component is not present anywhere by default. 
+
     ![Component list](<Component list.png>)
+
 - If the External Page component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the [visibility of External Page on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visiblity toggle](<../Visiblity toggle.png>)
+
 - You can set the [visibility of External Page on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Display toggle](<../Display toggle.png>)
+
 - You can configure the External Page component by clicking on the Edit (pencil) icon. 
+
     ![Configuration panel](<Configuration panel.png>)
+
 - You can provide two types of inputs in the "Hyperlink Label Template" field:
 
   1. **Static input -** You can provide the URL of the hyper link in the "Hyperlink Label Template" field. For example - "https://wikipedia.org".
@@ -39,8 +47,11 @@ This component enables you to display websites and webpages onto your Rapid Page
 - The External Page component can be added to both Item Details (Singular) and Items List (Plural) levels.
 - There is no "Save" button in the Edit preferences panel of the component. After entering the value in the field, just click outside the field and it gets saved.
 - Not all websites can be connected to the External Page component. Only the sites that allow iFrame connection can be displayed on the Page. For sites that do not allow iFrame connection will display an error message as below: 
+
     ![Errored external page](<Errored external page.png>)
+
 - You need to provide proper url. For example [https://wikipedia.org](https://wikipedia.org). In case you provide - www.wikipedia.org then the system would not recognise the url and provide a login page.
+
     ![Rapid login page](<Rapid login page.png>)
 
 ## Related articles

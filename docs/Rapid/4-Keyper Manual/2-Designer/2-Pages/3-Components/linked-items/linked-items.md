@@ -13,11 +13,14 @@ The Linked Items component can be easily configured on a page, providing ample s
 ## How to set up Linked Items component in Designer
 
 - You can **[add the Linked Items component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. This component is not present anywhere by default. 
+
     ![Components list](<Components list.png>)
 - If the Linked Items component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
 - You can set the **[visibility of Linked Items on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the **[visibility of Linked Items on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Display toggle](<../Display toggle.png>)
 
 **Please note:**

@@ -15,16 +15,22 @@ The Perform Remote Action makes a post request to the specified address.
 ## How to configure a menu button to Perform a remote action
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open Table](<../../../Open Table.png>)
 3. Click on Menu  
+
     ![Navigate to Tables' Menu](<../../Navigate to Table Menus.png>)
 4. Click on the **New Blank Item Drop down** then on **New Blank Item** 
+
     ![Create new menu item](<../Create new menu item.png>)
 5. Choose a name and Icon  
+
     ![Set menu title and icon](<../Set menu title and icon.png>)
-6. Select Perform Remote Action as the On-Click Action  
+6. Select Perform Remote Action as the On-Click Action 
+
     ![Set menu action](<Set onclick action.png>)
 7. Configure the Include Item toggle (Configure to true if you want to include the current item context in the network request)
 8. Configure the Single Request toggle (Configure to true, if you have multiple items selected and you want a single network request with these sent as an array of items as opposed to many network requests with one item each)
@@ -32,6 +38,7 @@ The Perform Remote Action makes a post request to the specified address.
 10. OPTIONAL Enter info text for reference in Rapid as to what this post request does
 11. OPTIONAL Enter an Action ID (This is a hard coded string that can be used for reference in the post address)
 12. Configure the "Include Form" toggle (Set this to true if you want to have a drop-down form appear when the menu button is pressed to add in additional information to the request)  
+
     ![Configure remote action fields](<Configure remote action fields.png>)
 
 ## Remote Action Options Further Details
@@ -53,7 +60,9 @@ As we can observe, the following fields are prompted by the system upon selectio
 - **Silent -** This toggle field when in OFF state, prevents the action from adding a note to the item indicating it was performed. In other words, this field allows you to define if the action behaves in silent mode.
 - **Include form -** Sometimes there is a need for a form to collect user input and provide it to the action. The inputs needs to accompany the network request. In such a case, you can toggle this field to ON state. As it goes to ON state, a new field will appear below it.
 - **Select form -** This field is enabled only if the "Include form" field is toggled ON. This is a dropdown field and allows you to select the relevant Adaptive Form from a list of all existing forms created in RAPID's Adaptive Designer. You can select the relevant form by clicking on the form title. 
+
     - Note: The form must only be configured to fields that the menu button is on. Submission of the form will NOT create a new item but include the form data in the network request. See the image below showing what a menu button looks like when a form is included. 
+    
     ![Execute action in Explorer](<Execute menu in Explorer.png>)
 
 ### Post Body:

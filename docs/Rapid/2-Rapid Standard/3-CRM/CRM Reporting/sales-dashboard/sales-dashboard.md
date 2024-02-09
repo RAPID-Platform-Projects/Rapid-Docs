@@ -6,7 +6,8 @@ The **Sales Dashboard** provides users with a snapshot of the current state of t
 
 ### How to access the Sales Dashboard
 
-1. Navigate to CRM &gt; CRM Reporting  
+1. Navigate to CRM &gt; CRM Reporting. 
+
     ![image-1702611510800.png](./downloaded_image_1705285871187.png)
 
 ### Using the Sales Dashboard

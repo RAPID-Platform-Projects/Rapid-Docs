@@ -5,6 +5,7 @@
 When viewing a table, by default all of the items will appear on the list. It is possible however to construct **Views** to filter the items as needed. A basic example would be on the hypothetical **Leads** list. If you view it, by default all leads will appear. However, you may only want to view **Leads** that with a status of **New**. As such you can construct a view and call it **New** and when selected the list will only show leads with a status of new. Once constructed views can be used by anyone in the system and are easily accessible through the view selector on that table.
 
 The image below shows the **All** view.
+
 ![The All View](<The All View.png>)
 
 The image below shows the **New** view.
@@ -17,11 +18,16 @@ Every table in your Rapid System has a views tab in its configuration. Here you 
 
 Follow the steps below the access the views tab for a table:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer &gt; Tables &gt; All Tables 
+
     ![Navigate to Tables](<Navigate to Tables.png>)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open the Table](<Open the Table.png>)
+
 3. Click on the Views Tab  
+
     ![Select the view tab](<Select the view tab.png>)
 
 ## Overview of the Views Tab
@@ -42,12 +48,19 @@ When a Table View is locked, it is not editable by a user in explorer. You canno
 To lock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<Navigate to Tables.png>)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open the Table](<Open the Table.png>)
+
 3. Click on the Views Tab  
+
     ![Select the view tab](<Select the view tab.png>)
-4. Locate the view you want to lock and press the lock icon  
+
+4. Locate the view you want to lock and press the lock icon 
+
     ![Select the view to edit](<Select the view to edit.png>)
 
 ## How to Unlock a view for a table so that Users can edit it
@@ -57,12 +70,19 @@ When a Table View is unlocked, it is editable by a user in explorer. You can alt
 To unlock a table view follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<Navigate to Tables.png>)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open the Table](<Open the Table.png>)
+
 3. Click on the Views Tab  
+
     ![Select the view tab](<Select the view tab.png>)
-4. Locate the view you want to lock and press the lock icon  
+
+4. Locate the view you want to lock and press the lock icon 
+
     ![Lock the view](<Lock the view.png>)
 
 See the Video below for more details
@@ -91,12 +111,19 @@ Visibility refers to whether the subject Table View is visible in Explorer for a
 Follow the steps below to make a table view visible / not visible to users in explorer:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<Navigate to Tables.png>)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open the Table](<Open the Table.png>)
+
 3. Click on the Views Tab  
+
     ![Select the view tab](<Select the view tab.png>)
+
 4. Locate the view you want to make visible / not visible and press the toggle button  
+
     ![Toggle the view visibility](<Toggle the view visibility.png>)
 
 Please refer to the video below for additional information.
@@ -108,14 +135,23 @@ Please refer to the video below for additional information.
 If a view is no longer in use and you want to remove it from the table you have the ability to delete it. To do so follow the steps below:
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<Navigate to Tables.png>)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open the Table](<Open the Table.png>)
+
 3. Click on the Views Tab  
+
     ![Select the view tab](<Select the view tab.png>)
+
 4. Select the view / views you want to delete  
+
     ![Select the View to delete](<Select the View to delete.png>)
+
 5. Select the **Delete x items** button (note if the view is locked you will not be able to delete it. See above for how to unlock a view)  
+
     ![Press the delete button](<Press the delete button.png>)
 
 ## Related articles

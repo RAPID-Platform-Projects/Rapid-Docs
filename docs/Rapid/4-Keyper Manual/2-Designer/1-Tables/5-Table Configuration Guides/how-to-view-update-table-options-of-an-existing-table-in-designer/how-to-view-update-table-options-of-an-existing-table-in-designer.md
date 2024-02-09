@@ -5,10 +5,15 @@ You can view and update table options for an existing table.
 ### How to reach the 'Table Options' tab
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Designer](../../NavigateToDesignerTablesAllTablesImg.png)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open your desired table](../../OpenYourDesiredTable.png)
+
 3. Select the Options Tab  
+
    ![Select the Options Tab](../../SelectTheOptionsTab.png)
 
 More details can be found at **Point no. 12 of [*All about Tables in* Designer.](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**

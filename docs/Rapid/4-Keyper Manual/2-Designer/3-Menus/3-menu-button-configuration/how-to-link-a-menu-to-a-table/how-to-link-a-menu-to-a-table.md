@@ -14,15 +14,20 @@ Such Menu button when clicked will open the defined table in Explorer.
 
 To link a menu button to a table:
 
-1. Navigate to Designer &gt; Menus &gt; All Menus  
+1. Navigate to Designer &gt; Menus &gt; All Menus 
+ 
     ![Navigate to All menus](<Navigate to All Menus.png>)
 2. Open the menu you wish to add the Menu button to  
+
     ![Open your menu](<Open your menu.png>)
 3. Press New Menu Item &gt; Link to Table &gt; Select the Table you want to the menu button to direct towards  
+
     ![Create menu linked to table](<Create menu linked to table.png>)
 4. Press Save  
+
     ![Save the menu](<Save menu.png>)
 5. Note that the Assets Table is now visible on the Explorer Sidebar  
+
     ![Observe new menu in Explorer sidebar](<Observe new menu in sidebar.png>)
 
 ## Additional Details
