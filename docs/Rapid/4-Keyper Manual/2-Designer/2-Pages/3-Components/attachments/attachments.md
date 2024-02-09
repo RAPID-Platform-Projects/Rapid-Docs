@@ -8,8 +8,6 @@ Attachments typically serve the need for referencing a small number of lightweig
 
 Attachments are visible in the [Tasks experience](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#task-experience "Task Experience").
 
-
-
 ## How to set up an Attachments component in Designer
 
 - You can **[add the Attachments component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Attachments component is not present anywhere by default.  
