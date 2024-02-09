@@ -15,10 +15,13 @@ The purpose of this page is to demonstrate how to create a new column. Which is 
 To create a new column, you need to access the "**Columns**" tab for a table in Designer. To do so follow the steps below:
 
 1. Navigate to Designer > Tables > All Tables  
+
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Select the table you want to add columns to using either the search bar or scrolling to find it  
+
     ![Open the Table](<../../../Open Table.png>)
 3. Click on the columns tab  
+
     ![Select Column View](<../../../Select Columns View.png>)
 
 ### Adding columns to a new blank table
@@ -56,7 +59,8 @@ As you click on the insert column, a panel will open up in right, which would re
     - **Date and Time -** This type is used to capture Date and Time. This field open a date and time picker for the user in Explorer. 
         - **Default Time -** The system also provides you the option to set a default value of date and time to the field. This means that while entering data into the table, if the user does not select a date, then this field will automatically have the default value.
         - **Default Relative Time -** You can set this default date value relative to the system calendar. For example - "Today" or "End of Month" etc. This is selected from a dropdown option - Default Relative Time. imagine if you need to set default date as the day when the user created the data entry, then you can set Default Relative Time as "Today".
-        - **Default Value Offset -** Further, imagine that you want the default date as the next day from when the user created the data entry. So if the user created data entry in the table on 21 September, the default value should be 22 September. This is achieved through Offset field. It is possible to add or subtract a certain amount of days from the selected Default Relative Time. For the mentioned example, you can select "Default Relative Time" = "Today" and "Default Value Offset" = "1".   
+        - **Default Value Offset -** Further, imagine that you want the default date as the next day from when the user created the data entry. So if the user created data entry in the table on 21 September, the default value should be 22 September. This is achieved through Offset field. It is possible to add or subtract a certain amount of days from the selected Default Relative Time. For the mentioned example, you can select "Default Relative Time" = "Today" and "Default Value Offset" = "1". 
+          
             ![Date Picker](<Date Picker.png>)
               
             <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/PPxUIMggj_o?si=aGrYUOW4Jcwu0FEN" title="YouTube video player" width="100%"></iframe>

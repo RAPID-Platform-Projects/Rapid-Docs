@@ -17,10 +17,13 @@ Observe a [**Tab Strip**](https://docs.rapidplatform.com/books/experiences/page/
 ![Picture 1.png](./downloaded_image_1705285551585.png)
 
 - **Activity Tab** - This tab has the Horizontal Layout by default. There is an Activity Feed Component by default in the layout.
+
     ![Activity Tab Default](<Activity Tab Default.png>)
 - **Files Tab -** This tab has the Horizontal Layout by default. There is a File Browser Component by default in the layout.
+
     ![Files Tab Default](<Files Tab Default.png>)
 - **Tasks Tab -** This tab has the Horizontal Layout by default. There is a Data Table Component by default in the layout. The Data Table component is configured for Tasks Table and All Views.
+
     ![Tasks Tab Default](<Tasks Tab Default.png>)
 
 - **Singular - Create Screen breakpoint**

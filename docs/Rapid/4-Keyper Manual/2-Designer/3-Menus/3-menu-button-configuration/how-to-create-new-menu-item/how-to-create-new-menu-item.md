@@ -19,6 +19,7 @@ The menu items **Display Text** and **Icon** can be changed to improve identific
 ## Set Display Text
 
 A Display Text can be entered at the topmost field in the Options panel as shown.
+
 ![Menu Title](<Menu Item Title.png>)
 
 Please note, this is a mandatory field to create a menu item.

@@ -18,8 +18,10 @@ Steps for inserting and configuring an image into the image component:
 2. The image hosting site will provide a URL reference to the image.
 3. Navigate to desired [**page**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") in Rapid Platform.
 4. [Add an Image component to the Page.](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")   
+
     ![Image in component selection list](<Image in component selection list.png>)
-5. [Edit preferences of the image component.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")   
+5. [Edit preferences of the image component.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")  
+
     ![Configuration panel](<Configuration panel.png>)
 6. Pass the URL reference from step 2 into the Image component.
 7. Click Save.
@@ -33,17 +35,21 @@ Please refer to the below video for illustration:
 - The image component does not appear by default on any layout. You need to add the same.
 - The image component can be inserted on both Item Level (Singular) and Group Item (Plural) levels.
 - The Edit preferences tab provides the following:  
+
     ![Breakdown of image configuration panel](<Breakdown of image configuration panel.png>)
     1. **The URL field** - you can provide the direct url reference to the hosted image.
     2. **Image preview** - based on the url, the preview of the image appears
     3. **Zoom to fill** - this field when checked, the system will consider the shape and size of the image component and fill the provided image into the same. Please note, this may chop certain parts of the image if the aspect ratio differs. With this field, you can toggle whether to Zoom to fill the entire image or not.
     4. Click on the "**Save**" button when configuration complete, to exit Edit window.
 - You can set the [**visibility of Image component on the Details breakpoint**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
+
     ![Visiblity toggle](<../Visiblity toggle.png>)
     The setting show in the above image will set the image component to only be visible on the Create Screen breakpoint.
+
     ![Image component visible example](<Image component visible example.png>)
 
 - You can set the **[visibility of Image component on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Display toggle](<../Display toggle.png>)
     
 - If the Image component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**

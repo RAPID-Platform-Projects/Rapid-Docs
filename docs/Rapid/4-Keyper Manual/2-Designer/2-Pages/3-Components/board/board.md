@@ -25,17 +25,19 @@ If any of the above types are missing, then the Board component cannot be config
 
 ## How to set up Board component in Designer
 
-- You can **[add the Board component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
+- You can **[add the Board component on to the Layout / Page](../../../2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
     
     ![Component list](<Component list.png>)
+
 - As the Board component is added to the layout / page, it needs to be configured. A Board component which has missing configuration appears RED. It provides a configure button which opens the Edit panel (described below).  
     
     ![Errored board component](<Errored board component.png>)
+    
 - If the Board component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
-- You can set the **[visibility of Board on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the **[visibility of Board on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of Board on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the **[visibility of Board on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
     ![Display toggle](<../Display toggle.png>)
 - You can configure the Board component by clicking on the Edit (pencil) icon.   
@@ -47,7 +49,7 @@ Following is the brief description of each field:
 1. **Table** - This is a dropdown field. You can select your desired table from the list of available tables in the system. Please note, this is not a mandatory field. If a table is not selected here, then the system will take the default value as the table on whose Design Tab you are hosting the subject Page.  
               
             
-    - In case there are [sub-types](https://docs.rapidplatform.com/books/glossary/page/inherit-table-sub-type-of "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the ***Create New Item*** button from the Board for that sub-type.  
+    - In case there are [sub-types](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#inherit-table--sub-type-of "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the ***Create New Item*** button from the Board for that sub-type.  
 
     For example - if the Table selected is "*Contacts*". *Businesses, Employees* and *People* are sub-type of *Contacts* table. Now (by default) the Board component will enable the user to create new items for *Businesses*, *Employees* and *People* contacts tables. If a box is checked for *Businesses*, then the button to create new item for *Businesses* contacts will be hidden and the user will not be able to create new items from the Board component for relevant sub-type table.
     
@@ -67,7 +69,7 @@ Following is the brief description of each field:
 
     ![Choice field options being toggled](<Choice field options being toggled.png>)
 
-3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](https://docs.rapidplatform.com/books/experiences-oxn/page/data-table-component-views "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
+3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
 
 4. **Title column -** This is a mandatory field. This forms the title of the Board items. For example - Project Name.  
      

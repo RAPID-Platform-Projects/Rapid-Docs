@@ -18,7 +18,7 @@ Once again, welcome to the Rapid Platform training program. We look forward to w
 
 \-- Intro 2
 
-Today marks the beginning of an enriching experience where you'll dive deep into the world of RapidPlatform. This training is more than just a learning opportunity—it's a gateway to transforming the way you interact with technology and enhance your skills, whether you're a user looking to efficiently navigate the system or a builder eager to explore its vast potential.
+Today marks the beginning of an enriching experience where you'll dive deep into the world of RapidPlatform. This training is more than just a learning opportunity—it's a gateway to transforming the way you interact with technology and enhance your skills. Whether you're a user looking to efficiently navigate the system or a builder eager to explore its vast potential.
 
 We've tailored this program to ensure that every participant, regardless of their prior experience with RapidPlatform, finds value and empowerment in the knowledge and skills they'll gain. Our team is committed to providing you with an engaging, informative, and inspiring experience.
 

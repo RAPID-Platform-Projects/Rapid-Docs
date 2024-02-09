@@ -45,19 +45,25 @@ Let us try to simulate Link Inheritance with this information.
 **To view Notes created in an item of Tasks in linked item of Project Risks.** The Tasks item can be updated by a team-mate assigned to the subject task. Let us assume that the Task item ***Notes*** are updated with Risks to the Project. These notes should be visible in the corresponding Project Risks Table item. The Project Manager can view the Project Risks Table and hence will take cognisance of the Risks updated in the notes.
 
 1. Navigate to the Notes Table in Designer 
-    1. Navigate to Designer &gt; Tables &gt; All Tables   
+    1. Navigate to Designer &gt; Tables &gt; All Tables 
+
         ![Navigate to designer](../../NavigateToDesignerTablesAllTablesImg.png)
-    2. Press **Show built-in tables** (As notes is a system table)  
+
+    2. Press **Show built-in tables** (As notes is a system table) 
+
        ![Show built in tables](../../ShowBuiltInTables.png)
+
     3. Open the notes table (Find it by scrolling through the list or using the search bar)  
+
       ![Open the notes table](OpenTheNotesTable.png)
+      
 2. Tick the Checkbox in Link Inheritance against ***Project*** Table   
       
     **Please note -** Check against the name of the table where you want to view the update. If you want a two way communication, then check against both the table names. This means updates in Table A's item will be visible in Table B's item and vice versa.  
       
     <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/NOE5KLMeOKU?si=i5UeExoeVHMsoI8A" title="YouTube video player" width="750"></iframe>
 3. Go to the item of Project in Explorer.
-4. Link it to the relevant item of Task (This can be linked as a universal link as per the GIF below or as a lookup - See the Lookup column type on [Add Columns](https://docs.rapidplatform.com/books/experiences/page/how-to-add-columns-to-a-data-table) page for more details).  
+4. Link it to the relevant item of Task (This can be linked as a universal link as per the GIF below or as a lookup - See the Lookup column type on [Add Columns](../how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md) page for more details).  
       
     <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/DFArKYQ6Qjw?si=rzoIJrMXHSOlAiXy" title="YouTube video player" width="750"></iframe>
 5. Go to the task item that is linked to the project
@@ -70,6 +76,6 @@ Let us try to simulate Link Inheritance with this information.
 
 The above simulation has been illustrated for viewing ***Notes*** created on one item and automatically visible in another linked item of other table. Similarly, you can configure other tables as well like Task Assignation records, Contacts being created etc. Link inheritance is an abstract system that ultimately allows the creation of a new link between the item being created and some third item *linked* to your creation item context.
 
-[How to create items for a table from a linked table?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table "How to create items for a table from a linked table?")
+[How to create items from a linked table?](../creating-items-within-items/creating-items-within-items.md "How to create items from a linked table?")
 
-[How to view / update table options of an existing table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer "How to view / update table options of an existing table in Designer?")
+[How to view / update the options of an existing table?](../how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update the options of an existing table?")

@@ -15,16 +15,22 @@ This is different from **Perform Remote Action** type, as in this case, no addit
 ## How to configure the "Raise Webhook Create Action" for a menu button
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open your table](<../../../Open Table.png>)
 3. Click on Menu  
+
     ![Open the Tables menu](<../../Navigate to Table Menus.png>)
 4. Click on the **New Blank Item Drop down** then on **New Blank Item** 
+
     ![Create new menu item](<../Create new menu item.png>)
 5. Choose a name and Icon  
+
     ![Set menu icon and title](<../Set menu title and icon.png>)
 6. Choose **Raise Create Webhook Action** as the On-Click Action  
+
     ![Set on click action](<Set raise workflow action.png>)
 
 As we can observe, there are no other configuration fields in this type, as it will just throw a trigger event for an external to Rapid application.

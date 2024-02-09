@@ -68,11 +68,13 @@ In the current version (v1.31) of Rapid Platform, there are two ways to configur
     3. **FilePath** - This field allows you to create a sub-folder within the selected SharePoint folder to store your uploaded files. For example -   
         Configuring a default embedded file definition on the Projects table using the current item folder will start by putting the file in the Project items folder. If you put **/ID Proof** in this field, then a new sub-folder will be created by the title ID Proof under the Project folder. Please note, it is important to put "/" sign before the desired name of the sub-folder as this is a full file path. Additional paths such as **/documents/identity/ID Proof** will generate all the folders in the path if they do not exist.
     4. **Pick Folder** - Here you can select the folder where you would want your Embedded file to be visible. For example if you want to embed file(s) in a Projects Item and want it to be visible in Forecasts Item (an item of Forecasts Table) - select the relevant Forecasts Table's Item here. As you click on the Pick Folder button, a list of all Tables in the environment will appear. You double click on the name of the table and the list of all items in the table will appear. You can click the desired item and press select.
-    5. **Optional / Required** - This field will enable you to toggle whether you want to make it mandatory for user to upload a file before saving an item.   
-        ![Optional Toggle](<Optional Toggle.png>)![Required Toggle](<Required Toggle.png>)
-    6. **Single / Multiple** - This field will enable you to toggle whether you want to user to embed only single file or multiple files per folder.  
-        ![Single Toggle](<Single Toggle.png>)![Multiple Toggle](<Multiple Toggle.png>)
+    5. **Optional / Required** - This field will enable you to toggle whether you want to make it mandatory for user to upload a file before saving an item.
 
+        ![Optional Toggle](<Optional Toggle.png>)
+    6. **Single / Multiple** - This field will enable you to toggle whether you want to user to embed only single file or multiple files per folder.
+
+        ![Single Toggle](<Single Toggle.png>)
+        
 - Once you have configured all the fields, Press Save.
 
 When you have configured an Embedded File component from the Options Tab of the Table, you need to define where to make it **[visible on the Tab Strip.](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages#bkmrk-tab-strip-0)**
@@ -85,13 +87,18 @@ When you have configured an Embedded File component from the Options Tab of the 
     
     
 - Just like any other component, you can **[add the Embedded Files component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Embedded File component is not present anywhere by default. 
+
     ![Component list](<Component list.png>)
 - If the Embedded File component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+
 - You can set the [visibility of Embedded File on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the **[visibility of Embedded File on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+
     ![Dsiplay toggle](<../Display toggle.png>)
 - You can configure the Embedded File component by clicking on the Edit (pencil) icon.   
+
     ![Configuration panel](<Configuration panel.png>)
     
 - There are five input fields in this panel, which correlate to the fields mentioned above (set up via Options Tab) 
@@ -105,7 +112,9 @@ When you have configured an Embedded File component from the Options Tab of the 
 
 - The Embedded File component set up via Options Tab and Embedded file component added via components panel, both point to the same file and same folder. Therefore, if you have both components added from both methods, they will mirror each other's behaviour.
 - There is another way to configure Embedded Files - from the Workflow Diagram. This provides the ability to pass dynamic referencing to SharePoint folders. &lt;&lt;Provide REFERENCE TO WORKFLOW DISCUSSION&gt;&gt;  
+
     ![Workflow embedded file configuration](<Workflow embedded file configuration.png>)
+
 - Embedded Files, although can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).
 
 ## Related articles

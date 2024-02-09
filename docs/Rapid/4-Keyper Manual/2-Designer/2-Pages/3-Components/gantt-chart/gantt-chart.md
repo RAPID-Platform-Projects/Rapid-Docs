@@ -31,26 +31,34 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
 **Please consider the following steps for configuring a Gantt Chart for your Table.**
 
 1. Navigate to Designer &gt; Tables &gt; All Tables
+
     ![image-1702247570296.png](./downloaded_image_1705285577323.png)
-2. Open the Table you wish to configure a Gantt Chart on. (You can scroll through the list or use the search bar to find the table)  
+2. Open the Table you wish to configure a Gantt Chart on. (You can scroll through the list or use the search bar to find the table)
+
     ![image-1702247690642.png](./downloaded_image_1705285578421.png)
 3. Click the Design Tab  
     
     1. If not on the Singular page. Change to this using the dropdown.  
+
         ![image-1702247866804.png](./downloaded_image_1705285579440.png)
 4. Add a new Tab to the page (For the purpose of this illustration we are placing the Gantt chart on a new tab, but it can also be placed on an already existing tab.)  
+
     ![image-1702248964804.png](./downloaded_image_1705285580459.png)
 5. Configure the Tab 
     1. Select the Table (The name of the Tasks table or Subtype table you are on)
     2. Provide an Appropriate Page name. Page names must be unique.
     3. Provide a Tab Name. This will be what displays on the Tab strip.
     4. Press OK  
+
         ![image-1702249173289.png](./downloaded_image_1705285581474.png)
-6. Press Create Page (If the page does not already exist)  
+6. Press Create Page (If the page does not already exist) 
+
     ![image-1702249223043.png](./downloaded_image_1705285582493.png)
 7. Press Add a Layout  
+
     ![image-1702249270033.png](./downloaded_image_1705285583512.png)
 8. Select the "Gantt Chart" Component. Use the search bar or scroll through the list to find it.  
+
     ![image-1702249318284.png](./downloaded_image_1705285584535.png)
 9. Select the Edit Gantt Button
     
@@ -64,14 +72,16 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
         **The below images depict how a collapsed and expanded tree may look like in Explorer view.**
 
         **Collapsed Tree**
-        [Col.png](./downloaded_image_1705285586574.png)
+        ![Col.png](./downloaded_image_1705285586574.png)
         **Tree with individual tasks open**
         ![Non-col.png](./downloaded_image_1705285587587.png)
 
     6. Disable features you do not want users to configure
     7. Press Save  
+
         ![image-1702251415080.png](./downloaded_image_1705285588612.png)
-11. Navigate to explorer, the project and the Gantt Tab to see the produce Gantt  
+11. Navigate to explorer, the project and the Gantt Tab to see the produce Gantt.
+
     ![image-1702251471114.png](./downloaded_image_1705285589638.png)
 
 ### Related articles

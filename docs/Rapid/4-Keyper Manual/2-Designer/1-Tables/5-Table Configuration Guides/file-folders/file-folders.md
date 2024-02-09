@@ -9,6 +9,7 @@ There are a few different ways to create a folder through the Rapid Interface.
 ### Create Folder on Item Creation
 
 If configured in Designer, it is possible to have the server automatically create a sharepoint folder for an item upon its creation. To configure this, open the list config in Designer and select the option.  
+
 ![image-1693463097681.png](./downloaded_image_1705285493273.png)
 
 ## Item Folder Templates

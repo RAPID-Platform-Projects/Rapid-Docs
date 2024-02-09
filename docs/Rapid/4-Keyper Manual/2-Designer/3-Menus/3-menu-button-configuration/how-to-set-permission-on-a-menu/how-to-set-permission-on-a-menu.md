@@ -9,6 +9,7 @@ The purpose of the permissions pane is to allow you to configure who in the syst
 ## Detail
 
 Every menu setup has a permissions section.
+
 ![Permission location](<Permission location.png>)
 
 By default, "Enable permissions for this menu item" is unchecked. This means that by default all the users in the system will be able to view and operate the menu button. Note that the options to select users is all greyed.

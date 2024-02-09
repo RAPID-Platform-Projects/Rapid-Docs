@@ -5,13 +5,18 @@ You can view and update table options for an existing table.
 ### How to reach the 'Table Options' tab
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
+
     ![Navigate to Designer](../../NavigateToDesignerTablesAllTablesImg.png)
+
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
+
     ![Open your desired table](../../OpenYourDesiredTable.png)
+
 3. Select the Options Tab  
+
    ![Select the Options Tab](../../SelectTheOptionsTab.png)
 
-More details can be found at **Point no. 12 of [*All about Tables in* Designer.](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
+More details can be found at **Point no. 12 of [*All about Tables in* Designer.](../../1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")**
 
 ### 'Table Options' tab contents
 
@@ -41,7 +46,7 @@ If you are building PowerBI Reports or accessing the backend of your system unde
 
 This segment has five fields.
 
-Four out of these five fields are non-editable and derive their value, as provided at the time of [**creating the table in Designer.**](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?")
+Four out of these five fields are non-editable and derive their value, as provided at the time of [**creating the table in Designer.**](../../3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
 
 1. **Inherits From -** This field displays the name of the parent (of which the subject table is a Sub-Type Of). This is defined at the time of creating the table. When your subject table (Table B) inherits from another existing table (Table A), it means this table will inherit the complete column structure of the parent table ie. Table B will have all the columns of Table A. This field, as shown here, is non-editable.
 2. **Table: Singular Noun -** While creating the table, it is a best practice to provide the Table Name as a Plural. The system will automatically derive its Singular Noun. For example - if while creating the table, you had provided the Table Name as "My Test Tables", then the system shall automatically derive its singular noun as "My Test Table". This is useful for referring the table's item. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun). You cannot edit this field.
@@ -68,7 +73,7 @@ This segment has the names of all the tables (custom as well as built-in) in the
 
 ![Link Inheritance Options](LinkInheritance.png)
 
-**To learn about Link Inheritance [click here](https://docs.rapidplatform.com/books/experiences/page/how-to-setup-link-inheritance "How to setup Link Inheritance?").**
+**To learn about Link Inheritance [click here](../how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "How to setup Link Inheritance?").**
 
 **Next let us look at the Document Storage and other options segment**
 
@@ -110,7 +115,7 @@ This is a dropdown field and allows you to select the Document Storage in ShareP
 
 ![Document Storage field](DocumentStorageField.png)
 
-**It is important to note that while [creating the subject table](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?") you received the option to define the Document Storage. If you would have selected a value while creating the table for this field, then it becomes the default value here.**
+**It is important to note that while [creating the subject table](../../3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?") you received the option to define the Document Storage. If you would have selected a value while creating the table for this field, then it becomes the default value here.**
 
 ![Create Table And Options Document Storage Comparison](CreateTableAndOptionsDocumentStorageComparison.png)
 
@@ -239,20 +244,20 @@ Please review the below video for illustration.
 
 ##### **5. Copy linked items' SharePoint folder when creating Table item, if possible**
 
-Imagine you have a linked item from some other table (refer [linked items](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table "Link Inheritance") for more clarity) to this table's item. For instance - you can have an Invoices table and a Payments table. You have linked payments against invoice items.
+Imagine you have a linked item from some other table (refer [linked items](../../5-Table%20Configuration%20Guides/how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "Link Inheritance") for more clarity) to this table's item. For instance - you can have an Invoices table and a Payments table. You have linked payments against invoice items.
 
 When this option is checked (ON), it would reference the linked item's SharePoint folder in your subject item's folder. In case, the linked item does not have any files or does not have a SharePoint drive defined, then the system would not be able to copy it. Hence the phrase - ***if possible.***
 
 To illustrate the effect of this option, we first need to understand how set up items between linked tables.
 
-**[Please click here to see how to create items from linked tables?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table "How to create items for a table from a linked table?")**
+**[Please click here to see how to create items from linked tables?](../creating-items-within-items/creating-items-within-items.md "How to create items from a linked table?")**
 
 Please refer to the below steps to understand the impact of this option.
 
 - Ensure that the linked table item (Invoice) has a file uploaded. Here, invoice item - "Test invoice" has two files. ![Ensure that the linked table item has a file uploaded](EnsureThatTheLinkedTableItemHasaFile.png)
 
 - Now check this option (**Copy linked items' SharePoint folder when creating Table item, if possible)** for the subject table (Payments). ![Now Check This Option For The Subject Table](NowCheckThisOptionForTheSubjectTable.png) 
-- Create an item from the linked table (Payment item from Invoice item) as **[discussed here](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table "How to create items for a table from a linked table?")**.
+- Create an item from the linked table (Payment item from Invoice item) as **[discussed here](../creating-items-within-items/creating-items-within-items.md "How to create items from a linked table?")**.
 - Go to Files tab of newly created item (Payment's item). You will see the file uploaded in linked Invoice item.
 
 **Please note - Only items created after Checking On this option will show files from linked item. Previously created linked items would not show the same.**
@@ -320,8 +325,8 @@ As you click on this button, the create table window will open with pre-filled i
 
 Please note - if your subject table is already a Sub-Type of another table then this option will be ghosted (inactive).
 
-[How to edit / delete Table Views in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-table-views-in-designer "How to edit / delete table views in Designer?")
+[How to edit / delete Table Views in Designer?](../../5-Table%20Configuration%20Guides/how-to-edit-delete-table-views-in-designer/how-to-edit-delete-table-views-in-designer.md "How to edit / delete table views in Designer?")
 
-[How to delete a table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-table-in-rapid-platform "How to delete a table in Rapid Platform?")
+[How to delete a table in Rapid Platform?](../../4-deleting-tables/4-deleting-tables.md "How to delete a table in Rapid Platform?")
 
-*[**Go back to Tables in Designer Main Page**](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")*
+*[**Go back to Tables in Designer Main Page**](../../1-Tables.md "All about Tables in Designer")*
