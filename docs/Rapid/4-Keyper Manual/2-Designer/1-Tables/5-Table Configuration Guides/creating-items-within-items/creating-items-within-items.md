@@ -4,7 +4,7 @@
 
 Many business scenario require us to create multiple tables that are linked to each other. For example - Customers table and Purchase Orders table etc.
 
-Rapid Platform provides you with the ability to create an item for a table (say Purchase Order) from within another linked table (say Customers table). Therefore, while creating / viewing a customer data in Customers table, you can directly create a purchase order item from there that is automatically linked to the customer item.
+Rapid Platform provides you with the ability to create an item for a table (say Purchase Order) from within another linked table (say Customers table). Therefore, while creating / viewing a customer's data in the Customers table, you could create a purchase order item from within the customer items context, and it will automatically be linked to the customer item.
 
 **Illustration**
 
@@ -57,4 +57,4 @@ Please refer the below video for illustration.
 
 ##### **Related articles**
 
-[How to link existing items of two different tables? (Use of Link Inheritance)](https://docs.rapidplatform.com/books/experiences/page/how-to-setup-link-inheritance "How to setup Link Inheritance?")
+[How to link existing items of two different tables? (Use of Link Inheritance)](../how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "How to setup Link Inheritance?")

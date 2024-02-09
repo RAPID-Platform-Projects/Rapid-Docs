@@ -123,8 +123,7 @@ Please refer to below video for illustration.
 
 ![Press Save](PressSaveImg.png)
 
-[How to edit / delete a column from a table?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-a-column-from-a-table "How to edit / delete a column from a table?")
+[How to edit / delete a column from a table?](../how-to-edit-delete-a-column-from-a-table/how-to-edit-delete-a-column-from-a-table.md "How to edit / delete a column from a table?")
 
-[How to view / update table options of an existing table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer "How to view / update table options of an existing table in Designer?")
+[How to view / update the options of an existing table?](../how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update hte options of an existing table?")
 
-*[**Go back to Tables in Designer Main Page**](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")*

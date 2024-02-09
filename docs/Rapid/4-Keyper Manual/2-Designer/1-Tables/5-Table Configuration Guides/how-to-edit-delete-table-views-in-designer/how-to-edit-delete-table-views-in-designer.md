@@ -156,6 +156,6 @@ If a view is no longer in use and you want to remove it from the table you have 
 
 ## Related articles
 
-[How to edit / delete a column from a table?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-a-column-from-a-table "How to edit / delete a column from a table?")
+[How to edit / delete a column from a table?](../how-to-edit-delete-a-column-from-a-table/how-to-edit-delete-a-column-from-a-table.md "How to edit / delete a column from a table?")
 
-[How to configure Menu from table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar "How to configure a Menu button in a command bar?")*
+[How to configure Menu from table in Designer?](../../../3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md "How to configure a Menu button in a command bar?")*

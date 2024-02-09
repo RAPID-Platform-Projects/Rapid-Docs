@@ -20,7 +20,6 @@ sidebar_position: 1
 |Designer|Explorer|Workflow|
 |:----|:----|:----|
 |Tables|Views|Process Diagrams|
-| | | |
 |Create new Table|Create a new view|Creating a diagram|
 |View /Update table options|Customize a view|BPMN Elements|
 |Add new Columns|Configuring filters on a view|Documenting your process diagram|

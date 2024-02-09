@@ -27,8 +27,8 @@ To do this you would use the following lodash expression:id="bkmrk-%3C%25%3D-ser
 
 ## Related articles
 
-[**Formatting Values in a LODASH expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/formatting-values-in-a-lodash-expression)
+[**Formatting Values in a LODASH expression**](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
 
-[**How to filter values in a lodash expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/how-to-filter-values-in-a-lodash-expression)
+[**How to filter values in a lodash expression**](../how-to-filter-values-in-a-lodash-expression/how-to-filter-values-in-a-lodash-expression.md)
 
-**[Fill Document](https://docs.rapidplatform.com/books/workflow-keyper/page/fill-document)**
+**[Fill Document](../fill-document/fill-document.md)**

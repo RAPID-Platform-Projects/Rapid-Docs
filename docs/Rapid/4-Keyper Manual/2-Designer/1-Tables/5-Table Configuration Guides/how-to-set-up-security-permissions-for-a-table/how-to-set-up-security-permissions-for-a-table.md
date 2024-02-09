@@ -63,7 +63,7 @@ Please refer to the below video for illustration:
 
 ## How to configure Placeholder Permissions Manager
 
-Placeholder permissions specifically relate to a User column. By default, all tables have a system user column, that is the Author column (See the [Adding Columns](https://docs.rapidplatform.com/books/experiences/page/how-to-add-columns-to-a-data-table) page for more details on how to add a user column). Placeholder permissions allow you as the site manager to determine if the Authors have access to the items they create. In addition to this, if you create a user field such as Project Manager, even if the project manager is not part of the users or groups configured above you can still give them read, write, and delete permissions to this item using placeholder permissions.
+Placeholder permissions specifically relate to a User column. By default, all tables have a system user column, that is the Author column (See the [Adding Columns](../how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md) page for more details on how to add a user column). Placeholder permissions allow you as the site manager to determine if the Authors have access to the items they create. In addition to this, if you create a user field such as Project Manager, even if the project manager is not part of the users or groups configured above you can still give them read, write, and delete permissions to this item using placeholder permissions.
 
 To configure placeholder permissions, follow the steps below:
 
@@ -91,7 +91,7 @@ Please refer to the below video for illustration.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/OAfwwdwb0Es?si=BSzK7rBkQtoiHZ7M" title="YouTube video player" width="750"></iframe>
 
-[How to delete a table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-table-in-rapid-platform "How to delete a table in Rapid Platform?")
+[How to delete a table in Rapid Platform?](../how-to-edit-delete-a-column-from-a-table/how-to-edit-delete-a-column-from-a-table.md "How to delete a table in Rapid Platform?")
 
-[How to view / update table options of an existing table in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer "How to view / update table options of an existing table in Designer?")
+[How to view / update table options of an existing table in Designer?](../how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update table options of an existing table in Designer?")
 

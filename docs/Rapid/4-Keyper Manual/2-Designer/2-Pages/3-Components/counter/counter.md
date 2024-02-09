@@ -21,14 +21,14 @@ The Counter Component can give you the ***count of items*** present in a defined
 
 ## How to set up Counter component in Designer
 
-- You can **[add the Counter component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Counter component is not present anywhere by default.  
+- You can **[add the Counter component on to the Layout / Page](../../../2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")**. The Counter component is not present anywhere by default.  
 
     ![Counter in componet list](<Counter in componet list.png>)
-- If the Counter component is on a Grid Layout, you can [**resize and move the component over the layout**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
-- You can set the [**visibility of Counter on the Details breakpoint**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
+- If the Counter component is on a Grid Layout, you can [**resize and move the component over the layout**](../../3-Components/counter/counter.md "How to arrange a component on Grid layout?").
+- You can set the [**visibility of Counter on the Details breakpoint**](../../5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
 
     ![Visibility Toggle](<../Visiblity toggle.png>)
-- You can set the [**visibility of Counter on the Create Screen breakpoint**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
+- You can set the [**visibility of Counter on the Create Screen breakpoint**](../../5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
 
     ![Display Toggle](<../Display toggle.png>)
 - You can configure the Counter component by clicking on the Edit (pencil) icon. 
@@ -56,6 +56,6 @@ The Counter Component can give you the ***count of items*** present in a defined
     
 ## Related articles
 
-[**Activity Feed component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-activity-feed-component-on-a-layout-page "What is an Activity Feed component on a Layout / Page?")
+[**Activity Feed component**](../../3-Components/activity-feed/activity-feed.md "What is an Activity Feed component on a Layout / Page?")
 
-[**Data Table component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-data-table-component-on-a-layout-page "What is a Data Table component on a Layout / Page?")
+[**Data Table component**](../../3-Components/data-table/data-table.md "What is a Data Table component on a Layout / Page?")

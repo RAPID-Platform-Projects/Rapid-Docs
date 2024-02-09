@@ -32,7 +32,7 @@ Always use this option with care and when fully certain of outcomes.
 
 **Please note** - if your table has linkages to other table(s), then the system would not allow you to delete the subject table.
 
-[How to set up security &amp; permissions for a table? ](https://docs.rapidplatform.com/books/experiences/page/how-to-set-up-security-permissions-for-a-table "How to set up security & permissions for a table?")
+[How to set up security &amp; permissions for a table? ](../5-Table%20Configuration%20Guides/how-to-set-up-security-permissions-for-a-table/how-to-set-up-security-permissions-for-a-table.md "How to set up security & permissions for a table?")
 
-[How to create a new table in Rapid Platform?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-data-table-in-designer "How to create a new data table in Designer?")
+[How to create a new table in Rapid Platform?](../3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
 

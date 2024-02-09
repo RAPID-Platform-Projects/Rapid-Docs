@@ -42,8 +42,8 @@ Note the use of the question mark above. This is called an Optional Chaining Ope
 
 ## Related articles
 
-[**Formatting Values in a LODASH expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/formatting-values-in-a-lodash-expression)
+[**Formatting Values in a LODASH expression**](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
 
-[**How to format array values in a lodash expression**](https://docs.rapidplatform.com/books/workflow-keyper/page/how-to-format-array-values-in-a-lodash-expression)
+[**How to format array values in a lodash expression**](../how-to-format-array-values-in-a-lodash-expression/how-to-format-array-values-in-a-lodash-expression.md)
 
-**[Fill Document](https://docs.rapidplatform.com/books/workflow-keyper/page/fill-document)**
+**[Fill Document](../fill-document/fill-document.md)**

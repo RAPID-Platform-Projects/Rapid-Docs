@@ -28,14 +28,12 @@ In Rapid Platform you can work with a set of 19 components. Click on each of the
 
 ## Related articles
 
-[How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
+[How to create a Page in Designer?](../../../1-Tables/3-creating-tables/3-creating-tables.md "How to create a Page in Designer?")
 
-[How to add a Layout to a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")
+[How to add a Layout to a Page?](../../../2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?")
 
-[How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
+[How to add a component to a Layout / Page?](../../../2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Page?")
 
-[How to move a component on layout?](https://docs.rapidplatform.com/books/experiences/page/how-to-move-a-component-on-layout "How to move a component on layout?")
+[How to configure / update component properties?](../../../2-Pages/5-how-to-guides/how-to-configure-a-component/how-to-configure-a-component.md "How to configure / update component properties?")
 
-[How to configure / update component properties?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")
-
-[How to delete a component from a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-component-from-a-layout-page "How to delete a component from a Layout / Page?")
+[How to delete a component from a Layout / Page?](../../../2-Pages/5-how-to-guides/how-to-delete-a-component-from-a-page/how-to-delete-a-component-from-a-page.md "How to delete a component from a Layout / Page?")
