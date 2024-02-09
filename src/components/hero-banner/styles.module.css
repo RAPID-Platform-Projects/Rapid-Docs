@@ -13,6 +13,10 @@
   color: white;
 }
 
+.compact .bannerContainer {
+  height: 300px;
+}
+
 .bannerContainer::before {
   content: "";
   display: block;

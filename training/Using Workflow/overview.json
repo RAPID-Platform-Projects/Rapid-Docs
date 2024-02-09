@@ -1,5 +1,5 @@
 {
-  "description": "Learn how to map your existing buisness processes the powerful workflow engine.",
+  "description": "Learn how to map your existing buisness processes with workflow.",
   "overview": "Sometimes when filling a document, a user may want to fill with a number. However, as default, the rapid system returns numbers unformatted (see img below). Sometimes this can be formatted by adding an additional column using SQL but if the number is only used once or twice it is often not worthwhile creating a whole additional column putting additional load on the database.",
   "icon": "fa-code-branch",
   "reading_time": 24

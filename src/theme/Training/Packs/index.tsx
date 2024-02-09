@@ -22,7 +22,7 @@ export default function Packs(props: IPacksProps) {
         />
       </svg>
 
-      <div className="pack-card-grid" >
+      <div className="pack-card-grid centered-content" >
         {props.packs.map((card) => <PackCard card={card} key={card.title} />)}
       </div>
     </Layout>

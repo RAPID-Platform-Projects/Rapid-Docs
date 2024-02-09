@@ -116,7 +116,7 @@ const config: Config = {
         {
           to: "training",
           position: "left",
-          label: "Training Modules"
+          label: "Training"
         },
         {
           to: "changelog",

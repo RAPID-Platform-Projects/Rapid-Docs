@@ -35,7 +35,6 @@ export interface IPackPage {
 export interface IPackLesson {
   path: string;
   title: string;
-  overview?: string;
   pages: IPackPage[];
 }
 
@@ -86,7 +85,7 @@ async function generateLesson(pathToPack: string, lessonTitle: string, pack: IPa
     const fileTitleTrimmed = fileTitle.replace(/\d-/, '').split('.')[0];
 
     lesson.pages.push({
-      path: lessonTitleTrimmed + '/' + fileTitleTrimmed,
+      path: `${pack.title}/${lessonTitleTrimmed}/${fileTitleTrimmed}`,
       title: fileTitleTrimmed,
     } as IPackPage);
   }
@@ -177,18 +176,18 @@ export default async function rapidTrainingModulesPlugin(context: LoadContext, o
           exact: true,
         });
 
-        for (const lesson of pack.lessons) {
-          const lessonPath = await actions.createData(`${lesson.title}.json`, JSON.stringify(lesson));
-
-          actions.addRoute({
-            path: `/training/${pack.title}/${lesson.title}`,
-            component: '@theme/Training/Lesson',
-            modules: {
-              lesson: lessonPath,
-            },
-            exact: true,
-          });
-        }
+        // for (const lesson of pack.lessons) {
+        //   const lessonPath = await actions.createData(`${lesson.title}.json`, JSON.stringify(lesson));
+        //
+        //   actions.addRoute({
+        //     path: `/training/${pack.title}/${lesson.title}`,
+        //     component: '@theme/Training/Lesson',
+        //     modules: {
+        //       lesson: lessonPath,
+        //     },
+        //     exact: true,
+        //   });
+        // }
       }
 
       const cardsPath = await actions.createData(`packs.json`, JSON.stringify(cards));

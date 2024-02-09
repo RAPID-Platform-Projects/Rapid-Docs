@@ -1,6 +1,6 @@
 {
   "description": "A guide to using the Designer experience to build powerful things.",
-  "overview": "Databases are the backbone of all modern information systems. Business events generate data. Efficient processing of data can shape successful business operations. However, the data can be any size and complexity!",
+  "overview": "Databases are the backbone of all modern information systems. Business events generate data. Efficient processing of data can shape successful business operations. However, the data can be any size and complexity! \n\nMenus can also provide context and hierarchy, allowing users to understand how different features and content relate to each other and how they fit into the overall structure of the application. By using clear and concise labels and grouping related items together, menus ran help users navigate efficiently and reduce cognitive load. \n\nDesigner provides a configuration of Menu items which can help us enable define the look of the explorer sidebar, command bar in an explorer view of the data table etc. These menus can help user define various actions, which can be triggered upon click of the menu button.",
   "icon": "fa-pen-ruler",
   "reading_time": 12
 }

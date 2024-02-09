@@ -8,10 +8,10 @@ interface IPackCardProps {
 
 export default function PackCard(props: IPackCardProps) {
   return (
-    <Link to={props.card.path} className="PackCard" >
+    <Link to={props.card.path} className={"PackCard"}>
 
       {!!props.card.thumbnail ? (
-        <img src={`data:image/png;base64,${props.card.thumbnail}`} className="thumbnail image" />
+        <img src={`data:image/png;base64,${props.card.thumbnail}`} className="thumbnail" />
       ) : (
         <i className={`thumbnail icon fas fa-fw ${props.card.overview?.icon ? props.card.overview.icon : 'fa-file'}`} />
       )}
