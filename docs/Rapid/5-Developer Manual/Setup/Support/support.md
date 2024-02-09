@@ -11,7 +11,7 @@ Optionally we also provide a basic Adaptive Form that can be configured to be pr
 
 ## Basic installation
 
-Install the `Rapid Support Ticket` bundle to bring in the table and pages. You can download the bundle [here](https://cdn.rapidplatform.com/themes/rapidplatform/support-bundle.zip).
+Install the `Rapid Support Ticket` bundle to bring in the table and pages. You can download the bundle [here](https://cdn.rapidplatform.com/themes/rapidplatform/support/support-bundle.zip).
 
 Add the following webhooks (not internal webhooks)
 | Table | Title | Callback Url | Trigger |
@@ -19,7 +19,8 @@ Add the following webhooks (not internal webhooks)
 | Rapid Support Requests | Sync Rapid Support Request on Creation | https://rapid-internal-api.azurewebsites.net/api/syncSupportRequest?code=N_wY5LNVrdK2_IKpQQ78gjoHy1RL2ldRnGX5Pz3AgYKeAzFuGGnL-w== | Item Created |
 | Rapid Support Requests | Sync Rapid Support Request on Update | https://rapid-internal-api.azurewebsites.net/api/syncSupportRequest?code=N_wY5LNVrdK2_IKpQQ78gjoHy1RL2ldRnGX5Pz3AgYKeAzFuGGnL-w== | Item Updated |
 
-Create the support process diagrams, you can download our example process [here](https://cdn.rapidplatform.com/themes/rapidplatform/support-diagrams.zip)
+Create the support process diagrams, you can download our example process [here](https://cdn.rapidplatform.com/themes/rapidplatform/support/support-diagrams.zip)
+
 The example process includes Call Activities, so make sure you link the correct diagrams in the Lifecycle process.
 These diagrams are designed to be extended and adapted to your product, feel free to customize them to your needs.
 
@@ -29,7 +30,8 @@ Optionally, add the Support Adapative document and configure it to be both provi
 We only care about creating the Rapid Support Request items. Feel free to configure any means of achieving that as appropriate to your product.
 :::
 
-You can download the example Adaptive document [here](https://cdn.rapidplatform.com/themes/rapidplatform/support-request.json), or simply use the following item body:
+You can download the example Adaptive document [here](https://cdn.rapidplatform.com/themes/rapidplatform/support/support-request.json), or simply use the following item body:
+
 ```JSON
 {
     "document": {
