@@ -1,6 +1,6 @@
 # Create an Azure AD app
 
-The first step in creating a custom App that talks to Rapidplatform are developing an App registration inside Azure AD. If you want to know the precise reason why this is the case, [see here](https://docs.rapidplatform.com/link/8#bkmrk-why-do-i-need-an-azu).
+The first step in creating a custom App that talks to Rapidplatform are developing an App registration inside Azure AD.
 
 ## Creating your App registration
 
