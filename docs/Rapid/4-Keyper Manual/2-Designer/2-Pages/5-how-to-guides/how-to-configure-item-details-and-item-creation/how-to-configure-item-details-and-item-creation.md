@@ -120,7 +120,7 @@ Here you would first want to configure the Forms Component in the Details Tab. T
 
 **What this will do:**
 
-[**The Create Screen breakpoint is always in sync with the Details breakpoint and vice versa.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/ "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
+[**The Create Screen breakpoint is always in sync with the Details breakpoint and vice versa.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
 Once you have created the Singular - Details breakpoint, it will automatically reflect in the Create Screen breakpoint. Observe in the image below. The Singular - Create Screen shows exactly how the Forms component was configured above.
 
@@ -130,7 +130,7 @@ Please note, on the you would need to [**arrange the fields**](/docs/Rapid/4-Key
 
 :::info[Important]
 
-You can set the fields of the Form Component as [**hidden / visible on the Item Details and Item Creation form**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/ "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
+You can set the fields of the Form Component as [**hidden / visible on the Item Details and Item Creation form**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
 ::
 
 ## Related articles
