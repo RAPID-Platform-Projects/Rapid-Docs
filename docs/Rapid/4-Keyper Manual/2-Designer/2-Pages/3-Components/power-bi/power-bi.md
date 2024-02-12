@@ -12,17 +12,17 @@ The PowerBi Report component provides a easy method to integrate and access Powe
 
 ## How to set up PowerBi Report component in Designer
 
-- You can **[add the PowerBi Report component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The PowerBi Report component is not present anywhere by default.   
+- You can [add the PowerBi Report component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The PowerBi Report component is not present anywhere by default.   
     
     ![Component list](<Component list.png>)
 
-- If the PowerBi Report component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+- If the PowerBi Report component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
 
-- You can set the **[visibility of PowerBi Report on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the **[visibility of PowerBi Report on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
     ![Visibility toggle](<../Visiblity toggle.png>)
 
-- You can set the **[visibility of PowerBi Report on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the **[visibility of PowerBi Report on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
     ![Display toggle](<../Display toggle.png>)
 
@@ -59,6 +59,6 @@ Assuming that you have set up a Power BI workspace for your Rapid Site, let us g
 
 ## Related articles
 
-[**PowerBI Report - Item Level component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-powerbi-report-item-level-component-on-a-layout-page "What is a PowerBI Report - Item Level component on a Layout / Page?")
+[PowerBI Report - Item Level component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/power-bi-item/power-bi-item.md "What is a PowerBI Report - Item Level component on a Layout / Page?")
 
-[**External Page component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-external-page-component-on-a-layout-page "What is an External Page component on a Layout / Page?")
+[External Page component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/external-page/external-page.md "What is an External Page component on a Layout / Page?")

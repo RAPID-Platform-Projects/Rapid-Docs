@@ -4,7 +4,7 @@
 
 As the name suggests, a File Preview component provides an area on the layout or Page where you can view the Preview of the File.
 
-While the [File Browser component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?") provides a Preview Pane, a similar function is served by the File Preview component for the [Attachment component](https://docs.rapidplatform.com/books/experiences/page/what-is-an-attachments-component-on-a-layout-page "What is an Attachments component on a Layout / Page?") and [Embedded Files component](https://docs.rapidplatform.com/books/experiences/page/what-is-an-embedded-files-component-on-a-layout-page "What is an Embedded Files component on a Layout / Page?").
+While the [File Browser component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-browser/file-browser.md "What is a File Browser component on a Layout / Page?") provides a Preview Pane, a similar function is served by the File Preview component for the [Attachment component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?") and [Embedded Files component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?").
 
 ## Important note:
 
@@ -19,15 +19,15 @@ The above message will appear if:
 
 ## How to set up File Preview component in Designer
 
-- You can **[add the File Preview component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The File Preview component is not present anywhere by default.  
+- You can [add the File Preview component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The File Preview component is not present anywhere by default.  
 
     ![Components list](<Components list.png>)
     
-- If the File Preview component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
-- You can set the [visibility of File Preview on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- If the File Preview component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
+- You can set the [visibility of File Preview on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the [visibility of File Preview on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the [visibility of File Preview on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Display Toggle](<../Display toggle.png>)
 
@@ -39,8 +39,8 @@ The above message will appear if:
 
 ## Related articles
 
-[**Image component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-image-component-on-a-layout-page "What is an Image component on a Layout / Page?")
+[Image component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/image/image.md "What is an Image component on a Layout / Page?")
 
-[**Attachments component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-attachments-component-on-a-layout-page "What is an Attachments component on a Layout / Page?")
+[Attachments component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?")
 
-[**Embedded Files component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-embedded-files-component-on-a-layout-page "What is an Embedded Files component on a Layout / Page?")
+[Embedded Files component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?")
