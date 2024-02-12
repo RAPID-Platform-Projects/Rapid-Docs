@@ -2,7 +2,7 @@
 
 ## What deleting a layout means
 
-Imagine you have created a **[Page](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")** on Customer data. You have **[added a layout](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")** to the page which has a few [**components**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?") depicting customer complaints.
+Imagine you have created a [**Page**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md@page "Page, layout and component") on Customer data. You have [**added a layout**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?") to the page which has a few [**components**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") depicting customer complaints.
 
 However, now you no longer want to see the customer complaints data on the Page.
 
@@ -33,12 +33,12 @@ Please refer to the below video for illustration.
 
 ## Related articles
 
-[How to delete a component from a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-component-from-a-layout-page "How to delete a component from a Layout / Page?")
+[How to delete a component from a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-component-from-a-page/how-to-delete-a-component-from-a-page.md "How to delete a component from a Layout / Page?")
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
+[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
-[How to add a Layout to a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")
+[How to add a Layout to a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?")
 
-[What are the available layouts for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")
+[What are the available layouts for Pages?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available layouts for Pages?")
 
-[How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
+[How to create a Page in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")

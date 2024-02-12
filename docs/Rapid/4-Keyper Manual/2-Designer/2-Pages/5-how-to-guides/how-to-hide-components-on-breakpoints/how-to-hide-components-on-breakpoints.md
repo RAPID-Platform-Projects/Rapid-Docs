@@ -33,7 +33,7 @@ Hence, there may be a need for a user to hide something from "Details" screen wh
 
 Therefore, you would want to have this displayed on "Details" screen but hide it from "Create" screen.
 
-You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**, **[component or layout](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")** from Create Screen by using the circle icon in the horizontal options bar. This is highlighted below:
+You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") from Create Screen by using the circle icon in the horizontal options bar. This is highlighted below:
 
 ![Hide/Create icon](<Hide Create icon.png>)
 
@@ -46,7 +46,7 @@ You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page
 
 ## Hiding a group of components / fields from Create screen
 
-Just like hiding a single component or field from the "Create Screen", you can also hide a group of fields (present in a **[Form component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**) or a group of components (present in a **[Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")**)
+Just like hiding a single component or field from the "Create Screen", you can also hide a group of fields (present in a [**Form component**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")) or a group of components (present in a [**Layout**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available layouts for Pages?"))
 
 Imagine you are displaying the invoice information for a client on the "Details" screen. This contains information like Invoice Number, Project Name, Contact, Quote Number etc. All such information regarding the invoice details are organised under a Form component on a Grid Layout.
 
@@ -68,7 +68,7 @@ All components in the Grid Layout will appear in the "Create" screen (if they ar
 
 In such cases, you would want a certain fields / components to be present at the time of Item Creation (Create Screen) but be hidden from the Details screen.
 
-You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**, **[component or layout](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component")** from Details screen by using the eye icon in the horizontal options bar. This is highlighted below:
+You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") from Details screen by using the eye icon in the horizontal options bar. This is highlighted below:
 
 ![Visible icon zoomed in](<Visible Icon Zoom.png>)
 
@@ -81,7 +81,7 @@ You can hide any **[field](https://docs.rapidplatform.com/books/experiences/page
 
 ## Hiding a group of components / fields from Details screen
 
-Just like hiding a single component or field from the "Details", you can also hide a group of fields (present in a **[Form component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")**) or a group of components (present in a **[Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")**) from "Details".
+Just like hiding a single component or field from the "Details", you can also hide a group of fields (present in a [Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")) or a group of components (present in a [Layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available layouts for Pages?")) from "Details".
 
 ![Form Invisible zoomed in](<Form Invisible Zoom.png>)  
 All fields in Form component will be hidden from the "Details" screen 
@@ -98,12 +98,12 @@ All fields in Form component will be hidden from the "Details" screen
 ## Important points
 
 - A field, component or layout can be hidden from both "Details" and "Create" screen simultaneously.
-- The field, component or layout when hidden will be shown as blank space on the Page. You may want to arrange the other field(s), component(s) or layout(s) on the relevant screen. For instance, if you have arranged the components on the Details screen a certain way. Now if you hide some components from the Create screen, then you would need to go to Create screen tab and [**drag / arrange components there.**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?")
+- The field, component or layout when hidden will be shown as blank space on the Page. You may want to arrange the other field(s), component(s) or layout(s) on the relevant screen. For instance, if you have arranged the components on the Details screen a certain way. Now if you hide some components from the Create screen, then you would need to go to Create screen tab and [**drag / arrange components there.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?")
 
 ## Related articles
 
-[How to configure Item Details and Item Creation?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?")
+[How to configure Item Details and Item Creation?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?")
 
-[How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
+[How to add a component to a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Page?")
 
-[What are the available components for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages "What are the available components for Pages?")
+[What are the available components for Pages?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available components for Pages?")
