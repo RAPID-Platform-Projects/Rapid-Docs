@@ -28,8 +28,8 @@ Please refer to the below video for illustration.
 
 ## Related articles
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
+[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
-[How to delete a component from a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-component-from-a-layout-page "How to delete a component from a Layout / Page?")
+[How to delete a component from a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-component-from-a-page/how-to-delete-a-component-from-a-page.md "How to delete a component from a Layout / Page?")
 
-[How to delete a Layout from a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-layout-from-a-page "How to delete a Layout from a Page?")
+[How to delete a Layout from a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-layout-from-a-page/how-to-delete-a-layout-from-a-page.md "How to delete a Layout from a Page?")

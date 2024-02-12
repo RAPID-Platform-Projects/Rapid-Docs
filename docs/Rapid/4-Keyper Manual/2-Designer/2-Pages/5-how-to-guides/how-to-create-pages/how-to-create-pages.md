@@ -1,15 +1,15 @@
 # How to create a Page in Designer
 
-There are two ways of creating a [Page](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") in Rapid Platform.
+There are two ways of creating a [Page](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") in Rapid Platform.
 
-1. via the Design Tab of a [Table in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")
-2. via the Pages Manager in [Designer Sidebar](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar").
+1. via the Design Tab of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
+2. via the Pages Manager in [Designer Sidebar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar").
 
-You may have read the introduction about these two methods [here](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer").
+You may have read the introduction about these two methods [here](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Pages in Designer").
 
 ## Creating a Page using Design Tab of a Table in Designer
 
-To create a new page from within a Table, you need to use the [Tab Strip Layout](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "How to add a Layout to a Page?").
+To create a new page from within a Table, you need to use the [Tab Strip Layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "How to add a Layout to a Page?").
 
 **Scenario:**
 
@@ -17,7 +17,7 @@ Let us assume you have an Incidents Table. You want to create a new page that wi
 
 **Scope and rationale:**
 
-This article limits the discussion to creation of a New Page in the system. The discussion on [how to add a Report Component](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?") is covered separately.
+This article limits the discussion to creation of a New Page in the system. The discussion on [how to add a Report Component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") is covered separately.
 
 Since the page is relevant to the Table, we are creating the same from the Design Tab of the Table in Designer.
 
@@ -32,7 +32,7 @@ There can be two cases here:
 
 ![Create new page step 1](<Create new page step 1.png>)
 
-**If you wish to add a page to the [Item Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer "All about Pages in Designer"), then a Tab Strip Layout is present by default on it.**
+**If you wish to add a page to the [Item Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Pages in Designer"), then a Tab Strip Layout is present by default on it.**
 
 ![Create new page step 2](<Create new page step 2.png>)
 
@@ -116,8 +116,8 @@ To create independent page from Page Manager, please consider the following step
 
 ## Related articles
 
-[How to add a Layout to a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")
+[How to add a Layout to a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?")
 
-[What are the available layouts for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")
+[What are the available layouts for Pages?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available layouts for Pages?")
 
-[How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
+[How to add a component to a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Page?")
