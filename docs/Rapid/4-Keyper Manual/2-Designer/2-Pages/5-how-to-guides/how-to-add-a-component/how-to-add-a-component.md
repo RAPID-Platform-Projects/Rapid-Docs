@@ -14,7 +14,7 @@ This article only focuses on how to add a component to the Page. It is assumed t
 
 ## Steps to add a component to a Page
 
-To add a new component to a [**Page layout**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component"), please follow the below steps:
+To add a new component to a [**Page layout**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#layout "Page, layout and component"), please follow the below steps:
 
 ![Add a component step 1](<Add component step 1.png>)
 
@@ -48,10 +48,10 @@ To add a new component to a [**Page layout**](https://docs.rapidplatform.com/boo
 
 ## Related articles
 
-[How to move a component on layout?](https://docs.rapidplatform.com/books/experiences/page/how-to-move-a-component-on-layout "How to move a component on layout?")
+[How to move a component on layout?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to move a component on layout?")
 
-[How to configure / update component properties?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")
+[How to configure / update component properties?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-a-component/how-to-configure-a-component.md "How to configure / update component properties?")
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
+[How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
 
-[How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
+[How to create a Page in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")
