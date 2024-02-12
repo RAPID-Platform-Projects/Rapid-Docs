@@ -1,8 +1,8 @@
 # List of available layouts for Pages
 
-[**Layouts**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") are an important part of Page construction.
+[**Layouts**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#layout "Page, layout and component") are an important part of Page construction.
 
-Rapid Platform provides you a set of five layout options to organise [**components**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") across a [**Page**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component").
+Rapid Platform provides you a set of five layout options to organise [**components**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page-layout-and-component "Page, layout and component") across a [**Page**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component").
 
 ![List of layout components](<Layout components list.png>)
 
@@ -18,7 +18,7 @@ Please note:
 - You cannot move the components across layout
 - The components will be arranged top-down order, in the sequence of their addition. Hence, the component added later will be shown below the component added earlier.
 - This layout will attempt to fit to the size of the screen viewing it.
-- This layout is default when a **[new page is created via a Tab Strip](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page-in-designer "How to create a Page in Designer?")**, without changing the default Page name. The system provides a default Page name as the Table name using which the page is being created.
+- This layout is default when a **[new page is created via a Tab Strip](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")**, without changing the default Page name. The system provides a default Page name as the Table name using which the page is being created.
 
 ![Adding a new tab to a tabstrip](<Adding a new tab to a tabstrip.png>)
 
@@ -65,7 +65,7 @@ In a Grid Layout, you can arrange the components as per your need.
 
 Please note:
 
-- [**You can resize and arrange the components on the Grid Layout.**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?") This is not possible with any other layout.
+- [**You can resize and arrange the components on the Grid Layout.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?") This is not possible with any other layout.
 - Grid Layouts will not attempt to scale to the size of the screen vertically and can be scrolled. They will still attempt to scale horizontally.
 - This is present by default on the Details Tab of a Table in Designer.
 
@@ -77,7 +77,7 @@ Tab Strip is a special type of a layout which is used to add / organise other pa
 
 Please note:
 
-- [**Using a Tab Strip you can create new tabs and new Pages.**](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page-in-designer "How to create a Page in Designer?")
+- [**Using a Tab Strip you can create new tabs and new Pages.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")
 - You can edit Tab Strip preferences by clicking on the Edit icon (*Pencil*)
 
 ![Tabstrip edit button and panel](<Tabstrip edit button and panel.png>)
@@ -120,10 +120,10 @@ Please note:
 
 ## Related articles
 
-[How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
+[How to create a Page in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")
 
-[How to add a Layout to a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")
+[How to add a Layout to a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?")
 
-[How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
+[How to add a component to a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Page?")
 
-[How to configure / update component properties?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")
+[How to configure / update component properties?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-a-component/how-to-configure-a-component.md "How to configure / update component properties?")
