@@ -119,7 +119,6 @@ You can access Workflow from the quick navigation buttons at the bottom of your 
 ![Workflow Button Location](<Workflow Button Location.png>)
 
 **Related articles**
-
 [Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
 
 ## Table items and columns

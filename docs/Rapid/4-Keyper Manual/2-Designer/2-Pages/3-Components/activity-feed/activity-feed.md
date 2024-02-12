@@ -10,14 +10,14 @@ Apart from notes, events in the life of individual item can be - creation of ite
 
 ## How to set up Activity Feed Component in Designer
 
-- You can [**add the activity feed component on to the Layout / Page**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). The Activity feed component is **[present on the Tab Strip by default](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?").  
+- You can [add the activity feed component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The Activity feed component is [present on the Tab Strip by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?").  
 
     ![Activity feed in component list](<Activity feed in component list.png>)
 
-- If the activity feed component is on a Grid Layout, you can [**resize and move the component over the layout**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
-- You can set the **[visibility of activity feed on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").
+- If the activity feed component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
+- You can set the [visibility of the activity feed on the Details screens](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?")
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of activity feed on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").  
+- You can set the [visibility of the activity feed on the Create Screens](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").  
 
     ![Display toggle](<../Display toggle.png>)
 
@@ -41,6 +41,6 @@ Apart from notes, events in the life of individual item can be - creation of ite
 
 ## Related articles
 
-[**File Browser component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?")
+[File Browser component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-browser/file-browser.md "What is a File Browser component on a Layout / Page?")
 
-[**Form component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")
+[Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")
