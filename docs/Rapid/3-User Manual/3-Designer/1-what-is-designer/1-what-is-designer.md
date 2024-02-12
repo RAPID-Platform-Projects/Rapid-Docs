@@ -24,9 +24,9 @@ Apart from creating data table structures, Designer can also be used in creating
   
 Menus can also provide context and hierarchy, allowing users to understand how different features and content relate to each other and how they fit into the overall structure of the application. By using clear and concise labels and grouping related items together, menus can help users navigate efficiently and reduce cognitive load.  
   
-**Designer provides a configuration of Menu items which can help us enable define the look of the explorer [sidebar](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar"), [command bar](https://docs.rapidplatform.com/books/glossary/page/command-bar "How to configure a Menu button in a command bar?") in an explorer view of the data table etc. These menus can help user define various actions, which can be triggered upon click of the menu button.**
+**Designer provides a configuration of Menu items which can help us enable define the look of the explorer [sidebar](</docs/Rapid/3-User Manual/Glossary/glossary.md#sidebar> "Sidebar"), [command bar](</docs/Rapid/3-User Manual/Glossary/glossary.md#command-bar> "How to configure a Menu button in a command bar?") in an explorer view of the data table etc. These menus can help user define various actions, which can be triggered upon click of the menu button.**
 
-Like Tables and Menus, another key concept in Designer is **[Pages](https://docs.rapidplatform.com/books/glossary/page/page "Page")**. A page is basically a host area where you can configure **[components](https://docs.rapidplatform.com/books/glossary/page/page "Page")** available in Rapid Platform. For example - it is a page where you view Table Data, Gantt Chart, Activity feed, or even a PowerBI Report.
+Like Tables and Menus, another key concept in Designer is **[Pages](</docs/Rapid/3-User Manual/Glossary/glossary.md#page> "Page")**. A page is basically a host area where you can configure **[components](</docs/Rapid/3-User Manual/Glossary/glossary.md#page> "Page")** available in Rapid Platform. For example - it is a page where you view Table Data, Gantt Chart, Activity feed, or even a PowerBI Report.
 
 ## **Related articles**
 

@@ -22,7 +22,7 @@ The below image shows Year Level
 
 ![year GAntt.png](./downloaded_image_1705285775361.png)
 
-##### **How to shift between Zoom levels?**
+## How to shift between Zoom levels?
 
 Observe there are two buttons in the command bar - Lens (+) and Lens (-) icons.
 
@@ -49,14 +49,14 @@ Please view the below GIF for illustration
 
 ![Example gif](oUbQH0yqmSeuBrTn-zoom-480p-230912.gif)
 
-##### **Related articles**
+## Related articles
 
-[How to hide / show left panel OR enter / exit Full Screen mode?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-hide-show-the-left-panel-in-gantt-chart "How to Hide / Show the Left Panel in Gantt Chart?")
+[How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart.md> "How to Hide / Show the Left Panel in Gantt Chart?")
 
-[How to move tasks in time, extend start / end dates from the Gantt bars?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[How to move tasks in time, extend start / end dates from the Gantt bars?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-[How to change start date, duration and resource from left panel?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-change-start-date-duration-and-resource-from-left-panel "How to change start date, duration and resource from left panel?")
+[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md> "How to change start date, duration and resource from left panel?")
 
-[How to Save and Undo changes made to the Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-save-undo-changes-to-a-gantt-chart "How to Save / Undo changes to a Gantt Chart?")
+[How to Save and Undo changes made to the Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
 
-[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")
+[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")

@@ -1,6 +1,6 @@
 # File Browser
 
-You can configure [document storage](https://docs.rapidplatform.com/Home/User-Documentation/Getting-Started-with-Rapid-Platform) from the [Single Page](https://docs.rapidplatform.com/Home/User-Documentation/Explorer/Pages/Single-Page) of the item, or through the Options of the entity in the Designer experience. More can be read [here](https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872). NOTE: maybe revisit this
+You can configure document storage from the Single Page of the item, or through the Options of the entity in the Designer experience. More can be read [here](https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872).
 
 ## Configuring Document Storage Through the Single Page
 
@@ -11,7 +11,7 @@ To configure the Document Storage of the item through the single page of an item
 
 ![File Browser 01.png](./downloaded_image_1705285491244.png)
 
-1. Follow the steps to configure the storage [here](https://docs.rapidplatform.com/Home/User-Documentation/Getting-Started-with-Rapid-Platform).
+1. Follow the steps to configure the storage [here](#file-browser).
 2. Once the Documentation Storage has been configured, users have the option to select where to place the items, either **Linked Item** or **This item**.
 
 ![File Browser 02.png](./downloaded_image_1705285492259.png)

@@ -17,7 +17,7 @@ In RAPID Platform, dependencies in Gantt Chart are depicted with arrows connecti
 
 ![Screenshot 2023-09-14 at 8.41.23 PM.png](./downloaded_image_1705285626472.png)
 
-## **Understanding Types of Dependencies in Gantt Chart**
+## Understanding Types of Dependencies in Gantt Chart
 
 Understanding task dependencies in Gantt Charts is a crucial element. This dependency affects the project schedule. Changing the predecessor of a task will affect the successor task, which will affect the next task, and so on.
 
@@ -58,20 +58,17 @@ In a Gantt Chart, the above four dependencies can be represented as shown below:
 
 ![Screenshot 2023-09-14 at 6.22.38 PM.png](./downloaded_image_1705285627495.png)
 
-##   
-
-
-## **Concept of Lag / Gap**
+## Concept of Lag / Gap
 
 Sometimes there is a need to define a mandatory delay between two tasks. For example - after completing the cementing of wall, it would require two days of drying before painting can begin.
 
 This could be represented as an FS dependency with a lag / gap of 2 days.
 
-## **Creating dependencies in Gantt Chart in RAPID Platform**
+## Creating dependencies in Gantt Chart in RAPID Platform
 
 To create dependencies among tasks, please consider the following points:
 
-<div class="pointer-container" id="bkmrk-%C2%A0-2"><div class="pointer anim is-page-editable"><svg class="svg-icon" data-icon="link" role="presentation" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg><div class="input-group inline block"><input id="bkmrk--0" placeholder="url" readonly="readonly" type="text"></input> <button class="button outline icon" data-clipboard-target="#pointer-url" title="Copy Link" type="button"><svg class="svg-icon" data-icon="copy" role="presentation" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg></button></div><svg class="svg-icon" data-icon="edit" role="presentation" viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"></svg></div></div>1. As you hover your mouse pointer over the task, two white circles will appear at the end of the bar.
+1. As you hover your mouse pointer over the task, two white circles will appear at the end of the bar.
 2. Place your mouse pointer over the white circle.
 3. Click and drag.
 4. A dotted line will appear on the screen in the direction of the pointer movement.
@@ -90,7 +87,7 @@ Please refer to the below GIF for illustration
 
 ![Create dependency](lxeFz3bkT6JIwvBd-create-dependency-480p-230914.gif)
 
-## **Editing dependencies in Gantt Chart**
+## Editing dependencies in Gantt Chart
 
 There can be various occasions where editing the dependency is needed.
 
@@ -119,12 +116,12 @@ Please refer to the below GIF for illustration
 
 ![Edit dependency](8fqIRSZmOcTO2g4v-edit-dependency-480p-230914.gif)
 
-## **Related articles**
+## Related articles
 
-**[How to create a new task and sub-types of task from Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart "How to create a new task and sub-types of task from Gantt Chart?")**
+[**How to create a new task and sub-types of task from Gantt Chart?**](../how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart/how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart.md "How to create a new task and sub-types of task from Gantt Chart?")
 
-**[How to open Task Details page from Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-open-task-item-profiles-from-gantt-chart "How to open task item profiles from Gantt Chart?")**
+[**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 
-**[How to change start date, duration and resource from left panel?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-change-start-date-duration-and-resource-from-left-panel "How to change start date, duration and resource from left panel?")**
+[**How to change start date, duration and resource from left panel?**](../how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md "How to change start date, duration and resource from left panel?")
 
-**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")**
+[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

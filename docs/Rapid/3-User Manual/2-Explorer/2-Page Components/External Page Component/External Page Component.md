@@ -1,4 +1,4 @@
-## **What is an External Page component?**
+# **What is an External Page component?**
 
 Imagine you are an Air Traffic Controller. You are looking at the schedule of the Incoming and Outgoing flights from the Airport. Along with the schedule, you have a Live Weather feed from an external website on your Page.
 

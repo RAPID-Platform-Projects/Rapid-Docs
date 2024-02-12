@@ -16,15 +16,15 @@ As you fill out the required details, and press Create, the new Task will appear
 
 ![7.png](./downloaded_image_1705285595760.png)
 
-**New Sub-types of Task** - These are the configured elements on the command bar. Therefore, they are not part of the permanent buttons, rather appear based on the [configuration done in the Designer Page](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?").
+**New Sub-types of Task** - These are the configured elements on the command bar. Therefore, they are not part of the permanent buttons, rather appear based on the [configuration done in the Designer Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/gantt-chart/gantt-chart.md "How to configure the Page - Gantt Chart Component?").
 
 To create a new sub-type of task of your choice, just click on the relevant button. This will open the corresponding panel at the right side of the page. Just like New Task, once you fill in the details and create, the new sub-type of task will appear on the Gantt Chart. Its position in the chart is based on the Start Date.
 
-## **![8.png](./downloaded_image_1705285596781.png)**
+![8.png](./downloaded_image_1705285596781.png)
 
 In the above image, a "New Phase" is added with Start Date as 7th September and End Date as 13th September.
 
-## **Important points about new elements (task / sub-type)**
+## Important points about new elements (task / sub-type)
 
 1. The new element (task / sub-type) will be added to the chart as soon as it is "created" from the right panel. You do not need to Save the chart.
 2. The element once added, cannot be deleted from within the Gantt Chart directly.
@@ -45,12 +45,12 @@ Please refer to the below GIF for illustration.
 
 ![New Task Gantt 2](icMmCOviH7Pqw8xs-new-task-gantt-2-480p-230913.gif)
 
-## **Related articles**
+## Related articles
 
-**[How to view and order tasks based on *Table Views*?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart "How to view and order tasks based on Table views in a Gantt Chart?")**
+[**How to view and order tasks based on *Table Views*?**](../how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart.md "How to view and order tasks based on Table views in a Gantt Chart?")
 
-**[How to open Task Details page from Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-open-task-item-profiles-from-gantt-chart "How to open task item profiles from Gantt Chart?")**
+[**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 
-**[How to Auto-schedule tasks in Gantt Chart?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-auto-schedule-tasks-in-gantt-chart "How to Auto-schedule tasks in Gantt Chart?")**
+[**How to Auto-schedule tasks in Gantt Chart?**](../how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md "How to Auto-schedule tasks in Gantt Chart?")
 
-**[How to interact with Gantt Chart component in Explorer with data?](https://docs.rapidplatform.com/books/experiences-oxn/page/how-to-interact-with-a-gantt-chart "How to interact with a Gantt Chart?")**
+[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
