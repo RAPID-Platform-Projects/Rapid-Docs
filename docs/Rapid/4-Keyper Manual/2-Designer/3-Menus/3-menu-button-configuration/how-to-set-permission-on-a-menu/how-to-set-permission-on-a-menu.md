@@ -1,6 +1,6 @@
 # How to set Permissions for a Menu button
 
-This is configurable on both the ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** and ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu types.
 
 ## Overview
 
@@ -34,10 +34,10 @@ In other words, only those system users who have a check mark against their titl
 
 ## Related articles
 
-**[Displaying text and icon on a menu button ](https://docs.rapidplatform.com/books/experiences/page/how-to-set-display-text-and-icon-for-a-menu-item "How to set display text and icon for a menu item?")**
+[Displaying text and icon on a menu button ](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/3-menu-button-configuration.md "How to set display text and icon for a menu item?")
 
-**[Various types of On-Click Action](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")**
+[Various types of On-Click Action](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/1-how-to-set-on-click-action-for-a-menu/1-how-to-set-on-click-action-for-a-menu.md "How to set On-Click Action for a menu item?")
 
-**[Location to display field](https://docs.rapidplatform.com/books/experiences/page/what-is-location-to-display-option-in-a-menu "What is Location to Display option in a Menu?")**
+[Location to display field](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-location-to-display-in-a-menu/what-is-location-to-display-in-a-menu.md "What is Location to Display option in a Menu?")
 
-**[Save Intention field](https://docs.rapidplatform.com/books/experiences/page/what-is-save-intention-option-in-a-menu-setup "What is Save Intention option in a Menu setup?")**
+[Save Intention field](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-save-intention-in-a-menu/what-is-save-intention-in-a-menu.md "What is Save Intention option in a Menu setup?")

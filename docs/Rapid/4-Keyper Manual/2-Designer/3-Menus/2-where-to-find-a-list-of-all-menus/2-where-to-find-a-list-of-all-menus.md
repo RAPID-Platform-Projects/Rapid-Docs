@@ -1,6 +1,6 @@
 # Accessing the list of all Menus
 
-This article relates to menus configured for both ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** and ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu types.
+This article relates to menus configured for both [Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar) and [Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar) menu types.
 
 ## Overview
 
@@ -13,7 +13,7 @@ The system provides a centralized list of all menus.
 1. Navigate to Designer &gt; Menus &gt; All Menus  
 
     ![Navigate to all menus](<Navigate to All Menus.png>)
-2. (Optional) Double-Clicking on the Menu item will open it and enable you to edit it (To find out more about editing Menus see [How to configure a Menu Button in Command Bar](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar))  
+2. (Optional) Double-Clicking on the Menu item will open it and enable you to edit it (To find out more about editing Menus see [How to configure a Menu Button in Command Bar](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md))  
 
     ![Open a menu](<Open a menu.png>)
 
@@ -45,4 +45,4 @@ The list column shows which list the menu is created on if relevant. If the **Co
 
 ### **Related article**
 
-[How to create Menu buttons in command bar of a data table?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar "How to configure a Menu button in a command bar?")
+[How to create Menu buttons in command bar of a data table?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md "How to configure a Menu button in a command bar?")

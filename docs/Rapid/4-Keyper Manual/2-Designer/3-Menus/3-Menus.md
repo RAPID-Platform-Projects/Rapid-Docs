@@ -11,7 +11,7 @@ In principle there are two main applications of Menus to a user:
 1. [Configuring the Sidebars (for Explorer and Designer).](https://docs.rapidplatform.com/books/experiences/page/how-to-customise-sidebars-using-menus "How to customise Sidebars using Menus?")
 2. [Configuring the command bar in Explorer view of a data table.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar "How to configure a Menu button in a command bar?")
 
-##### Properties of a menu item
+## Properties of a menu item
 
 The appearance and behaviour of each menu item can be configured by defining the properties of a [***menu item***](https://docs.rapidplatform.com/books/glossary/page/menu-item "Menu item").
 
@@ -23,10 +23,7 @@ The appearance and behaviour of each menu item can be configured by defining the
 6. [Linking menu item to a table](https://docs.rapidplatform.com/books/experiences/page/how-to-link-a-menu-item-to-a-table "How to link a menu item to a table?")
 7. [Edit / delete / add an item below an existing item](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-add-an-item-below-an-existing-item "How to edit / delete / add an item below an existing item?")
 
-#####   
-
-
-### **Related articles**
+## **Related articles**
 
 **[All about *Tables* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
 

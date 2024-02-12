@@ -1,6 +1,6 @@
 # Perform remote action
 
-This is configurable on both the ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** and ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu types.
 
 ## Overview
 
@@ -43,7 +43,7 @@ The Perform Remote Action makes a post request to the specified address.
 
 ## Remote Action Options Further Details
 
-Please note when configuring on the ***[Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar)*** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu type.
+Please note when configuring on the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#side-bar)*** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu)*** menu type.
 
 As we can observe, the following fields are prompted by the system upon selection of Perform Remote Action as On-Click Action.
 
@@ -53,7 +53,7 @@ As we can observe, the following fields are prompted by the system upon selectio
     - Save on Action - When the menu button is pressed, the item will be saved then the request sent.
     - Prompt for Save - A prompt will appear asking the user to save or discard changes. Following their selection, the request will be sent.
     - Do not save - The request will be sent regardless of whether the user has saved or not saved the most recent changes on the item.
-    - For more information see - [What is the Save Intention Option in a Menu Setup?](https://docs.rapidplatform.com/books/experiences/page/what-is-save-intention-option-in-a-menu-setup)
+    - For more information see - [What is the Save Intention Option in a Menu Setup?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-save-intention-in-a-menu/what-is-save-intention-in-a-menu.md)
 - **Address -** This is a mandatory field. It allows you to set the URL address of the network request. For instance, if you wish to request a Power Automate Flow, pass the appropriate Flow URL here.
 - **Info text -** This optional field allows you to set the Metadata or additional Information Text about the action.
 - **Action ID -** This optional field is useful when you wish to send an Action ID along with the network request to the remote end when the action is performed. This is a hardcoded string.

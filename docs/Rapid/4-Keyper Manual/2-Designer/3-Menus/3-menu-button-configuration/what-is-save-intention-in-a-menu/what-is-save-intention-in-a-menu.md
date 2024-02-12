@@ -4,7 +4,7 @@ Have you been a victim of losing changes made to a page, just because you naviga
 
 **The Save Intention field saves us from that frustration!**
 
-Across all the menus whether[ ***Sidebar***](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar") or the ***[command bar](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")***, the option to Save Intention is common.
+Across all the menus whether[ ***Sidebar***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar") or the ***[command bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar "Command bar")***, the option to Save Intention is common.
 
 ![Save intention configuration location](<Save Intention config location.png>)
 
@@ -16,7 +16,7 @@ This is a dropdown field with three choices:
 
 ![Save intention options](<Save intention options.png>)
 
-Save Intention field is particularly useful for [***command bars.***](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")
+Save Intention field is particularly useful for [***command bars.***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar "Command bar")
 
 **Imagine you are working with data on a table or an item, and after making some modifications, you pressed the menu button. Before the menu button triggers its defined action, should the changes made to the data (on table or item) be saved?**
 
@@ -29,10 +29,8 @@ The system gives you three options.
 
 ## Related articles
 
-**[Displaying text and icon on a menu button ](https://docs.rapidplatform.com/books/experiences/page/how-to-set-display-text-and-icon-for-a-menu-item "How to set display text and icon for a menu item?")**
+[Various types of On-Click Action](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "How to set On-Click Action for a menu item?")
 
-**[Various types of On-Click Action](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")**
+[Location to display field](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-location-to-display-in-a-menu/what-is-location-to-display-in-a-menu.md "What is Location to Display option in a Menu?")
 
-**[Location to display field](https://docs.rapidplatform.com/books/experiences/page/what-is-location-to-display-option-in-a-menu "What is Location to Display option in a Menu?")**
-
-[**Giving permissions to users for menu buttons**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-permissions-for-a-menu-button "How to set Permissions for a Menu button?")
+[Giving permissions to users for menu buttons](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-set-permission-on-a-menu/how-to-set-permission-on-a-menu.md "How to set Permissions for a Menu button?")

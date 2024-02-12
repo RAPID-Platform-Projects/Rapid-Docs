@@ -1,6 +1,6 @@
 # How to configure a Menu button in a command bar
 
-Buttons can be very useful in the *[**Command Bar** ](https://docs.rapidplatform.com/books/glossary/page/command-bar)*and can provide contextual actions related to that table or table item.
+Buttons can be very useful in the *[**Command Bar** ](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*and can provide contextual actions related to that table or table item.
 
 ## Command bar Menu button Overview
 
@@ -16,7 +16,7 @@ A command bar is the horizontal area containing command buttons like Save, Delet
 
 ## Use case for menu button in command bar
 
-Imagine you are looking at the Quotes table. You may want to perform specific actions based on the selected quotes, such as Generate an Invoice from the Quote Item or Generate a Quote PDF. There are many possible use cases as menu buttons can trigger workflows, perform remote actions and much more. (To see a full list of On-Click Actions see [How to Set On-Click Actions](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item))
+Imagine you are looking at the Quotes table. You may want to perform specific actions based on the selected quotes, such as Generate an Invoice from the Quote Item or Generate a Quote PDF. There are many possible use cases as menu buttons can trigger workflows, perform remote actions and much more. (To see a full list of On-Click Actions see [How to Set On-Click Actions](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/1-how-to-set-on-click-action-for-a-menu/1-how-to-set-on-click-action-for-a-menu.md))
 
 ![Command bar button examples](<Button Examples.png>)
 
@@ -37,10 +37,10 @@ Imagine you are looking at the Quotes table. You may want to perform specific ac
 6. Provide appropriate display text and icon  
 
     ![Set title and icon](<Configure title and icon.png>)
-7. Configure your desired On-Click Action (See [How to Set On-Click Actions](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item) for more details on how to configure these for your use case  
+7. Configure your desired On-Click Action (See [How to Set On-Click Actions](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/1-how-to-set-on-click-action-for-a-menu/1-how-to-set-on-click-action-for-a-menu.md) for more details on how to configure these for your use case  
 
     ![Configure the on-click action](<Configure on-click action.png>)
-8. Set the **Location to Display** (See [What is Location to Display option in a Menu setup?](https://docs.rapidplatform.com/books/experiences/page/what-is-location-to-display-option-in-a-menu-setup) for more details)  
+8. Set the **Location to Display** (See [What is Location to Display option in a Menu setup?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-location-to-display-in-a-menu/what-is-location-to-display-in-a-menu.md) for more details)  
 
     ![Set location to display](<Set location to display.png>)
 9. Press Save  
@@ -52,6 +52,6 @@ Imagine you are looking at the Quotes table. You may want to perform specific ac
 
 ## Related article
 
-[How to see all the menu buttons created in Command Bar of all Tables?](https://docs.rapidplatform.com/books/experiences/page/where-to-find-a-list-of-all-menu-buttons-created-for-command-bars-across-data-tables "Where to find a list of all Menu buttons created for Command Bars across data tables?")
+[How to see all the menu buttons created in Command Bar of all Tables?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/2-where-to-find-a-list-of-all-menus/2-where-to-find-a-list-of-all-menus.md "Where to find a list of all Menu buttons created for Command Bars across data tables?")
 
-[All about Tables in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")
+[All about Tables in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
