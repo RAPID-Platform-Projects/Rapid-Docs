@@ -4,7 +4,7 @@ It is possible to collect one or more custom entities into a package that can be
 
 Bundles can be installed from two locations, the public library or custom bundle files.
 
-Note : For more information on custom bundle creation and their structure, see [Bundles](https://docs.rapidplatform.com/books/designer/page/bundles "Bundles")
+Note : For more information on custom bundle creation and their structure, see [Bundles](/docs/Rapid/4-Keyper%20Manual/2-Designer/9-Advanced/bundles/bundles.md "Bundles")
 
 ## Install from the public library
 
@@ -40,4 +40,4 @@ After a brief installation period you should see your new entities in the entity
 
 ## Related articles
 
-[**ADVANCED: Bundles**](https://docs.rapidplatform.com/books/designer/page/advanced-bundles)
+[**ADVANCED: Bundles**](/docs/Rapid/4-Keyper%20Manual/2-Designer/9-Advanced/bundles/bundles.md)

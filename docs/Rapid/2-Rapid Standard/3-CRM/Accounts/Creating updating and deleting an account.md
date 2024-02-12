@@ -39,7 +39,7 @@ Accounts can be created in two ways. The first is through the Lead conversion bu
 
 4. Once you have finished editing, click on **Save** or **Save and Close**.  
 
-    [![image-1702937480119.png](./XX9ZeHq3vNnv8k3O-image-1702937480119.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/XX9ZeHq3vNnv8k3O-image-1702937480119.png)
+    ![image-1702937480119.png](./XX9ZeHq3vNnv8k3O-image-1702937480119.png)
 
 ### Deleting Accounts
 
@@ -73,4 +73,4 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
 3. Press **Delete** 
 
-[![image-1702937788809.png](./Tv9eHmdrILgYljND-image-1702937788809.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/Tv9eHmdrILgYljND-image-1702937788809.png)
+![image-1702937788809.png](./Tv9eHmdrILgYljND-image-1702937788809.png)

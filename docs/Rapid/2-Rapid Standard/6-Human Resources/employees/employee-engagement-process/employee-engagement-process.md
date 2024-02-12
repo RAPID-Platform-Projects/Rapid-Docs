@@ -12,16 +12,15 @@ Finally, the eNPS is calculated by subtracting the percentage of detracts from p
 
 1. Navigate to Human Resources &gt; Employees  
 
-    [![image-1703651698901.png](./Wjh9cXTQiFM15MwK-image-1703651698901.png)](./Wjh9cXTQiFM15MwK-image-1703651698901.png)
+    ![image-1703651698901.png](./Wjh9cXTQiFM15MwK-image-1703651698901.png)
 
 2. Select the employees you wish for the questionnaire to be sent to
 
-    [![image-1703651762900.png](./K1eWBL1VcO94pj6O-image-1703651762900.png)](https://docs.rapidplatform.com/uploads/images/gallery/2023-12/K1eWBL1VcO94pj6O-image-1703651762900.png)
+    ![image-1703651762900.png](./K1eWBL1VcO94pj6O-image-1703651762900.png)
 
 3. Press the “Send Employee Engagement Questionnaire”  
 
-    [![image-1703651783541.png](./Zd47W1ocuJvx89Ms-image-1703651783541.png)](./Zd47W1ocuJvx89Ms-image-1703651783541.png)
-
+    ![image-1703651783541.png](./Zd47W1ocuJvx89Ms-image-1703651783541.png)
 ### Additional Details
 
 This will send an email with a link to a form to each selected employees. Employee responses to this form will be anonymous. There are only two questions on the form:

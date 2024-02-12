@@ -1,9 +1,9 @@
 # All about Pages in Designer
 
-In Designer, you can configure a **[page to host components](https://docs.rapidplatform.com/books/glossary/page/page-and-component "Page and component")**. Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
+In Designer, you can configure a [**page to host components**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page and component"). Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
 
-1. via the Design Tab of a [Table in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")
-2. via the Pages option in [Designer Sidebar](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar"). This is also called the Pages Manager.
+1. via the Design Tab of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
+2. via the Pages option in [Designer Sidebar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar"). This is also called the Pages Manager.
 
 ![Navigate to page design tab](<Navigate to Page design tab.png>)
 
@@ -31,7 +31,7 @@ This window enables you with the following information / options
 There are certain options which are always present on the Design Tab. These are:
 
 1. **Switch between Singular and Plural set of pages** - 
-    - Singular noun refers to the **[item of the table](https://docs.rapidplatform.com/books/glossary/page/table-items-and-columns "Table items and columns")**.
+    - Singular noun refers to the [**item of the table**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns "Table items and columns").
     - Plural name refers to the set of items of a table. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun).  
           
         The Design Tab provides you with options to define pages for both Singular (item level) and Plural (item group level). Using this dropdown field you can switch between Singular and Plural set of pages. Therefore, allowing you to define what information would appear on selection of a single item and the information that appears for the collection of items.
@@ -45,7 +45,7 @@ There are certain options which are always present on the Design Tab. These are:
     | **Details** | Defines what information will be visible when an item is selected. | Defines what information will be visible for a set of items (Table view in Explorer) |
     | **Create Screen** | Defines what information will be visible when an item is created | No role of Create Screen in Plural definition |
     
-    To learn more please refer to [***How to configure Item Details and Item Creation?***](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?")
+    To learn more please refer to [***How to configure Item Details and Item Creation?***](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?")
 3. **Navigate to Explorer from current page** - It is very easy to access Explorer from the table window in Designer.
     
     Once you have opened the table in designer, look at the screen and lens icon at the top right corner of the window.  
@@ -63,30 +63,30 @@ Please refer to the below video for illustration of above points.
 
 Please consider the below links to learn more about Pages in Designer
 
-[How to create a Page in Designer?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-page "How to create a Page in Designer?")
+[How to create a Page in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-create-pages/how-to-create-pages.md "How to create a Page in Designer?")
 
-[How to add a Layout to a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-layout-to-a-page "How to add a Layout to a Page?")
+[How to add a Layout to a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?")
 
-[What are the available layouts for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages "What are the available layouts for Pages?")
+[What are the available layouts for Pages?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md "What are the available layouts for Pages?")
 
-[How to add a component to a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-page "How to add a component to a Page?")
+[How to add a component to a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Page?")
 
-[What are the available components for Pages?](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-components-for-pages "What are the available components for Pages?")
+[What are the available components for Pages?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md "What are the available components for Pages?")
 
-[How to move a component on layout?](https://docs.rapidplatform.com/books/experiences/page/how-to-move-a-component-on-layout "How to move a component on layout?")
+[How to move a component on layout?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to move a component on layout?")
 
-[How to configure / update component properties?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-update-component-properties "How to configure / update component properties?")
+[How to configure / update component properties?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-a-component/how-to-configure-a-component.md "How to configure / update component properties?")
 
-[How to configure Item Details and Item Creation?](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?")
+[How to configure Item Details and Item Creation?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?")
 
-[How to set a component to be visible / hidden on "Item Details" and "Create" screens?](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' screens?")
+[How to set a component to be visible / hidden on "Item Details" and "Create" screens?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' screens?")
 
-[How to delete a component from a Layout / Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-component-from-a-layout-page "How to delete a component from a Layout / Page?")
+[How to delete a component from a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-component-from-a-page/how-to-delete-a-component-from-a-page.md "How to delete a component from a Layout / Page?")
 
-[How to delete a Layout from a Page?](https://docs.rapidplatform.com/books/experiences/page/how-to-delete-a-layout-from-a-page "How to delete a Layout from a Page?")
+[How to delete a Layout from a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-layout-from-a-page/how-to-delete-a-layout-from-a-page.md "How to delete a Layout from a Page?")
 
 ## Related articles
 
-[All about *Tables* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")
+[All about *Tables* in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
 
-[All about *Menus* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-designer "All about Menus in Designer")
+[All about *Menus* in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Menus in Designer")

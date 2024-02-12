@@ -10,11 +10,11 @@ Attachments are visible in the [Tasks experience](/docs/Rapid/3-User%20Manual/Gl
 
 ## How to set up an Attachments component in Designer
 
-- You can **[add the Attachments component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Attachments component is not present anywhere by default.  
+- You can [add the Attachments component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md "How to add a component to a Layout / Page?"). The Attachments component is not present anywhere by default.  
 
     ![Component list](<Component list.png>)
 
-- If the Attachments component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+- If the Attachments component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
 - You can set the [visibility of Attachments on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Visibility toggle](<../Visiblity toggle.png>)
