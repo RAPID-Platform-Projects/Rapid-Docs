@@ -20,32 +20,28 @@ To deal with an unknown number of items in a list DocX has implemented [loops](h
 
 After the pipe are filter expressions. You can use these to alter the input text before it is placed in the document. Currently supported filter expressions include
 
-||||
-|--- |--- |--- |
 |Expression|Description|Example|
-|upper|Sets the text to be uppercase|`\{project.title | upper}`|
-|endOf|Moves a date to the end of the given unit
-          Units:
+|--- |--- |--- |
+| upper | Sets the text to be uppercase | `{project.title \| upper}` |
+| endOf | Moves a date to the end of the given unit*| `{project.start_date \| endOf:'week'}`|
+| startOf | Moves a date to the start of the given unit |`{project.start_date \| startOf:'week'}`|
+| format | Formats a given date. See [supported date formats](https://moment.github.io/luxon/#/formatting?id=table-of-tokens) | `{project.start_date \| format:'dd-MM-yy'}` |
+| currency | Formats a given number to the specified locale and currency. Locale defaults to 'en-au' and currency defaults to 'AUD'|`{project.cost \| currency:'en-de':'USD'}`|
+| where | Filters an array by the specified string expression|`{project.tasks \| where:"status != 'Completed'"}`|
+| sumBy | Sums an array by the specified field|`{projects.invoices \| sumBy:"amount"}`|
+| parse | Given a bunch of JSON data in a string, parses into JSON object.|`{#projects.tasks \| parse} {assigned_to} {}`|
 
-          - year
-          - quarter
-          - month
-          - week
-          - day
-          - hour
-          - minute
-          - second
-          - millisecond|`\{project.start_date | endOf:'week'}`|
-|startOf|Moves a date to the start of the given unit|`\{project.start_date | startOf:'week'}`|
-|format|Formats a given date.
+**Units:*
+- year
+- quarter
+- month
+- week
+- day
+- hour
+- minute
+- second
+- millisecond
 
-        See [supported date formats](https://moment.github.io/luxon/#/formatting?id=table-of-tokens)|`\{project.start_date | format:'dd-MM-yy'}`|
-|currency|Formats a given number to the specified locale and currency.
-
-        Locale defaults to 'en-au' and currency defaults to 'AUD'|`\{project.cost | currency:'en-de':'USD'}`|
-|where|Filters an array by the specified string expression|`\{project.tasks | where:"status != 'Completed'"}`|
-|sumBy|Sums an array by the specified field|`\{projects.invoices | sumBy:"amount"}`|
-|parse|Given a bunch of JSON data in a string, parses into JSON object.|`\{#projects.tasks | parse} \{assigned_to} \{}`|
 
 
 ## Document Themes
