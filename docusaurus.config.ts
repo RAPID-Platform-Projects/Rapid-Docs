@@ -1,6 +1,7 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import path from 'path';
 
 const config: Config = {
   title: "Rapid Platform Docs",
@@ -49,6 +50,17 @@ const config: Config = {
         }
       } satisfies Preset.Options
     ]
+  ],
+
+  plugins: [
+    ['@docusaurus/plugin-content-docs', {
+      id: 'training',
+      path: 'training',
+      routeBasePath: '/training',
+    }],
+    ['./plugins/rapid-training-packs-plugin/index.ts', {
+      dir: './training', sidebarPath: './training-sidebars.ts'
+    }]
   ],
 
   themeConfig: {
@@ -102,6 +114,11 @@ const config: Config = {
             }
           ],
           dropdownActiveClassDisabled: true
+        },
+        {
+          to: "training",
+          position: "left",
+          label: "Training"
         },
         {
           to: "changelog",
@@ -167,7 +184,7 @@ const config: Config = {
     colorMode: {
       respectPrefersColorScheme: true
     }
-  } as Preset.ThemeConfig
+  } as Preset.ThemeConfig,
 };
 
 export default config;
