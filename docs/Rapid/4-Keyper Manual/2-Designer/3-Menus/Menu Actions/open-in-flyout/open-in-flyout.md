@@ -31,7 +31,7 @@ Sometimes you may want to manually enter the **Open in Flyout** configuration. F
 2. Click New Blank Item
 3. Drag and drop the menu button to the desired position in the hierarchy
 4. Select **Open in Flyout** from the On-Click Action
-5. Enter the Page ID (The Page ID is simply the Page title. See the Pages Manager section of - [All About Pages in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer) to find out how to access a list of all page titles)
+5. Enter the Page ID (The Page ID is simply the Page title. See the Pages Manager section of - [All About Pages in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md) to find out how to access a list of all page titles)
 6. Save
 
 ![Create new blank menu item](<Create blank menu item.png>)

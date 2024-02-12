@@ -4,7 +4,7 @@ It is possible to collect one or more custom entities into a package that can be
 
 Tables that collide with existing Tables will abort the installation of a bundle. Pages that collide will be replaced. Menus will never collide and are simply additive.
 
-Bundles can be generated from a site that already has tables/pages/menus configured using the Download feature. See [Bundle Installation](https://docs.rapidplatform.com/books/designer/page/bundle-installation "Bundle Installation").
+Bundles can be generated from a site that already has tables/pages/menus configured using the Download feature. See [Bundle Installation](/docs/Rapid/4-Keyper%20Manual/2-Designer/9-Advanced/bundles/bundles.md "Bundle Installation").
 
 ## Bundle Contents
 
@@ -219,4 +219,4 @@ Template Bundle JSON
 
 ## **Related articles**
 
-[**ADVANCED Bundle Installation**](https://docs.rapidplatform.com/books/designer/page/advanced-bundle-installation)
+[**ADVANCED Bundle Installation**](/docs/Rapid/4-Keyper%20Manual/2-Designer/9-Advanced/bundles/bundles.md)
