@@ -2,26 +2,26 @@
 
 ## Data Table component overview
 
-Imagine you are the Project Manager and wish to view the list of all "Active" Projects. This list is possible on the [**Page**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component") using the Data Table component.
+Imagine you are the Project Manager and wish to view the list of all "Active" Projects. This list is possible on the [Page](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns "Page, layout and component") using the Data Table component.
 
-In simple words, a data table component allows you to insert a view of the [**data table**](https://docs.rapidplatform.com/books/glossary/page/data-table "Data Table") to a Page.
+In simple words, a data table component allows you to insert a view of the [data table](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns#data-table "Data Table") to a Page.
 
 Therefore to display a list of items, you need to:
 
 1. Define which table you want the system to refer.
-2. Define the [**Table View**](https://docs.rapidplatform.com/books/experiences-oxn/page/data-table-component-views "Data Table Component - Views") you want to set for displaying the Table Data.
+2. Define the [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") you want to set for displaying the Table Data.
 
 ## How to set up a Data Table component in Designer
 
-- You can [**add the Data Table component on to the Layout / Page**](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). The Data Table component is present on the Item Group (Plural) Details breakpoint [**by default**](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation "How to configure Item Details and Item Creation?"). It is set to the subject Table and All View. 
+- You can [add the Data Table component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/data-table/data-table.md "How to add a component to a Layout / Page?"). The Data Table component is present on the Item Group (Plural) Details breakpoint [by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?"). It is set to the subject Table and All View. 
 
     ![Data table in component list](<Data table in component list.png>)
 - You can Add the Data Table component on both ***Singular Item Details breakpoint Pages*** as well as ***Plural Item Group Details Breakpoint***.
-- If the Data Table component is on a Grid Layout, you can [**resize and move the component over the layout**](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
-- You can set the [**visibility of Data Table on the Details breakpoint**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").  
+- If the Data Table component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
+- You can set the [visibility of Data Table on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").  
 
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the [**visibility of Data Table on the Create Screen breakpoint**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). Although, it must be noted that Data Table component on Create Screen does not serve any logical purpose and hence should most likely be turned OFF. 
+- You can set the [visibility of Data Table on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). Although, it must be noted that Data Table component on Create Screen does not serve any logical purpose and hence should most likely be turned OFF. 
 
     ![Display toggle](<../Display toggle.png>)
 - As the Data Table component is added to the Layout / Page, it is shown as Red. This indicates the component configuration is missing. 
@@ -69,6 +69,6 @@ Therefore to display a list of items, you need to:
 
 ## Related articles
 
-[**Form component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-form-component-on-a-layout-page "What is a Form Component on a Layout / Page?")
+[Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")
 
-[**Activity Feed component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-activity-feed-component-on-a-layout-page "What is an Activity Feed component on a Layout / Page?")
+[Activity Feed component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/activity-feed/activity-feed.md "What is an Activity Feed component on a Layout / Page?")

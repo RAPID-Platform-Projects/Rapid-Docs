@@ -25,7 +25,7 @@ If any of the above types are missing, then the Board component cannot be config
 
 ## How to set up Board component in Designer
 
-- You can **[add the Board component on to the Layout / Page](../../../2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
+- You can **[add the Board component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
     
     ![Component list](<Component list.png>)
 
@@ -33,7 +33,7 @@ If any of the above types are missing, then the Board component cannot be config
     
     ![Errored board component](<Errored board component.png>)
     
-- If the Board component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+- If the Board component is on a Grid Layout, you can **[resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").**
 - You can set the **[visibility of Board on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
     ![Visibility toggle](<../Visiblity toggle.png>)
@@ -105,6 +105,6 @@ Following is the brief description of each field:
 
 ## Related articles
 
-[**Pipeline component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-pipeline-component-on-a-layout-page "What is a Pipeline component on a Layout / Page?")
+[Pipeline component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/pipeline/pipeline.md "What is a Pipeline component on a Layout / Page?")
 
-**[Gantt Chart component](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?")**
+[Gantt Chart component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/gantt-chart/gantt-chart.md "How to configure the Page - Gantt Chart Component?")

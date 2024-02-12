@@ -28,8 +28,8 @@ Please refer to the below video for illustration.
 
 ## Related articles
 
-[How to set a component to be visible / hidden on the 'Item Details' and 'Create' screens?](../../../2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on the 'Item Details' and 'Create' screens?")
+[How to set a component to be visible / hidden on the 'Item Details' and 'Create' screens?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on the 'Item Details' and 'Create' screens?")
 
-[How to delete a component from a Layout / Page?](../../../2-Pages/5-how-to-guides/how-to-delete-a-component-from-a-page/how-to-delete-a-component-from-a-page.md "How to delete a component from a Layout / Page?")
+[How to delete a component from a Layout / Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-layout-from-a-page/how-to-delete-a-layout-from-a-page.md "How to delete a component from a Layout / Page?")
 
-[How to delete a Layout from a Page?](../../../2-Pages/5-how-to-guides/how-to-delete-a-layout-from-a-page/how-to-delete-a-layout-from-a-page.md "How to delete a Layout from a Page?")
+[How to delete a Layout from a Page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-delete-a-layout-from-a-page/ "How to delete a Layout from a Page?")

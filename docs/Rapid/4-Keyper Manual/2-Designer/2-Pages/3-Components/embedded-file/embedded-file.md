@@ -35,11 +35,11 @@ Case 2:
 
 Imagine a Project Manager manages a Projects Table. From within the Projects Table Item (in Explorer), the Project Manager wants to view a file uploaded in the Project Tasks Item.
 
-The above are possible using the Embedded Files component.Because the embedded file definition includes a location in SharePoint, that location could be an items folder. This would allow you to see the file within the items’ **[File Browser.](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?")**
+The above are possible using the Embedded Files component.Because the embedded file definition includes a location in SharePoint, that location could be an items folder. This would allow you to see the file within the items’ [File Browser.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-browser/file-browser.md "What is a File Browser component on a Layout / Page?")
 
 **How is Embedded Files different from Files of Linked Item?**
 
-[Linked items also provide the ability to view files uploaded into a Table Item's Files Tab from another Table's Item's File Tab.](https://docs.rapidplatform.com/books/experiences/page/how-to-view-update-table-options-of-an-existing-table-in-designer#bkmrk-5.-copy-linked-items) However, this causes the item's file folder to act as if it was the linked item folder. Effectively both items ‘share’ a single location to store files.
+Linked items also provide the ability to view files uploaded into a Table Item's Files Tab from another Table's Item's File Tab. However, this causes the item's file folder to act as if it was the linked item folder. Effectively both items ‘share’ a single location to store files.
 
 **How is Embedded Files different from Attachments component and File Browser component?**
 
@@ -77,7 +77,7 @@ In the current version (v1.31) of Rapid Platform, there are two ways to configur
         
 - Once you have configured all the fields, Press Save.
 
-When you have configured an Embedded File component from the Options Tab of the Table, you need to define where to make it **[visible on the Tab Strip.](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages#bkmrk-tab-strip-0)**
+When you have configured an Embedded File component from the Options Tab of the Table, you need to define where to make it [visible on the Tab Strip.](https://docs.rapidplatform.com/books/experiences/page/what-are-the-available-layouts-for-pages#bkmrk-tab-strip-0)
 
 **Please note :**
 
@@ -86,15 +86,15 @@ When you have configured an Embedded File component from the Options Tab of the 
 ### Via the Add Component Panel
     
     
-- Just like any other component, you can **[add the Embedded Files component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Embedded File component is not present anywhere by default. 
+- Just like any other component, you can [add the Embedded Files component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?"). The Embedded File component is not present anywhere by default. 
 
     ![Component list](<Component list.png>)
-- If the Embedded File component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
+- If the Embedded File component is on a Grid Layout, you can [resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").
 
 - You can set the [visibility of Embedded File on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of Embedded File on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the [visibility of Embedded File on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Dsiplay toggle](<../Display toggle.png>)
 - You can configure the Embedded File component by clicking on the Edit (pencil) icon.   
@@ -119,8 +119,8 @@ When you have configured an Embedded File component from the Options Tab of the 
 
 ## Related articles
 
-[**Linked Items component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-linked-items-component-on-a-layout-page "What is a Linked Items component on a Layout / Page?")
+[Linked Items component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-linked-items-component-on-a-layout-page "What is a Linked Items component on a Layout / Page?")
 
-[**Attachments component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-attachments-component-on-a-layout-page "What is an Attachments component on a Layout / Page?")
+[Attachments component](https://docs.rapidplatform.com/books/experiences/page/what-is-an-attachments-component-on-a-layout-page "What is an Attachments component on a Layout / Page?")
 
-[**File Browser component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?")
+[File Browser component](https://docs.rapidplatform.com/books/experiences/page/what-is-a-file-browser-component-on-a-layout-page "What is a File Browser component on a Layout / Page?")
