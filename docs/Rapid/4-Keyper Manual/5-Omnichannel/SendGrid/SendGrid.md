@@ -21,6 +21,3 @@ Here is a link to the video showcasing the whole process :
 [Sendgrid setup and RAPID integration.mp4](https://simpliltd.sharepoint.com/:v:/s/Internal/EZG3Z7Y2n-FEqkK97dCoLvEB7QXKz3sfKahlfuM05YRtPQ?e=0x2u1R)
 
 <iframe allowfullscreen="allowfullscreen" height="314" src="https://www.youtube.com/embed/61JJU77jObU" width="560"></iframe>
-
-<div id="bkmrk--1" ><div >  
-</div></div>
