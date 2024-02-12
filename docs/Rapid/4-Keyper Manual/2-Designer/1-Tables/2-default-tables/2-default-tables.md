@@ -50,3 +50,11 @@ Despite not being able to manually delete entries in this list, or manually modi
 ## Tasks
 
 There are multiple page components and Rapid experiences that are dependant on the Tasks table. It is the backbone for My Work and ToDo where one work item or notification represents one task.
+
+[How to create a new table in Rapid Platform?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
+
+[How to view / update table options of an existing table in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update table options of an existing table in Designer?")
+
+[How to add a new column to a table?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md "How to add columns to a data table?")
+
+[How to edit / delete a column from a table?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-edit-delete-a-column-from-a-table/how-to-edit-delete-a-column-from-a-table.md "How to edit / delete a column from a table?")
