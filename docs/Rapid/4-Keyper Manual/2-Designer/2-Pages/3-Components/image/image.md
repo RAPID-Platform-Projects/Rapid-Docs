@@ -16,7 +16,7 @@ Steps for inserting and configuring an image into the image component:
 
 1. Upload your subject image on a Image hosting site.
 2. The image hosting site will provide a URL reference to the image.
-3. Navigate to desired [page](/docs/Rapid/3-User%20Manual/Glossary#page-layout-and-component "Page, layout and component") in Rapid Platform.
+3. Navigate to desired [page](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page-layout-and-component "Page, layout and component") in Rapid Platform.
 4. [Add an Image component to the Page.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")   
 
     ![Image in component selection list](<Image in component selection list.png>)
