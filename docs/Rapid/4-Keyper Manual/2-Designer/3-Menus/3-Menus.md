@@ -8,8 +8,8 @@ The Menu options can be seen in the Designer Sidebar.
 
 In principle there are two main applications of Menus to a user:
 
-1. [Configuring the Sidebars (for Explorer and Designer).](https://docs.rapidplatform.com/books/experiences/page/how-to-customise-sidebars-using-menus "How to customise Sidebars using Menus?")
-2. [Configuring the command bar in Explorer view of a data table.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-a-menu-button-in-a-command-bar "How to configure a Menu button in a command bar?")
+1. [Configuring the Sidebars (for Explorer and Designer).](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to customise Sidebars using Menus?")
+2. [Configuring the command bar in Explorer view of a data table.](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md "How to configure a Menu button in a command bar?")
 
 ## Properties of a menu item
 

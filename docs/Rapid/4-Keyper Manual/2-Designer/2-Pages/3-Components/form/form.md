@@ -15,7 +15,7 @@ The Form component allows you to add and arrange fields. You can consider this l
 
 A Form component is among the fundamental components needed for Data Table functionality.
 
-Please refer to [How to configure Singular - Item Details](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation#bkmrk-how-to-configure-sin-0) for a step by step instruction on configuring a Form Component for a Table.
+Please refer to [How to configure Singular - Item Details](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md) for a step by step instruction on configuring a Form Component for a Table.
 
 While a Form component is present by default on the Item Details Tab, you can add one or more Forms to Layouts/ Pages as needed.
 
