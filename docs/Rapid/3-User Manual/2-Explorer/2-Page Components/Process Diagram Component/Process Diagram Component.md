@@ -1,4 +1,4 @@
-## **What is a Process Diagram component ?**
+# What is a Process Diagram component?
 
 As the name suggests, a Process Diagram component will display the Process Diagram on a page. If this component is added properly, it will display the relevant Process Diagram associated with the item on the page.
 
@@ -25,7 +25,7 @@ The Item Details page can have more details than just the Process Diagram Compon
 Here we can observe other fields apart from the Process Diagram Component.
 :::
 
-### Interpreting the Process Diagram run  
+## Interpreting the Process Diagram run  
 
 The Process Run of workflow in Explorer helps us to interpret the execution of elements (events, tasks, gateways) based on a colour scheme.
 
@@ -37,7 +37,7 @@ The Process Run of workflow in Explorer helps us to interpret the execution of e
 
 4. Colourless - this indicates that the token has not reached the subject element yet on the path.
 
-### Open Tasks from Process Diagram Component
+## Open Tasks from Process Diagram Component
 
 You can double click on ***Active (Orange)*** or ***Successfully Completed (Green)*** UserTasks to open the corresponding Task Item Profile.
 
@@ -50,7 +50,7 @@ You can double click on ***Active (Orange)*** or ***Successfully Completed (Gree
 2. Clicking on Colourless or Red UserTasks would not navigate you to the corresponding Task Item Profile. This is because the system did not actionise such tasks.
 :::
 
-### Navigate to diagram with Process Run
+## Navigate to diagram with Process Run
 
 If you are viewing a specific process run for a workflow diagram, you can click on "Edit Diagram" button. 
 

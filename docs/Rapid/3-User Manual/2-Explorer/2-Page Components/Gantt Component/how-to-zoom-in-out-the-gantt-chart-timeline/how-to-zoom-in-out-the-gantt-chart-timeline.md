@@ -22,7 +22,7 @@ The below image shows Year Level
 
 ![year GAntt.png](./downloaded_image_1705285775361.png)
 
-##### **How to shift between Zoom levels?**
+## How to shift between Zoom levels?
 
 Observe there are two buttons in the command bar - Lens (+) and Lens (-) icons.
 
@@ -49,7 +49,7 @@ Please view the below GIF for illustration
 
 ![Example gif](oUbQH0yqmSeuBrTn-zoom-480p-230912.gif)
 
-##### **Related articles**
+## Related articles
 
 [How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart.md> "How to Hide / Show the Left Panel in Gantt Chart?")
 
