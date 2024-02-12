@@ -87,6 +87,6 @@ Please consider the below links to learn more about Pages in Designer
 
 ## Related articles
 
-**[All about *Tables* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")**
+[All about *Tables* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-tables-in-designer "All about Tables in Designer")
 
-[**All about *Menus* in Designer**](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-designer "All about Menus in Designer")
+[All about *Menus* in Designer](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-designer "All about Menus in Designer")
