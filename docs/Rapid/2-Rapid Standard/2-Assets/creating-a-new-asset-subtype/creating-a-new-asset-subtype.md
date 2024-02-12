@@ -29,7 +29,7 @@ If you wish to create an additional asset subtype alongside "IT Assets" or "Vehi
 
     ![image-1702446158934.png](./downloaded_image_1705285242242.png)
 
-8. Add relevant columns to the table for fields you want to capture additional data. In this example we will add a choice field called location which will state which room the equipment is located. For more information on creating columns and column types see the following documentation on [Creating Columns](https://docs.rapidplatform.com/books/experiences/page/how-to-add-columns-to-a-data-table)
+8. Add relevant columns to the table for fields you want to capture additional data. In this example we will add a choice field called location which will state which room the equipment is located. For more information on creating columns and column types see the following documentation on [Creating Columns](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md)
 
     1. Press create column 
 
@@ -39,8 +39,8 @@ If you wish to create an additional asset subtype alongside "IT Assets" or "Vehi
 
         ![image-1702446354964.png](./downloaded_image_1705285244284.png)
 
-    3. Add your columns to the form by clicking the Design Tab (For more information on how to add all the fields in a more structured way see the following documentation on [Pages](https://docs.rapidplatform.com/books/experiences/page/all-about-pages-in-designer)
+    3. Add your columns to the form by clicking the Design Tab (For more information on how to add all the fields in a more structured way see the following documentation on [Pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md)
 
     4. Press Save
     
-    5. Add your new table to the explorer sidebar (to see more details on how to do this see [Customizing the Sidebar](https://docs.rapidplatform.com/books/experiences/page/how-to-customise-sidebars-using-menus))
+    5. Add your new table to the explorer sidebar (to see more details on how to do this see [Customizing the Sidebar](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-Setting%20up%20your%20sidebar/1-Setting%20up%20your%20sidebar.md))

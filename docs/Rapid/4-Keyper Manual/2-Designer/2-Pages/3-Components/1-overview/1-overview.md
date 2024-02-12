@@ -1,8 +1,8 @@
 # Componant Breakdown
 
-Components in Rapid Platform enable users to view and interact with information in a specific manner. For example - [**Gantt Chart**](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?") is a component which can allow user view and interact with tasks against timeframe. Similar other components allow you to interact with data in a specific manner.
+Components in Rapid Platform enable users to view and interact with information in a specific manner. For example - [**Gantt Chart**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/gantt-chart/gantt-chart.md "How to configure the Page - Gantt Chart Component?") is a component which can allow user view and interact with tasks against timeframe. Similar other components allow you to interact with data in a specific manner.
 
-A component can only be configured over a [**Page**](https://docs.rapidplatform.com/books/glossary/page/page-layout-and-component "Page, layout and component").
+A component can only be configured over a [**Page**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page-layout-and-component "Page, layout and component").
 
 In Rapid Platform you can work with a set of 19 components. Click on each of the links to learn about them:
 
