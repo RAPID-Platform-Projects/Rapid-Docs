@@ -27,7 +27,3 @@ To generate the API key in SendGrid before adding it to your Rapid site:
 ![Picture 19.png](./downloaded_image_1705285888587.png)
 
 ![Picture 20.png](./downloaded_image_1705285889607.png)
-
-:::info
-Tip! - For more detailed information on API Key setup in SendGrid, please refer - [docs.sendgrid.com/ui/account-and-settings/api-keys](https://docs.rapidplatform.com/docs.sendgrid.com/ui/account-and-settings/api-keys)
-:::

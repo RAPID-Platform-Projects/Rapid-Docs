@@ -22,5 +22,4 @@ Here is a link to the video showcasing the whole process :
 
 <iframe allowfullscreen="allowfullscreen" height="314" src="https://www.youtube.com/embed/61JJU77jObU" width="560"></iframe>
 
-<div id="bkmrk--1" ><div >  
-</div></div>
+<div id="bkmrk--1"><div></div></div>
