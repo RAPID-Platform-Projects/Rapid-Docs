@@ -4,7 +4,7 @@
 
 Imagine you are a Sales Manager. You work with the Sales Leads Table.
 
-Now, you want to see the progression of a lead across the Sales Funnel. Let us assume there is a **[Choice Type](https://docs.rapidplatform.com/books/experiences/page/how-to-add-columns-to-a-data-table "How to add columns to a data table?")** field "***Sales Stage*"** with choice option values as:
+Now, you want to see the progression of a lead across the Sales Funnel. Let us assume there is a [Choice Type](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md "How to add columns to a data table?") field "***Sales Stage*"** with choice option values as:
 
 - ***Lead***
 - ***Prospect***
@@ -21,14 +21,14 @@ We can think of Pipeline Component as a visual representation of sequential choi
 
 ## How to set up Pipeline component in Designer
 
-- You can **[add the Pipeline component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Pipeline component is not present anywhere by default.  
+- You can [add the Pipeline component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The Pipeline component is not present anywhere by default.  
 
     ![Component list](<Component list.png>)
-- If the Pipeline component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
-- You can set the **[visibility of Pipeline on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- If the Pipeline component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
+- You can set the **[visibility of Pipeline on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of Pipeline on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").** 
+- You can set the [visibility of Pipeline on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
 
     ![Display toggle](<../Display toggle.png>)
 - You can make it mandatory for the user to select a value from the Pipeline component by clicking on the \* button. If the icon turns red, it means the field is mandatory (required) field. A white \* icon denotes non-mandatory field. You can toggle by clicking on the icon.   
@@ -62,7 +62,7 @@ We can think of Pipeline Component as a visual representation of sequential choi
 
 ## Related articles
 
-[**Board component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-board-component-on-a-layout-page "What is a Board component on a Layout / Page?")
+[Board component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/board/board.md "What is a Board component on a Layout / Page?")
 
-**[Gantt Chart component](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-the-page-gantt-chart-component "How to configure the Page - Gantt Chart Component?")**
+[Gantt Chart component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/gantt-chart/gantt-chart.md "How to configure the Page - Gantt Chart Component?")
 

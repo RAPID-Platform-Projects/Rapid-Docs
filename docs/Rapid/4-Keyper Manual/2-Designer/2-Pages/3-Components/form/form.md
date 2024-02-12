@@ -15,25 +15,25 @@ The Form component allows you to add and arrange fields. You can consider this l
 
 A Form component is among the fundamental components needed for Data Table functionality.
 
-Please refer to ***[How to configure Singular - Item Details](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation#bkmrk-how-to-configure-sin-0)*** for a step by step instruction on configuring a Form Component for a Table.
+Please refer to [How to configure Singular - Item Details](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation#bkmrk-how-to-configure-sin-0) for a step by step instruction on configuring a Form Component for a Table.
 
 While a Form component is present by default on the Item Details Tab, you can add one or more Forms to Layouts/ Pages as needed.
 
 
 ## How to set up Form component in Designer
 
-- You can **[add the Form component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. The Form component is present on the **[Item Details Tab (singular) by default.](https://docs.rapidplatform.com/books/experiences/page/how-to-configure-item-details-and-item-creation#bkmrk-the-defaults-on-a-de) 
+- You can [add the Form component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The Form component is present on the [Item Details Tab (singular) by default.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md) 
 
     ![Form component in list](<Component list.png>)
-- If the Form component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").** Also please note that within the Form component, you can resize and move the fields.
-- You can set the **[visibility of Form on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").** Also please note that setting Form invisible from Details breakpoint will hide all its fields as well. 
+- If the Form component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?"). Also please note that within the Form component, you can resize and move the fields.
+- You can set the [visibility of Form on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). Also please note that setting Form invisible from Details breakpoint will hide all its fields as well. 
 
     ![Visibility toggle](<../Visiblity toggle.png>)
 - Within the Form component, you can set the visibility of individual fields on the Details breakpoint.   
 
     ![Toggle the visibility on a form](<Toggle visiblity on form.png>)
 
-- You can set the **[visibility of Form on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on "Item Details" and "Create" breakpoints?").** Also please note that setting Form invisible from Create Screen breakpoint will hide all its fields as well.  
+- You can set the [visibility of Form on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). Also please note that setting Form invisible from Create Screen breakpoint will hide all its fields as well.  
 
     ![Display toggle](<../Display toggle.png>)
 - Within the Form component, you can set the visibility of individual fields on the Create Screen breakpoint.  
@@ -59,7 +59,7 @@ While a Form component is present by default on the Item Details Tab, you can ad
 
     ![Adding fields using the + button](<Add fields to a form using the plus.png>)
 - Within the Form Fields panel: 
-    - You can add a [**Label component with in the Form.**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-label-component "What is a Label component?")  
+    - You can add a [**Label component with in the Form.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/label/label.md "What is a Label component?")  
 
         ![Adding a label from the component picker](<Add a label to a form.png>)
         - You can select all columns and deselect all columns in the Form Fields panel with a single click.   
@@ -98,6 +98,6 @@ While a Form component is present by default on the Item Details Tab, you can ad
 
 ## Related articles
 
-[**Embedded Form component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-embedded-form-component-on-a-layout-page "What is a Embedded Form component on a Layout / Page?")
+[Embedded Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-form/embedded-form.md "What is a Embedded Form component on a Layout / Page?")
 
-[**Label component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-label-component "What is a Label component?")
+[Label component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/label/label.md "What is a Label component?")

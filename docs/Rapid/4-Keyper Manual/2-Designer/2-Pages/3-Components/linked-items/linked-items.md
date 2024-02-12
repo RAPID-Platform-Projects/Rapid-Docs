@@ -2,7 +2,7 @@
 
 ## Linked Items component overview
 
-As the name suggests, the Linked Items component will display the list of universal [links created for the item](https://docs.rapidplatform.com/books/experiences/page/how-to-create-items-for-a-table-from-a-linked-table). The list of linked items can be viewed from within the Explorer (link icon at the top right corner).   
+As the name suggests, the Linked Items component will display the list of universal [links created for the item](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/creating-items-within-items/creating-items-within-items.md). The list of linked items can be viewed from within the Explorer (link icon at the top right corner).   
 
 ![Linked items Explorer example](<Linked items Explorer example.png>)
 
@@ -12,14 +12,14 @@ The Linked Items component can be easily configured on a page, providing ample s
 
 ## How to set up Linked Items component in Designer
 
-- You can **[add the Linked Items component on to the Layout / Page](https://docs.rapidplatform.com/books/experiences/page/how-to-add-a-component-to-a-layout-page "How to add a component to a Layout / Page?")**. This component is not present anywhere by default. 
+- You can [add the Linked Items component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). This component is not present anywhere by default. 
 
     ![Components list](<Components list.png>)
-- If the Linked Items component is on a Grid Layout, you can **[resize and move the component over the layout](https://docs.rapidplatform.com/books/experiences/page/how-to-arrange-a-component-on-grid-layout "How to arrange a component on Grid layout?").**
-- You can set the **[visibility of Linked Items on the Details breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- If the Linked Items component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
+- You can set the **[visibility of Linked Items on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Visibility toggle](<../Visiblity toggle.png>)
-- You can set the **[visibility of Linked Items on the Create Screen breakpoint](https://docs.rapidplatform.com/books/experiences/page/how-to-set-a-component-to-be-visible-hidden-on-item-details-and-create-breakpoints "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
+- You can set the **[visibility of Linked Items on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
     ![Display toggle](<../Display toggle.png>)
 
@@ -30,6 +30,6 @@ The Linked Items component can be easily configured on a page, providing ample s
 
 ## Related articles
 
-[**Embedded Files component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-embedded-files-component-on-a-layout-page "What is an Embedded Files component on a Layout / Page?")
+[Embedded Files component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?")
 
-[**Embedded Form component**](https://docs.rapidplatform.com/books/experiences/page/what-is-a-embedded-form-component-on-a-layout-page "What is a Embedded Form component on a Layout / Page?")
+[Embedded Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-form/embedded-form.md "What is a Embedded Form component on a Layout / Page?")

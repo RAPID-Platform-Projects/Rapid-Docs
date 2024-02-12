@@ -56,6 +56,6 @@ This component enables you to display websites and webpages onto your Rapid Page
 
 ## Related articles
 
-[**Image component**](https://docs.rapidplatform.com/books/experiences/page/what-is-an-image-component-on-a-layout-page "What is an Image component on a Layout / Page?")
+[Image component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/image/image.md "What is an Image component on a Layout / Page?")
 
 [Activity Feed component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/activity-feed/activity-feed.md "What is an Activity Feed component on a Layout / Page?")
