@@ -1,6 +1,6 @@
 # Setting up your sidebar
 
-***[Sidebars](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar")*** can be very useful in organizing pages and navigating to the required ones quickly.
+[*Sidebars*](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar") can be very useful in organizing pages and navigating to the required ones quickly.
 
 ## Overview
 
@@ -33,8 +33,6 @@ The below video shows additional detail on how to customize the Sidebar:
 
 ## Related articles
 
-[How to add new menu items?](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-menu-item-set-display-text-and-icon "How to create a new menu item, set display text and icon?")
+[How to add new menu items?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to create a new menu item, set display text and icon?")
 
-[How to re-arrange menu items in tree?](https://docs.rapidplatform.com/books/experiences/page/how-to-rearrange-menu-buttons-on-home-screen "How to rearrange menu buttons on Home Screen?")
-
-[How to add a menu item below an existing item?](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-add-an-item-below-an-existing-item "How to edit / delete / add an item below an existing item?")
+[How to add a menu item below an existing item?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-add-a-menu-below/how-to-add-a-menu-below.md "How to edit / delete / add an item below an existing item?")

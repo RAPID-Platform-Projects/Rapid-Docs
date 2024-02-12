@@ -1,10 +1,10 @@
 # How to link a menu item to a table
 
-***This is configurable on both the [Side Bar](https://docs.rapidplatform.com/books/glossary/page/sidebar) and [Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar) menu types.***
+***This is configurable on both the [Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar) and [Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar) menu types.***
 
 ## Overview
 
-[***Menu buttons***](https://docs.rapidplatform.com/books/glossary/page/menu "Menu item") can be used for effective navigation.
+[***Menu buttons***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu-item "Menu item") can be used for effective navigation.
 
 Imagine you wish to view all the leads in the system or all the invoices at the click of a button. This can be easily configured using the Menu Button.
 
@@ -32,12 +32,10 @@ To link a menu button to a table:
 
 ## Additional Details
 
-Essentially, setting up a link to table like this configures the menu button with On-Click Action as "***[Open in Flyout](https://docs.rapidplatform.com/books/experiences/page/how-to-open-a-specific-page-in-flyout-with-a-click-of-a-menu-button "How to open a specific page in Flyout with a click of a Menu button?")***" with Page ID as the &lt;table name&gt;.
+Essentially, setting up a link to table like this configures the menu button with On-Click Action as "[*Open in Flyout*](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/Menu%20Actions/open-in-flyout/open-in-flyout.md "How to open a specific page in Flyout with a click of a Menu button?")" with Page ID as the &lt;table name&gt;.
 
-The [***display text***](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-menu-item-set-display-text-and-icon "How to create a new menu item, set display text and icon?") is by default set as the Table name and [***icon***](https://docs.rapidplatform.com/books/experiences/page/how-to-create-a-new-menu-item-set-display-text-and-icon "How to create a new menu item, set display text and icon?") is set as Table icon.
+The [***display text***](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to create a new menu item, set display text and icon?") is by default set as the Table name and [***icon***](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/ "How to create a new menu item, set display text and icon?") is set as Table icon.
 
 ## Related articles
 
-**[Add a new menu item, display text and icon on a menu button ](https://docs.rapidplatform.com/books/experiences/page/how-to-set-display-text-and-icon-for-a-menu-item "How to set display text and icon for a menu item?")**
-
-**[Various types of On-Click Action](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")**
+[Various types of On-Click Action](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/1-how-to-set-on-click-action-for-a-menu/1-how-to-set-on-click-action-for-a-menu.md "How to set On-Click Action for a menu item?")

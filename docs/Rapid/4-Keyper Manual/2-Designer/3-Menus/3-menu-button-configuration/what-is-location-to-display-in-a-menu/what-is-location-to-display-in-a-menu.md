@@ -1,6 +1,6 @@
 # What is 'Location to Display' option in a Menu setup
 
-This is configurable on the ***[Command Bar](https://docs.rapidplatform.com/books/glossary/page/command-bar)*** menu type.
+This is configurable on the ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu type.
 
 ![Location to Display config location](<Location to Display configuration location.png>)
 
@@ -40,10 +40,10 @@ Selecting both will result in the menu button appearing on both the Table and th
 
 ## Related articles
 
-**[Displaying text and icon on a menu button ](https://docs.rapidplatform.com/books/experiences/page/how-to-set-display-text-and-icon-for-a-menu-item "How to set display text and icon for a menu item?")**
+[Displaying text and icon on a menu button ](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to set display text and icon for a menu item?")
 
-**[Various types of On-Click Action](https://docs.rapidplatform.com/books/experiences/page/how-to-set-on-click-action-for-a-menu-item "How to set On-Click Action for a menu item?")**
+[Various types of On-Click Action](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "How to set On-Click Action for a menu item?")
 
-**[Save Intention field](https://docs.rapidplatform.com/books/experiences/page/what-is-save-intention-option-in-a-menu-setup "What is Save Intention option in a Menu setup?")**
+[Save Intention field](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-save-intention-in-a-menu/what-is-save-intention-in-a-menu.md "What is Save Intention option in a Menu setup?")
 
-[**Giving permissions to users for menu buttons**](https://docs.rapidplatform.com/books/experiences/page/how-to-set-permissions-for-a-menu-button "How to set Permissions for a Menu button?")
+[Giving permissions to users for menu buttons](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-set-permission-on-a-menu/how-to-set-permission-on-a-menu.md "How to set Permissions for a Menu button?")

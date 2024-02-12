@@ -1,6 +1,6 @@
 # How to edit / delete / add an item below an existing item
 
-Each [***menu item***](https://docs.rapidplatform.com/books/glossary/page/menu-item "Menu item") created in has three options.  
+Each [***menu item***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu-item "Menu item") created in has three options.  
 
 ![Menu Anatomy](<Menu Anatomy.png>)
 
@@ -26,6 +26,4 @@ Your changes will be visible on the related menu.
 
 ## Related articles
 
-[How to create a new menu item?](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-dezigna "All about Menus in Dezigna")
-
-[All about Menus](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-dezigna "All about Menus in Dezigna")
+[All about Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "All about Menus in Dezigna")

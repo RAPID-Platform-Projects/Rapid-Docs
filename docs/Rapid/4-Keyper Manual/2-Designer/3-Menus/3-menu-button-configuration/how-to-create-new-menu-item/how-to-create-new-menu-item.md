@@ -2,7 +2,7 @@
 
 One of the most fundamental actions in this discussion is - how to create a new menu item?
 
-Creating a new Menu item is same through all functions - [***Sidebars***](https://docs.rapidplatform.com/books/glossary/page/sidebar "Sidebar") or ***[Command bar](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")***. There are some default menu items already prepared by the system. You can create new items in the tree.
+Creating a new Menu item is same through all functions - [***Sidebars***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar") or ***[Command bar](https://docs.rapidplatform.com/books/glossary/page/command-bar "Command bar")***. There are some default menu items already prepared by the system. You can create new items in the tree.
 
 ![New menu page](<New menu item page.png>)
 
@@ -32,6 +32,4 @@ An icon can be selected from the set of existing icons in the system. You can se
 
 ## Related article
 
-[Edit / delete / add an item below an existing item](https://docs.rapidplatform.com/books/experiences/page/how-to-edit-delete-add-an-item-below-an-existing-item "How to edit / delete / add an item below an existing item?")
-
-*[**Go back to Menus Main Page**](https://docs.rapidplatform.com/books/experiences/page/all-about-menus-in-dezigna "All about Menus in Dezigna")*
+[Edit / delete / add an item below an existing item](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-add-a-menu-below/how-to-add-a-menu-below.md "How to edit / delete / add an item below an existing item?")
