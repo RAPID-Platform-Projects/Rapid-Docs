@@ -16,7 +16,7 @@ To create a new column, you need to access the "**Columns**" tab for a table in 
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
 
-   ![Navigate To Designer Tables > All Tables](../../NavigateToDesignerTablesAllTablesImg.png) 
+   ![Navigate To Designer Tables > All Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/NavigateToDesignerTablesAllTablesImg.png) 
 
 2. Select the table you want to add columns to using either the search bar or scrolling to find it  
 
