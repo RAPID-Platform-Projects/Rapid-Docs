@@ -16,7 +16,7 @@ To achieve so you can follow the below steps:
 
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
 
-    ![Open your desired table](../../OpenYourDesiredTable.png)
+    ![Open your desired table](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/OpenYourDesiredTable.png)
 
 3. Select the **Security &amp; Permissions** tab  
 
@@ -43,7 +43,7 @@ To achieve so you can follow the below steps:
 
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
 
-    ![Open your desired table](../../OpenYourDesiredTable.png)
+    ![Open your desired table](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/OpenYourDesiredTable.png)
 
 3. Select the **Security &amp; Permissions** tab  
 
@@ -73,7 +73,7 @@ To configure placeholder permissions, follow the steps below:
 
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
 
-    ![Open your desired table](../../OpenYourDesiredTable.png) 
+    ![Open your desired table](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/OpenYourDesiredTable.png) 
 
 3. Select the **Security &amp; Permissions** tab  
 
