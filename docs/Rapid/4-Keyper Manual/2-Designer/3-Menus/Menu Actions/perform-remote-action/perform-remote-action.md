@@ -1,6 +1,6 @@
 # Perform remote action
 
-This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar)*** menu types.
 
 ## Overview
 
@@ -43,7 +43,7 @@ The Perform Remote Action makes a post request to the specified address.
 
 ## Remote Action Options Further Details
 
-Please note when configuring on the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#side-bar)*** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu)*** menu type.
+Please note when configuring on the ***[Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#side-bar)*** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#menu)*** menu type.
 
 As we can observe, the following fields are prompted by the system upon selection of Perform Remote Action as On-Click Action.
 

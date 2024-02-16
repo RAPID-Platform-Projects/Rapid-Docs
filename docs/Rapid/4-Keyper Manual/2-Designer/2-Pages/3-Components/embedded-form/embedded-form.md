@@ -8,7 +8,7 @@ Imagine a Project Manager is going through a Project Task Item in the Tasks Tabl
 
 **Case 2:**
 
-Imagine a Sales executive is working with a Leads Table. Leads is a [Sub-type of Tasks](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#inherit-table--sub-type-of "Inherit Table / Sub-Type Of") table. Now the job of the Sales Executive is to call the lead, tell them about the offering, and collect their email id. Email id is a field in the Contacts Table. Therefore, the ability to ***update an existing item in another table from within the subject table item.***
+Imagine a Sales executive is working with a Leads Table. Leads is a [Sub-type of Tasks](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-table--sub-type-of "Inherit Table / Sub-Type Of") table. Now the job of the Sales Executive is to call the lead, tell them about the offering, and collect their email id. Email id is a field in the Contacts Table. Therefore, the ability to ***update an existing item in another table from within the subject table item.***
 
 In both the above cases, Embedded Form component can be used.
 

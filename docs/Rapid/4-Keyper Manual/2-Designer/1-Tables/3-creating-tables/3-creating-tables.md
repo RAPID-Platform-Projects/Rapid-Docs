@@ -4,7 +4,7 @@ Creating a data table is among the primary and most critical tasks for a system 
 
 As you know each table is made up of rows and columns.
 
-So we have three [keywords ](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns "Table items and columns")here:
+So we have three [keywords ](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table-items-and-columns "Table items and columns")here:
 
 - Table
 - Columns

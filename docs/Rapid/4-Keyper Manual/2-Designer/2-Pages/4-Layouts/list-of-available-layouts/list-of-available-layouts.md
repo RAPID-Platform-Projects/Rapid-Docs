@@ -1,8 +1,8 @@
 # List of available layouts for Pages
 
-[**Layouts**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#layout "Page, layout and component") are an important part of Page construction.
+[**Layouts**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#layout "Page, layout and component") are an important part of Page construction.
 
-Rapid Platform provides you a set of five layout options to organise [**components**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page-layout-and-component "Page, layout and component") across a [**Page**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component").
+Rapid Platform provides you a set of five layout options to organise [**components**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page-layout-and-component "Page, layout and component") across a [**Page**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page, layout and component").
 
 ![List of layout components](<Layout components list.png>)
 

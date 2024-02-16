@@ -1,6 +1,6 @@
 # How to set Permissions for a Menu button
 
-This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar)*** menu types.
 
 ## Overview
 
