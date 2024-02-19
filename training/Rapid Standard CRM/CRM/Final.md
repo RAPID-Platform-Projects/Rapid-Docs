@@ -1,4 +1,6 @@
-# What happens after I make a sale? 
+# Final
+
+## What happens after I make a sale? 
 
 Congratulations, now that you have made a sale you will want to convert that lead over to a customer. The way we do that is creating an Account that reflects the Company or business name as well as a Contact which would likely be the person you have been speaking to during the sales activities. 
 

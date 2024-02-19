@@ -1,6 +1,6 @@
 # Building a CRM Introduction
 
-## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Rni97X0K50?si=i0qBljCKW65QraGJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Welcome to this Rapid Platform video series, "Building a CRM". The purpose of this video is to show you how easy it is to create a simple CRM using Rapid Platform. I will take you through some system design thinking and the steps needed to build a CRM or Customer Relationship Management system for your business. 
 

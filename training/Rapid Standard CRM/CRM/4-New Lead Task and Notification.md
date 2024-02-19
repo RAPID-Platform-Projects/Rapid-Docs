@@ -1,6 +1,6 @@
 # Part 3: New Lead Task and Notification 
 
-## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zoQny7xswX0?si=9jW0ClU7mOVVYyNX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 One of the main benefits of Rapid Platform is the ability to process drive part of your business. 
 

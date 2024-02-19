@@ -1,6 +1,6 @@
 # Part 2: Managing your New Leads 
 
-## Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zp7WXW_NR8U?si=qHL79NhDXNkkr6dB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Now that we've got our Leads data table and system pages sorted, we're all set to bring in those fresh leads into our CRM. 
 
