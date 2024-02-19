@@ -2,18 +2,41 @@
 
 Here are definitions and references to terms used for discussing RAPID Platform functions and features.
 
-## Designer
+## RAPID Experience
+Experiences are self contained interfaces that interact with your site data for some purpose. These include:
 
-*Designer* is an application in Rapid Platform.
+### Explorer
+A looking glass into your data. Explorer focuses on enabling users to see / edit / delete items in your site for any purpose. Suited best for direct data managmeent.
 
-It helps in defining Table Data Structures, Menu Configurations, Pages and other aspects of your site.
+You can get to Explorer via the quick link buttons at the bottom of your main site menu.
+
+![Explorer Button Location](<Explorer Button Location.png>)
+
+### Workflow
+Based on the populat BPMN 2.0 workflow diagram specification, workflow focuses on letting users create and manage process diagrams that document their activities. With a built in processing engine, Workflow can also automate aspects of your business.
+
+You can access Workflow from the quick navigation buttons at the bottom of your main site side bar.
+
+![Workflow Button Location](<Workflow Button Location.png>)
+
+**Related articles**
+[Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
+
+### Designer
+Designer provides a means to manipulate and control your site. It enables defining what Tables and Columsn your site contains, managing pages and views and a slew of minor administration activities. 
 
 You can access Designer from your main Rapid site using the navigation bar on the bottom of the menu.
+
+![Designer Button Location](<Designer Button Location.png>)
 
 **Releated Articles**
 
 [What is Designer?](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md "What is Dezigna (Designer application)?")
 
+### Tasks
+Tasks focuses on helping Users to quickly find and manage their tasks.
+
+Tasks is accessiable [here](https://tasks.rapidplatform.com/).
 
 ## Data Table
 
@@ -62,13 +85,6 @@ A command bar is the horizontal area containing command buttons like Save, Delet
 
 ![Command Bar - Item Profile.png](./command-bar-item-profile.png)
 
-## Explorer
-
-Explorer is an application in Rapid Platform. It can be understood as a front-end of the system, using which a user can interact with the data in different ways.
-
-You can get to Explorer via the quick link buttons at the bottom of your main site menu.
-
-![Explorer Button Location](<Explorer Button Location.png>)
 
 ## Sidebar
 
@@ -110,17 +126,6 @@ Each of the below shown in the tree is an example of menu item.
 
 [**All about Menus**](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "All about Menus in Designer")
 
-## Workflow
-
-Workflow is an application in the Rapid Platform. It is a BPMN designer that allows users to set up and configure processes within the system.
-
-You can access Workflow from the quick navigation buttons at the bottom of your main site side bar.
-
-![Workflow Button Location](<Workflow Button Location.png>)
-
-**Related articles**
-[Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
-
 ## Table items and columns
 
 An **item** in a table refers to the a single group of related data within a table. Relational databases contain [**tables**](#data-table "Data Table") with items / rows and columns (also known as records and fields, respectively).
@@ -129,7 +134,7 @@ Columns are vertical, and hold a list of values all from the same field. Items a
 
 ![Table Items](<Table Items.png>)
 
-## Inherit Table / Sub-Type Of
+## Inherit Tables
 
 ### Case Scenario
 
@@ -214,3 +219,164 @@ Please note :
 Task Experience is the name given to a separate environment where a user can manage tasks. This is different from Explorer. Task Experience provides the details about the task along with other essential fields like Due Date, Priority, Task Status etc. Further, the User Interface enables the user to add time-logs against tasks.
 
 The environment is accessed at url - [tasks.rapidplatform.com](https://tasks.rapidplatform.com)
+
+
+
+Tenant - This is a Office 365 tenant reference for a company that is contained within BMS. They are segregated from the other tenants.
+
+Site - Is a database within a Tenant combined with a set of page and entity definitions.  
+
+User - This is the basic person that is operating the RAPID site.
+
+Keyper - This is a special classification of user that is able to design and maintain their RAPID Site.
+
+Admin - This is a user that controls permissions and security within the system.
+
+IT Technical Support - This is a person in a client company that provisions IT resources.
+
+Technical User - Same as Keyper but able to use Workflow Automation and external integration systems.
+
+Developer - This is the people writing the software.
+
+User Group - This is a collection of users that is given a name primarily for security purposes. You can use the group in lieu of a user in many cases.
+
+Subgroup - A group within a user group.
+
+Entity - A defined reference of what a particular Item will contain. It is the table definition within the database eg column (name, type).
+
+Item - A specific row level instance of an entity (123 Fake St is an Item of the Address Entity).
+
+Base Entity - An entity which serves on its own or as a parent to 1 or more inherited entities.
+
+Inherited Entity - Extends a base entity data table with extra columns and data.
+
+Rapid Page - A page definition built in Designer that is displayed in Explorer in context of an entity.  
+
+List Page - The default page generated when an entity is created containing a data table and a list context.
+
+Single Page - The default page generated when an entity is created containing a Tabstrip with the Details, Activity Feed, Tasks &amp; Files pages.
+
+Details Page - The default page generated when an entity is created containing the default details definition and a single item context.
+
+Activity Page - The default page generated when an entity is created containing the Activity Feed and a single item context.
+
+Files Page - The default page generated when an entity is created containing the File Browser and a single item context.
+
+Tasks Tab Page - The task list page linked from a tab strip. This tab and page link is generated by default when creating an entity.
+
+Table View - A filtered or unfiltered list, can be saved and stored for re-use, multiple views per table possible.
+
+Task - An item in the system default task entity.
+
+Page Layout- Refers to either Desktop, Tablet or Mobile layout. A single page will display different for each layout.
+
+Desktop Layout - One of three layouts able to be modified for an entity in RAPID Designer (&gt;1300px wide).
+
+Tablet Layout - One of three layouts able to be modified for an entity in RAPID Designer (1300px wide).
+
+Mobile Layout - One of three layouts able to be modified for an entity in RAPID Designer (600px wide).
+
+Default Permissions - Refers to the default permissions on an item, by default every item made for that entity has these permissions.
+
+Placeholder Permissions - Refers to the dynamically applied permissions on an item. These are based on the User or Group selected in a User Field.
+
+Document Library - The default sharepoint folder for which files related to that entity are stored.
+
+Process Diagram - A XML file almost matching the Carmunda [BPMN.io](http://bpmn.io/) standard, describing a business process using the BPMN 2.0 specification language.
+
+Process Blueprint - The automation additions added to a process diagram to enable a process to be automated.
+
+Process Run - One iteration of an executed Process.
+
+Process Artifacts - An entity which stores items made during a Process Run.
+
+Users Entity - An entity which stores the information of the users who have access to the Rapid Site.
+
+System Entity - An entity which is on any RAPID Site upon creation and is required for its fundamental operation.
+
+Dashboard - A designated page which serves as the dashboard in RAPID Explorer.
+
+Component - This is an interactive element added to an items' grid layout that can come in the following flavours:
+
+- Activity Feed
+- Attachments
+- Carousel
+- Chart
+- Counter
+- Data Table
+- External Page
+- File Browser
+- Form - This is the space defined for containing fields on a page.
+- Grid Layout
+- Image
+- Linked Items
+- Page
+- Site List
+- Tab Strip
+- Gantt
+- PowerBI Report
+
+Board Component - A trello style way to view a collection of items and easily manage their status.
+
+Gantt Component - A way of viewing a collection of tasks in a gantt chart.
+
+Form - This is a special kind of component that can be added to an items' grid layout.
+
+Embedded Form - A dynamic form component that will display fields based on the definition from a process definition.
+
+Embedded File - As an extension of an embedded form, an embedded file is a single file ‘slot’ with a label (and some other meta-data).
+
+Form Field : This is a type of data stored typically within a form, it can come in the following flavours:
+
+- Boolean
+- Choice
+- Currency
+- Date and Time
+- Lookup
+- Multiple lines of Text
+- Number
+- Percentage
+- Single line of Text
+- Subquery
+- User
+- Whole number
+
+Remove Field - Removes the field from the form.
+
+Field Deletion - Deletes field from form, removes column from data table &amp; schema.
+
+Item Flyout - A modal window which contains the item opened.
+
+Creation Flyout - A narrow modal window which contains a blank form to create an item.
+
+Item Tabstrip - Refers to the navigation on the item flyout which contains the tab strip.
+
+Linked Items flyout - Refers to the modal which opens on an item by pressing the 3 dots in the top right of the item flyout.
+
+Linked Items - Refers to any linked items; universal links, scoped universal links, direct links.
+
+Universal links - Refers to items which have been universally linked.
+
+Scoped Universal Links - Refers to items which are connected through a multi lookup field.
+
+Direct Link - Items which are linked through a lookup field.
+
+Parent Link - Direct link but both sides of the link are for same entity, different item.
+
+Inline Refresh - Refreshing a datatable, form or other page component using the inline controls.
+
+Quick Filter - Filtering a datatable or search items through string matching.
+
+Summary Task - Defines an item in the Gantt chart which groups 1 or more sub tasks within it.
+
+Sub Task - Defines the task within a summary task.
+
+BPMN - Business Process Management Notation. This is the notional standard developed by the OMG to describe how a business process is sequenced. This is the base definition followed by Compoza.
+
+Tag - A unique reference given to each item within the system to allow for tracking within external systems. eg. Email.
+
+Linked Items - Within the system we have replaced the concept of tags with linked items which is a structured tagging system that drives our dynamic linking functionality.
+
+Notification - A message sent from the system to the user, hopefully a useful one.
+
+Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designa that contains the item name and buttons.

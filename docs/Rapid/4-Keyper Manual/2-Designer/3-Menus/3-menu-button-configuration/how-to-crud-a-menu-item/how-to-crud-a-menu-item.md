@@ -1,6 +1,6 @@
 # How to edit / delete / add an item below an existing item
 
-Each [***menu item***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu-item "Menu item") created in has three options.  
+Each [***menu item***](/docs/Rapid/3-User%20Manual/glossary/glossary.md#menu-item "Menu item") created in has three options.  
 
 ![Menu Anatomy](<Menu Anatomy.png>)
 

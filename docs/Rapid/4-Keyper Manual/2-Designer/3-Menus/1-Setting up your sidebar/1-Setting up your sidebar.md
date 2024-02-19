@@ -1,6 +1,6 @@
 # Setting up your sidebar
 
-[*Sidebars*](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar") can be very useful in organizing pages and navigating to the required ones quickly.
+[*Sidebars*](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar "Sidebar") can be very useful in organizing pages and navigating to the required ones quickly.
 
 ## Overview
 

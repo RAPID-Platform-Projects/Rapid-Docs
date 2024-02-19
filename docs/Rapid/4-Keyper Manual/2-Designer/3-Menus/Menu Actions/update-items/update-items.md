@@ -1,6 +1,6 @@
 # Update items
 
-This is configurable only on the ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#menu-item)*** menu type.
+This is configurable only on the ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#menu-item)*** menu type.
 
 ## Overview
 

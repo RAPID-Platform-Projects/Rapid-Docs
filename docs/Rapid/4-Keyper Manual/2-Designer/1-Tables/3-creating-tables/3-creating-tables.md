@@ -4,7 +4,7 @@ Creating a data table is among the primary and most critical tasks for a system 
 
 As you know each table is made up of rows and columns.
 
-So we have three [keywords ](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns "Table items and columns")here:
+So we have three [keywords ](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table-items-and-columns "Table items and columns")here:
 
 - Table
 - Columns
@@ -27,7 +27,7 @@ To create a new table consider the following steps:
 
 4. Here you can fill out:
     1. **The Table Name** - This is the title of the table as provided by you. The system always takes the name as a Plural. For example - if you write the table name as "Customer", the system will automatically take the name as "Customers". If the name already exists in the system, you will be prompted the same.
-    2. **Whether this table inherits properties from existing table** - If this option is checked, then you can select a table from the list of existing ones. In such a case, all the columns of the selected existing table are copied to this new table. You new table will be called as the [Sub-Type](/docs/Rapid/User%20Manual/Glossary/#inherit-table--sub-type-of "Inherit Table / Sub-Type Of") of the table from which it inherits properties.
+    2. **Whether this table inherits properties from existing table** - If this option is checked, then you can select a table from the list of existing ones. In such a case, all the columns of the selected existing table are copied to this new table. You new table will be called as the [Sub-Type](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-tables "Inherit Table / Sub-Type Of") of the table from which it inherits properties.
     3. **Select an icon** - This is the visual identifier of the table and its records. You can search and select the icon that most closely represents your table.
     ![Select an image](SelectAnIconImg.png)
     4. **Document storage library** - This defines the SharePoint document library where artifacts / files related to table records will be stored.

@@ -6,7 +6,7 @@ The Files Tab ([File Browser component](../file-browser/file-browser.md "What is
 
 Attachments typically serve the need for referencing a small number of lightweight files, which can be referenced easily and frequently (in Explorer).
 
-Attachments are visible in the [Tasks experience](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#task-experience "Task Experience").
+Attachments are visible in the [Tasks experience](/docs/Rapid/3-User%20Manual/glossary/glossary.md#task-experience "Task Experience").
 
 ## How to set up an Attachments component in Designer
 

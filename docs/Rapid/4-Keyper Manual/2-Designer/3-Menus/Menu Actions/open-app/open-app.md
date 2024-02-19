@@ -1,16 +1,16 @@
 # Open App
 
-This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar)*** menu types.
 
 ## Overview
 
 There are three principle Rapid Platform Application:
 
-1. [***Explorer***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#explorer "Explorer")
-2. [***Designer***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#designer "Dezigna")
-3. [***Workflow***](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#workflow "Compoza (Workflow)")
+1. [***Explorer***](/docs/Rapid/3-User%20Manual/glossary/glossary.md#explorer "Explorer")
+2. [***Designer***](/docs/Rapid/3-User%20Manual/glossary/glossary.md#designer "Dezigna")
+3. [***Workflow***](/docs/Rapid/3-User%20Manual/glossary/glossary.md#workflow "Compoza (Workflow)")
 
-Do you wish to put a **menu item in a *[sidebar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar")* that navigates to one of these applications.**
+Do you wish to put a **menu item in a *[sidebar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar "Sidebar")* that navigates to one of these applications.**
 
 OR
 
