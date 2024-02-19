@@ -16,7 +16,7 @@ You can view and update table options for an existing table.
 
    ![Select the Options Tab](../../SelectTheOptionsTab.png)
 
-More details can be found at **Point no. 12 of [*All about Tables in* Designer.](../../1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")**
+More details can be found at Point no. 12 of [*All about Tables in* Designer.](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
 
 ### 'Table Options' tab contents
 
@@ -46,7 +46,7 @@ If you are building PowerBI Reports or accessing the backend of your system unde
 
 This segment has five fields.
 
-Four out of these five fields are non-editable and derive their value, as provided at the time of [**creating the table in Designer.**](../../3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
+Four out of these five fields are non-editable and derive their value, as provided at the time of [**creating the table in Designer.**](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
 
 1. **Inherits From -** This field displays the name of the parent (of which the subject table is a Sub-Type Of). This is defined at the time of creating the table. When your subject table (Table B) inherits from another existing table (Table A), it means this table will inherit the complete column structure of the parent table ie. Table B will have all the columns of Table A. This field, as shown here, is non-editable.
 2. **Table: Singular Noun -** While creating the table, it is a best practice to provide the Table Name as a Plural. The system will automatically derive its Singular Noun. For example - if while creating the table, you had provided the Table Name as "My Test Tables", then the system shall automatically derive its singular noun as "My Test Table". This is useful for referring the table's item. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun). You cannot edit this field.
@@ -115,7 +115,7 @@ This is a dropdown field and allows you to select the Document Storage in ShareP
 
 ![Document Storage field](DocumentStorageField.png)
 
-**It is important to note that while [creating the subject table](../../3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?") you received the option to define the Document Storage. If you would have selected a value while creating the table for this field, then it becomes the default value here.**
+It is important to note that while [creating the subject table](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?") you received the option to define the Document Storage. If you would have selected a value while creating the table for this field, then it becomes the default value here.
 
 ![Create Table And Options Document Storage Comparison](CreateTableAndOptionsDocumentStorageComparison.png)
 
@@ -244,7 +244,7 @@ Please review the below video for illustration.
 
 ##### **5. Copy linked items' SharePoint folder when creating Table item, if possible**
 
-Imagine you have a linked item from some other table (refer [linked items](../../5-Table%20Configuration%20Guides/how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "Link Inheritance") for more clarity) to this table's item. For instance - you can have an Invoices table and a Payments table. You have linked payments against invoice items.
+Imagine you have a linked item from some other table (refer [linked items](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "Link Inheritance") for more clarity) to this table's item. For instance - you can have an Invoices table and a Payments table. You have linked payments against invoice items.
 
 When this option is checked (ON), it would reference the linked item's SharePoint folder in your subject item's folder. In case, the linked item does not have any files or does not have a SharePoint drive defined, then the system would not be able to copy it. Hence the phrase - ***if possible.***
 
@@ -325,8 +325,8 @@ As you click on this button, the create table window will open with pre-filled i
 
 Please note - if your subject table is already a Sub-Type of another table then this option will be ghosted (inactive).
 
-[How to edit / delete Table Views in Designer?](../../5-Table%20Configuration%20Guides/how-to-edit-delete-table-views-in-designer/how-to-edit-delete-table-views-in-designer.md "How to edit / delete table views in Designer?")
+[How to edit / delete Table Views in Designer?](//docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-edit-delete-table-views-in-designer/how-to-edit-delete-table-views-in-designer.md "How to edit / delete table views in Designer?")
 
-[How to delete a table in Rapid Platform?](../../4-deleting-tables/4-deleting-tables.md "How to delete a table in Rapid Platform?")
+[How to delete a table in Rapid Platform?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/4-deleting-tables/4-deleting-tables.md "How to delete a table in Rapid Platform?")
 
-*[**Go back to Tables in Designer Main Page**](../../1-Tables.md "All about Tables in Designer")*
+*[**Go back to Tables in Designer Main Page**](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-Tables.md "All about Tables in Designer")*

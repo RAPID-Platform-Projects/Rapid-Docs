@@ -42,8 +42,8 @@ Note the use of the question mark above. This is called an Optional Chaining Ope
 
 ## Related articles
 
-[**Formatting Values in a LODASH expression**](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
+[Formatting Values in a LODASH expression](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
 
-[**How to format array values in a lodash expression**](../how-to-format-array-values-in-a-lodash-expression/how-to-format-array-values-in-a-lodash-expression.md)
+[How to format array values in a lodash expression](../how-to-format-array-values-in-a-lodash-expression/how-to-format-array-values-in-a-lodash-expression.md)
 
-**[Fill Document](../fill-document/fill-document.md)**
+[Fill Document](../fill-document/fill-document.md)

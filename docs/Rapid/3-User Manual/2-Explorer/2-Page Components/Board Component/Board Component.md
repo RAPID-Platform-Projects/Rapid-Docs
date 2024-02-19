@@ -108,7 +108,8 @@ Click on the new item button. This will open the Create Item Form.
 
 If your subject table is a Parent Table and there are other child tables which inherit properties from your subject (parent) table, then you can create new items for the child table from within the Board.
 
-In the below illustration, ***Tasks*** is a Parent Table and ***Projects*** is a **[*Sub Type of*](../../../glossary/glossary.md#inherit-tables)**  ***Tasks***.  
+In the below illustration, ***Tasks*** is a Parent Table and ***Projects*** is a **[*Sub Type of*](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#inherit-table--sub-type-of)**  ***Tasks***.  
+
 You can create new Project items from the Board. 
 
 ![Image showing option to create Child Table Item](<Explorer_Board - Create Child Item.png>)

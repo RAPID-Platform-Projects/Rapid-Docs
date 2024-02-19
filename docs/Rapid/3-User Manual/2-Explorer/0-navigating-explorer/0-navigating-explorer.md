@@ -20,6 +20,6 @@ The Explorer features a side bar for navigation. This menu is fully customisable
 
 ## Explorer Page
 
-The Page component is how all data is conveyed. A page can be set up in countless ways as there are a multitude of page components which can be added to the page. In the previous example, an image component was added to the Dashboard page. This caused an image to be displayed on the Dashboard. The page component however is not limited to the Dashboard. All entities that are present in the Explorer sidebar can have pages added, along with the ability to edit them to suit the user requirements. An overview of all possible page components can be found [here](../../../4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md).
+The Page component is how all data is conveyed. A page can be set up in countless ways as there are a multitude of page components which can be added to the page. In the previous example, an image component was added to the Dashboard page. This caused an image to be displayed on the Dashboard. The page component however is not limited to the Dashboard. All entities that are present in the Explorer sidebar can have pages added, along with the ability to edit them to suit the user requirements. An overview of all possible page components can be found [here](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md).
 
 ![Navigating Explorer 03.png](./downloaded_image_1705285818221.png)*A snippet of a custom page in Explorer*

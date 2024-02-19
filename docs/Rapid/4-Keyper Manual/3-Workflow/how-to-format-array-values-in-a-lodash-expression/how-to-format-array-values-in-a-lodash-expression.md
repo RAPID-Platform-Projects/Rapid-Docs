@@ -23,12 +23,16 @@ You may prefer to work with an array with formatted values when filling a docume
 ```
 
 
-To do this you would use the following lodash expression:id="bkmrk-%3C%25%3D-servicetask123.p-0">`<%= servicetask123.properties.items.map(({name, age, amount}) => ({name, age, amount: amount?.toLocaleString("en-US")}) ) %> ` In the case above, because we only want to format the amount property that is all we do with the .toLocalString method.
+To do this you would use the following lodash expression:  
+
+`<%= servicetask123.properties.items.map(({name, age, amount}) => ({name, age, amount: amount?.toLocaleString("en-US")}) ) %> `   
+
+In the case above, because we only want to format the 'amount' property that is the only field to which we apply the .toLocalString method.
 
 ## Related articles
 
-[**Formatting Values in a LODASH expression**](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
+[Formatting Values in a LODASH expression](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
 
-[**How to filter values in a lodash expression**](../how-to-filter-values-in-a-lodash-expression/how-to-filter-values-in-a-lodash-expression.md)
+[How to filter values in a lodash expression](../how-to-filter-values-in-a-lodash-expression/how-to-filter-values-in-a-lodash-expression.md)
 
-**[Fill Document](../fill-document/fill-document.md)**
+[Fill Document](../fill-document/fill-document.md)
