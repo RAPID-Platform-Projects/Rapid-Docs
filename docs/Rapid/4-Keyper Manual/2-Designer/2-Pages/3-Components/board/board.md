@@ -49,7 +49,7 @@ Following is the brief description of each field:
 1. **Table** - This is a dropdown field. You can select your desired table from the list of available tables in the system. Please note, this is not a mandatory field. If a table is not selected here, then the system will take the default value as the table on whose Design Tab you are hosting the subject Page.  
               
             
-    - In case there are [sub-types](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#inherit-table--sub-type-of "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the ***Create New Item*** button from the Board for that sub-type.  
+    - In case there are [sub-types](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-tables "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the ***Create New Item*** button from the Board for that sub-type.  
 
     For example - if the Table selected is "*Contacts*". *Businesses, Employees* and *People* are sub-type of *Contacts* table. Now (by default) the Board component will enable the user to create new items for *Businesses*, *Employees* and *People* contacts tables. If a box is checked for *Businesses*, then the button to create new item for *Businesses* contacts will be hidden and the user will not be able to create new items from the Board component for relevant sub-type table.
     

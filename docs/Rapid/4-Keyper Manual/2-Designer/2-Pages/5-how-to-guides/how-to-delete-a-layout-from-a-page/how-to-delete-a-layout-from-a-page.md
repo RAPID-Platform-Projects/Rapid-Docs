@@ -2,7 +2,7 @@
 
 ## What deleting a layout means
 
-Imagine you have created a [**Page**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") on Customer data. You have [**added a layout**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?") to the page which has a few [**components**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") depicting customer complaints.
+Imagine you have created a [**Page**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page, layout and component") on Customer data. You have [**added a layout**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a Layout to a Page?") to the page which has a few [**components**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") depicting customer complaints.
 
 However, now you no longer want to see the customer complaints data on the Page.
 

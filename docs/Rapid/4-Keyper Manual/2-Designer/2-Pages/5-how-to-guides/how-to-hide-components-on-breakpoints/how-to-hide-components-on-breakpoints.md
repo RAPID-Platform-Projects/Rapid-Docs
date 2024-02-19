@@ -33,7 +33,7 @@ Hence, there may be a need for a user to hide something from "Details" screen wh
 
 Therefore, you would want to have this displayed on "Details" screen but hide it from "Create" screen.
 
-You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") from Create Screen by using the circle icon in the horizontal options bar. This is highlighted below:
+You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page, layout and component") from Create Screen by using the circle icon in the horizontal options bar. This is highlighted below:
 
 ![Hide/Create icon](<Hide Create icon.png>)
 
@@ -68,7 +68,7 @@ All components in the Grid Layout will appear in the "Create" screen (if they ar
 
 In such cases, you would want a certain fields / components to be present at the time of Item Creation (Create Screen) but be hidden from the Details screen.
 
-You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page, layout and component") from Details screen by using the eye icon in the horizontal options bar. This is highlighted below:
+You can hide any [**field**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?"), [**component or layout**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page, layout and component") from Details screen by using the eye icon in the horizontal options bar. This is highlighted below:
 
 ![Visible icon zoomed in](<Visible Icon Zoom.png>)
 

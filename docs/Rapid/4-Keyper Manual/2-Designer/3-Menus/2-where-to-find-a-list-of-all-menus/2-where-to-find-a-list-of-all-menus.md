@@ -1,6 +1,6 @@
 # Accessing the list of all Menus
 
-This article relates to menus configured for both [Side Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar) and [Command Bar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#command-bar) menu types.
+This article relates to menus configured for both [Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar) and [Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar) menu types.
 
 ## Overview
 

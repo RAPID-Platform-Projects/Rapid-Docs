@@ -1,9 +1,9 @@
 # All about Pages in Designer
 
-In Designer, you can configure a [**page to host components**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#page "Page and component"). Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
+In Designer, you can configure a [**page to host components**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page and component"). Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
 
 1. via the Design Tab of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
-2. via the Pages option in [Designer Sidebar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar"). This is also called the Pages Manager.
+2. via the Pages option in [Designer Sidebar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar "Sidebar"). This is also called the Pages Manager.
 
 ![Navigate to page design tab](<Navigate to Page design tab.png>)
 
@@ -31,7 +31,7 @@ This window enables you with the following information / options
 There are certain options which are always present on the Design Tab. These are:
 
 1. **Switch between Singular and Plural set of pages** - 
-    - Singular noun refers to the [**item of the table**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#table-items-and-columns "Table items and columns").
+    - Singular noun refers to the [**item of the table**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table-items-and-columns "Table items and columns").
     - Plural name refers to the set of items of a table. For example - A table by the name "Assets" holds information about various assets like vehicle, computer, land etc. Each of these is an item in the table and will be referred as an "Asset" (Singular Noun).  
           
         The Design Tab provides you with options to define pages for both Singular (item level) and Plural (item group level). Using this dropdown field you can switch between Singular and Plural set of pages. Therefore, allowing you to define what information would appear on selection of a single item and the information that appears for the collection of items.

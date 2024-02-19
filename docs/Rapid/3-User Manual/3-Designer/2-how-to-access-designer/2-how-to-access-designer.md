@@ -1,6 +1,6 @@
 # How to access Designer?
 
-**Welcome to Designer -** This is your space to create your business database [**tables**](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#data-table "Data Table") and organise the Rapid Platform according to your business needs.
+**Welcome to Designer -** This is your space to create your business database [**tables**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#data-table "Data Table") and organise the Rapid Platform according to your business needs.
 
 In this guide, we will take a quick look at some of the important functions that you can perform using Designer in Rapid Platform.
 
@@ -12,7 +12,7 @@ In this guide, we will take a quick look at some of the important functions that
 
 As the Designer Window opens up, it will be by default on the tables page.
 
-This is what the **Designer** screen looks like. The blue coloured left column is called the Designer [Sidebar](/docs/Rapid/3-User%20Manual/Glossary/glossary.md#sidebar "Sidebar"). The white portion lists the existing database tables.
+This is what the **Designer** screen looks like. The blue coloured left column is called the Designer [Sidebar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar "Sidebar"). The white portion lists the existing database tables.
 
 ![image-1701845658756.png](./downloaded_image_1705285518733.png)
 
