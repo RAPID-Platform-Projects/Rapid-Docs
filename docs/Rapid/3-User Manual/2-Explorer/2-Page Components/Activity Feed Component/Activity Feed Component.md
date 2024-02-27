@@ -10,7 +10,7 @@ The activity feed comes default with every item that is created.  The below imag
 
 ## Viewing The Activity Feed
 
-It is important to note that the Activity Feed component displays information related to an [item of an entity.](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table-items-and-columns)
+It is important to note that the Activity Feed component displays information related to an [item of an entity.](/docs/Rapid/3-User Manual/glossary/glossary.md#table-items-and-columns)
 
 
 To view the default activity feed from Explorer, it is assumed that an item is present within the entity for which you want to view the Activity Feed. To view the activity feed from the default tab that is provided with every item:
