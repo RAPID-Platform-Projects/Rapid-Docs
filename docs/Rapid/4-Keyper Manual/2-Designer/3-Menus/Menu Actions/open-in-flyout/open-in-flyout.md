@@ -1,6 +1,6 @@
 # Open in flyout
 
-This is configurable on both the ***[Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar)*** and ***[Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar)*** menu types.
+This is configurable on both the ***[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)*** and ***[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)*** menu types.
 
 Till now we have seen several menu buttons that trigger actions on click. However, another important benefit of Menus is to navigate to specific pages upon click. In other words, the ability to configure both sidebar menus and table menus with items that open a specified page.
 

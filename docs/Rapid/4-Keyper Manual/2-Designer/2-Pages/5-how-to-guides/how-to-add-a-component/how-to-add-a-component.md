@@ -14,7 +14,7 @@ This article only focuses on how to add a component to the Page. It is assumed t
 
 ## Steps to add a component to a Page
 
-To add a new component to a [**Page layout**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#layout "Page, layout and component"), please follow the below steps:
+To add a new component to a [**Page layout**](</docs/Rapid/3-User Manual/glossary/glossary.md#layout> "Page, layout and component"), please follow the below steps:
 
 ![Add a component step 1](<Add component step 1.png>)
 

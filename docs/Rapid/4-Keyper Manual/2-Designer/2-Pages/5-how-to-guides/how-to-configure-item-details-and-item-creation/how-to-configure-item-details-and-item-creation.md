@@ -44,13 +44,13 @@ The Plural Details breakpoint has a [**Horizontal Layout**](/docs/Rapid/4-Keyper
 
 **What this will do? -** As discussed above, there is a Tab Strip present by default on this Page. The Tab Strip contains a set of four Pages.
 
-Whatever is configured on this breakpoint will be visible on the individual Item Details in Explorer ie. this configuration defines what details are shown for each [**Item**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table "Table items and columns").
+Whatever is configured on this breakpoint will be visible on the individual Item Details in Explorer ie. this configuration defines what details are shown for each [**Item**](</docs/Rapid/3-User Manual/glossary/glossary.md#table> "Table items and columns").
 
 For instance - consider the below image. The Singular Details breakpoint configuration is shown in Image 1 for a Table titled - *Milestones*. Observe that it has four Tabs on the Tab Strip. The Details Tab has a [**Form Component**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?") with certain fields and an [**Activity Feed Component**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/activity-feed/activity-feed.md "What is an Activity Feed component on a Layout / Page?").
 
 ![image 1.png](./downloaded_image_1705285557929.png)
 
-Now observe corresponding Image 2. This is the Item Details for an [**Item**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table "Table items and columns") in *Milestones* Table titled - *Project Completed.* Observe that this has same four Tabs as defined. Further, the Details Tab shows the same fields as configured in the Form Component. The fields are now shown with respective Data. Also visible is the Activity Feed Component with relevant Data.
+Now observe corresponding Image 2. This is the Item Details for an [**Item**](</docs/Rapid/3-User Manual/glossary/glossary.md#table> "Table items and columns") in *Milestones* Table titled - *Project Completed.* Observe that this has same four Tabs as defined. Further, the Details Tab shows the same fields as configured in the Form Component. The fields are now shown with respective Data. Also visible is the Activity Feed Component with relevant Data.
 
 ![Image - 2.png](./downloaded_image_1705285558956.png)
 

@@ -47,7 +47,7 @@ This window provides the following information and features. Please follow the n
 
 **9. Title Column** - The title column displays the principle column of the table. It is a good practice to have a title column or a unique key identifier for each row of the table. However, it is optional to mark a column as title column, while creating / updating a table.
 
-**10. [Sub-Type Of](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-tables "Inherit Table / Sub-Type Of")** - When a table inherits its structure from another existing table, it is said to become a "[*Sub-Type Of*](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-tables "Inherit Table / Sub-Type Of")" or child of that table. For example - Table A inherits structure from Table B, then Table A will be termed as the Sub-Type Of Table B. In this column, the Table Name of the parent table (Table B in our example) will be displayed.
+**10. [Sub-Type Of](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of")** - When a table inherits its structure from another existing table, it is said to become a "[*Sub-Type Of*](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of")" or child of that table. For example - Table A inherits structure from Table B, then Table A will be termed as the Sub-Type Of Table B. In this column, the Table Name of the parent table (Table B in our example) will be displayed.
 
 **11. Find a table** - This is search field. It is typically useful when there are a lot of tables in the list of Designer window, and you wish to refer to your desired table. Just type in the letters of the table slug and the list will start to prune itself with the matching criteria.
 

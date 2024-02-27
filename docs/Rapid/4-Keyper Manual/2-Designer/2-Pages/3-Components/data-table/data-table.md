@@ -2,9 +2,9 @@
 
 ## Data Table component overview
 
-Imagine you are the Project Manager and wish to view the list of all "Active" Projects. This list is possible on the [Page](/docs/Rapid/3-User%20Manual/glossary/glossary.md#table-items-and-columns "Page, layout and component") using the Data Table component.
+Imagine you are the Project Manager and wish to view the list of all "Active" Projects. This list is possible on the [Page](</docs/Rapid/3-User Manual/glossary/glossary.md#table-items-and-columns> "Page, layout and component") using the Data Table component.
 
-In simple words, a data table component allows you to insert a view of the [data table](/docs/Rapid/3-User%20Manual/glossary/glossary.md#data-table "Data Table") to a Page.
+In simple words, a data table component allows you to insert a view of the [data table](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") to a Page.
 
 Therefore to display a list of items, you need to:
 
