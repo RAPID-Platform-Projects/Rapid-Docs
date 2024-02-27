@@ -54,7 +54,7 @@ You can easy toggle between making a column present and absent from All View by 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/U9G1-YVUx68?si=o5baIUE-1HGjHFtS" title="YouTube video player" width="750"></iframe>
 
-**7. Base Type** - A Value in this field indicates that the subject column has been inherited from another table. If your subject table is a [**Sub-Type Of**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#inherit-tables "Inherit Table / Sub-Type Of") another table, then this field provides the name of the parent Table.
+**7. Base Type** - A Value in this field indicates that the subject column has been inherited from another table. If your subject table is a [**Sub-Type Of**](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") another table, then this field provides the name of the parent Table.
 
 **8. Create Column** - This button allows you to create new column(s). The newly created column(s) will be added to the list of existing columns. To learn more about creating new column **[click here](../how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md "How to add columns to a data table?")**.
 

@@ -1,10 +1,10 @@
 # How to link a menu item to a table
 
-***This is configurable on both the [Side Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar) and [Command Bar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar) menu types.***
+***This is configurable on both the [Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>) and [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>) menu types.***
 
 ## Overview
 
-[***Menu buttons***](/docs/Rapid/3-User%20Manual/glossary/glossary.md#menu-item "Menu item") can be used for effective navigation.
+[***Menu buttons***](</docs/Rapid/3-User Manual/glossary/glossary.md#menu-item> "Menu item") can be used for effective navigation.
 
 Imagine you wish to view all the leads in the system or all the invoices at the click of a button. This can be easily configured using the Menu Button.
 

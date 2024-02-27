@@ -1,6 +1,6 @@
 # How to add a Layout to a Page
 
-Adding a layout to a page has some good benefit. [**You can learn about them by clicking here**](/docs/Rapid/3-User%20Manual/glossary/glossary.md#layout "Page, layout and component").
+Adding a layout to a page has some good benefit. [**You can learn about them by clicking here**](</docs/Rapid/3-User Manual/glossary/glossary.md#layout> "Page, layout and component").
 
 It is easy to add a Layout to a Page. Please consider the following scenarios:
 

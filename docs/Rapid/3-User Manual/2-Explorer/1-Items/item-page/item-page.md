@@ -15,7 +15,7 @@ This is the Item's permissions configuration. It lists the users and groups whic
     :::
 
 4. Complete Button This button is universal across the task system entity as well as any inherited entities created from tasks. Other custom entities will not have this UI feature. Pressing this button will perform the following action: Set task status to complete and then save the item.
-5. Item History The following button will open a UI which will list any changes made to an item along with the user that made the changes. More can be read [here](/docs/Rapid/3-User%20Manual/2-Explorer/1-Items/item-history/item-history.md "Item History").
+5. Item History The following button will open a UI which will list any changes made to an item along with the user that made the changes. More can be read [here](</docs/Rapid/3-User Manual/2-Explorer/1-Items/item-history/item-history.md> "Item History").
 6. Inline Refresh This button will perform an inline refresh on the current context. For an Item it will fetch the information pertaining to the item. A good use of this feature would be to view a Universal link added by another user which has not yet been displayed as the page has remained open. Read more about Inline Refresh [here](./item-page.md).
 7. Linked Items Menu The linked items component is default on any entity, system or custom. However the page component can be removed. This Linked Items Menu however is consistent throughout Rapid and can be opened by pressing the **⋮** button. This will expand menu and will list any items which have been linked. This list, displayed Universal links between items. More can be read [here](./item-page.md).
 

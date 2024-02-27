@@ -1,9 +1,9 @@
 # How to create a Page in Designer
 
-There are two ways of creating a [Page](/docs/Rapid/3-User%20Manual/glossary/glossary.md#page "Page, layout and component") in Rapid Platform.
+There are two ways of creating a [Page](</docs/Rapid/3-User Manual/glossary/glossary.md#page> "Page, layout and component") in Rapid Platform.
 
 1. via the Design Tab of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
-2. via the Pages Manager in [Designer Sidebar](/docs/Rapid/3-User%20Manual/glossary/glossary.md#sidebar "Sidebar").
+2. via the Pages Manager in [Designer Sidebar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar").
 
 You may have read the introduction about these two methods [here](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Pages in Designer").
 

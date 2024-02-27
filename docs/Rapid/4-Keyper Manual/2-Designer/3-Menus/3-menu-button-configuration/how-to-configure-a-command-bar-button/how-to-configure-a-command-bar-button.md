@@ -1,6 +1,6 @@
 # How to configure a Menu button in a command bar
 
-Buttons can be very useful in the *[**Command Bar** ](/docs/Rapid/3-User%20Manual/glossary/glossary.md#command-bar)*and can provide contextual actions related to that table or table item.
+Buttons can be very useful in the *[**Command Bar** ](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)*and can provide contextual actions related to that table or table item.
 
 ## Command bar Menu button Overview
 
