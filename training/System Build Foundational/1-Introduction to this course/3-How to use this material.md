@@ -24,3 +24,9 @@ We have provided a test environment for you to carryout these tasks and actually
 To access test environment use the following :
 
 
+**Scenario**
+
+Imagine you are the system builder for a manufacturing company called Stationery Inc. Stationary Inc. is into production of writing material, school supplies and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
+
+The clients for Stationery Inc. are segmented into three groups - primary and secondary education institutions, small businesses and corporations.
+

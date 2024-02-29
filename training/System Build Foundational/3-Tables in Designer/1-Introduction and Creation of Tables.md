@@ -1,3 +1,5 @@
+# Introduction
+
 It is no secret that Data is essential for any business. It provides valuable insights into customer behaviour, market trends, and business performance, etc. By analysing data, businesses can make informed decisions to improve their operations, optimise their marketing strategies, and increase their profits. 
 
 Having the ability to build custom database tables is crucial because it allows businesses to organise their data in a way that is tailored to their specific needs. With custom tables, businesses can collect, store, and analyze data more efficiently and effectively. This enables them to gain deeper insights into their operations and make more informed decisions that can help them achieve their goals and stay ahead of the competition.
@@ -7,8 +9,9 @@ Rapid Platform provides you with the flexibility to create custom infrastructure
 
 # How to create a new table in Designer?
 
-To create a new custom table in Rapid Platform [click here](<../../../docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md>) to follow a step-by-step guide. 
+To create a new custom table in Rapid Platform [click here](/docs/Rapid/Keyper%20Manual/Designer/Tables/creating-tables/) to follow a step-by-step guide.
+
 
 # How to add columns to a table?
 
-Adding the right columns gives the table its true meaning. To learn how to add columns to a table [click here](<../../../docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md>).
+Adding the right columns gives the table its true meaning. To learn how to add columns to a table [click here](/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/).
