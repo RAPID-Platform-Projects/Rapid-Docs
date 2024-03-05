@@ -1,6 +1,11 @@
 # Welcome
 
-It's with great pleasure and excitement that we welcome you to this Rapid Platform Training! This course is specifically created for System Builders and is intended to provide you with essential training at the foundational level.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nJaCwcD9pCw?si=z6lReXe41lKN8Tv2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>   
+   
+
+
+  
+  It's with great pleasure and excitement that we welcome you to this Rapid Platform Training! This course is specifically created for System Builders and is intended to provide you with essential training at the foundational level.
 
 As system builders you will be crafting the infrastructure to capture, present and orchestrate data across the Rapid Platform environment for your organisation's stakeholders. 
 
