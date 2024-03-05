@@ -30,3 +30,5 @@ Imagine you are the system builder for a manufacturing company called Stationery
 
 The clients for Stationery Inc. are segmented into three groups - primary and secondary education institutions, small businesses and corporations.
 
+Stationery Inc. has also recently forayed into Publishing. 
+

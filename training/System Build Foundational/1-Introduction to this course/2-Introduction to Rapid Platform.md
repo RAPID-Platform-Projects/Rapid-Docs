@@ -14,6 +14,25 @@ Rapid Platform offers a Task Experience which allows business managers to assign
 
 Hence, Rapid Platform allows businesses to effectively manage data, manage operations and manage teams. 
 
+## What exact problems does Rapid Platform solve?
+
+Rapid Platform is lifesaver if the below points resonate to your routine problems:
+
+- Have spreadsheets everywhere and finding it hard to keep on top of where you data is?  
+- It is always a challenge to make sure everyone is up to date on the latest data.  
+- Need to tell what has happened?  
+- Have emails and chats and communication everywhere trying to organise things?  
+- Not sure if you're on top of all the things that need to happen today?  
+- Not sure if your team knows what needs to happen today?  
+- Is everyone doing different things to solve the same problems?  
+- Having trouble teaching new staff your processes? Need to communicate what you and your teams do to stakeholders?  
+- Want to optimise operational behaviour and find bottle necks and wastage?  
+- Need to collect data and keep it organised for compliance?  
+- Every business is different and special, does no software solve what you really do?  
+- Got different solutions around the place to try and jury-rig your own?  
+
+Rapid Platform is a strong information and automation system which helps you combat these grass-roots level problems nad help build efficiencies throughout the DNA of the organisation. 
+
 ## Key Pillars to Rapid Platform
 
 Rapid Platform stands on certain fundamental applications. These can be considered as Pillars to Rapid Platform:
