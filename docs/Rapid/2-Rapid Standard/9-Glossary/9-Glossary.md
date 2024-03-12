@@ -1,10 +1,10 @@
 # Glossary
 
-#### Account
+### Account
 
 An "account" represents the a businesses that your organisation interacts with, whether a supplier or customer.
 
-#### Asset
+### Asset
 
 An "asset" is any resource with economic value owned or controlled by an individual or organization. This includes physical items like property and equipment, as well as intangible assets such as patents and intellectual property. Proper management is crucial for maximizing their benefits.
 
