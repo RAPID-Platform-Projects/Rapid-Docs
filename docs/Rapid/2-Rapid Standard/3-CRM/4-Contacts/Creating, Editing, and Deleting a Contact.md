@@ -36,7 +36,7 @@ Contacts can be created without an associated lead. This is done in the same way
 
 3. Edit the relevant details as needed  
 
-    ![Edit the relevent details as needed](<Edit the relevent details as needed.png>)
+    ![Edit the relevent details as needed](<Screenshot 2024-03-13 at 9.03.52 am.png>)
 
 4. Press **Save** or ****Save and Close**** ![Save or save and close](<Save or save and close.png>)
 
