@@ -4,7 +4,7 @@
 
 An "opportunity" refers to a potential sales deal or a potential revenue-generating event for a business. It represents a specific potential transaction with a customer or client.
 
-The Opportunities table provides a place for the sales team to store and keep track of all Opportunities. The Sales Dashboard (described [here](<../5-CRM Reporting/sales-dashboard/5-CRM Reporting.md>)) derives the majority of its information from the records on the Opportunities table.
+The Opportunities table provides a place for the sales team to store and keep track of all Opportunities. The Sales Dashboard (described [here](<../5-CRM Reporting/5-Sales Dashboard.md>)) derives the majority of its information from the records on the Opportunities table.
 
 ### How to create an Opportunity
 
