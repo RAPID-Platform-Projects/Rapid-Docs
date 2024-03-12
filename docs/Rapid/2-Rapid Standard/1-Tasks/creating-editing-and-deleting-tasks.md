@@ -27,11 +27,11 @@
 
 ![Alt text](1702440571846.png)
 
-3. Click on the title of the task you wish to edit.
+3. Click on the title of the task you wish to edit
 
 ![Alt text](1702440604366.png)
 
-4. Edit any relevant fields on page as needed.
+4. Edit any relevant fields on page as needed
 
 ![Alt text](1702440632595.png)
 
@@ -53,11 +53,11 @@ However, if you need to delete a task due to incorrect data entry or a duplicate
 
 ![Alt text](1702440571846.png)
 
-3. Select the tasks you wish to delete.
+3. Select the tasks you wish to delete
 
 ![Alt text](1702440744948.png)
 
-4. Click on the delete button.
+4. Click on the delete button
 
 ![Alt text](1702440763059.png)
 
@@ -72,11 +72,11 @@ However, if you need to delete a task due to incorrect data entry or a duplicate
 ![Alt text](1702440571846.png)
 
 
-3. Click on the title of the task you wish to delete.
+3. Click on the title of the task you wish to delete
 
 ![Alt text](1702440604366.png)
 
 
-4. Click on the delete button.
+4. Click on the delete button
 
 ![Alt text](1702440820319.png)

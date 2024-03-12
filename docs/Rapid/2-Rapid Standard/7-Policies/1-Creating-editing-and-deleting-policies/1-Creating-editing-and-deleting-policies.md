@@ -2,7 +2,7 @@
 
 ### How to create a new Policy
 
-1. Navigate to Human Resources &gt; Policies  
+1. Navigate to Policies &gt; Policies  
 
     ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 
@@ -52,7 +52,7 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 
 1. Navigate to Human Resources &gt; Policies  
 
-    ![image-1702522705319.png](./downloaded_image_1705285316426.png)
+    ![image-1702522705319.png](./navigateToPolicies.png)
 
 2. Select the policies you wish to delete  
 

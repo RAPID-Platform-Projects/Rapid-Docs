@@ -65,7 +65,7 @@ The default view on the Task Board is the “My Tasks – All” view which show
 
 ![Alt text](1702441310477.png)
 
-4. Edit any relevant fields on the item page as needed.
+4. Edit any relevant fields on the item page as needed
 
 ![Alt text](1702441364893.png)
 
