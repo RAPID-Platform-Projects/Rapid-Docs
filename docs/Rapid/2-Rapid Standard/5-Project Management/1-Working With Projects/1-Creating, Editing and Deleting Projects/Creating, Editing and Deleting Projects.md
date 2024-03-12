@@ -1,4 +1,4 @@
-# Creating, Editing, and Deleting Projects (along with Objectives, Deliverables, Risks, Exclusions, and Budgets)
+# Creating, Editing, and Deleting Projects
 
 ### Overview
 
