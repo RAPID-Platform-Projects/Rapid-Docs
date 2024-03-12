@@ -1,4 +1,4 @@
-# Using the Item Level Project Details Report
+# Using the Project Details Report
 
 ### Overview
 

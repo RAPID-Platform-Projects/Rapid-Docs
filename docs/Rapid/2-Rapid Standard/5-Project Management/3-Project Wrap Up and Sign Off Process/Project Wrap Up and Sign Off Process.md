@@ -1,4 +1,4 @@
-# Project Wrap-Up / Sign-Off Process
+# Project Wrap Up and Sign Off Process
 
 ### Overview
 
