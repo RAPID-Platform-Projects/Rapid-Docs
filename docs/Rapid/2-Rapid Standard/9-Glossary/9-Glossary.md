@@ -32,8 +32,6 @@ A "contact" typically refers to a person with whom you or your business have som
 
 CRM stands for Customer Relationship Management. It refers to a strategy, software, or system that businesses use to manage interactions and relationships with current and potential customers. The goal of CRM is to improve customer satisfaction, retain existing customers, and drive sales growth by organizing and automating customer interactions, sales, marketing, and customer service processes.#### Lead
 
-A "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
-
 ### Department
 
 A "department" refers to a distinct division or functional unit within an organization that is responsible for specific tasks, functions, or operations. Departments are typically structured based on the organization's needs, goals, and areas of focus, and they play a crucial role in the overall functioning and management of the organization.
@@ -53,6 +51,10 @@ An "industry" refers to a category of businesses or organizations that are engag
 ### Invoice
 
 An "invoice" is a commercial document issued by a seller to a buyer that itemizes a sale transaction. It includes details such as the products or services provided, quantities, prices, payment terms, and due dates. Invoices serve as a request for payment from the buyer to the seller for goods or services rendered.
+
+### Lead
+
+A "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
 
 ### Leave Request
 
