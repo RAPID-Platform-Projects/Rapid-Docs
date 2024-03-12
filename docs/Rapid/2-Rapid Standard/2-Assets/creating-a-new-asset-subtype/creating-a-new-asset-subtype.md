@@ -44,4 +44,4 @@ It is possible to create an additional asset subtype alongside "IT Assets" or "V
 
 10. Press **Save**
     
-11. Add your new table to the explorer sidebar (to see more details on how to do this see [Customizing the Sidebar](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-Setting%20up%20your%20sidebar/1-Setting%20up%20your%20sidebar.md))
+11. Add your new table to the explorer sidebar (to see more details on how to do this see [Customising the Sidebar](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/1-Setting%20up%20your%20sidebar/1-Setting%20up%20your%20sidebar.md))
