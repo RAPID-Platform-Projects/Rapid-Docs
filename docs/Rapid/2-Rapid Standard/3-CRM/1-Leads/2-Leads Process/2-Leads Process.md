@@ -8,7 +8,7 @@ The Rapid CRM module offers an in-built lead process designed to streamline lead
 
 The lead process is initiated upon the **creation** of a Lead and encompasses the following sequential steps:
 
-**1. New Lead Task generated:** A task is generated for the sales team to contact the lead. This task includes an embedded form with all relevant lead details. 
+**1. New Lead Task generated:** A task is generated for the sales team to contact the lead. This task includes an embedded form with all relevant lead details. For more details on view and actioning tasks please see this documentation: [Editing Tasks](../../../1-Tasks/creating-editing-and-deleting-tasks.md)
 
 ![Contact Lead Task](<Screenshot 2024-03-12 at 3.07.36 pm.png>)
 
