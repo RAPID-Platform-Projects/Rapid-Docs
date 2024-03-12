@@ -2,9 +2,11 @@
 
 ### Overview
 
-When a lead has been **Converted** this will create an Account, Contact, and Opportunity. Generally, this will occur once the client has been qualified and potential work is on the horizon. After conversion you can manage each Opportunity which allows for more granular reporting. For more information on the Sales Dashboard please see the following page.
+**Converting a Lead** in your CRM typically occurs when the lead has progressed through the sales funnel and is ready to make a purchase or become a customer. 
 
-### How to Convert a Lead from the Leads Item
+When a lead has been **Converted** this will create an Account, Contact, and Opportunity. After conversion you can manage each Opportunity which allows for more granular reporting. For more information on the Sales Dashboard please see the following page. [Sales Dashboard](<../../5-CRM Reporting/sales-dashboard/5-CRM Reporting.md>)
+
+### How to Convert a Lead from the Leads Details page
 
 1. In Explorer select CRM &gt; Leads  
 
