@@ -1,9 +1,0 @@
-div.pack-card-grid {
-
-  display: grid;
-  grid-auto-flow: row;
-  grid-template-columns: repeat(auto-fill, 320px);
-  grid-auto-rows: 320px;
-  gap: 60px;
-
-}

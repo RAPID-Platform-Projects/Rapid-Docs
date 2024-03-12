@@ -1,3 +1,0 @@
-# Employees
-
-The Employees table provides a place for you to list all your current and past employees. This can be your businesses Single Source of Truth when it comes to employee records. This table has many built in fields that you may want to keep relating to your employees, from ABN to postal address and the built in capacity to store employee documents against the record, such Super confirmation or other vital information

@@ -1,7 +1,0 @@
-{
-  "trailingComma": "none",
-  "semi": true,
-  "printWidth": 140,
-  "arrowParens": "always",
-  "endOfLine": "lf"
-}
