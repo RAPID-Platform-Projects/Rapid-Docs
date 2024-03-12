@@ -31,6 +31,8 @@ When a lead has been **Converted** this will create an Account, Contact, and Opp
 To find out more about these items use the links below:
 
 [Contacts](<../../4-Contacts/Creating, Editing, and Deleting a Contact.md>)
+
 [Accounts](<../../3-Accounts/Creating updating and deleting an account.md>)
+
 [Opportunities](<../../2-Opportunities/Creating Updating and Deleting Opportunities.md>)
 
