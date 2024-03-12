@@ -1,0 +1,19 @@
+matt:
+  name: Matt Franklin
+  title: Documents
+  url: https://github.com/MattFranklin-Rapid
+  image_url: https://github.com/MattFranklin-Rapid.png
+  email: matthew@rapidplatform.com
+
+
+# Example author for reference
+#jmarcey:
+#  name: Joel Marcey
+#  title: Co-creator of Docusaurus 1
+#  url: https://github.com/JoelMarcey
+#  image_url: https://github.com/JoelMarcey.png
+#  email: jimarcey@gmail.com
+
+# This is how to reference files in the md
+#- `2019-05-30-welcome.md`
+#- `2019-05-30-welcome/index.md`
