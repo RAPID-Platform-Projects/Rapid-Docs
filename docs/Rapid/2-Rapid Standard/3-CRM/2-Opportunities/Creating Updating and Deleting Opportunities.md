@@ -4,7 +4,7 @@
 
 An "opportunity" refers to a potential sales deal or a potential revenue-generating event for a business. It represents a specific potential transaction with a customer or client.
 
-The Opportunities table provides a place for the sales team to store and keep track of all Opportunities. The Sales Dashboard (described [here](<../5-CRM Reporting/sales-dashboard/5-CRM Reporting.md>) derives the majority of its information from the records on the Opportunities table.
+The Opportunities table provides a place for the sales team to store and keep track of all Opportunities. The Sales Dashboard (described [here](<../5-CRM Reporting/sales-dashboard/5-CRM Reporting.md>)) derives the majority of its information from the records on the Opportunities table.
 
 ### How to create an Opportunity
 
@@ -58,7 +58,7 @@ However, if you need to delete an **Opportunity** due to incorrect data entry or
 
 2. Select the List tab
 
-3. Select the Opportunities you want to delete 
+3. Select the Opportunities you wish to delete 
 
     ![Select multiple opportunities](<Screenshot 2024-03-13 at 8.26.30 am.png>)
 
