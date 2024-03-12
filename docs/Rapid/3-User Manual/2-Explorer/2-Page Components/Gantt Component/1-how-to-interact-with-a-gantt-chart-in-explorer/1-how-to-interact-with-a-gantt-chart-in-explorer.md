@@ -80,21 +80,21 @@ To view how to configure Gantt Chart, please view [**this resource**](/docs/Rapi
 
 ## To effectively interact with the Gantt Chart, please view the below links as appropriate:
 
-[How to create a new task and sub-types of task from Gantt Chart?](../how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart/how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart.md "How to create a new task and sub-types of task from Gantt Chart?")
+[How to create a new task and sub-types of task from Gantt Chart?](../creating-tasks/creating-tasks.md "How to create a new task and sub-types of task from Gantt Chart?")
 
 [How to Save and Undo changes made to the Gantt Chart?](../how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md "How to Save / Undo changes to a Gantt Chart?")
 
 [How to Zoom in and out the Gantt Chart timeline?](../how-to-zoom-in-out-the-gantt-chart-timeline/how-to-zoom-in-out-the-gantt-chart-timeline.md "How to Zoom in / out the Gantt Chart timeline?")
 
-[How to view and order tasks based on *Table Views*?](../how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart.md "How to view and order tasks based on Table views in a Gantt Chart?")
+[How to view and order tasks based on *Table Views*?](../filtering-and-sorting/filtering-and-sorting.md "How to view and order tasks based on Table views in a Gantt Chart?")
 
-[How to move tasks in time, extend start / end dates from the Gantt bars?]( "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[How to move tasks in time, extend start / end dates from the Gantt bars?](../moving-tasks-in-time/moving-tasks-in-time.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-[How to hide / show left panel OR enter / exit Full Screen mode?](../how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart.md "How to Hide / Show the Left Panel in Gantt Chart?")
+[How to hide / show left panel OR enter / exit Full Screen mode?](../hiding-left-panel/hiding-left-panel.md "How to Hide / Show the Left Panel in Gantt Chart?")
 
 [How to open Task Details page from Gantt Chart?](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 
-[How to change start date, duration and resource from left panel?](../how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md "How to change start date, duration and resource from left panel?")
+[How to change start date, duration and resource from left panel?](../altering-dates/altering-dates.md "How to change start date, duration and resource from left panel?")
 
 [How to create and edit dependencies in a Gantt Chart?](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
 

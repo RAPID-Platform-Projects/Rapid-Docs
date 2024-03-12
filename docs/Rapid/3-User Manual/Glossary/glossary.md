@@ -181,7 +181,7 @@ For a particular table, we can easily identify which columns have been inherited
 
 [How to create a new table in Rapid Platform?](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md> "How to create a new data table in Designer?")
 
-[How to view / update table options of an existing table in Designer?](/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-view-update-table-options-of-an-existing-table-in-designer/ "How to view / update table options of an existing table in Designer?")
+[How to view / update table options of an existing table in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-view-update-table-options-of-a-table/how-to-view-update-table-options-of-a-table.md "How to view / update table options of an existing table in Designer?")
 
 ## Page, layout and component
 

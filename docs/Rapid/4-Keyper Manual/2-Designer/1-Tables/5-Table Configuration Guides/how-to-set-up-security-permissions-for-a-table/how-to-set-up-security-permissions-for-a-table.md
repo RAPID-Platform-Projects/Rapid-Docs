@@ -93,5 +93,5 @@ Please refer to the below video for illustration.
 
 [How to delete a table in Rapid Platform?](../how-to-edit-delete-a-column-from-a-table/how-to-edit-delete-a-column-from-a-table.md "How to delete a table in Rapid Platform?")
 
-[How to view / update table options of an existing table in Designer?](../how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update table options of an existing table in Designer?")
+[How to view / update table options of an existing table in Designer?](../how-to-view-update-table-options-of-a-table/how-to-view-update-table-options-of-a-table.md "How to view / update table options of an existing table in Designer?")
 

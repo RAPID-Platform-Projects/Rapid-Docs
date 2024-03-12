@@ -53,9 +53,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 
-2. Select the Accounts you want to delete  
-
-    *Accounts selected image
+2. Select the Accounts you want to delete via the tick boxes or by clicking and dragging.
 
 3. Click on the **Delete X Accounts** button  
 

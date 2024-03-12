@@ -78,4 +78,4 @@ The above simulation has been illustrated for viewing ***Notes*** created on one
 
 [How to create items from a linked table?](../creating-items-within-items/creating-items-within-items.md "How to create items from a linked table?")
 
-[How to view / update the options of an existing table?](../how-to-view-update-table-options-of-an-existing-table-in-designer/how-to-view-update-table-options-of-an-existing-table-in-designer.md "How to view / update the options of an existing table?")
+[How to view / update the options of an existing table?](../how-to-view-update-table-options-of-a-table/how-to-view-update-table-options-of-a-table.md "How to view / update the options of an existing table?")
