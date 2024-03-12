@@ -132,14 +132,14 @@ Currently supported OData syntax
 | Syntax | Purpose | Example |
 | --- | --- | --- |
 | eq | Equals - exact comparison between two values | title eq 'My Title' |
-| lt | Less Than | due_date lt '2020-12-31T00:00:000z' |
-| lte | Less Than or Equal To | priority lte 3 |
+| lt | Less Than | due_date lt '2020-12-31T00:00:000Z' |
+| le | Less Than or Equal To | priority le 3 |
 | gt | Greater Than | cost gt 5000 |
-| gte | Greater Than or Equal To | volunteers gte 20 |
+| ge | Greater Than or Equal To | volunteers ge 20 |
 | and | Logical AND joining multiple comparisions | title eq 'My Title' and cost gt 5000 |
-| or | Logical OR joining multiple comparisons | priority lte 3 or cost gt 5000 |
-| () | Brackets : Managing order of operations | (priority lte 3 or cost gt 5000) and title eq 'My Title' |
-| in() | At least one given value is a match | in('parent_id", 1,2,3) |
+| or | Logical OR joining multiple comparisons | priority le 3 or cost gt 5000 |
+| () | Brackets : Managing order of operations | (priority le 3 or cost gt 5000) and title eq 'My Title' |
+| in() | At least one given value is a match | in('parent_id', 1,2,3) |
 | inUniversal() | At least one universal link is a match | inUniversal('Projects', 1, 2, 3) |
 | inScoped() | At least one given scoped link is a match | inScoped('Tasks', 'contributors', 8, 11, 31) |
 
