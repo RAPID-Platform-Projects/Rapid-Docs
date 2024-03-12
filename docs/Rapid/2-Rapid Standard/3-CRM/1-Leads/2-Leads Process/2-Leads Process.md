@@ -13,5 +13,6 @@ The lead process is initiated upon the **creation** of a Lead and encompasses th
 ![Contact Lead Task](<Screenshot 2024-03-12 at 3.07.36 pm.png>)
 
 **2. Next Steps:** Upon entering this stage, the sales team is presented with two options: 
-    **1. Established Contact:** If the sales team successfully contacts the lead, they are required to update the status field from 'new' to the most appropriate category and subsequently mark the task as complete. This action signifies the conclusion of the "Lead" process.
-    **2. No Contact Made:** In scenarios where the sales team fails to establish contact with the lead, they should leave the status as 'new' and complete the task. This action triggers the creation of another task aimed at re-establishing contact with the lead (generated seven days from the current date).
+    
+**i. Established Contact:** If the sales team successfully contacts the lead, they are required to update the status field from 'new' to the most appropriate category and subsequently mark the task as complete. This action signifies the conclusion of the "Lead" process.
+**ii. No Contact Made:** In scenarios where the sales team fails to establish contact with the lead, they should leave the status as 'new' and complete the task. This action triggers the creation of another task aimed at re-establishing contact with the lead (generated seven days from the current date).
