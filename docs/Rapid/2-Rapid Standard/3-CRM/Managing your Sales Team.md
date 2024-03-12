@@ -1,4 +1,4 @@
-# The Sales Team
+# Managing your Sales Team
 
 ## Overview
 
