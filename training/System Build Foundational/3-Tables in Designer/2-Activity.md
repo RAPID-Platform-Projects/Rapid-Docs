@@ -14,6 +14,7 @@ Add the following columns:
 
 Column Title   :         Column Type       
 
+Company Name : Single line of Text
 First Name     :         Single line of Text  
 Last Name       :       Single line of Text  
 Email               :       Email  
