@@ -6,7 +6,7 @@ The Gantt Chart in RAPID Platform is not just an excellent visualisation tool, r
 
 A task can be easily dragged across timeline to change its Start Date and End Date (or Due Date).
 
-![Dragging timeline](7N3DzoiYMFnF2dzA-dragging-480p-230914.gif)
+![Dragging timeline](dragging-timeline.gif)
 
 **Please note:**
 
@@ -24,7 +24,7 @@ Consider the following points:
 3. Click and drag the arrow in desired direction to modify Start Date / End Date.
 4. The duration of the task will update automatically.
 
-![Drag Start End](zRG3i4nhnatLaJyQ-drag-start-end-480p-230914.gif)
+![Drag Start End](drag-handles.gif)
 
 ## Important points to note
 
@@ -34,14 +34,14 @@ Consider the following points:
 
 ## Related articles
 
-[**How to change start date, duration and resource from left panel?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md> "How to change start date, duration and resource from left panel?")
+[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/altering-dates/altering-dates.md> "How to change start date, duration and resource from left panel?")
 
-[**How to Save and Undo changes made to the Gantt Chart?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
+[How to Save and Undo changes made to the Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
 
-[**How to open Task Details page from Gantt Chart?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md> "How to open task item profiles from Gantt Chart?")
+[How to open Task Details page from Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md> "How to open task item profiles from Gantt Chart?")
 
-[**How to create and edit dependencies in a Gantt Chart?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md> "How to create and edit dependencies in a Gantt Chart?")
+[How to create and edit dependencies in a Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md> "How to create and edit dependencies in a Gantt Chart?")
 
-[**How to Auto-schedule tasks in Gantt Chart?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md> "How to Auto-schedule tasks in Gantt Chart?")
+[How to Auto-schedule tasks in Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md> "How to Auto-schedule tasks in Gantt Chart?")
 
-[**How to interact with Gantt Chart component in Explorer with data?**](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")
+[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")

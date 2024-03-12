@@ -51,11 +51,11 @@ Please view the below GIF for illustration
 
 ## Related articles
 
-[How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart/how-to-hide-show-the-left-panel-go-full-screen-in-gantt-chart.md> "How to Hide / Show the Left Panel in Gantt Chart?")
+[How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/hiding-left-panel/hiding-left-panel.md> "How to Hide / Show the Left Panel in Gantt Chart?")
 
-[How to move tasks in time, extend start / end dates from the Gantt bars?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[How to move tasks in time, extend start / end dates from the Gantt bars?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/altering-dates/altering-dates.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md> "How to change start date, duration and resource from left panel?")
+[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/moving-tasks-in-time/moving-tasks-in-time.md> "How to change start date, duration and resource from left panel?")
 
 [How to Save and Undo changes made to the Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
 
