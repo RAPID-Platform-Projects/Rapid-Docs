@@ -39,15 +39,15 @@ Please refer to the below GIF for illustration.
 
 **Adding a new task from Gantt Chart**
 
-![New Task Gantt 1](pmiWcT4Lrieu0J8W-new-task-gantt-1-480p-230913.gif)
+![New Task Gantt 1](new-task-1.gif)
 
 **Adding a new sub-type of task from Gantt Chart  
 
-![New Task Gantt 2](icMmCOviH7Pqw8xs-new-task-gantt-2-480p-230913.gif)
+![New Task Gantt 2](new-task-2.gif)
 
 ## Related articles
 
-[**How to view and order tasks based on *Table Views*?**](../how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart/how-to-view-and-order-tasks-based-on-table-views-in-a-gantt-chart.md "How to view and order tasks based on Table views in a Gantt Chart?")
+[**How to view and order tasks based on *Table Views*?**](../altering-dates/altering-dates.md "How to view and order tasks based on Table views in a Gantt Chart?")
 
 [**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 

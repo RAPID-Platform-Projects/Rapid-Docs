@@ -16,7 +16,7 @@ To edit the Start Date,
 
 Please refer to the below GIF for illustration
 
-![Date from left](JPp7ggPReJeTDzjX-date-from-left-480p-230913.gif)
+![Date from left](changing-date.gif)
 
 ## Modifying Duration using Left Panel
 
@@ -30,7 +30,7 @@ To edit the Task Duration,
 
 Please refer to the below GIF for illustration
 
-![Duration from left](CbwPbWARtnMIKrtm-duration-from-left-480p-230913.gif)
+![Duration from left](changing-duration.gif)
 
 ## Assigning / updating resource using Left Panel
 
@@ -43,13 +43,13 @@ To modify the Task Resource,
 
 Please refer to the below GIF for illustration
 
-![Ressource from left](ROZiNn7huwyZamfg-ressource-from-left-480p-230913.gif)
+![Ressource from left](changing-resource.gif)
 
 **Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.
 
 ## Related articles
 
-[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars/how-to-move-tasks-in-time-extend-start-end-dates-from-the-gantt-bars.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../altering-dates/altering-dates.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
 [**How to create and edit dependencies in a Gantt Chart?**](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
 
