@@ -16,7 +16,7 @@ To do this simply follow the steps on the “Create, edit, or delete and employe
 
     ![Step 1](<Step 1.png>)
 
-2. Click on "New Employee".  
+2. Click on "New Employee"
 
     ![Step 2](<Step 2.png>)
 
