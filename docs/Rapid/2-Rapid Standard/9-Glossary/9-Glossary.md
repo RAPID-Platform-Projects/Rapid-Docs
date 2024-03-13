@@ -2,7 +2,7 @@
 
 ### Account
 
-An "account" represents the a businesses that your organisation interacts with, whether a supplier or customer.
+An "account" represents a business that your organisation interacts with, whether a supplier or customer.
 
 ### Asset
 
