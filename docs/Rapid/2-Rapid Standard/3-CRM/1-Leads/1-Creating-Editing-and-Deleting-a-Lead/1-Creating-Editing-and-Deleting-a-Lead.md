@@ -1,36 +1,36 @@
-# Creating, Updating, and Deleting a Lead
+# Creating, Editing, and Deleting a Lead
 
 ### Overview
 
-Unlike Assets, Leads does not have a base-type / sub-type structure. This makes Deleting, Accessing and Viewing Leads simpler.
+In Customer Relationship Management (CRM), a "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
 
-### How to Create a New Lead
+### How to create a New Lead
 
-1. In Explorer select CRM &gt; Sales &gt; Leads  
+1. In Explorer select CRM &gt; Leads  
 
-    ![image-1702937853708.png](./downloaded_image_1705285405769.png)
+    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
-2. From either the **Lead Board** or **Leads List** tabs click **New Lead**  
+2. Select either the **Board** or **List** tabs, then click **New Lead**  
 
-    ![image-1702447586069.png](./downloaded_image_1705285406791.png)
+    ![Select New Lead](<Screenshot 2024-03-12 at 2.33.52 pm.png>)
 
 3. Enter all relevant details  
     
-    1. For all reporting features to work the following fields are required: **Status**, **Estimated Value**, **Department**, **Industry**, **First Name**, **Last Name**, and **Lead Generated Date**  
+    1. For all reporting features to work the following fields are required: **First Name**, **Lead Manager**, **Estimated Value**, **Probability of Success** and **Estimated Close Date**.
 
-        ![image-1702447626619.png](./downloaded_image_1705285407812.png)
+        ![New Lead Details](<Screenshot 2024-03-12 at 2.37.38 pm.png>)
 
 4. Click on **Create** or **Create and Open**. 
 
     ![image-1702447679226.png](./downloaded_image_1705285408836.png)
 
-### How to Edit a Lead
+### How to edit a Lead
 
-1. In Explorer select CRM &gt; Sales &gt; Leads  
+1. In Explorer select CRM &gt; Leads  
 
-    ![image-1702937862974.png](./downloaded_image_1705285405769.png)
+    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
-2. Click on the **Leads List** tab  
+2. Click on the **List** tab  
 
     ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 
@@ -38,7 +38,7 @@ Unlike Assets, Leads does not have a base-type / sub-type structure. This makes 
 
     ![Select a Lead](<Select a Lead.png>)
 
-4. Edit any relevant fields on the **Lead** page as needed.  
+4. Edit any relevant fields on the **Lead Details** page as needed.  
 
     ![image-1702448037058.png](./downloaded_image_1705285412904.png)
 
@@ -52,13 +52,13 @@ It is not recommended to delete a lead if it is lost; instead, change its status
 
 However, if you need to delete a lead due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple leads at once.
 
-#### How to delete multiple leads at once
+#### How to delete multiple Leads at once
 
-1. In Explorer select CRM &gt; Sales &gt; Leads  
+1. In Explorer select CRM &gt; Leads  
 
-    ![image-1702937871117.png](./downloaded_image_1705285405769.png)
+    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
-2. Click on the **Leads List** tab  
+2. Click on the **List** tab  
 
     ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 
@@ -70,13 +70,13 @@ However, if you need to delete a lead due to incorrect data entry or a duplicate
 
     ![image-1702450051600.png](./downloaded_image_1705285417985.png)
 
-#### How to delete a single lead from the leads page
+#### How to delete a single Lead from the Leads page
 
-1. In Explorer select CRM &gt; Sales &gt; Leads  
+1. In Explorer select CRM &gt; Leads  
 
-    ![image-1702937862974.png](./downloaded_image_1705285405769.png)
+    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
-2. Click on the **Leads List** tab  
+2. Click on the **List** tab  
 
     ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
 

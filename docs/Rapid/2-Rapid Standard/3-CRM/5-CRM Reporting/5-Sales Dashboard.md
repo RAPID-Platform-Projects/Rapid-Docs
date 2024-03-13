@@ -20,9 +20,9 @@ Slicers provides the user with the ability to filter all of the visuals on the p
 
 ![image-1702881751415.png](./downloaded_image_1705285872208.png)
 
-The Sales Dashboard can be “sliced” based on no attributes, one attribute, or multiple attributes. The attributes available to “slice” by are Status, Industry, Opportunity Owner, and Year. Each of which can be edited on the Opportunity or related Account item.
+The Sales Dashboard can be “sliced” based on no attributes, one attribute, or multiple attributes. The attributes available to “slice” by are Status, Industry, Opportunity Manager, and Date. Each of which can be edited on the Opportunity or related Account item.
 
-For example, you could use the slicers to filter down the visuals to opportunities that have a status of **Presentation** that are in the **Agriculture** industry and in the year 2024.
+For example, you could use the slicers to filter down the visuals to opportunities that have a status of **Presentation** that are in the **Agriculture** industry and are from **this** **year**.
 
 #### Cards
 
@@ -30,7 +30,7 @@ The Cards section within the Sales Dashboard offers concise reference statistics
 
 The provided cards are as follows:
 
-- Pipeline Value – Indicates the sum of all estimated opportunities values weighted by their probability of success.
+- Pipeline Value – Indicates the sum of all estimated opportunity values weighted by their probability of success.
 - Opportunities - The number of open opportunities, meaning they are not Closed Won or Closed Lost
 - Avg Age - The average age of opportunities that are Closed Won or Closed Lost. In other words, the average time to close.
 - Win Rate - The proportion of Closed Won opportunities as a percentage of all closed opportunities.
@@ -55,7 +55,7 @@ The Days to Close visual shows the average Number of days from Opportunity creat
 
 ##### Forecast
 
-The Forecast visual shows the weighted estimated values of future opportunities by estimated closed date. This given an indication of the potential revenue and cashflow that could occur if the opportunities are closed at the estimated chance of success rate.
+The Forecast visual shows the weighted estimated values of future opportunities by estimated closed date. This provides an indication of the potential revenue and cashflow that could occur if the opportunities are closed at the estimated chance of success rate.
 
 ![image-1702882647916.png](./downloaded_image_1705285876289.png)
 

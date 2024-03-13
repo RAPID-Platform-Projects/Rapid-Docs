@@ -1,22 +1,22 @@
-# The Sales Team
+# Managing your Sales Team
 
 ## Overview
 
-The Sales Team is a role that come preconfigured as part of the CRM module. This means that users within the system can be assigned to the sales team. As a result, any tasks assigned to the sales team will appear in the “My Group Tasks” pane in the tasks list for that user.
+The Sales Team is a role that come preconfigured as part of the CRM module. This means that users within the system can be assigned to the Sales Team. As a result, any tasks assigned to the Sales Team will appear in the “My Tasks” view for those users.
 
-This allows the sales team to easily have visibility of all of their tasks and anyone within the team can pick up the tasks as they come in
+This allows the Sales Team to easily have visibility of all of their tasks and anyone within the team can pick up the tasks as they come in
 
-## How to add a user to the sales team
+## How to add a user to the Sales Team
 
 1. Navigate to the Users &amp; Groups table by clicking System &gt; Settings &gt; Users &amp; Groups  
 
     ![Navigate to users and groups](<Navigate to Users and Groups.png>)
 
-2. Select the users you want to add to the sales team, click **Add x Principals to Group**, Click ****Sales Team**** 
+2. Select the users you want to add to the Sales Team, then click **Add x Principals to Group**, finally click ****Sales Team**** 
 
     ![Select users and add to group](<Select Sales Team from dropdown.png>)
 
-## How to remove a user / users from the sales team
+## How to remove a user / users from the Sales Team
 
 1. Navigate to the Users &amp; Groups table by clicking System &gt; Settings &gt; Users &amp; Groups  
 
@@ -30,8 +30,7 @@ This allows the sales team to easily have visibility of all of their tasks and a
 
     ![Select the Members tab](<Select Members tab.png>)
 
-4. Select the users you want to remove from the group  
-    *Select users from list image
+4. Select the users you want to remove from the group
 
 5. Click **Remove X Principals from Group** 
 

@@ -1,12 +1,12 @@
-# Creating, Updating, and Deleting an Account
+# Creating, Editing, and Deleting an Account
 
 ### Overview
 
 Accounts represent the various businesses that your organisation interacts with, whether a supplier or customer.
 
-### How to Create an Account
+### How to create an Account
 
-Accounts can be created in two ways. The first is through the Lead conversion button, where it will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../Leads/converting-a-lead/converting-a-lead.md)). The second way, like many other tables is through the table list page and those steps can be found below.
+Accounts can be created via two methods. The first is through the Lead conversion button, where an Account will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../1-Leads/3-Converting-a-Lead/3-Converting-a-Lead.md)). The second method, like many other items is through the table list page and those steps can be found below.
 
 1. In Explorer select CRM &gt; Accounts  
 
@@ -23,7 +23,7 @@ Accounts can be created in two ways. The first is through the Lead conversion bu
 4. Press **Create** or ****Create and Open**** 
 
 
-### How to Edit an Account
+### How to edit an Account
 
 1. In Explorer select CRM &gt; Accounts  
 
@@ -47,13 +47,13 @@ It is not recommended to delete an **Account** instead change its status to **In
 
 However, if you need to delete an **Account** due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple **Accounts** at once.
 
-#### How to delete multiple accounts at once
+#### How to delete multiple Accounts at once
 
 1. In Explorer select CRM &gt; Accounts  
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 
-2. Select the Accounts you want to delete via the tick boxes or by clicking and dragging.
+2. Select the Accounts you wish to delete by ticking the boxes or by clicking and dragging to select multiple.
 
 3. Click on the **Delete X Accounts** button  
 
@@ -67,7 +67,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
 2. Open the **Account** you wish to delete. (Locate the **Account** either by scrolling through the list or using the search bar).  
 
-    *Open an account image
+    [![image-1702937382009.png](./PGmUaSfgJqmrlc2A-image-1702937382009.png)](./PGmUaSfgJqmrlc2A-image-1702937382009.png)
 
 3. Press **Delete** 
 
