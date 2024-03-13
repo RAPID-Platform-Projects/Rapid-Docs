@@ -9,7 +9,7 @@ Requests can be created using the adaptive form. This form can be distributed th
 Alternatively, you may want to create a request using Explorer. This could be a more useful way for internal employees with access to the Rapid system to create requests. 
 1.	Navigate to **Support** > **Requests**
 
-![Alt text](Nav.png)
+![Alt text](Navigating_to_support.png)
 
 2.	Click on **New Request**
 
@@ -22,7 +22,7 @@ Alternatively, you may want to create a request using Explorer. This could be a 
 The original request fields are set to read-only. However, it is possible to edit the fields that pertain to managing and fulfilling the request. To do so, follow the steps below:
 1.	Navigate to **Support** > **Requests**
 
-![Alt text](Nav.png)
+![Alt text](Navigating_to_support.png)
 
 2.	Locate the request you wish to edit, either by scrolling through the list or using the search bar.
 
