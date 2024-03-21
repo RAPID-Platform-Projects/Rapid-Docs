@@ -131,7 +131,7 @@ Please note, on the you would need to [**arrange the fields**](/docs/Rapid/4-Key
 :::info[Important]
 
 You can set the fields of the Form Component as [**hidden / visible on the Item Details and Item Creation form**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
-::
+:::
 
 ## Related articles
 

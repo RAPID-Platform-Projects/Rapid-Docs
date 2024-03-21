@@ -118,10 +118,10 @@ Please refer to the below GIF for illustration
 
 ## Related articles
 
-[**How to create a new task and sub-types of task from Gantt Chart?**](../how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart/how-to-create-a-new-task-and-sub-types-of-task-from-gantt-chart.md "How to create a new task and sub-types of task from Gantt Chart?")
+[**How to create a new task and sub-types of task from Gantt Chart?**](../creating-tasks/creating-tasks.md "How to create a new task and sub-types of task from Gantt Chart?")
 
 [**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
 
-[**How to change start date, duration and resource from left panel?**](../how-to-change-start-date-duration-and-resource-from-left-panel/how-to-change-start-date-duration-and-resource-from-left-panel.md "How to change start date, duration and resource from left panel?")
+[**How to change start date, duration and resource from left panel?**](../altering-dates/altering-dates.md "How to change start date, duration and resource from left panel?")
 
 [**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

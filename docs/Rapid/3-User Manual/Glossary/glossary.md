@@ -181,7 +181,7 @@ For a particular table, we can easily identify which columns have been inherited
 
 [How to create a new table in Rapid Platform?](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md> "How to create a new data table in Designer?")
 
-[How to view / update table options of an existing table in Designer?](/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-view-update-table-options-of-an-existing-table-in-designer/ "How to view / update table options of an existing table in Designer?")
+[How to view / update table options of an existing table in Designer?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-view-update-table-options-of-a-table/how-to-view-update-table-options-of-a-table.md "How to view / update table options of an existing table in Designer?")
 
 ## Page, layout and component
 
@@ -380,3 +380,9 @@ Linked Items - Within the system we have replaced the concept of tags with linke
 Notification - A message sent from the system to the user, hopefully a useful one.
 
 Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designa that contains the item name and buttons.
+
+## Support request
+
+A support request is a unit communication between the system user and the system's support staff. A user can create a support request when he/she is not able to proceed with a system functionality on his/her own or with the help of documentation. This indicates the need for assistance and a support request is a method to seek that assistance from support staff. 
+
+Users can also use support requests for submit bugs or improvement requests. 
