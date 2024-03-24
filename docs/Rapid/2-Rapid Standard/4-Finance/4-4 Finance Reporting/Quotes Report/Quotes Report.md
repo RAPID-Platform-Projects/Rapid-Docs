@@ -53,7 +53,7 @@ It is an interactive visual, allowing users to click on of the “Month” bars 
 
 
 ### Tables
-![The location of the tables on the Bills and Invoices report](bills-invoices-tables.png)![The location of the table on the Quotes report](quotes-table.png)
+![The location of the table on the Quotes report](quotes-table.png)
 
 The Quotes Table displays the Quote Number, Reference, Customer, Date, Total, Status, and Link to the Rapid item.
 
