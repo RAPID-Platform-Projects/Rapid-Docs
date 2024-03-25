@@ -1,16 +1,16 @@
 # Creating and Editing Tasks Within a Project
 
-### Overview
+## Overview
 
 All projects must incorporate a list of tasks, outlining the activities necessary for achieving project objectives. It is essential to regularly update the tasks list throughout the project's lifecycle to maintain an accurate record of completed and outstanding tasks.
 
-Both the tasks board and Gantt chart accurately represent the data from the project's task list, providing visual insights into task progress and timelines.
+Both the tasks board and Gantt chart accurately represent the data from the project's task list, providing visual insights into the progress of the project.
 
-There are three ways to create tasks in the context of a project: form the tasks list, from the tasks board, and from the Gantt Chart.
+There are three ways to create tasks in the context of a project: from the tasks list, from the tasks board, and from the Gantt Chart.
 
-### How to create a task from a Project tasks list, task board, or Gantt Chart
+## How to create a task from a Project tasks list, task board, or Gantt Chart
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Side bar navigate to Projects](<Side bar navigate to projects.png>)
 
@@ -26,7 +26,7 @@ There are three ways to create tasks in the context of a project: form the tasks
 
     ![Navigate to Task list](<Navigate to task list.png>)
 
-5. Click **New** **Task** 
+5. Click **New Task** 
 
     ![Create a new Task](<create a new task.png>)
 
@@ -39,11 +39,11 @@ There are three ways to create tasks in the context of a project: form the tasks
 
 7. Click on **Create** or **Create and Open** 
 
-        ![Finalize the new task](<finalize create new task.png>)
+    ![Alt text](<finalize create new task.png>)
 
-### How to edit a Task from within a Project
+## How to edit a Task from within a Project
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Side bar navigate to Projects](<Side bar navigate to projects.png>)
 

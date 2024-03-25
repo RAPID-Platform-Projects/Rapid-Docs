@@ -6,7 +6,7 @@ The task board is a great way to visualise the status of each of the project’s
 
 ## How to access a Projects Task Board
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -24,7 +24,7 @@ The task board is a great way to visualise the status of each of the project’s
 
 ## How to change the status of a task using the tasks board
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -55,9 +55,9 @@ The task board is a great way to visualise the status of each of the project’s
 
 ## How to change the view on a Project Task Board
 
-The default view on the Task Board is the “My Tasks – All” view which shows all tasks assigned to the user or a group the user is a part of. This view can be changed to the “All” view to show all tasks in the project irrespective of who it is assigned to. To do this follow the steps below.
+The default view on the Task Board is the **My Tasks – All** view which shows all tasks assigned to the user or a group the user is a part of. This view can be changed to the **All** view to show all tasks in the project irrespective of who it is assigned to. To do this follow the steps below.
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -73,19 +73,19 @@ The default view on the Task Board is the “My Tasks – All” view which show
 
     ![Select the Tasks Board](<Select the Tasks Board.png>)
 
-5. Click on the dropdown in the upper right corner above the task board which says “My Tasks – All”  
+5. Click on the dropdown in the upper right corner above the task board which says **My Tasks – All**. 
 
     ![Select the view chooser](<Selec the view chooser.png>)
 
-6. From the list of view select the “All” view  
+6. From the list of view select the **All** view  
 
     ![Choose the All View](<Choose the All View.png>)
 
-7. The tasks board now shows all tasks in the project. The same steps can be used to revert the view back to “My Tasks – All”
+7. The tasks board now shows all tasks in the project. The same steps can be used to revert the view back to the **My Tasks – All** view
 
 ## How to edit a task from a Project's task board
 
-1. Navigate to Projects &gt; Projects  
+1. Navigate to **Projects** &gt; **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
