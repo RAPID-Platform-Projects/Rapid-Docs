@@ -2,7 +2,7 @@
 
 ## Overview
 
-Within the Employee's module, we have incorporated two methods to stay informed about upcoming employee birthdays and work anniversaries. The first method involves email reminders, which are detailed on this page. The second option is the birthday and work anniversary calendar, which are elaborated upon [here](../../hr-reporting/using-the-hr-calendar/using-the-hr-calendar.md).
+Within the Employee's module, we have incorporated two methods to stay informed about upcoming employee birthdays and work anniversaries. The first method involves email reminders, which are detailed on this page. The second option is the birthday and work anniversary calendar, which are elaborated upon [here](<docs\Rapid\2-Rapid Standard\6-Human Resources\hr-reporting\using-the-hr-calendar\using-the-hr-calendar.md>).
 
 ## Details
 
