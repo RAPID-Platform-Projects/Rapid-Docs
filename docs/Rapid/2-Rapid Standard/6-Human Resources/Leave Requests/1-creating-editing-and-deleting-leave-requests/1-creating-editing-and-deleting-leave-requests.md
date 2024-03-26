@@ -77,7 +77,7 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 
     ![image-1703652281898.png](./downloaded_image_1705285302217.png)
 
-2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
+2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar. 
 
     ![image-1703652473710.png](./downloaded_image_1705285307297.png)
 
