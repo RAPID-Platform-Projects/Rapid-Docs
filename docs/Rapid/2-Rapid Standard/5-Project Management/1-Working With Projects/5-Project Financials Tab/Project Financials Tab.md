@@ -2,13 +2,13 @@
 
 ### Overview
 
-The project financials tab is a helpful place to access all budgets, quotes , and invoices associated with the project.
+The project financials tab is a helpful place to access all budgets, quotes, and invoices associated with the project.
 
-Budgets under the scoping tab, and Budgets under the financials tab will both show the same items as budgets refer to both a projects financials and scoping.
+Budgets are found under the scoping tab and under the financials tab. Both locations show the same items but are accesssible in two locations depending if the user is **Scoping** the project or trying to access the **Financials**.
 
 ### How to create an Invoice or Quote in the Context of a Project
 
-1. Navigate to Projects &gt; Projects 
+1. Navigate to **Projects** &gt; **Projects** 
 
     ![Side bar navigate to projects](<Side bar navigate to projects.png>)
 
@@ -16,11 +16,11 @@ Budgets under the scoping tab, and Budgets under the financials tab will both sh
 
     ![Open a project](<Open a project.png>)
 
-3. Click Financials &gt; Invoices or Quotes  
+3. Click **Financials** &gt; **Invoices** or **Quotes**  
 
     ![Navigate to the invoices or quotes tab](<Navigate to the invoices or quotes tab.png>)
 
-4. Press New Invoice or Quote  
+4. Press **New Invoice** or **New Quote**  
 
     ![Create new invoice or quote item](<Create a new invoice or quote.png>)
 
@@ -28,7 +28,7 @@ Budgets under the scoping tab, and Budgets under the financials tab will both sh
 
     ![Fill out the creat item form](<Fill out the create item form.png>)
 
-6. Select New Quote / Invoice Line and enter the relevant details  
+6. Select **New Invoice Line** or **New Quote Line** and enter the relevant details  
 
     ![Create a new invoice or quote line](<Create a new invoice or quote line.png>)
 
