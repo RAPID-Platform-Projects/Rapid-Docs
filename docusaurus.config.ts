@@ -8,7 +8,8 @@ const config: Config = {
   favicon: "img/r.ico",
 
   // Set the production url of your site here
-  url: "https://docs.rapidplatform.com",
+  //url: "https://docs.rapidplatform.com",
+  url: "https://rapiddocs.z8.web.core.windows.net",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
