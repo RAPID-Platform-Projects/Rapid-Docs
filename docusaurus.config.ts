@@ -1,7 +1,6 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
-import path from 'path';
 
 const config: Config = {
   title: "Rapid Platform Docs",
@@ -63,6 +62,7 @@ const config: Config = {
     }]
   ],
 
+  //themes:['@docusaurus/theme-search-algolia'],
   themeConfig: {
     // Replace with your project's social card
     image: "img/RPD_logo_STK_2D.png",
@@ -130,7 +130,7 @@ const config: Config = {
           position: "right",
           label: "Feedback"
         }
-      ]
+      ],
     },
     footer: {
       style: "dark",
@@ -183,6 +183,34 @@ const config: Config = {
     },
     colorMode: {
       respectPrefersColorScheme: true
+    },
+    algolia: {
+      // The application ID provided by Algolia
+      appId: 'TAEM52T6XL',
+
+      // Public API key: it is safe to commit it
+      apiKey: 'c799de3426928062018193dd160dc3c7',
+
+      indexName: 'rapidz8-web-core-windows',
+
+      // Optional: see doc section below
+      contextualSearch: true,
+
+      // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+      externalUrlRegex: 'external\\.com|domain\\.com',
+
+      // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+      replaceSearchResultPathname: {
+        from: '/docs/', // or as RegExp: /\/docs\//
+        to: '/',
+      },
+
+      // Optional: Algolia search parameters
+      searchParameters: {},
+
+      // Optional: path for search page that enabled by default (`false` to disable it)
+      searchPagePath: 'search',
+
     }
   } as Preset.ThemeConfig,
 };
