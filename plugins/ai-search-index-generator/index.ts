@@ -122,7 +122,7 @@ function generateIndexDocuments() {
     }
   }
 
-  const domain = "https://rapiddocs.z8.web.core.windows.net/";
+  const domain = "https://docs.rapidplatform.com/";
 
   function parseUrlFromFilePath(str) {
     let returnStr = "";
