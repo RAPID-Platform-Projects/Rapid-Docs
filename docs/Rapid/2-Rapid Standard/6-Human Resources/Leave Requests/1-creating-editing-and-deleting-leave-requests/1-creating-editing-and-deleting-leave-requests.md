@@ -13,21 +13,21 @@ Leave requests can be created in two ways: through a public form and through the
 
 #### How to Create a Leave Request through the Leave Requests Table in Explorer
 
-1. Click Human Resources &gt; Leave Requests  
+1. Click **Human Resources** &gt; **Leave Requests** 
 
-    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
+    ![Alt text](<Navigating to leave requests.png>)
 
-2. Click on "New Leave Request".  
+2. Click on **New Leave Request**.  
 
-    ![image-1703652306709.png](./downloaded_image_1705285303230.png)
+    ![Alt text](<New leave request button.png>)
 
 3. Enter all relevant details  
 
-    ![image-1703652321955.png](./downloaded_image_1705285304251.png)
+    ![Alt text](<Creating a new leave request.png>)
 
 4. Click on **Create** or **Create and Open** 
 
-    ![image-1703652363414.png](./downloaded_image_1705285305264.png)
+    ![Alt text](<Create leave request button.png>)
 
 ### How to edit a Leave Request
 
@@ -37,50 +37,50 @@ In the case that you may not be using the Leave Request Approval process in your
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
 
-    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
+    ![A screenshot depicting how to navigate to leave requests using the sidebar menu](<Navigating to leave requests.png>)
 
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar.  
 
-    ![image-1703652473710.png](./downloaded_image_1705285307297.png)
+    ![A screenshot that shows how to search for a particular leave request by using the search bar and then pressing the Return or Enter key on the keyboard.](<Searching leave requests.png>)
 
 3. Edit any relevant fields on the leave request page as needed. 
 
-    ![image-1703652535544.png](./downloaded_image_1705285308313.png)
+    ![A screenshot that reveals the different fields that can be filled when creating a new leave request.](<Editing the details of a leave request.png>)
 
-4. Once you have finished editing, click **Save** or ****Save and Close**** 
+4. Once you have finished editing, click **Save** or **Save and Close** 
 
-    ![image-1703652591325.png](./downloaded_image_1705285309330.png)
+    ![A screenshot that depicts the location of the "Save" or "Save and Close" buttons after creating a new leave request. ](<Saving the details of a leave request.png>)
 
 ### Deleting Leave Requests
 
-It is not recommended to delete a leave request instead, change the Approved toggle to false.
+It is not recommended to delete a leave request. Instead, change the **Approved** toggle to "No".
 
-However, if you need to delete a leave request due to a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple leave requests at once.
+However, if you need to delete a leave request due to a duplicate entry, you can do so in two ways: from the list, or from the item page. Deleting from the list allows you to delete multiple leave requests at once.
 
 #### How to Delete Multiple Leave Requests from the List Page
 
 1. Navigate to **Human Resources** &gt; **Leave Requests  
 
-    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
+    ![A screenshot depicting how to navigate to leave requests using the sidebar menu.](<Navigating to leave requests.png>)
 
 2. Select the **Leave Requests** you wish to delete  
 
-    ![image-1703652818112.png](./downloaded_image_1705285311357.png)
+    ![A screenshot that shows how to select a leave request.](<Selecting leave requests.png>)
 
 3. Press **Delete X Leave Requests**  
 
-    ![image-1703652856232.png](./downloaded_image_1705285312369.png)
+    ![A screenshot that shows how to delete multiple leave requests.](<Deleting multiple leave requests.png>)
 
 #### How to Delete a Single Leave Request from the Item Page
 
 1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**. 
 
-    ![image-1703652281898.png](./downloaded_image_1705285302217.png)
+    ![A screenshot depicting how to navigate to leave requests using the sidebar menu.](<Navigating to leave requests.png>)
 
 2. Open the leave request you wish to edit. Locate the leave request by scrolling through the list or using the search bar. 
 
-    ![image-1703652473710.png](./downloaded_image_1705285307297.png)
+    ![A screenshot depicting how to select a leave request.](<Searching leave requests.png>)
 
 3. Press **Delete** 
 
-    ![image-1703652946616.png](./downloaded_image_1705285315407.png)
+    ![A screenshot depicting the location of the delete button inside a leave request item.](<Deleting a single leave request.png>)
