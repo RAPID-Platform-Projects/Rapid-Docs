@@ -1,25 +1,24 @@
 # Notifications
 
-## Alert indicator for notifications
+## The notifications alert indicator
 
-//DO
 
-Now, there is a new "Bell" icon which provides a visual alert of the number of unread notifications in red.
+A visual alert indicator can be found in the top right of Rapid Platforms explorer expereince. This indicator presents a count of unread mentions, reminders and announcements.
 
 :::info[Please note]
+ Regardless of weather you have unread messages, you can click on this bell icon to see previously read messages.
+:::  
 
-The access point for notifications has now changed. Now we can access all notifications by clicking the "Bell" icon and the notification list will appear.
-:::
+![Location of notifications button](<Bell icon.png>)
 
-![Image showing comparison between how to access old and new notifications interface](<Notification 1.png>)
 
-## Easier segmentation for Reminders and Mentions
+## Easy segmentation for Reminders and Mentions
 
-The new notifications interface makes it easier to pickup the mentions and reminders from the remaining list. 
+The notifications interface makes it easy to find your mentions and reminders from the remaining list by filtering them into easy to access tabs. 
 
-Earlier, there was one list of all notifications and one had to search for reminders / mentions. This was a peculiar problem when the list of notifications was long.
 
-![Image showing comparison between old and new notification list with reference to visibility of  mention and reminders](<Notification 2.png>)
+
+![View of unread notifications](<Mentions location.png>)
 
 :::tip[Please note]  
 Observe that the number of unread mentions and reminders is also visible.  
@@ -37,9 +36,8 @@ Observe that the number of unread mentions and reminders is also visible.
 
 ## Header and body visible in the notification list
 
-The new notification interface will show both the header and the body (without truncating it) in the notification list itself. This brings ease of viewing the notification and reduces the time to assimilate the message.
+The notification interface shows both the header and the body (without truncation) in the notification list itself. This helps users stay ontop of messages and reminders without having to hunt them down, or navigate to them before reading their content.  
 
-Earlier, only the header used to appear in the notification list and the user had to open the notification to read the body.
 
 ![Image showing comparison between old and new notifications interface with reference to header and body of notification](<Notification 5.png>)
 
@@ -49,13 +47,14 @@ With each notification you get four action buttons:
 
 ![Image showing Action buttons](<Notification 6.png>)
 
-1. **Snooze** - Just like the previous versions, you can still snooze a notification. The item will then disappear from the unread notifications list for the defined duration.
+1. **Snooze** - This button will snooze the relevent notification. The item will then disappear from the unread notifications list for the defined duration.
 
-2. **Open** - Clicking this action button will open the item of the table, from where the notification originated. Once a notification is opened, it will the state of the notification to "Read". 
+2. **Open** - Clicking this action button will open the item on which the notification originated. Once a notification is opened, it will automatically update the state of the notification to "Read". 
 
-3. **Mark Read** - If this option is clicked, the subject notification;s state is changed to "Read" from "Unread". The "Read" notifications list sit below the unread ones. Notice that there is no Red dot against the notification item, which signifies it is not in "Unread" state.
+3. **Mark Read** - If this option is clicked, the relevent notification's state is changed from "Unead" to "Read". The "Read" notifications list sit below the unread ones. Notice that there is no red dot against the notification item, which signifies it is not in "Unread" state.
 
-![Image showing read notifications](<Notification 7.png>)
+![Image showing read notifications](<Notification 7.png>)  
+
 4. **Dismiss** - This will remove the notification from the list.
 
 :::tip[Please note]
@@ -65,11 +64,11 @@ Once a notification is "Read", it cannot go back to the "Unread" state. Observe 
 
 ## Mark all notifications as read
 
-It is now possible to change the state of all notifications and mark them as "Read" by a single click. 
+You can also easily change the status of all notifications to "Read" with a single click. 
 
 ![Image showing Mark All as Read button](<Notification 8.png>)
 
 :::note[Please note]
 
-Notifications list is updated with the page load and refreshed every minute.
+The notifications list is updated with each page load, and automatically every minute.
 :::
