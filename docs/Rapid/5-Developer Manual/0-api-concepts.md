@@ -146,6 +146,20 @@ Currently supported OData syntax
 
 #### OData Function Reference
 
+##### Relative Dates
+When comparing dates you can use relative date glyphs to represent a dynamic value. The avaliable glyphs are:
+
+- today
+- tomorrow
+- startOfWeek
+- endOfWeek
+- startOfMonth
+- endOfMonth
+- startOfQuarter
+- endOfQuarter
+
+For example `created gt '@today'` would compare the created date to be after the start of today. All relative dates have midnight as their time component.
+
 ##### in
 
 The in() function tests if at a given column contains at least one of the given values
