@@ -34,7 +34,7 @@ In the above image, the active form - Marketing Request is in Edit mode (icon ap
 
 7. There are two tabs here - Elements and Overview. When Elements tab is active, then you can see the tree of elements for the form (defined in 8). When overview tab is active, then you can see and modify information about the form - like the form title, states, connections, etc.
 
-8. This is the section which appears when the Elements tab is active (defined in 7). You can see the tree structure of elements for the active form.  We can refer this as the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to view it on the Composition area (defined in 9).
+8. This is the section which appears when the Elements tab is active (defined in 7). You can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to view it on the Composition area (defined in 9).
 
 9.  This is the Composition area. Here you can add elements and also perceive how various elements will appear visually. Please note this is different from Preview. 
 
