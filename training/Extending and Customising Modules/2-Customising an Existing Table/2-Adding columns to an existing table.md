@@ -10,11 +10,11 @@ So, let’s build a column that tracks what the company *intends* to do with eac
 
 ### 1. Open the Assets table in Designer
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/3-User Manual/3-Designer/2-how-to-access-designer/2-how-to-access-designer.md" target="_blank">Click here</a> for a reminder on how to open a table in designer.
+> <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/3-User Manual/3-Designer/2-how-to-access-designer/2-how-to-access-designer.md" target="_blank">Click here</a> for a reminder on how to open a table in designer.
 
 Since we want to build a column, we should press the columns tab at the top of the page.
 
-![Alt text](<Designer Assets Columns.png>)
+![A screenshot that reveals the location of the columns tab at the top of a table in Designer.](<Designer Assets Columns.png>)
 
 ### 2. Create a New Column
 
@@ -36,4 +36,4 @@ So, which type of data is best for us? We *could* type our information into a si
 ### Challenge 1: Decide on which datatype is most suitable
 Using the scenario described above, and decide which type of data should be selected for this column. When you are ready, progress to the next page to check your answer.
 
-You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.
+> You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.

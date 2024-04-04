@@ -1,3 +1,5 @@
+# Creating a New View
+
 1.	We now have a way to add new data into our ASSETS. I can imagine Clear Consulting diligently going through their ASSETS, and then noting down what should happen for each ASSET. However, the company will quickly have a problem if they need to open every single ASSET to find out whether it needs to be sold, repaired, disposed of, etc.
 2.	Let’s create a new VIEW, which will allow the consulting company’s auditors to quickly see all assets and their AUDIT ACTIONS. First, let’s make sure we are on the ALL-ASSETS table. Now, we press the FILTER or VIEW button, and select CREATE VIEW.
 3.	The TITLE is what will appear in the drop-down FILTER menu we just saw. We’ll call this VIEW “AUDIT ACTIONS – ALL"

@@ -27,7 +27,7 @@ And then seeing how many of the columns within IT Assets are inherited from the 
 
 ![A screenshot that indicates the "Base Type" data for a specific column. The base type will state the name of a parent table (if it exists).](<Designer IT Assets Inheritance Columns.png>)
 
-Note the *IMEI* (International Mobile Equipment Identity) column. An IMEI number is used to track certain electronics such as mobile phones. This field is only used in the **IT Assets** table, because general assets and vehicle assets do not require this field. It was created inside the **IT Assets** table, instead of in the **Assets** table, and we can deduce this because the *Base Type* for IMEI is empty.
+> Note the *IMEI* (International Mobile Equipment Identity) column. An IMEI number is used to track certain electronics such as mobile phones. This field is only used in the **IT Assets** table, because general assets and vehicle assets do not require this field. It was created inside the **IT Assets** table, instead of in the **Assets** table, and we can deduce this because the *Base Type* for IMEI is empty.
 
 To understand this better, let’s look at the **Assets** table.
 
@@ -41,9 +41,9 @@ Now, let’s click on the columns tab at the top of the page, to see what types 
 
 ![A screenshot that demonstrates how to use Designer to view the columns built into the Assets table.](<Designer Assets Columns.png>)
 
-4.	So, the **Assets** table contains information such as the *Model Type*, *Age* of an Asset, any *Bills* that are attached to it, and the *Employee* responsible. We can see that the *Name* field is written in bold, which shows that it is title column.
+4.	We can see that the **Assets** table contains information such as the *Model* of an asset, its *Age*, any *Bills* that are attached to it, and the *Employee* responsible. We can see that the *Name* field is written in bold, which shows that it is title column.
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md" target="_blank">Click here</a> to learn more about viewing and editing columns in Designer.
+> <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md" target="_blank">Click here</a> to learn more about viewing and editing columns in Designer. This doc also goes into detail about what a Title Column is.
 
 ## Summary and Explanation
 

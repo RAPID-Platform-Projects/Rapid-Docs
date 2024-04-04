@@ -1,13 +1,25 @@
-Adding a Field to a Form
-1.	Once we have added a new COLUMN to a table, we need a way to put data into that table. Here, while looking at an IT Asset, we have no place to enter data.
-2.	To edit this page, we can use the Designer shortcut button in the upper right corner of the page. Its icon is a ruler and set square. Instead of taking us to the main Designer menu, however, this Designer button lets us redesign the page in front of us.
-3.	When we click on it, you will notice that it has opened in the “Details’ tab here. This is where we can design the way we edit data when we open a certain item. There is also another button here, so we can switch to what things will look like when we create a new IT ASSET.
-4.	You’ll notice here that there is a drop-down menu, which has two very similar-looking items in it: IT ASSETS and IT ASSET. The IT ASSETS, plural, allows us to edit that list view with all the IT ASSETS on it. This isn’t what we want, we only care about what appears when we are editing a single ASSET. Most of the time, we will want to make sure we are editing the singular name of an item. So, let’s make sure the drop-down is set to “IT ASSET”.
-5.	If we look down here in the bottom left, we can see there is plenty of space to add a new FIELD of data. The EMPLOYEE and STATUS fields are here, so this is a logical place to add the field for AUDIT ACTION.
-6.	Here are a common problem people run into. If we want a FIELD to appear here in the DETAILS page, we first need to add it to the CREATE SCREEN tab. This is because the CREATE SCREEN tab tells RAPID which COLUMNS or FIELDS to load, so we need to first add a FIELD here.
-7.	A good place to add our audit actions would be here, under status. While our mouse is hovering over this empty space, you might notice that the grey information box titled “Form” appears. We want to press the + button here, and then select the new field that we want to add
-8.	Now, we go to the top of this editing sidebar, and press ADD TO FORM.
-9.	Notice, there is an alternative way to Create a New Column here, using this button. Just be careful, however. If we added the New Column here, it would only be added to IT ASSETS, it wouldn’t also be added to Vehicles or other types of ASSETS that we might have. So, this button is a good idea if you only want to add a COLUMN to one table. If you want to add a COLUMN that will be used across many assets, you need to use the method we looked at earlier.
-10.	Once a field is added, we can click and drag it to reposition it. We can also expand or shrink a FIELD if we need to. Now, do we want to be able to create an AUDIT ACTION when creating a new ASSET? In our case, this is probably not necessary. Let’s hide the field, so that it isn’t visible when it is being created. With our mouse positioned over the FIELD, we should press the eye icon, and this will hide it when we create a new ASSET.
-11.	Let’s make sure we press save. Let’s return to the DETAILS tab and add our COLUMN there (fast forward through this demonstration).
-12.	Now, when we edit an IT ASSET, we can see what AUDIT ACTION has been noted against it. We would now need to go and make these same changes to the VEHICLES table. 
+# Adding a column's field to the Details and Create Pages
+Now, if we tried to edit an asset, you might notice that the new column we added doesn't have a field attached to it, so no data can be written to the column. 
+
+This is because we need to redesign the Details and Create Pages, so that we can edit the *Audit Action* data.
+
+To add the field we just created:
+
+1. Open the **Assets** table in Designer.
+
+2. Go to the **Design** tab.
+![A screenshot that demonstrates how to change the layout design of a table's form. The user must ensure they open the table in Designer. Then they go to the Design tab, and then ensure they have "Asset" selected from the dropdown menu (instead of "Assets" plural).](<Designer Assets Design Tab.png>)
+
+3. Hover your cursor over the location where you wish to add the new field. This will show the overlay that allows you to add fields. All of these fields are contained within the form component, and we can press the **+** button to add the new field.
+
+![A screenshot demonstrating how, when you over over an empty space in Design view, the overlay appears. This allows the user to find the right section to add a field to.](<Designer Find Overlay.png>)
+
+4. Select "Audit Action", and then press **Add to Form**.
+
+![A screenshot demonstrating how to select the "Audit Action" field and add it to a form. This is an example from training Challenge 1.](<Designer Add to Form.png>)
+
+5. Resize the field and move it to the desired location. Press **Save**.
+
+> You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md" target="_blank">click here</a> for a detailed guide on how to edit the layout of a page.
+
+Note that when you add a field to the **Details** section, it will also add the field to the **Create Screen** section, and vice versa. Once you have added the field to the Details section, ensure that it displays as expected on the Create Screen as well.

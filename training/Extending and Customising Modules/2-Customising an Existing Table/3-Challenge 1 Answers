@@ -21,8 +21,9 @@ Once you have entered an option, press the Enter or Return key to add it. Altern
 ### 3. Enter a default value
 For this example, “No Action” is the best default, because we can expect that the majority of Assets won’t require action.
 
-### 4. Press Save at the top
+### 4. Press Save
+Your new field should look like the following:
 
-Now, if we try to edit an asset, you might notice that the new column we added doesn't have a field attached to it, so no data can be written to the column. 
+![An example for Challenge 1 of the "Extending and Customising Modules" training package.](<Designer Audit Action Example.png>)
 
-This is because we need to redesign the Details and Create Pages, so that we can edit the *Audit Action* data. We will look at how to do this in the next video.
+Scroll to the top of the Create New Asset sidebar, and press **Save**.
