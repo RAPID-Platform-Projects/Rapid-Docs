@@ -1,7 +1,25 @@
-1.	If we look at how this column was built, we can see it is a LOOKUP field, which means it looks at another table (in this example it looks at the employees in the company) and creates a link to one of those employees. 
-2.	Great. Let’s try making a lookup column ourselves. We can now create a new column using the CREATE COLUMN button. Maybe we will also set an employee who is responsible for going out and buying the beans. We can title this column BEAN GOPHER, make its column type a LOOKUP column, and tell it to show us the EMPLOYEES from the EMPLOYEES table.
-3.	We just want to choose the employees by their name, so we can leave Column as Full Name. Alternatively, you could use an Employee ID number or something else if needed. Let’s save the column. 
+# Adding Columns to a Subtype Table
 
-### Opening the Created Table
-1.	If we go up here and press the EXPLORER button, which looks like a web browser and a magnifying glass, we can see our brand new, empty table. 
-2.	Another way we can access our new table is from our sidebar. You may have to refresh the page, but you’ll now see the table we created has been added to the sidebar.
+Now that we have the main columns inherited from the **Assets** table, we can create our necessary columns that are specific to the **Coffee Machine Assets**.
+
+### Create a New Column
+1. Ensure that you are viewing the **Coffee Machine Assets** table in **Designer**.
+2. Switch to the **Columns** tab
+3. Press the **+ Create Column** button, in the Command Bar.
+
+Remember, we need to build the following columns that will track:
+> - The employee responsible for cleaning the machine at the end of each day
+> - The employee responsible for purchasing the milk and coffee beans
+> - The office or warehouse location where the coffee machine is installed
+
+## Challenge 2: Add several columns using a description
+1. Below is a table that describes which columns need to be created. Using its information, build the three columns it describes.
+
+| Column Name | Column Type | Additional Info | Column Description |
+| --- | --- | --- | --- |
+| *Machine Cleaner* | Lookup | Should look up to the "Employees" table. | *The employee responsible for cleaning the machine at the end of each day.*|
+| *Machine Gopher* | Lookup | Should look up to the "Employees" table. | *The employee responsible for purchasing the milk and coffee beans.*|
+| *Machine Location* | Choice | This could also be a lookup field if your site had a table that contained the different offices and warehouses of the company. For now, use a choice field and invent some location names. | *The office or warehouse location where the coffee machine is installed.* |
+
+
+> **Remember:** When adding a new table or columns, there a several features that will need to be implemented before the table will work as expected. For example, we need to ensure that a user can navigate to the table without using Designer; the user should also be able to create new items and add them to the table. Complete the steps on the next page, to ensure the **Coffee Machine Assets** table can be implemented just like the other asset tables.

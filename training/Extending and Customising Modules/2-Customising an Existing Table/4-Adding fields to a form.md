@@ -20,6 +20,6 @@ To add the field we just created:
 
 5. Resize the field and move it to the desired location. Press **Save**.
 
-> You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md" target="_blank">click here</a> for a detailed guide on how to edit the layout of a page.
+> You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/all-about-pages-in-designer" target="_blank">click here</a> for a detailed guide on how to edit the layout of a page.
 
 Note that when you add a field to the **Details** section, it will also add the field to the **Create Screen** section, and vice versa. Once you have added the field to the Details section, ensure that it displays as expected on the Create Screen as well.

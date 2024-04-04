@@ -2,15 +2,17 @@
 
 The learning objective of this Foundational Training course is to instill confidence among System Builders with reference to Rapid Platform operations.
 
-This course is structured across modules. 
+This course is structured across several sections. 
 
-1. **Adding Tables and Table Subtypes** - In this module we will examine what table subtypes are, and why you would want to build one.
+1. **Adding Tables and Table Subtypes** - In this section we will examine what table subtypes are, and why you would want to build one.
 
 2. **Adding Columns to Extend a Module** - Here, we will explore how new columns can be built into tables or table subtypes, as well as examine how to enter data into these columns.
 
 3. **Integrating a New Table** - This section will walk you through the necessary steps that follow table creation. It will examine how to create new views, and how to display a new table in the Explorer sidebar.
 
-Across these modules, you will find tasks which are based on the knowledge acquired in the lessons prior to it.
+4. **A Challenge** - The training material will conclude with a challenge that will test everything you have learned.
+
+Across these modules, you will also find smaller challeneges which are based on the knowledge acquired in the lessons prior to it.
 
 We have provided a test environment for you to carry out these tasks and actually get a feel of how system elements are built in Rapid Platform. 
 

@@ -2,4 +2,4 @@ Welcome to the training package for **Extending and Customising Modules** in Rap
 
 This course intends to help you get started with customising the Rapid Platform. At the end of this course, you will be able to make basic customisations or extensions to Rapid Standard's basic modules.
 
-Before you begin this customisation workshop, it is recommended that you are first familiar with the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/2-Rapid Standard/2-Assets/base-assets-and-subtypes/base-assets-and-subtypes.md" target="_blank">Assets module</a> of Rapid Standard. This workshop will use the Assets module as a basis to teach you how Rapid Standard can be customised for your business's needs.
+Before you begin this customisation workshop, it is recommended that you are first familiar with the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Rapid%20Standard/Assets/base-assets-and-subtypes/" target="_blank">Assets Module</a> of Rapid Standard. This workshop will use the Assets module as a basis to teach you how Rapid Standard can be customised for your business's needs.

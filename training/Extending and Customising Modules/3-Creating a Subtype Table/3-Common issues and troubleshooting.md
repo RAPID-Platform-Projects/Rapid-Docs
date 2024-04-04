@@ -1,19 +1,17 @@
-# Common Issues
-When adding a new table, there a several features that will need to be implemented before it will work as expected. For example, we need to ensure that a user can navigate to the table without using Designer; the user should also be able to create new items and add them to the table. These steps are explained below in more detail.
+# Common issues and troubleshooting
 
 ### Editing the sidebar
+1.	Although the Coffee Machine appears in the sidebar, this does not match the other asset tables. It looks strange where it currently sits, at the bottom of the sidebar. Since we’re going to redesign the sidebar, we’ll need to go back into **Designer**.
 
-1.	The problem here is, we want Coffee Machines to appear under Assets. It looks strange sitting here under System. It looks like we’re going to have to redesign the sidebar, so we’ll need to go back into DESIGNER. Now, it’s important to note that we are in EXPLORER.
-2.	Click the Designer button at the bottom of the sidebar again.
-3.	We want to change the menu that we saw on the sidebar, so on the sidebar here, let’s choose the menus button. We want to edit the Explorer Menu, so let’s click on the EXPLORER menu button.
-4.	Here, we see the main sidebar menu that we’ve been using, laid out with folders (like this Tasks folder) and then each of the apps or modules we’ve been using underneath it. Our Coffee Machines menu button appears at the bottom of the list, but we want it here under the ASSETS folder.
-5.	Let’s scroll down to the bottom. Here, we can see the COFFEE MACHINES menu button. We can change where it displays, by clicking and holding the handle that looks like three lines stacked on top of each other. You can see my mouse changes to show I can move this item.
-6.	By clicking and holding, I can move my mouse up towards the top of the screen to drag the menu button up higher. Once I reach the assets folder, I can drop it where I want the button to go.
-7. However, if we look inside the Assets folder, we can see that the other types of assets aren't displayed as unique menu buttons. In that case, we should delete this menu button, and we will allow the user to access the table in a different way.
-8. To delete a table from the sidebar, we... [how to?]()
-9. If we open the assets table, we can see that the other asset table subtypes are displayed as tabs along the tab strip at the top. Let's add our new table to this tab strip...[how to?]()
+2. Use the documentation linked below to delete the menu button for **Coffee Machine Assets** from the sidebar:
 
-[Link to docs]()
+    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Menus/" target="_blank">How to edit and navigate to menus in **Designer**</a>
+    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Menus/menu-button-configuration/how-to-crud-a-menu-item/" target="_blank">How to **delete** a Menu item</a>
+
+3. Return to **Explorer**.
+4. Open the **Assets** table from the sidebar. Notice that the other asset subtype tables (**IT Assets** and **Vehicle Assets**) are displayed as tabs along the tab strip at the top. Let's add our new table to this tab strip.
+
+    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/Layouts/list-of-available-layouts/" target="_blank">How to add a new tab to the tab strip</a>
 
 ### Creating a form that connects to a table
 1.	Let’s build a way to CREATE new Coffee Machines and EDIT their details. We go up to the DESIGNER button in the top right. Then, we make sure the drop-down is set to “COFFEE MACHINE”, singular, and that this display area says FORM.
