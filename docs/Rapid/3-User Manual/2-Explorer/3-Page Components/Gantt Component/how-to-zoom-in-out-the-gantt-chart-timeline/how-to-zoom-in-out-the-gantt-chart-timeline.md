@@ -51,12 +51,12 @@ Please view the below GIF for illustration
 
 ## Related articles
 
-[How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/hiding-left-panel/hiding-left-panel.md> "How to Hide / Show the Left Panel in Gantt Chart?")
+[How to hide / show left panel OR enter / exit Full Screen mode?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/hiding-left-panel/hiding-left-panel.md> "How to Hide / Show the Left Panel in Gantt Chart?")
 
-[How to move tasks in time, extend start / end dates from the Gantt bars?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/altering-dates/altering-dates.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
+[How to move tasks in time, extend start / end dates from the Gantt bars?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/altering-dates/altering-dates.md> "How to move tasks in time, extend start / end dates from the Gantt bars?")
 
-[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/moving-tasks-in-time/moving-tasks-in-time.md> "How to change start date, duration and resource from left panel?")
+[How to change start date, duration and resource from left panel?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/moving-tasks-in-time/moving-tasks-in-time.md> "How to change start date, duration and resource from left panel?")
 
-[How to Save and Undo changes made to the Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
+[How to Save and Undo changes made to the Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/how-to-save-undo-changes-to-a-gantt-chart/how-to-save-undo-changes-to-a-gantt-chart.md> "How to Save / Undo changes to a Gantt Chart?")
 
-[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")
+[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")

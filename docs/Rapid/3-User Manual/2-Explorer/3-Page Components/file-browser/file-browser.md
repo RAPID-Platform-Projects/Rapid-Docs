@@ -11,7 +11,7 @@ To configure the Document Storage of the item through the single page of an item
 
 ![File Browser 01.png](./downloaded_image_1705285491244.png)
 
-1. Follow the steps to configure the storage [here](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/file-browser/file-browser.md).
+1. Follow the steps to configure the storage [here](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/file-browser/file-browser.md).
 2. Once the Documentation Storage has been configured, users have the option to select where to place the items, either **Linked Item** or **This item**.
 
 ![File Browser 02.png](./downloaded_image_1705285492259.png)

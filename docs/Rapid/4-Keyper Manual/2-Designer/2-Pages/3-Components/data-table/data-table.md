@@ -9,7 +9,7 @@ In simple words, a data table component allows you to insert a view of the [data
 Therefore to display a list of items, you need to:
 
 1. Define which table you want the system to refer.
-2. Define the [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") you want to set for displaying the Table Data.
+2. Define the [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") you want to set for displaying the Table Data.
 
 ## How to set up a Data Table component in Designer
 

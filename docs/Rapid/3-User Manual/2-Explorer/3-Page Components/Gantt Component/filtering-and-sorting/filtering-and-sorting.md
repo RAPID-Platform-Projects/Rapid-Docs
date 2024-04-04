@@ -2,7 +2,7 @@
 
 A Gantt Chart presents visual representation of tasks based on data tables.
 
-Data tables can have ***Table Views*** based on which the data is filtered and organised. You can learn more about [Table Views here.](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Data Table Component/data-table-component-views/data-table-component-views.md> "Data Table Component - Views")
+Data tables can have ***Table Views*** based on which the data is filtered and organised. You can learn more about [Table Views here.](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Data Table Component/data-table-component-views/data-table-component-views.md> "Data Table Component - Views")
 
 The Gantt Chart respects the defined *Table Views* and the visual presentation is based on the selected *Table View* parameters.
 
@@ -52,12 +52,12 @@ As you click on the Edit View button, a panel with existing View parameters will
 
 ## Related articles
 
-[How to create a new task and sub-types of task from Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/creating-tasks/creating-tasks.md> "How to create a new task and sub-types of task from Gantt Chart?")
+[How to create a new task and sub-types of task from Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/creating-tasks/creating-tasks.md> "How to create a new task and sub-types of task from Gantt Chart?")
 
-[How to open Task Details page from Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md> "How to open task item profiles from Gantt Chart?")
+[How to open Task Details page from Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md> "How to open task item profiles from Gantt Chart?")
 
-[How to create and edit dependencies in a Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md> "How to create and edit dependencies in a Gantt Chart?")
+[How to create and edit dependencies in a Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md> "How to create and edit dependencies in a Gantt Chart?")
 
-[How to Auto-schedule tasks in Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md> "How to Auto-schedule tasks in Gantt Chart?")
+[How to Auto-schedule tasks in Gantt Chart?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md> "How to Auto-schedule tasks in Gantt Chart?")
 
-[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")
+[How to interact with Gantt Chart component in Explorer with data?](</docs/Rapid/3-User Manual/2-Explorer/3-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md> "How to interact with a Gantt Chart?")
