@@ -1,17 +1,82 @@
 # Creating a New View
 
-1.	We now have a way to add new data into our ASSETS. I can imagine Clear Consulting diligently going through their ASSETS, and then noting down what should happen for each ASSET. However, the company will quickly have a problem if they need to open every single ASSET to find out whether it needs to be sold, repaired, disposed of, etc.
-2.	Let’s create a new VIEW, which will allow the consulting company’s auditors to quickly see all assets and their AUDIT ACTIONS. First, let’s make sure we are on the ALL-ASSETS table. Now, we press the FILTER or VIEW button, and select CREATE VIEW.
-3.	The TITLE is what will appear in the drop-down FILTER menu we just saw. We’ll call this VIEW “AUDIT ACTIONS – ALL"
-4.	We can choose how the column will be sorted. For us, we probably want to SORT the table so that all ASSETS being SOLD are grouped together, and all ASSETS being REPAIRED are together, etc. We can do this by choosing the AUDIT ACTIONS column as our sorting column. We can choose ASCENDING or DESCENDING, which means the items will either be sorted alphabetically, numerically, or by date, depending on what column we are sorting by. For this sort of data, it doesn’t really matter.
-5.	We will come back to the filter in a moment, let’s skip down to COLUMNS. Here, we choose which columns are visible in the VIEW we will build. We want the Name of the ASSET, as well as its AUDIT ACTIONS, and STATUS, so we can compare them. Also including the employee who is attached to the ASSET could be useful, so we’ll place it at the end of the VIEW.
-6.	Okay, now let’s adjust the filter. We don’t care about assets that have “No Action” next to their name. Instead, we just want the assets that require action. Filters require RULES that they must obey. For example, I can place the RULE that I only want certain items CREATED BY me. Then, only the ASSETS that I have created in RAPID will appear. We want to change this to AUDIT ACTIONS. There are some LOGICAL OPERATORS here, that provide logic for how the rule behaves.
-7.	Let me first show you the bad way to handle this problem, we could say to RAPID, show me all the ASSETS that have the AUDIT ACTION which is...SELL. Then I could add another Rule, and say:
-a.	“Show me all the ASSETS that have the AUDIT ACTION which is SELL
-OR “Show me ASSETS that have the AUDIT ACTION which is REPAIR
-OR “Show me ASSETS that have the AUDIT ACTION = DISPOSE OF” etc.
-8.	The problem is, what if we add a new action to our list? Then we will have to remember to come back here and add that rule. You are like me, you’ll forget you created the view like this, and so you’ll be left scratching your head, when a new type of action isn’t appearing in your VIEW.
-9.	So, there is an easier, and better, way of doing this. We can delete that most recent rule by pressing the X at the end of the FIELD.
-10.	Instead of listing all the things that the AUDIT ACTIONS could be, we instead do the opposite. We are going to tell Rapid: “Only show me the items that aren’t set to NO ACTION”. Functionally, it does the same thing, but it will future-proof us a little more. We do this by changing the equals sign, to the DOES NOT EQUAL sign. Notice there are other logical operators here that we can play around with, such as less than, less than or equal to, greater than, greater than or equal to, and finding COLUMNS that contain information, or COLUMNS that are empty, or COLUMNS that contain a certain number or piece of text.
-11.	Let’s save our view, by pressing SAVE at the top of our editing sidebar.
-12.	Now, we can use our VIEW, and check that it works.
+We now have a way for *Stationery Inc.* to go through their company assets, and then note down what should happen for each asset. However, the company will quickly have a problem if they need to open every single asset to find out whether it needs to be sold, repaired, disposed of, etc.
+
+Let’s create a new view, which will allow the company's auditors to quickly see all assets and their *Audit Action*. First, make sure you are on the main **Assets** table in **Explorer**. Now, press the view button, and select **Create View**.
+
+![Screenshot demonstrating how to create a new view on the Assets table.](<Create New View.png>)
+
+> Note in the screenshot above that there are already several views that have been created, such as *Active*, *Disposed*, etc. We will be creating a new view that will be added to this list.
+
+## 1. View Title
+The *Title* is what will appear in the drop-down view menu we just saw. We’ll call this view “Audit Actions - All".
+
+![A screenshot demonstrating how an Assets view can be titled.](<Audit Actions All.png>)
+
+## 2. View Sorting
+We can also choose how the column will be sorted. For us, we probably want to SORT the table so that all the Assets that are being *Sold* are grouped together, and all Assets being *Repaired* are together, etc. We can do this by choosing the *Audit Actions* column as our sorting column. We can then choose **Ascending** or **Descending**, which means the items will either be sorted alphabetically, numerically, or by date, depending on what column we are sorting by. For this sort of data, this distinction doesn’t matter.
+
+![A screenshot demonstrating how an Assets view can be sorted.](<Audit Actions View Sort.png>)
+
+## 3. View Columns
+We will come back to the filters in a moment, let’s skip down to the columns section. Here, we choose which columns are visible in the view we will build. We want to see the *Name* of the Asset, as well as its *Audit Action*, and the *Status* so we can compare them. Also including the employee who is attached to the Asset could be useful, so we’ll choose to place this column at the end of the view's columns.
+
+![A screenshot that provides an example of how columns can be selected and applied to an Assets module view.](<Audit Actions View Columns.png>)
+
+> Note that here you can click and drag the column names in order to rearrange them.
+
+## 4. View filters
+Okay, now let’s adjust the filter. We don’t care about assets that have “No Action” next to their name. Instead, we just want the assets that require action. Filters require **Rules** that they must obey.
+
+We want to apply a filter using the column *Audit Actions*. There are some *Logical Operators* that can also be applied, that provide logic for how the rule behaves.
+
+### What not to do
+Let me first show you the wrong way to handle this problem, we could say to Rapid, show me all the Assets that have the *Audit Action* which is...*Sell*. Then I could add another Rule, and say:
+
+```Show Assets that have the Audit Action "Sell"```
+
+OR
+
+```Show Assets that have the Audit Action "Repair"```
+
+OR
+
+```Show Assets that have the Audit Action "Dispose"```
+
+The problem is, what if we add a new action to our list? Then we will have to remember to come back here and add that rule. It will be easy to forget that you created the view like this, and so you’ll be left scratching your head when a new type of action isn’t appearing in your view.
+
+### A Better Approach
+There is an easier and better way of doing this. Instead of listing all the things that the *Audit Action* could be, we instead do the opposite. We are going to tell Rapid:
+
+```Only show the items that are NOT set to "No Action".```
+
+Functionally, this does the same thing. However, it will future-proof our view if we ever add more *Audit Actions*.
+
+We do this by selecting our logic from the dropdown boxes, and ensuring that the *equals* sign ( = ), to the *does not equals* sign ( != ).
+
+![A screenshot that provides an example of how filters can be applied to an Assets module view.](<Audit Actions View Filters.png>)
+
+Notice there are other logical operators here that we can use, such as:
+
+| Logical Operator | Meaning 
+| --- | --- |
+| < | Less than|
+| <= | Less than or equal to |
+| > | Greater than |
+| >= | Greater than or equal to |
+| Has value | Returns any item where the selected field **is not** empty |
+| No value | Returns any item where the selected field **is** empty|
+| Contains | Returns any item where the selected field contains specific information, such as a number or a string of text |
+
+## 5. Save the View
+
+Let’s save our view, by pressing **Save** at the top of our editing sidebar.
+
+## 6. Check the View
+Now, we can use our view, and check that it works.
+
+![A screenshot that provides an example of what a completed view for the Assets module will look like.](<Audit Actions View Finished.png>)
+
+If you need to edit a view once it has been created, you can do so by pressing this button in the Command Bar.
+
+![A screenshot that demonstrates how to edit a view.](<Audit Actions View Edit.png>)
