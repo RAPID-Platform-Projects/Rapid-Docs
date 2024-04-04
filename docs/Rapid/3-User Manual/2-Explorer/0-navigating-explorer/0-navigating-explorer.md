@@ -16,7 +16,7 @@ In the far right of the Jumbotron there are three buttons:
 
 These buttons allow you to access, from left to right:
 
-**Environmental switch:** A button to quickly switch between the explorer and designer environments, withing the current item or list context.
+**Environment switch:** A button to quickly switch between the explorer and designer environments, within the current item or list context.
 
 **Notifications:** A button to access a quick popup window that presents the current users notifications
 
