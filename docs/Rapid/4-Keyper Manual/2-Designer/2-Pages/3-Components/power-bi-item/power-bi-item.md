@@ -1,4 +1,4 @@
-# The PowerBI Report - Item Level component
+# PowerBI Report - Item Level
 
 ## PowerBI Report - Item Level component Overview
 
@@ -30,7 +30,7 @@ This can be addressed using the PowerBI Report - Item Level component.
 
 - You can set the [visibility of PowerBI Report - Item Level on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     
-    ![Visiblity toggle](<../Visiblity toggle.png>)
+    ![Visibility toggle](<../Visiblity toggle.png>)
 
 - You can set the [visibility of PowerBI Report - Item Level on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
     

@@ -1,6 +1,6 @@
-# The board component
+# Kanban Board
 
-## Board component overview
+## What is the Board component
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked.
 
@@ -99,7 +99,7 @@ Following is the brief description of each field:
 
 - Once the Board Component is properly configured, it will no longer appear RED. It show the name of the Target Table (selected in 1. Table field above) on which the Board component is created.
 
-    ![Succesfully configured board component](<Succesfully configured board component.png>)
+    ![Successfully configured board component](<Succesfully configured board component.png>)
 
 - You can set up a Board component on an Individual Item (Singular) Level as well as Group Item List (Plural) Level.
 

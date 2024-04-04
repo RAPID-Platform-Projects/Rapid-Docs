@@ -6,11 +6,16 @@
         "Compoza",
         "datatable",
         "Dezigna",
+        "Entra",
         "Gantt",
         "Kanban",
         "Keyper",
+        "Omnichannel",
         "RAPIDO",
+        "Sendgrid",
+        "Sharepoint",
         "Subquery",
         "Tabstrip"
-    ]
+    ],
+    "cSpell.language": "en-GB"
 }

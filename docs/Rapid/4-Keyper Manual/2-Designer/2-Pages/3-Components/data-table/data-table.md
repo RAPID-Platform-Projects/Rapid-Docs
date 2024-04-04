@@ -1,4 +1,4 @@
-# The Data Table component
+# Data Table
 
 ## Data Table component overview
 

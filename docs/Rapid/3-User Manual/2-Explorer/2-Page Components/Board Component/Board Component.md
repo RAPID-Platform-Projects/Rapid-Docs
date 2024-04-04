@@ -13,7 +13,7 @@ To put in simple words - a Board component allows you to view the list of items 
 There can be many other use cases like - a sales manager viewing the status of various leads, a purchase manager looking at items' order status, an accounts manager monitoring invoices status etc.
 
 ## Interpreting information on each Board Item Card
-As seen in the image above, the Board Component categories the Table items across various sections based on the defined Choice Type of field. Each item is displayed like a Card.
+As seen in the image above, the Board Component categorises the Table items across various sections based on the defined Choice Type of field. Each item is displayed like a Card.
 
 Board component provides information about the following:
 

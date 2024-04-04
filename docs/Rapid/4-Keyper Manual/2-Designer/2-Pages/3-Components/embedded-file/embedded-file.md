@@ -1,8 +1,7 @@
-# The Embedded Files component
+# Embedded Files
 
 ## Embedded Files component overview
 
-  
 Embedded files are a [pigeon hole](https://en.wikipedia.org/wiki/Pigeon-hole_messagebox) for files. They are useful as a clue for your users to upload, include or view a file in a page context. As embedded files are aware of any files uploaded within them, they also provide a mechanical way to determine if a file is uploaded.
 
 Each description for an embedded file (the embedded file definition) can contain a location within SharePoint to place the file. Due to this you can also think of embedded files as a window to a particular file (or files) somewhere in your system, allowing you to uplift a file from SharePoint to the interface.
@@ -96,7 +95,7 @@ When you have configured an Embedded File component from the Options Tab of the 
     ![Visibility toggle](<../Visiblity toggle.png>)
 - You can set the [visibility of Embedded File on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
-    ![Dsiplay toggle](<../Display toggle.png>)
+    ![Display toggle](<../Display toggle.png>)
 - You can configure the Embedded File component by clicking on the Edit (pencil) icon.   
 
     ![Configuration panel](<Configuration panel.png>)

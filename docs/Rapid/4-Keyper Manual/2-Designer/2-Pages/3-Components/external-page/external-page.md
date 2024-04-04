@@ -1,4 +1,4 @@
-#  The External Page component
+# External Page
 
 ## External Page component overview
 
@@ -17,7 +17,7 @@ This component enables you to display websites and webpages onto your Rapid Page
 - If the External Page component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
 - You can set the [visibility of External Page on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
-    ![Visiblity toggle](<../Visiblity toggle.png>)
+    ![Visibility toggle](<../Visiblity toggle.png>)
 
 - You can set the [visibility of External Page on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 

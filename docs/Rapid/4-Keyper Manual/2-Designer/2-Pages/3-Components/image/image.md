@@ -1,4 +1,4 @@
-# The Image component
+# Image
 
 ## The Image component overview
 

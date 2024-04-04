@@ -48,7 +48,7 @@ You can easily associate tables to a module. Please follow the steps:
 4. Click on Part of module field and select the desired module title.
 5. Click Save.  
 
-![Image showing table association with mdoule](<Associate Module to table 3.png>)
+![Image showing table association with module](<Associate Module to table 3.png>)
 
 That's it! the subject table is now associated with your desired module.
 
