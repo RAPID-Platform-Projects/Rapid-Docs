@@ -2,7 +2,7 @@
 
 The main data manipulation tool that Rapid provides is the Explorer Experience. Explorer lets you view entities, modify, add and remove data. It is the primary front end experience that nearly all users interact with.
 
-There are three main components which provide Explorer with its basic functionality
+There are three main components which provide Explorer with its basic functionality; the Jumbotron, the navigation bar, and pages.
 
 ## Jumbotron
 
