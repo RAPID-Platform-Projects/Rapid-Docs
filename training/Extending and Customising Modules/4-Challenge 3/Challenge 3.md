@@ -1,4 +1,4 @@
-# **Challenege 3:** Extend the Assets Table with an assets subtype called "Real Estate"
+# **Challenge 3:** Extend the Assets Table with an assets subtype called "Real Estate"
 ### Scenario:
 > *Stationery Inc.* also has several stores around the country, and they would like to track these in their internal database.
 
