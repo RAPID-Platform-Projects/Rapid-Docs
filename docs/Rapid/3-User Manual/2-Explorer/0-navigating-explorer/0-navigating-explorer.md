@@ -6,7 +6,7 @@ There are three main components which provide Explorer with its basic functional
 
 ## Jumbotron
 
-The jumbotron is found at the top of all pages within Explorer. It displays pages title, as well as a series of 'breadcrumbs' showing previous navigation steps. In a list Context the list name will be in the jumbotron, in an item context, the item title will be displayed.
+The jumbotron is found at the top of all pages within Explorer. It displays the pages title, as well as a series of 'breadcrumbs' showing previous navigation steps. In a list Context the list name will be presented, in an item context, the item title will be displayed.
 
 ![Location of the Jumbotron](Jumbotron.png)
 
@@ -23,7 +23,7 @@ These buttons allow you to access, from left to right:
 **User token:** A button to access information about the current user, including a log out button.
 
 
-::tip[Please note]
+:::tip[Please note]
 
 To the right of the Jumbotron (as pictured above) is a button to access the Rapid ai powered chatbot. For more information please see our docs on //DO RAPIDO
  :::
@@ -34,8 +34,8 @@ To the right of the Jumbotron (as pictured above) is a button to access the Rapi
 
 One of Explorer's main features is a side bar used for navigation which can be found on the far left of any page inside Rapid Platform. This menu is fully customisable. Items in the sidebar can point to Rapid Platform Pages, external links, or even open forms or apps. By default all entities created will be added to the Explorer side bar. Clicking on an entity in the sidebar will open the configured list page for that particular entity.  
 
+![alt text](<Explorer sidebar.png>)
 
-![Explorer sidebar](image.png)
 
 
 ## Explorer Page
