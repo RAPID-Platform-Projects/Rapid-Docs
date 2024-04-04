@@ -210,7 +210,7 @@ const config: Config = {
       searchParameters: {},
 
       // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
+      searchPagePath: false,
 
     }
   } as Preset.ThemeConfig,
