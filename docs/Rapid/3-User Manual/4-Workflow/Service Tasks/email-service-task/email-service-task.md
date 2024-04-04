@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The email service task enables the sending of emails. It supports the adding of attachements if given a drive, folder and drive item ID
+The email service task enables the sending of emails. It supports the adding of attachments if given a drive, folder and drive item ID
 
 ## Required Properties
 
@@ -10,7 +10,7 @@ The email service task enables the sending of emails. It supports the adding of 
 
 ## Completes
 
-If the email is successfully sent and minilith gets a OK from Microsoft Graph
+If the email is successfully sent and Minilith gets a OK from Microsoft Graph
 
 1. Set status of element to Complete
 2. Token moves on

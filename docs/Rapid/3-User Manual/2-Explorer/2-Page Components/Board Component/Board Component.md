@@ -4,16 +4,16 @@ A board (also known as Kanban Board) is a visual tool that gives an overview of 
 
 Imagine a Project Manager of a stationery manufacturing company wants to have a snapshot of current status of various projects tasks in the organisation. These tasks  should display information on the names of the Task Principal (person responsible for completing the subject Task) and respective Due Dates. Moreover, as needed, the Project Manager should be able to drag and drop tasks across categories to update status. This can be achieved using the Board Component.
 
-The board component can provide a convenient view of project tasks organised across status categories. In the below image _Not started_, _In progress_, _Completed_, _Aborted_ and _Failed_ are the Task Status on which Task Titles are categorised. 
+The board component can provide a convenient view of project tasks organized across status categories. In the below image _Not started_, _In progress_, _Completed_, _Aborted_ and _Failed_ are the Task Status on which Task Titles are categorized. 
 
-To put in simple words - a Board component allows you to view the list of items (as cards) categorised across options of the desired choice field.
+To put in simple words - a Board component allows you to view the list of items (as cards) categorized across options of the desired choice field.
 
 ![Sample image of a Board Component on Explorer](Explorer_Board_1.png)
 
 There can be many other use cases like - a sales manager viewing the status of various leads, a purchase manager looking at items' order status, an accounts manager monitoring invoices status etc.
 
 ## Interpreting information on each Board Item Card
-As seen in the image above, the Board Component categorises the Table items across various sections based on the defined Choice Type of field. Each item is displayed like a Card.
+As seen in the image above, the Board Component categories the Table items across various sections based on the defined Choice Type of field. Each item is displayed like a Card.
 
 Board component provides information about the following:
 

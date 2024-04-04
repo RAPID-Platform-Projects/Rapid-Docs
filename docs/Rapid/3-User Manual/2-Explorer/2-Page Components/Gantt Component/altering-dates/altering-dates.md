@@ -43,9 +43,9 @@ To modify the Task Resource,
 
 Please refer to the below GIF for illustration
 
-![Ressource from left](changing-resource.gif)
+![Resource from left](changing-resource.gif)
 
-**Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.
+**Please note:** Updating a resource does not have any impact on the visualization of the Task on the Chart with reference to timeline.
 
 ## Related articles
 

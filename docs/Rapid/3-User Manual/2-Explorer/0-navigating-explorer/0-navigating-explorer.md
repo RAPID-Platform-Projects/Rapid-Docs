@@ -12,7 +12,7 @@ The jumbotron is found at the top of all configured pages within Explorer. It di
 
 ## Explorer Navigation Bar
 
-The Explorer features a side bar for navigation. This menu is fully customisable where you are able to add external links as well as links to entities created. By default all entities created will be added to the Explorer side bar. Clicking on an entity in the sidebar will open the configured list page for that particular entity.
+The Explorer features a side bar for navigation. This menu is fully customizable where you are able to add external links as well as links to entities created. By default all entities created will be added to the Explorer side bar. Clicking on an entity in the sidebar will open the configured list page for that particular entity.
 
 ![Navigating Explorer 02.png](./downloaded_image_1705285817204.png)
 

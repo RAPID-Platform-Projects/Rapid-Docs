@@ -12,10 +12,10 @@ The user task is an executable task which creates an item in the corresponding R
 
 ## Completes
 
-The token should move on if the task status is set to completed. Should cause the following knockons
+The token should move on if the task status is set to completed. Should cause the following knock on effects
 
 1. Minilith sends the completed task profile to the ledger 
-    1. If there are embedded forms, post the full item profile of those embedded form items to the ledger aswell
+    1. If there are embedded forms, post the full item profile of those embedded form items to the ledger as well
 2. Status of the user task element set to Completed in the ledger
 3. Any boundary event attached to the user task should be set to discarded (boundary timers etc)
 4. Token moves on

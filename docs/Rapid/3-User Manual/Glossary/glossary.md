@@ -6,14 +6,14 @@ Here are definitions and references to terms used for discussing RAPID Platform 
 Experiences are self contained interfaces that interact with your site data for some purpose. These include:
 
 ### Explorer
-A looking glass into your data. Explorer focuses on enabling users to see / edit / delete items in your site for any purpose. Suited best for direct data managmeent.
+A looking glass into your data. Explorer focuses on enabling users to see / edit / delete items in your site for any purpose. Suited best for direct data management.
 
 You can get to Explorer via the quick link buttons at the bottom of your main site menu.
 
 ![Explorer Button Location](<Explorer Button Location.png>)
 
 ### Workflow
-Based on the populat BPMN 2.0 workflow diagram specification, workflow focuses on letting users create and manage process diagrams that document their activities. With a built in processing engine, Workflow can also automate aspects of your business.
+Based on the popular BPMN 2.0 workflow diagram specification, workflow focuses on letting users create and manage process diagrams that document their activities. With a built in processing engine, Workflow can also automate aspects of your business.
 
 You can access Workflow from the quick navigation buttons at the bottom of your main site side bar.
 
@@ -23,24 +23,24 @@ You can access Workflow from the quick navigation buttons at the bottom of your 
 [Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
 
 ### Designer
-Designer provides a means to manipulate and control your site. It enables defining what Tables and Columsn your site contains, managing pages and views and a slew of minor administration activities. 
+Designer provides a means to manipulate and control your site. It enables defining what Tables and Columns your site contains, managing pages and views and a slew of minor administration activities. 
 
 You can access Designer from your main Rapid site using the navigation bar on the bottom of the menu.
 
 ![Designer Button Location](<Designer Button Location.png>)
 
-**Releated Articles**
+**Related Articles**
 
 [What is Designer?](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md "What is Dezigna (Designer application)?")
 
 ### Tasks
 Tasks focuses on helping Users to quickly find and manage their tasks.
 
-Tasks is accessiable [here](https://tasks.rapidplatform.com/).
+Tasks is accessible [here](https://tasks.rapidplatform.com/).
 
 ## Data Table
 
-A data table is a collection of data organised across columns.
+A data table is a collection of data organized across columns.
 
 ![An example data table](<An example datatable.png>)
 
@@ -52,7 +52,7 @@ Here,
 - Link
 - Business
 
-are columns that organise the data about various items in the table.
+are columns that organize the data about various items in the table.
 
 ## Table
 
@@ -92,7 +92,7 @@ A sidebar is a collection of Menu items for easy navigation to various pages in 
 
 Each experience between Explorer, Designer and Workflow have their own sidebars. All contain the quick navigation buttons to jump between the three.
 
-![Main experince example sidebars](<Main experince example sidebars.png>)
+![Main experience example sidebars](<Main experince example sidebars.png>)
 
 ## Menu
 
@@ -101,7 +101,7 @@ A menu can be most fundamentally be perceived as a button.
 There are two types of menu buttons:
 
 - In the [Sidebars](#sidebar "Sidebar")
-    ![Main experince example sidebars](<Main experince example sidebars.png>)
+    ![Main experience example sidebars](<Main experince example sidebars.png>)
 
 - In [command bars](#command-bar "Command bar")
     ![Command Bar - Data Table.png](./command-bar-data-table.png)
@@ -148,7 +148,7 @@ In Rapid Platform, you are not required to create the tables from scratch for ea
 
 #### Option 1 - Create a Lookup
 
-The first option, which any relational database user will intuitively suggest, is use of lookups. This approach involves creating one table with common fields and then create another table with unique fields. Linking these tables using Lookup will allow you organise, store and fetch data.
+The first option, which any relational database user will intuitively suggest, is use of lookups. This approach involves creating one table with common fields and then create another table with unique fields. Linking these tables using Lookup will allow you organize, store and fetch data.
 
 However, imagine a large organisation, storing hundreds of transactions in a day. The volume of data in the table with common fields would bulky. This is because, the common table would be storing contact data for all the stakeholders (businesses, employees, suppliers etc.)
 
@@ -379,7 +379,7 @@ Linked Items - Within the system we have replaced the concept of tags with linke
 
 Notification - A message sent from the system to the user, hopefully a useful one.
 
-Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designa that contains the item name and buttons.
+Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designer that contains the item name and buttons.
 
 ## Support request
 

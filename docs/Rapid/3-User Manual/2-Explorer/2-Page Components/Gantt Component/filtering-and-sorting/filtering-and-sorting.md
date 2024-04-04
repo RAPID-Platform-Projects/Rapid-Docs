@@ -2,7 +2,7 @@
 
 A Gantt Chart presents visual representation of tasks based on data tables.
 
-Data tables can have ***Table Views*** based on which the data is filtered and organised. You can learn more about [Table Views here.](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Data Table Component/data-table-component-views/data-table-component-views.md> "Data Table Component - Views")
+Data tables can have ***Table Views*** based on which the data is filtered and organized. You can learn more about [Table Views here.](</docs/Rapid/3-User Manual/2-Explorer/2-Page Components/Data Table Component/data-table-component-views/data-table-component-views.md> "Data Table Component - Views")
 
 The Gantt Chart respects the defined *Table Views* and the visual presentation is based on the selected *Table View* parameters.
 

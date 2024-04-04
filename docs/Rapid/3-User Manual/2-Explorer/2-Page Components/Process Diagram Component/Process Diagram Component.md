@@ -47,7 +47,7 @@ You can double click on ***Active (Orange)*** or ***Successfully Completed (Gree
 
 1. This will work only for UserTasks.
 
-2. Clicking on Colourless or Red UserTasks would not navigate you to the corresponding Task Item Profile. This is because the system did not actionise such tasks.
+2. Clicking on Colourless or Red UserTasks would not navigate you to the corresponding Task Item Profile. This is because the system did not action such tasks.
 :::
 
 ## Navigate to diagram with Process Run
