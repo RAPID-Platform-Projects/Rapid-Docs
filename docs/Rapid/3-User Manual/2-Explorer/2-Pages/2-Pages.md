@@ -8,7 +8,9 @@ Therefore, in this article, we discuss Pages for tables in Explorer.​
 
 ​With reference to Pages for tables, there can be two types:​
 
-**List page** – This is the page which hosts the information about the item lists or group of items as configured in Designer.​
+**List page** – This is the page which hosts the information about the item lists or group of items as configured in Designer.  
+  
+  ​
 **Single item page** – This can be a group of pages which hosts different types of information with reference to a single item of the table, as configured in Designer. The collection of pages may include item details page, activity page, files page, tasks page and other custom created pages.
 
 ## How to access a List Page​ in Explorer?
@@ -38,19 +40,32 @@ Please refer to the image below image and corresponding descriptions:
 The buttons labelled from "a" to "g" in the above image, are the default feature buttons present on the List Page (Data Table component). You may see other menu buttons as configured in Designer for specific actions.
 :::
 
-a. New item button (New Quote) - this button allows user to add item to the table.​
+a. New item button (New Quote) - this button allows user to add item to the table.​  
+  
 
-b. Search item button (Search Quotes) - this field allows users to search the items list based on the entered keyword.
 
-c. Views selection / creation - this allows user to select an existing View to filter the items list. There is also an option to create new Views for the table here.
+b. Search item button (Search Quotes) - this field allows users to search the items list based on the entered keyword.  
+  
 
-d. Edit View button (pencil icon) - this is for editing the appearance of the items list as it is displayed on the List Page. This allows users to resize the column width, move column header from left to right or vice versa.​
 
-e. Refresh button - This button is for refreshing the data in the List page.​
+c. Views selection / creation - this allows user to select an existing View to filter the items list. There is also an option to create new Views for the table here.  
+  
 
-f. Edit View button - This button allows users to modify the parameters of the selected View. ​One can also delete the selected View here.
 
-g. Export selected view as CSV version – by clicking on this button users can export the table list as a .CSV file. This file is downloaded to the local system.
+d. Edit View button (pencil icon) - this is for editing the appearance of the items list as it is displayed on the List Page. This allows users to resize the column width, move column header from left to right or vice versa.​  
+  
+
+e. Refresh button - This button is for refreshing the data in the List page.​  
+  
+
+
+f. Edit View button - This button allows users to modify the parameters of the selected View. ​One can also delete the selected View here.  
+  
+
+
+g. Export selected view as CSV version – by clicking on this button users can export the table list as a .CSV file. This file is downloaded to the local system.  
+  
+
 
 Next let us look at the Single Item Page.
 
@@ -79,10 +94,10 @@ There are four default pages in the Single Items Page. These are:
 
 The above image shows how Single Item Page can host a collection of Pages. Observe that we have the following on the tab strip:
 
-a. Details
-b. Activity
-c. Files
-e. Invoices
+a. Details  
+b. Activity  
+c. Files  
+e. Invoices  
 
 :::note[Please note]
 While a, b and c (above) are default pages in the Single Item Page, Tasks does not appear in the list. This is because, in Designer, this default page has been configured as inactive. Therefore, based on need, your system builder can enable / disable default pages in Designer. 
@@ -141,10 +156,10 @@ By default, this page hosts two components:
 
 Some prominent features of this Page includes the ability to:
 
-a. Add a new Folder​
-b. Upload files​ to the existing folder
-c. Download files​
-d. Preview the selected files​
+a. Add a new Folder​  
+b. Upload files​ to the existing folder  
+c. Download files​  
+d. Preview the selected files​  
 ​
 Other features include
 Rename (selected) file, E-mail (selected) file, Delete file, open in SharePoint window, change folder, share the selected file, and expand preview.
