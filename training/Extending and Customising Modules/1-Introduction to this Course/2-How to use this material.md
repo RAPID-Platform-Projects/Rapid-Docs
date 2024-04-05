@@ -4,13 +4,11 @@ The learning objective of this Foundational Training course is to instill confid
 
 This course is structured across several sections. 
 
-1. **Adding Tables and Table Subtypes** - In this section we will examine what table subtypes are, and why you would want to build one.
+1. **Customising an Existing Table** - In this section we will examine how to customise and extend a table that is packaged with Rapid Standard's **Assets** module. Here, we will explore how new columns can be built into tables, as well as how to enter data into these columns.
 
-2. **Adding Columns to Extend a Module** - Here, we will explore how new columns can be built into tables or table subtypes, as well as examine how to enter data into these columns.
+2. **Creating New Tables and Subtype Tables** - How to build new tables and table subtypes, and how to implement large changes to a Rapid module.
 
-3. **Integrating a New Table** - This section will walk you through the necessary steps that follow table creation. It will examine how to create new views, and how to display a new table in the Explorer sidebar.
-
-4. **A Challenge** - The training material will conclude with a challenge that will test everything you have learned.
+3. **A Challenge** - The training material will conclude with a challenge that will test everything you have learned.
 
 Across these modules, you will also find smaller challeneges which are based on the knowledge acquired in the lessons prior to it.
 
