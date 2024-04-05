@@ -1,8 +1,8 @@
-# **Challenge 3:** Extend the Assets Table with an assets subtype called "Real Estate"
-### Scenario:
+# Challenge 3: Extend the Assets Table with an assets subtype called "Real Estate"
+## Scenario:
 > *Stationery Inc.* also has several stores around the country, and they would like to track these in their internal database.
 
-### Instructions
+## Instructions
 Below are the steps required to complete this task. Each step also contains a link back to different sections of the training to help you. However, try to  build the new table below from memory.
 
 1. Create a new table, that is a *subtype* of the **Assets** table, and title it **"Real Estate Assets"**
