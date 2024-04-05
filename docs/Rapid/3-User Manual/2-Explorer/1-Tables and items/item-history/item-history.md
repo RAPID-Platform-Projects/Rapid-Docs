@@ -21,4 +21,4 @@ A new drop-down menu appears that displays the current historical version of an 
 
 ### Reverting an item back to its current version
 
-Pressing the **Undo Changes** button whilst viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
+Pressing the **Undo Changes** button while viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
