@@ -12,7 +12,7 @@ Simply put, it allows setting a timeout on any activity. If the activity that th
 
 ## Completes
 
-When hangfire posts back for job that is related to the timer. Should cause the below knockons.
+When hangfire posts back for job that is related to the timer. Should cause the below knock-on effects
 
 1. The timer's state changes to completed
 2. Any activity attached to the timer is set to discarded

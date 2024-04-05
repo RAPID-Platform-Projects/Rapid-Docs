@@ -81,7 +81,7 @@ To create dependencies among tasks, please consider the following points:
 - The system will calibrate the type of dependency based on the relationship established
 - You can establish dependencies among any pair including tasks and task parents in the Gantt Chart
 - The Gantt Chart is automatically saved as the dependency is established (does not require saving)
-- RAPID Platform automatically optimises the Gantt Chart based on the nature of dependencies
+- RAPID Platform automatically optimizes the Gantt Chart based on the nature of dependencies
 
 Please refer to the below GIF for illustration
 

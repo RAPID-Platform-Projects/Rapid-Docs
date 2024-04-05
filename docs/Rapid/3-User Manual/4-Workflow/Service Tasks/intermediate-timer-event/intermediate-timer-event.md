@@ -12,7 +12,7 @@ The most basic timer event is used when a token needs to wait for any period of 
 
 ## Completes
 
-When hangfire posts back for job that is related to the timer and should cause the below knockons
+When hangfire posts back for job that is related to the timer and should cause the below knock-on effects
 
 1. Timer element set to completed state
 2. Token moves on

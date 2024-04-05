@@ -1,4 +1,4 @@
-# Creating a Financial / Fiscal Year Calendar Table - Template
+# Creating a Fiscal Year Calendar Table
 
 The purpose this page is to provide an easy-to-use PowerBi Calendar table with date hierarchy already configured for Australian Financial and Fiscal years. This will ensure that reports that incorporate a date are consistent in the way they are handling them and reduces the work burden of having to recreate from scratch each time.
 

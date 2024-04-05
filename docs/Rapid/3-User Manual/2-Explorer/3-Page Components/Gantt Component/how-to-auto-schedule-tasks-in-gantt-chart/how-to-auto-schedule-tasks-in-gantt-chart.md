@@ -1,6 +1,6 @@
 # How to Auto-schedule tasks in Gantt Chart
 
-Organising tasks across a Gantt Chart can be a complex activity. When working with a lot of tasks, scheduling them optimally can become a challenge.
+Organizing tasks across a Gantt Chart can be a complex activity. When working with a lot of tasks, scheduling them optimally can become a challenge.
 
 Gantt Chart in RAPID Platform attempts to make this task easier.
 

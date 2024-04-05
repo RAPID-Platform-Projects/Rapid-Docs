@@ -1,4 +1,4 @@
-# The counter component
+# Counter
 
 ## Counter component overview
 
@@ -23,7 +23,7 @@ The Counter Component can give you the ***count of items*** present in a defined
 
 - You can [Add a Counter component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") The Counter component is not present anywhere by default.  
 
-    ![Counter in componet list](<Counter in componet list.png>)
+    ![Counter in component list](<Counter in componet list.png>)
 - If the Counter component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/counter/counter.md "How to arrange a component on Grid layout?").
 - You can set the [visibility of Counter on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").
 

@@ -2,7 +2,7 @@
 
 ## Editing a PowerBI Report
 
-If editing is enabled, there will be an **Edit** button in the top right of the PowerBI Component. This will enable edit mode which will allow you to edit and save the report. Being in *Edit* mode gives you full control over the visualisations of the report. The only thing which is not possible, is the changing of the data source for the report.
+If editing is enabled, there will be an **Edit** button in the top right of the PowerBI Component. This will enable edit mode which will allow you to edit and save the report. Being in *Edit* mode gives you full control over the visualizations of the report. The only thing which is not possible, is the changing of the data source for the report.
 
 ![PowerBI Report 01.png](./downloaded_image_1705285831477.png)
 

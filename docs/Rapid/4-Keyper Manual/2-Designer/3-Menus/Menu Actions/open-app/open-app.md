@@ -53,7 +53,7 @@ To achieve this, you need to fill:
   
 **Workflow** in the App field
 
-**blueprint/1/modeler** in the Sub-path field
+**blueprint/1/modeller** in the Sub-path field
 
 Hence, in the Sub-path, you only need to provide the portion of the URL as seen after the application keyword.
 

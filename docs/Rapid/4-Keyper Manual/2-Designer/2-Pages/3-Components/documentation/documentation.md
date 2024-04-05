@@ -1,4 +1,4 @@
-# The Documentation Component
+# Documentation
 
 When you need to present static text on a page, you make use of the Documentation Component.
 

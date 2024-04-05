@@ -1,6 +1,6 @@
 # How to access Designer?
 
-**Welcome to Designer -** This is your space to create your business database [**tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") and organise the Rapid Platform according to your business needs.
+**Welcome to Designer -** This is your space to create your business database [**tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") and organize the Rapid Platform according to your business needs.
 
 In this guide, we will take a quick look at some of the important functions that you can perform using Designer in Rapid Platform.
 
@@ -24,7 +24,7 @@ Please note the Designer Sidebar has collapsed design options titled - Tables, F
 
 These represent the key functions of Designer and houses all the design options in your site.
 
-We shall organise our discussion in this chapter around these five items:
+We shall organize our discussion in this chapter around these five items:
 
 - [Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
 - [Features](/docs/Rapid/4-Keyper%20Manual/2-Designer/Permissions/feature-access-control/feature-access-control.md "All about Feature Control in Designer")

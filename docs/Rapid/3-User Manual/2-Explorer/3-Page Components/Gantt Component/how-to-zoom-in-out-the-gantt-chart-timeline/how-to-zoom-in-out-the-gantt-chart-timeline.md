@@ -16,7 +16,7 @@ The below image shows Month Level. Observe the top row in highlighted section sh
 
 The below image shows Quarter Level. Observe the top row in highlighted section shows the quarter and the lower row depicts monthly time interval.
 
-![Quater Gantt.png](./downloaded_image_1705285774337.png)
+![Quarter Gantt.png](./downloaded_image_1705285774337.png)
 
 The below image shows Year Level
 

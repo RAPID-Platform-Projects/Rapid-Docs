@@ -1,4 +1,6 @@
-# Component Classes - How to apply classes to adaptive components
+# Component Classes
+
+## How to apply classes to adaptive components
 
 The purpose of this page is to provide a succinct list of useful classes that can be applied to components in adaptive designer. To apply a class.
 

@@ -27,4 +27,4 @@ Please consider the below steps:
 
 **![U11.png](./downloaded_image_1705286004346.png)**
 
-**Thats it! When the USER TASK is executed from the Workflow, SendGrid will be triggered to send the desired email as configured.**
+**That's it! When the USER TASK is executed from the Workflow, SendGrid will be triggered to send the desired email as configured.**

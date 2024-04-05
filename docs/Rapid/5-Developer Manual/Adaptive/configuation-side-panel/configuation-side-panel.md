@@ -1,4 +1,4 @@
-# Configuation Side Panel
+# Configuration Side Panel
 
 When configuring your component's side panel, It must have a consistent style and layout so the users who come to configure your component don't need to relearn where everything is. It also means that the configuration will be predictable, freeing up your users to focus on building their form without the need to spend more effort configuring.
 

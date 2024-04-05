@@ -65,4 +65,4 @@ Note that you can view any files or folders attached to an item by clicking the 
 
 You can open the "Attachments" folder, to view the attachment files inside. Additionally, the **Files** tab allows you to view the files inside your organisation's SharePoint, change the folder they are located in, or preview the file in the preview pane on the right.
 
-![A screenshow demonstrating how files from the Attachments component are displayed in the files tab of an item. The screenshot also indicates how to find the exact SharePoint file where an attachment is being stored.](<Attachments Sharepoint.png>)
+![A screenshot demonstrating how files from the Attachments component are displayed in the files tab of an item. The screenshot also indicates how to find the exact SharePoint file where an attachment is being stored.](<Attachments Sharepoint.png>)

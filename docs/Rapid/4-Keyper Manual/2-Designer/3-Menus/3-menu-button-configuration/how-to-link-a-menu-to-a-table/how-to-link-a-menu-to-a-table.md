@@ -32,7 +32,7 @@ To link a menu button to a table:
 
 ## Additional Details
 
-Essentially, setting up a link to table like this configures the menu button with On-Click Action as "[*Open in Flyout*](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/Menu%20Actions/open-in-flyout/open-in-flyout.md "How to open a specific page in Flyout with a click of a Menu button?")" with Page ID as the &lt;table name&gt;.
+Essentially, setting up a link to table like this configures the menu button with On-Click Action as "[*Open in Fly-out*](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/Menu%20Actions/open-in-flyout/open-in-flyout.md "How to open a specific page in Fly-out with a click of a Menu button?")" with Page ID as the &lt;table name&gt;.
 
 The [***display text***](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to create a new menu item, set display text and icon?") is by default set as the Table name and [***icon***](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to create a new menu item, set display text and icon?") is set as Table icon.
 

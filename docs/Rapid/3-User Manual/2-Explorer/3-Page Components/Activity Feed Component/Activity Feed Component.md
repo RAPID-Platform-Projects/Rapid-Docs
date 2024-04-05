@@ -79,7 +79,7 @@ Users can also add their own notes against items. To add notes to an activity fe
 
 :::tip  
 
-You can also press Cntrl + Enter to Submit the note.
+You can also press Ctrl + Enter to Submit the note.
 
 :::  
 
@@ -104,7 +104,7 @@ Users can also edit notes that have been created. To edit notes:
 Suggested Reminders allows users to set reminders for themselves either using the automated reminder system or by manually assigning a reminder date.
 
 ### Automatically Generated Reminders (_smart reminders_)
-Automatically generated reminders utilise specific phrases to identify reminders. To set an automatically generated reminders:
+Automatically generated reminders utilize specific phrases to identify reminders. To set an automatically generated reminders:
 
 1. In the text box, begin the sentence with phrases such as Remind me..., Chase up..., Check on..., along with the rest of the reminder followed with a date and time, e.g. Remind me to check invoices today at 6:00PM.
 2. Click the Submit button at the edge of the text box to save your reminder note to the item.

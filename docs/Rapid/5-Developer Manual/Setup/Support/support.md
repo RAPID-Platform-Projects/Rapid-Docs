@@ -2,12 +2,12 @@
 
 Rapid provides support for you and your customers' sites. When developing a product include the support framework to ensure the Rapid support team are made aware of requests.
 
-This framework is designed to be flexiable and extendable for your use case. It includes at a minimum:
+This framework is designed to be flexible and extendable for your use case. It includes at a minimum:
 1) A support request table to store requests
 2) A suite of Workflow processes to manage the lifecycle of support requests
 3) A pair of webhooks to keep requests in sync with our oversight database
 
-Optionally we also provide a basic Adaptive Form that can be configured to be presented by the Rapid AI Helpbot when needed.
+Optionally we also provide a basic Adaptive Form that can be configured to be presented by the Rapid AI Help bot when needed.
 
 ## Basic installation
 
@@ -24,7 +24,7 @@ Create the support process diagrams, you can download our example process [here]
 The example process includes Call Activities, so make sure you link the correct diagrams in the Lifecycle process.
 These diagrams are designed to be extended and adapted to your product, feel free to customize them to your needs.
 
-Optionally, add the Support Adapative document and configure it to be both provided by the Rapid AI Helpbot.
+Optionally, add the Support Adaptive document and configure it to be both provided by the Rapid AI Help bot.
 
 :::info
 We only care about creating the Rapid Support Request items. Feel free to configure any means of achieving that as appropriate to your product.

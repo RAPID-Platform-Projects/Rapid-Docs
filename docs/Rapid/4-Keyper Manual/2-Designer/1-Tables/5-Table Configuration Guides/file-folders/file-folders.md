@@ -1,6 +1,6 @@
 # How to configure default file folders
 
-A folder in RAPID represents any folder in Sharepoint. However, in the context of Rapid Platform a folder can exist in the context of an item. An item can have a drive and folder ID which corresponds to a sharepoint location. In the Rapid Interface, these files are displayed.
+A folder in RAPID represents any folder in SharePoint. However, in the context of Rapid Platform a folder can exist in the context of an item. An item can have a drive and folder ID which corresponds to a SharePoint location. In the Rapid Interface, these files are displayed.
 
 ## Folder Creation
 

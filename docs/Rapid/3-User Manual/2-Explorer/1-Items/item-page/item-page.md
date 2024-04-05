@@ -25,4 +25,4 @@ To add a new linked item press the +
 
 ![Item Page 02.png](./downloaded_image_1705285794616.png)*Interface for Adding a new Linked Item*
 
-Refer to section &lt;**TODO**&gt; for more details on universally linking items. To close the item flyout press the 'x' in the top right of the screen, under the jumbotron. It is also possible to close all proceeding flyouts by tapping the jumbotron either on a previous flyout or on the base page.
+Refer to section &lt;**TODO**&gt; for more details on universally linking items. To close the item flyout press the 'x' in the top right of the screen, under the jumbotron. It is also possible to close all proceeding fly-outs by tapping the jumbotron either on a previous flyout or on the base page.

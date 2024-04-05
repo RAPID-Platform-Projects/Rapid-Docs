@@ -1,4 +1,4 @@
-# List of available layouts for Pages
+# Available Layouts for Pages
 
 [**Layouts**](</docs/Rapid/3-User Manual/glossary/glossary.md#layout> "Page, layout and component") are an important part of Page construction.
 
