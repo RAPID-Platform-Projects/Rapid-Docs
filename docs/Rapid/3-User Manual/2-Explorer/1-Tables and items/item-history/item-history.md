@@ -2,7 +2,7 @@
 
 When viewing an item's details page, the **Item History** button allows you to view past versions of an item. Clicking on the button will reveal a list of all historical versions of the item: *who changed the item*, and *how long ago the change was made*.
 
-![A screenshot depciting the location of the "Item History" button in Rapid Standard. The button is found by opening an item's details page, and then pressing the button that resembles a clock being turned back.](<Item History Button Location.png>)
+![A screenshot depiciting the location of the "Item History" button in Rapid Standard. The button is found by opening an item's details page, and then pressing the button that resembles a clock being turned back.](<Item History Button Location.png>)
 
 ### Item History User Interface
 
@@ -21,4 +21,4 @@ A new drop-down menu appears that displays the current historical version of an 
 
 ### Reverting an item back to its current version
 
-Pressing the **Undo Changes** button whilst viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
+Pressing the **Undo Changes** button while viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
