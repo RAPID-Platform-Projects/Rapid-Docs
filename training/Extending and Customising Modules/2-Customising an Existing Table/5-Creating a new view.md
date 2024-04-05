@@ -60,10 +60,10 @@ Notice there are other logical operators here that we can use, such as:
 
 | Logical Operator | Meaning 
 | --- | --- |
-| < | Less than|
-| <= | Less than or equal to |
-| > | Greater than |
-| >= | Greater than or equal to |
+| ```<``` | Less than|
+| ```<=``` | Less than or equal to |
+| ```>``` | Greater than |
+| ```>=``` | Greater than or equal to |
 | Has value | Returns any item where the selected field **is not** empty |
 | No value | Returns any item where the selected field **is** empty|
 | Contains | Returns any item where the selected field contains specific information, such as a number or a string of text |

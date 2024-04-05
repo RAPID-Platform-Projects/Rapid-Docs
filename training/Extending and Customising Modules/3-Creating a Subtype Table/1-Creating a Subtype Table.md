@@ -7,8 +7,7 @@ Read the scenario below for context.
 > The company *Stationery Inc.* owns several commercial-grade coffee machines at their various offices and warehouses. However, the company wishes to track additional information for their coffee machines, and so the general Assets table is no longer suitable.
 >
 > Our task is to create a table that will track the company's coffee machines, as well as: 
-> - The employee responsible for cleanin
-g the machine at the end of each day
+> - The employee responsible for cleaning the machine at the end of each day
 > - The employee responsible for purchasing the milk and coffee beans
 > - The office or warehouse location where the coffee machine is installed
 

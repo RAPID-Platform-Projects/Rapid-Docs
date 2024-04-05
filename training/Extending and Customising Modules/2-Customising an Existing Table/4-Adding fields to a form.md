@@ -8,6 +8,7 @@ To add the field we just created:
 1. Open the **Assets** table in Designer.
 
 2. Go to the **Design** tab.
+
 ![A screenshot that demonstrates how to change the layout design of a table's form. The user must ensure they open the table in Designer. Then they go to the Design tab, and then ensure they have "Asset" selected from the dropdown menu (instead of "Assets" plural).](<Designer Assets Design Tab.png>)
 
 3. Hover your cursor over the location where you wish to add the new field. This will show the overlay that allows you to add fields. All of these fields are contained within the form component, and we can press the **+** button to add the new field.
