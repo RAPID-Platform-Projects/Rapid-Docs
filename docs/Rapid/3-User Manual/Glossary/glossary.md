@@ -386,3 +386,46 @@ Jumbotron - The large horizontal banner at the top of each page in Explorer &amp
 A support request is a unit communication between the system user and the system's support staff. A user can create a support request when he/she is not able to proceed with a system functionality on his/her own or with the help of documentation. This indicates the need for assistance and a support request is a method to seek that assistance from support staff. 
 
 Users can also use support requests for submit bugs or improvement requests. 
+
+## Adaptive Document Canvas
+![Image showing Adaptive Document Canvas](<Adaptive Document Canvas.png>)
+
+The Adaptive Document Canvas is the interface which allows you to create, open, edit and configure elements of an Adaptive Document. 
+
+## Document Structure Panel / Tree of Elements (Adaptive Documents)
+![Image showing Document Structure Panel](<Document structure panel.png>)
+
+This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area-adaptive-documents" target="_blank">**Composition area**</a>
+
+## Composition Area (Adaptive Documents)
+![Image showing Composition Area](<Composition Area.png>)
+
+This is the center portion of the Adaptive Document Canvas <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#adaptive-document-canvas" target="_blank">**Adaptive Document Canvas**</a>. Here you can add, select and delete elements, and also perceive how various elements will appear visually. Please note this is different from Preview.
+
+## Element Configuration Panel (Adaptive Documents)
+![Image showing Element Configuration Panel](<Element configuration panel.png>)
+
+Element configuration panel appears towards the right of the Composition Area INSERT LINK. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-categories-adaptive-documents" target="_blank">**configuration categories**</a>.
+
+## Element Configuration Categories (Adaptive Documents)
+![Image showing Element Configuration Categories](<Element configuration categories.png>)
+
+The configuration categories appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>. Categories include:
+
+a. Attributes - to define the appearance parameters of the element on the form.
+
+b. Conditions - to define logic which governs conditions when the element can be enabled, or appear etc.
+
+c. Validation - to set element level validation criteria. When the criteria is met, the element will be considered valid, else invalid.
+
+d. Connection - to define the connection of the element with data table's column.
+
+e. Event - To define what actions can be triggered upon click of the element (please note this option is applicable for button elements only.)
+
+f. Choice - To define the choices that will appear in a dropdown element. (please note this option is applicable for choice type elements.)
+
+Based on the nature of the elements selected, configuration categories will appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>
+
+## Element Picker (Adaptive Documents)
+
+

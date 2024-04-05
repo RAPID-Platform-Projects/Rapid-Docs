@@ -91,7 +91,7 @@ A Gantt chart dependency is a relationship between two or more tasks in a projec
     ![A screenshot showing the location of the Save button so that users can save the tasks that now have a a Finish-to-Start dependency](./downloaded_image_1705286208406.png)
 
 For further information on using the Gantt and creating other dependencies see the full Gantt documentation at: 
-[How to Interact with a Gantt Chart in Explorer](</docs/Rapid/3-User Manual/2-Explorer/2-Page%20Components/Gantt%20Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md>)
+[How to Interact with a Gantt Chart in Explorer](</docs/Rapid/3-User Manual/2-Explorer/3-Page%20Components/Gantt%20Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md>)
 
 ## How to edit a task from a Projects Gantt Chart
 
