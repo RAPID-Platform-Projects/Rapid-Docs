@@ -19,7 +19,7 @@ A simple example of a rapid item is a Task, which exist on a default [system tab
 |Date                   |A date only field with no time connected to it                                                                                     |![alt text](Date.png)
 |Choice                 |A dropdown box that presents a list of pre-defined options                                                                         |![alt text](Choice.png)
 |Lookup                 |A dropbox that looks to a predefined table and allows the user to select a single item to be linked to the current item            |![alt text](Lookup.png)
-|Boolean                |A binary togle switch, by default this is set to 'null' but can be toggled to ON or OFF                                            |![alt text](Bool.png)
+|Boolean                |A binary toggle switch, by default this is set to 'null' but can be toggled to ON or OFF                                            |![alt text](Bool.png)
 |Number                 |A field that only accepts numbers                                                                                                  |![alt text](Number.png)
 |Percentage             |A number field that presents and calculates as a percentage                                                                        |![alt text](Percentage.png)
 |Currency               |A number field that presents as a predefined type of currency                                                                      |![alt text](Currency.png)
