@@ -6,14 +6,14 @@ Here are definitions and references to terms used for discussing RAPID Platform 
 Experiences are self contained interfaces that interact with your site data for some purpose. These include:
 
 ### Explorer
-A looking glass into your data. Explorer focuses on enabling users to see / edit / delete items in your site for any purpose. Suited best for direct data managmeent.
+A looking glass into your data. Explorer focuses on enabling users to see / edit / delete items in your site for any purpose. Suited best for direct data management.
 
 You can get to Explorer via the quick link buttons at the bottom of your main site menu.
 
 ![Explorer Button Location](<Explorer Button Location.png>)
 
 ### Workflow
-Based on the populat BPMN 2.0 workflow diagram specification, workflow focuses on letting users create and manage process diagrams that document their activities. With a built in processing engine, Workflow can also automate aspects of your business.
+Based on the popular BPMN 2.0 workflow diagram specification, workflow focuses on letting users create and manage process diagrams that document their activities. With a built in processing engine, Workflow can also automate aspects of your business.
 
 You can access Workflow from the quick navigation buttons at the bottom of your main site side bar.
 
@@ -23,24 +23,24 @@ You can access Workflow from the quick navigation buttons at the bottom of your 
 [Workflow User Manual](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md "Workflow - Keyper")
 
 ### Designer
-Designer provides a means to manipulate and control your site. It enables defining what Tables and Columsn your site contains, managing pages and views and a slew of minor administration activities. 
+Designer provides a means to manipulate and control your site. It enables defining what Tables and Columns your site contains, managing pages and views and a slew of minor administration activities. 
 
 You can access Designer from your main Rapid site using the navigation bar on the bottom of the menu.
 
 ![Designer Button Location](<Designer Button Location.png>)
 
-**Releated Articles**
+**Related Articles**
 
 [What is Designer?](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md "What is Dezigna (Designer application)?")
 
 ### Tasks
 Tasks focuses on helping Users to quickly find and manage their tasks.
 
-Tasks is accessiable [here](https://tasks.rapidplatform.com/).
+Tasks is accessible [here](https://tasks.rapidplatform.com/).
 
 ## Data Table
 
-A data table is a collection of data organised across columns.
+A data table is a collection of data organized across columns.
 
 ![An example data table](<An example datatable.png>)
 
@@ -52,7 +52,7 @@ Here,
 - Link
 - Business
 
-are columns that organise the data about various items in the table.
+are columns that organize the data about various items in the table.
 
 ## Table
 
@@ -92,7 +92,7 @@ A sidebar is a collection of Menu items for easy navigation to various pages in 
 
 Each experience between Explorer, Designer and Workflow have their own sidebars. All contain the quick navigation buttons to jump between the three.
 
-![Main experince example sidebars](<Main experince example sidebars.png>)
+![Main experience example sidebars](<Main experince example sidebars.png>)
 
 ## Menu
 
@@ -101,7 +101,7 @@ A menu can be most fundamentally be perceived as a button.
 There are two types of menu buttons:
 
 - In the [Sidebars](#sidebar "Sidebar")
-    ![Main experince example sidebars](<Main experince example sidebars.png>)
+    ![Main experience example sidebars](<Main experince example sidebars.png>)
 
 - In [command bars](#command-bar "Command bar")
     ![Command Bar - Data Table.png](./command-bar-data-table.png)
@@ -148,7 +148,7 @@ In Rapid Platform, you are not required to create the tables from scratch for ea
 
 #### Option 1 - Create a Lookup
 
-The first option, which any relational database user will intuitively suggest, is use of lookups. This approach involves creating one table with common fields and then create another table with unique fields. Linking these tables using Lookup will allow you organise, store and fetch data.
+The first option, which any relational database user will intuitively suggest, is use of lookups. This approach involves creating one table with common fields and then create another table with unique fields. Linking these tables using Lookup will allow you organize, store and fetch data.
 
 However, imagine a large organisation, storing hundreds of transactions in a day. The volume of data in the table with common fields would bulky. This is because, the common table would be storing contact data for all the stakeholders (businesses, employees, suppliers etc.)
 
@@ -379,10 +379,53 @@ Linked Items - Within the system we have replaced the concept of tags with linke
 
 Notification - A message sent from the system to the user, hopefully a useful one.
 
-Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designa that contains the item name and buttons.
+Jumbotron - The large horizontal banner at the top of each page in Explorer &amp; Designer that contains the item name and buttons.
 
 ## Support request
 
 A support request is a unit communication between the system user and the system's support staff. A user can create a support request when he/she is not able to proceed with a system functionality on his/her own or with the help of documentation. This indicates the need for assistance and a support request is a method to seek that assistance from support staff. 
 
 Users can also use support requests for submit bugs or improvement requests. 
+
+## Adaptive Document Canvas
+![Image showing Adaptive Document Canvas](<Adaptive Document Canvas.png>)
+
+The Adaptive Document Canvas is the interface which allows you to create, open, edit and configure elements of an Adaptive Document. 
+
+## Document Structure Panel / Tree of Elements (Adaptive Documents)
+![Image showing Document Structure Panel](<Document structure panel.png>)
+
+This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area-adaptive-documents" target="_blank">**Composition area**</a>
+
+## Composition Area (Adaptive Documents)
+![Image showing Composition Area](<Composition Area.png>)
+
+This is the center portion of the Adaptive Document Canvas <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#adaptive-document-canvas" target="_blank">**Adaptive Document Canvas**</a>. Here you can add, select and delete elements, and also perceive how various elements will appear visually. Please note this is different from Preview.
+
+## Element Configuration Panel (Adaptive Documents)
+![Image showing Element Configuration Panel](<Element configuration panel.png>)
+
+Element configuration panel appears towards the right of the Composition Area INSERT LINK. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-categories-adaptive-documents" target="_blank">**configuration categories**</a>.
+
+## Element Configuration Categories (Adaptive Documents)
+![Image showing Element Configuration Categories](<Element configuration categories.png>)
+
+The configuration categories appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>. Categories include:
+
+a. Attributes - to define the appearance parameters of the element on the form.
+
+b. Conditions - to define logic which governs conditions when the element can be enabled, or appear etc.
+
+c. Validation - to set element level validation criteria. When the criteria is met, the element will be considered valid, else invalid.
+
+d. Connection - to define the connection of the element with data table's column.
+
+e. Event - To define what actions can be triggered upon click of the element (please note this option is applicable for button elements only.)
+
+f. Choice - To define the choices that will appear in a dropdown element. (please note this option is applicable for choice type elements.)
+
+Based on the nature of the elements selected, configuration categories will appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>
+
+## Element Picker (Adaptive Documents)
+
+

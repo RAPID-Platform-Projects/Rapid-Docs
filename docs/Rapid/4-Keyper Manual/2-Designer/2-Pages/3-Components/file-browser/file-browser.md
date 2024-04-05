@@ -1,4 +1,4 @@
-# The File Browser component
+# File Browser
 
 ## File Browser component overview
 

@@ -26,3 +26,5 @@ You, as a system builder, can create Adaptive Documents in an experience called 
 
 <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20Adaptive%20Document%20Canvas/" target="_blank">**Click here**</a> to gain an understanding of what are the various components of the Adaptive Document Canvas.
 
+# Designing an Adaptive Document Form
+

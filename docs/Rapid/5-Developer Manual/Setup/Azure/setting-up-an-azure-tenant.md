@@ -108,7 +108,7 @@ Go to https://aad.portal.azure.com
 
 35. Ask customer if they want Microsoft 2-factor if not follow these steps (OPTIONAL)
 
-36. Active directory &gt; properties &gt; access management for azure resources (yes) &gt; manage security defaults &gt; click no&gt; click my organisation is getting too many multifactor authentication sign-up requests (OPTIONAL)
+36. Active directory &gt; properties &gt; access management for azure resources (yes) &gt; manage security defaults &gt; click no&gt; click my organisation is getting too many multi-factor authentication sign-up requests (OPTIONAL)
 
 ## Do these steps with the customer user
 
@@ -163,7 +163,7 @@ Go to https://aad.portal.azure.com
 
 ![Create Tenant Step 25](<Create Tenant Step 25.png>)
 
-8. Select Admin Center Acces
+8. Select Admin Center Access
 
 9. Select Global Admin
 

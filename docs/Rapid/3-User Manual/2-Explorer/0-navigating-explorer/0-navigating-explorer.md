@@ -32,9 +32,13 @@ To the right of the Jumbotron (as pictured above) is a button to access the Rapi
 
 ## Explorer Navigation Bar
 
+<<<<<<< HEAD
 One of Explorer's main features is a side bar used for navigation which can be found on the far left of any page inside Rapid Platform. This menu is fully customisable. Items in the sidebar can point to Rapid Platform Pages, external links, or even open forms or apps. By default all entities created will be added to the Explorer side bar. Clicking on an entity in the sidebar will open the configured list page for that particular entity.  
 
 ![alt text](<Explorer sidebar.png>)
+=======
+The Explorer features a side bar for navigation. This menu is fully customizable where you are able to add external links as well as links to entities created. By default all entities created will be added to the Explorer side bar. Clicking on an entity in the sidebar will open the configured list page for that particular entity.
+>>>>>>> cd42b6056b46328842086cc210db65a8dab45eed
 
 
 

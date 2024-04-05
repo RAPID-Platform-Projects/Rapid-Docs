@@ -1,4 +1,4 @@
-# The Form component
+# Form
 
 ## Form Component overview
 

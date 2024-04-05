@@ -1,0 +1,1 @@
+# How to configure connection of root section with data table?

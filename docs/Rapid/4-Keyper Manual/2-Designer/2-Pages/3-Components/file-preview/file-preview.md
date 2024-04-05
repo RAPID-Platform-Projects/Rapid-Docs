@@ -1,4 +1,4 @@
-# The File Preview component
+# File Preview
 
 ## File Preview component overview
 

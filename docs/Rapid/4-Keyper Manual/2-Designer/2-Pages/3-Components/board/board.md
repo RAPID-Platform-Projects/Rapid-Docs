@@ -1,6 +1,6 @@
-# The board component
+# Kanban Board
 
-## Board component overview
+## What is the Board component
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked.
 
@@ -69,7 +69,7 @@ Following is the brief description of each field:
 
     ![Choice field options being toggled](<Choice field options being toggled.png>)
 
-3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
+3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
 
 4. **Title column -** This is a mandatory field. This forms the title of the Board items. For example - Project Name.  
      
@@ -99,7 +99,7 @@ Following is the brief description of each field:
 
 - Once the Board Component is properly configured, it will no longer appear RED. It show the name of the Target Table (selected in 1. Table field above) on which the Board component is created.
 
-    ![Succesfully configured board component](<Succesfully configured board component.png>)
+    ![Successfully configured board component](<Succesfully configured board component.png>)
 
 - You can set up a Board component on an Individual Item (Singular) Level as well as Group Item List (Plural) Level.
 

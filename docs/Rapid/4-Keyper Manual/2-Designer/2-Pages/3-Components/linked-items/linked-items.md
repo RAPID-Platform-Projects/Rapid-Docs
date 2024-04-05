@@ -1,4 +1,4 @@
-# The Linked Items component
+# Linked Items
 
 ## Linked Items component overview
 

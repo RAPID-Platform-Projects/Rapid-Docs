@@ -1,14 +1,12 @@
-# The activity Feed component
+# Activity Feed
 
-## What is an Activity Feed
+## What is the Activity Feed
 
-An activity feed can be thought of as a bulletin board or activity log for the Table Item.
+An activity feed can be thought of as a bulletin board or activity log for the item. It helps you see the history for that item.
 
-The activity feed component allows users to view a timeline of previous events of the individual item including any changes that have been made or notes that have been attached.
+The activity feed component shows a timeline of added notes and previous events, such as when it was created or the prior updates.
 
-Apart from notes, events in the life of individual item can be - creation of item and updation of item's data.
-
-## How to set up Activity Feed Component in Designer
+## How to set up an Activity Feed Component in Designer
 
 - You can [add the activity feed component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The Activity feed component is [present on the Tab Strip by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?").  
 

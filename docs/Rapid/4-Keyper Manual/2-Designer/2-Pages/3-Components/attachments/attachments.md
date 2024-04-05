@@ -1,4 +1,4 @@
-# The attachments component
+# Attachments
 
 ## Attachments component overview
 

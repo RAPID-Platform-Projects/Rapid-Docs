@@ -1,4 +1,4 @@
-# Gantt Chart Component
+# Gantt Chart
 
 ## Overview
 
@@ -86,16 +86,16 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
 
 ### Related articles
 
-[How to hide / show Gantt Chart on Design page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide componants on Pages")
+[How to hide / show Gantt Chart on Design page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide components on Pages")
 
-[How to hide / show Gantt Chart on Create Screen page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide componants on Pages")
+[How to hide / show Gantt Chart on Create Screen page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide components on Pages")
 
 How to arrange Gantt Chart on the layout?
 
 How to delete a Gantt Chart component?
 
-[How to interact with Gantt Chart component in Explorer with data?](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Gantt%20Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
+[How to interact with Gantt Chart component in Explorer with data?](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Gantt%20Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
 
-[Board component](/docs/Rapid/3-User%20Manual/2-Explorer/2-Page%20Components/Board%20Component/Board%20Component.md "What is a Board component on a Layout / Page?")
+[Board component](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Board%20Component/Board%20Component.md "What is a Board component on a Layout / Page?")
 
 [Pipeline component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/pipeline/pipeline.md "What is a Pipeline component on a Layout / Page?")

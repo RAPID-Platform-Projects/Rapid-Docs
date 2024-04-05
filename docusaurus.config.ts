@@ -8,8 +8,7 @@ const config: Config = {
   favicon: "img/r.ico",
 
   // Set the production url of your site here
-  //url: "https://docs.rapidplatform.com",
-  url: "https://rapiddocs.z8.web.core.windows.net",
+  url: "https://docs.rapidplatform.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -191,26 +190,27 @@ const config: Config = {
 
       // Public API key: it is safe to commit it
       apiKey: 'c799de3426928062018193dd160dc3c7',
+      //apiKey: 'ed9d305e51ead4343379d983acf35803',
 
       indexName: 'rapidz8-web-core-windows',
 
       // Optional: see doc section below
-      contextualSearch: true,
+      contextualSearch: false,
 
       // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
-      externalUrlRegex: 'external\\.com|domain\\.com',
+      // externalUrlRegex: 'external\\.com|domain\\.com',
 
       // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
-      replaceSearchResultPathname: {
+      /*replaceSearchResultPathname: {
         from: '/docs/', // or as RegExp: /\/docs\//
         to: '/',
-      },
+      },*/
 
       // Optional: Algolia search parameters
       searchParameters: {},
 
       // Optional: path for search page that enabled by default (`false` to disable it)
-      searchPagePath: 'search',
+      searchPagePath: false,
 
     }
   } as Preset.ThemeConfig,

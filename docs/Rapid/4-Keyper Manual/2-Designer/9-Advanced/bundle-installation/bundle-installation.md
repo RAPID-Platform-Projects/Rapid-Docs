@@ -28,7 +28,7 @@ To install a bundle from the public library
 
 ![Bundles menu location](<Bundles menu location.png>)
 
-2. On the Rapid Platforms Bundles page click the **+ Install Bundle** button to bring up a file dialog.
+2. On the Rapid Platforms Bundles page click the **+ Install Bundle** button to bring up a file dialogue.
 
 ![Install from file button](<Install from file button.png>)
 

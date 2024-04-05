@@ -13,7 +13,7 @@ RAPID Platform allows 9 types of on-click actions for menu items. These are:
 5. [Raise Workflow Created Signal](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/raise-create-webhook-action/raise-create-webhook-action.md> "How to raise a Workflow Created Signal from a click of a Menu button?")
 6. [Update Items](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/update-items/update-items.md> "How to update items from a click of a Menu button?")
 7. [SendGrid Email](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/sendgrid-email.md> "Sending Static Email from SendGrid using Explorer Menu Button")
-8. [Open in Flyout](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-in-flyout/open-in-flyout.md> "How to open a specific page in Flyout with a click of a Menu button?")
+8. [Open in Fly-out](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-in-flyout/open-in-flyout.md> "How to open a specific page in Fly-out with a click of a Menu button?")
 9. [Execute Workflow Process](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/execute-workflow-process.md> "How to execute a specific workflow process")  
 
 Click on each of the above links to learn more.
@@ -28,7 +28,7 @@ Side bar menu buttons do not have the context of the table or the item on which 
 2. Open App
 3. Perform Remote Action (With limited functionality)
 4. SendGrid Email
-5. Open in Flyout
+5. Open in Fly-out
 
 ## On-Click Actions Available for Command Bar Menu Buttons
 
@@ -40,5 +40,5 @@ All on-click actions are available for table menu buttons with full functionalit
 4. Raise Workflow Created Signal
 5. Update Items
 6. SendGrid Email
-7. Open in Flyout
+7. Open in Fly-out
 8. Execute Workflow Process

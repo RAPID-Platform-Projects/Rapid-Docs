@@ -14,7 +14,7 @@ To create a <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%2
 Rapid Platform uses two different Chatbots; one trained on each - documentation and support. 
 :::
 
-3. You need to fillout the three mandatory fields:
+3. You need to fill out the three mandatory fields:
 
 ![Image showing the three mandatory fields to raise a support ticket](<Support req 3.png>)  
 
@@ -24,7 +24,7 @@ Rapid Platform uses two different Chatbots; one trained on each - documentation 
 
 ![Image showing five scale options](<Support req 4.png>)
 
-- Description - This is a free-text (multilines of text) field. You can use this field to describe the issue with as much details as possible.
+- Description - This is a free-text (multi-lines of text) field. You can use this field to describe the issue with as much details as possible.
 
 :::tip[Please note]
 Description is  a richtext field. Therefore, you can use formatting options and also add images etc. as we do in a text editor.

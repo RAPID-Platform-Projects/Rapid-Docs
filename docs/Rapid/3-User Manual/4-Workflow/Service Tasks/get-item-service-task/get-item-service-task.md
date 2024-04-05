@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This service task type represents the ability to add any RAPID item from the site to the ledger of the process run. This will put the full item profile for that item in there and allow it to be accessed through any expressions aswell as rules added to sequence flows.
+This service task type represents the ability to add any RAPID item from the site to the ledger of the process run. This will put the full item profile for that item in there and allow it to be accessed through any expressions as well as rules added to sequence flows.
 
 ##  Required Properties
 
