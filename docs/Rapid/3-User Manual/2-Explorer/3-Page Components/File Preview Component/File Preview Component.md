@@ -6,11 +6,11 @@ As the name suggests, a File Preview component provides an area on the Page wher
 
 You can find the File Preview Component:
 
-1) **In the Files Tab at Individual Item Level** - Here the File Preview component appears as integrated with the [File Browser component](<../File Browser Component/File Browser Component.md>) and can appear as default.
+1) **In the Files Tab at Individual Item Level** - Here the File Preview component appears as integrated with the [File Browser component](<../file-browser/file-browser.md>) and can appear as default.
    
   ![Image showing File Browser component on Files Tab](<File Preview 1.png>)
 
-2) **Any other Page** - Here the File Preview component may appear with [Attachments](../Attachments/Attachments.md), [Embedded Files](<../Embedded Files/Embedded Files.md>) or [File Browser component](<../File Browser Component/File Browser Component.md>)
+2) **Any other Page** - Here the File Preview component may appear with [Attachments](../Attachments/Attachments.md), [Embedded Files](<../Embedded Files/Embedded Files.md>) or [File Browser component](<../file-browser/file-browser.md>)
 
   ![Image showing File Browser component on Item Details Tab with Attachments Component](<File preview 2.png>)
 
