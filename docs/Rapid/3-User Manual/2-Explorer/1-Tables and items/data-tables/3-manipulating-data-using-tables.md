@@ -9,7 +9,7 @@ To select items in Rapid, hover the cursor over an item row. A circle will appea
 
 ![A screenshot that depicts how a selection icon will appear when the user hovers their mouse over an item row. The screenshot is annotated with a red box that indicates the location of the selection circle.](<Data Table Finding Selection Circle.png>)
 
-Once you select an item, you will see the circle will become filled, and now display a checkmark. Additionally, the background will be faintly highlighted in grey.
+Once you select an item the circle will become filled, and will now display a checkmark. Additionally, the background will be faintly highlighted in grey.
 
 ![A screenshot that depicts how items appear that ](<Data Table Item Selected.png>)
 
