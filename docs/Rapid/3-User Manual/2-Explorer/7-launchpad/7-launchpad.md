@@ -1,6 +1,6 @@
 # Launchpad
 
-The launchpad collates notifactions from throughout Rapid, helping you stay up to date.
+The launchpad collates notifications from throughout Rapid, helping you stay up to date.
 
 ## Viewing the Launchpad
 

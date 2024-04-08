@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Gantt charts are essentially a visualisation tool for data in context to time. As long as items have a start and end date they can be viewed in relation to each other in time.
+Gantt charts are essentially a visualization tool for data in context to time. As long as items have a start and end date they can be viewed in relation to each other in time.
 
 Gantt charts can act as an easy way to move through a set of items to investigate. You can glance through the item progress, dependencies among items, etc.
 
@@ -10,7 +10,7 @@ Finally, Gantt charts provide convenient tools to manipulate items so that you c
  
 ## Gantt Chart in RAPID Platform
 
-RAPID Platforms allows you to visualise tasks in a Gantt Chart. **[Tasks](/docs/Rapid/3-User%20Manual/2-Explorer/1-Items/creating-tasks/creating-tasks.md "Tasks")** are the unit of activities in a process. Essentially, each task has a start date and an end date, therefore, it qualifies to be represented in a Gantt Chart.
+RAPID Platforms allows you to visualise tasks in a Gantt Chart. Tasks are the unit of activities in a process. Essentially, each task has a start date and an end date, therefore, it qualifies to be represented in a Gantt Chart.
 
 This is what a simple Gantt Chart may look like in RAPID Platform
 

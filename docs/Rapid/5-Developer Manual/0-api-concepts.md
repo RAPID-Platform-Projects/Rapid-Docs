@@ -59,12 +59,12 @@ Every table has the same basic system fields created for it to assist the Platfo
 | Field Name | Type | Purpose |
 | --- | --- | --- |
 | id | INT | Unique ID of the item | 
-| sys_type_id | INT | Entity TYpe ID for quick determiniation of tables | 
+| sys_type_id | INT | Entity TYpe ID for quick determination of tables | 
 | deleted | DateTime | Date the item was deleted, `Null` if note deleted | 
 | author_id | INT | Principal ID of the user that created the item | 
 | created | DateTime | Date the item was created | 
 | editor_id | INT | Principal ID of the last user to modify the item |
-| modified | DaetTime | Date last modifed | 
+| modified | DateTime | Date last modified | 
 | parent_id | INT | ID of the item of the same table type that this item is a child of |
 | drive_id | String | Drive ID of the SharePoint/OneDrive location fo the item | 
 | rank | String | Unused
@@ -136,7 +136,7 @@ Currently supported OData syntax
 | le | Less Than or Equal To | priority le 3 |
 | gt | Greater Than | cost gt 5000 |
 | ge | Greater Than or Equal To | volunteers ge 20 |
-| and | Logical AND joining multiple comparisions | title eq 'My Title' and cost gt 5000 |
+| and | Logical AND joining multiple comparisons | title eq 'My Title' and cost gt 5000 |
 | or | Logical OR joining multiple comparisons | priority le 3 or cost gt 5000 |
 | () | Brackets : Managing order of operations | (priority le 3 or cost gt 5000) and title eq 'My Title' |
 | in() | At least one given value is a match | in('parent_id', 1,2,3) |
@@ -147,7 +147,7 @@ Currently supported OData syntax
 #### OData Function Reference
 
 ##### Relative Dates
-When comparing dates you can use relative date glyphs to represent a dynamic value. The avaliable glyphs are:
+When comparing dates you can use relative date glyphs to represent a dynamic value. The available glyphs are:
 
 - today
 - tomorrow
@@ -169,7 +169,7 @@ The in() function tests if at a given column contains at least one of the given 
 | Name | Type | Description |
 | --- | --- | --- |
 | column_name | String | The column name we are testing if values are against |
-| values | Array | A comma seperated list of values we are testing for |
+| values | Array | A comma separated list of values we are testing for |
 
 **Examples**
 
@@ -196,7 +196,7 @@ The inUniversal() function tests if at a given list of items are linked universa
 | Name | Type | Description |
 | --- | --- | --- |
 | list-name | String | The target list the items universally linked belong to |
-| values | Array | A comma seperated list of values we are testing for |
+| values | Array | A comma separated list of values we are testing for |
 
 **Examples**
 
@@ -218,7 +218,7 @@ The inScoped() function tests if a given list of items are linked via a scoped l
 | Name | Type | Description |
 | table_name | String | The target table the items we are searching for belong to |
 | column_name | String | The multi-lookup column name we are testing if the given items are linked via |
-| values | Array | A comma seperated list of IDs we are testing for |
+| values | Array | A comma separated list of IDs we are testing for |
 
 **Examples**
 
@@ -255,7 +255,7 @@ Example post body to create a task
 
 ```
 
-Optionally you can submit several items in an array. By default this will not fire events, which can be overridden with the query paramater bulkEvents=true
+Optionally you can submit several items in an array. By default this will not fire events, which can be overridden with the query parameter bulkEvents=true
 
 #### Creating an item with a file folder
 
@@ -644,7 +644,7 @@ DELETE /lists/listNamePlural
 
 ### Create page
 
-Cerates a new blank page to be used within a site. Pages are independent of tables by default. To ensure a page has a table context preface the page name with the table name. For example a new Tasks page could be called "Tasks Details Two".
+Creates a new blank page to be used within a site. Pages are independent of tables by default. To ensure a page has a table context preface the page name with the table name. For example a new Tasks page could be called "Tasks Details Two".
 
 ```
 POST /pages/Explorer/{pageName}
@@ -737,7 +737,7 @@ Example Body:
 					},
 					{
 						"title": "TEST",
-						"page": "GREATE TEST",
+						"page": "GREAT TEST",
 						"hidden": false,
 						"attributes": {
 							"linkItemType": "tests",
@@ -812,8 +812,10 @@ Example Body :
 }
 ```
 
+:::warning
+Hitting this endpoint requires all form data for every form on site, it is not recommended to hit this endpoint externally as it can cause corruption to form data if not used correctly
+:::
 
-Warning: Hitting this endpoint requires allform data for every form on site, it is not recommended to hit this endpoint externally as it can cause corruption to form data if not used correctly
 
 ### Update Menu item
 

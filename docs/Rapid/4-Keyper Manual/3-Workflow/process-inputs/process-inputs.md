@@ -23,7 +23,7 @@ You can use the following field types
 | Boolean | Boolean | |
 | Number | Number | |
 | Percentage | Number | |
-| Currency | Numbber | Cannot configure the currency type |
+| Currency | Number | Cannot configure the currency type |
 | User | Integer | |
 | JSON | String | |
 | Whole number | Integer | |

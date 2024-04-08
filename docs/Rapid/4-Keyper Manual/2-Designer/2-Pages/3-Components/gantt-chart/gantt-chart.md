@@ -1,4 +1,4 @@
-# Gantt Chart Component
+# Gantt Chart
 
 ## Overview
 
@@ -86,9 +86,9 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
 
 ### Related articles
 
-[How to hide / show Gantt Chart on Design page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide componants on Pages")
+[How to hide / show Gantt Chart on Design page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide components on Pages")
 
-[How to hide / show Gantt Chart on Create Screen page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide componants on Pages")
+[How to hide / show Gantt Chart on Create Screen page?](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to show/Hide components on Pages")
 
 How to arrange Gantt Chart on the layout?
 

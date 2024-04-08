@@ -1,4 +1,4 @@
-# The Embedded Form component
+# Embedded Form
 
 ## Embedded Form component overview
 

@@ -3,7 +3,7 @@
 Rapid-Integrations powers Rapid Standard installations with dedicated functionality.
 In order to install Rapid-Integrations follow these steps to add the application to your tenant and site:
 
-1. With a user that has Admin privilidges, open [This Consent Link](https://login.microsoftonline.com/common/adminConsent?client_id=fb8147ed-7455-4f88-8ee2-04225009475d)
+1. With a user that has Admin privileges, open [This Consent Link](https://login.microsoftonline.com/common/adminConsent?client_id=fb8147ed-7455-4f88-8ee2-04225009475d)
 2. Consent to the application, this will register the application in your tenant
 3. Navigate to the [Entra Portal](https://portal.azure.com/)
 4. Open the Microsoft Entra ID > Enterprise Applications blade

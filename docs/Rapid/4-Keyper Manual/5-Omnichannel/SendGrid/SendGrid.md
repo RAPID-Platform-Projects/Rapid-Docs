@@ -8,7 +8,7 @@ This tutorial discusses how to setup SendGrid account and integrate it to a RAPI
 
 This integration requires us to perform the following steps:
 
-1\) Signup for a SendGrid Account.  
+1\) Sign-up for a SendGrid Account.  
 2\) Create SendGrid API Keys.  
 3\) Setup a new Sender in SendGrid.  
 4\) Adding Inbound Parse in SendGrid.  

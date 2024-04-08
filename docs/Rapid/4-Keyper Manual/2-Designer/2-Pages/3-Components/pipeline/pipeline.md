@@ -1,4 +1,4 @@
-# The Pipeline component
+# Pipeline
 
 ## Pipeline component overview
 

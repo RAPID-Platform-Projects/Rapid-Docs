@@ -21,7 +21,7 @@ Click on the Database Migrations table through the nav bar. Then once the Table 
 
 You will now be in the context of the Database Migration table in Explorer. You will notice a data table with only one item as the site has only recently been created.
 
-![Default Tables 03.png](./downloaded_image_1705285480083.png)D*atabase Migration Table - Explorer*
+![Default Tables 03.png](./downloaded_image_1705285480083.png)*Database Migration Table - Explorer*
 
 ## Dependencies
 

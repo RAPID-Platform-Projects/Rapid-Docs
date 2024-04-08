@@ -1,5 +1,4 @@
-# How to set a component to be visible / hidden on "Item Details" and "Create" screen
-
+# How to set a component to be visible / hidden
 
 This article is in reference to the "Details" and "Create Screen" screens as visible on the Design Tab of a Table in Designer.
 

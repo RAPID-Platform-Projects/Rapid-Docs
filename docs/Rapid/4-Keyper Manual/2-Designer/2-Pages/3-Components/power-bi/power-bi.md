@@ -1,4 +1,4 @@
-# The PowerBI Report component
+# PowerBI Report
 
 ## PowerBi Report component overview
 
@@ -45,7 +45,7 @@ Assuming that you have set up a Power BI workspace for your Rapid Site, let us g
         
       - **Select a report -** This is a dropdown field. As you click on this, a list of all the existing reports configured on the provisioned PowerBI workspace will appear. 
 
-        ![List of powerbi reports](<List of powerbi reports.png>)
+        ![List of PowerBI reports](<List of powerbi reports.png>)
                     
         You can select the desired report from this list and it will get configured on the Layout / Page.
       

@@ -2,7 +2,7 @@
 
 There may be occasions when you wish to set up components in a specific order.
 
-![An arrangment of components on a grid](<An arrangment of components on a grid.png>)
+![An arrangement of components on a grid](<An arrangment of components on a grid.png>)
 
 The position of the component can be an important aspect for improved assimilation.
 

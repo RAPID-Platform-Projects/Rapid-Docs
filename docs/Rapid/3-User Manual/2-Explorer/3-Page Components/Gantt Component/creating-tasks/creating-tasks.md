@@ -2,7 +2,7 @@
 
 A Gantt chart visually depicts the organisation of tasks across time.
 
-However, while analysing the sequence of tasks, there can be a need to create new tasks or sub-types of tasks (like phases or milestones). This can be easily achieved in Gantt Chart in RAPID Platform.
+However, while analyzing the sequence of tasks, there can be a need to create new tasks or sub-types of tasks (like phases or milestones). This can be easily achieved in Gantt Chart in RAPID Platform.
 
 ![New element Gantt.png](./downloaded_image_1705285593710.png)
 
