@@ -1,6 +1,6 @@
 # Common issues and troubleshooting
 
-### Editing the sidebar
+### Editing the Sidebar
 1.	Although the Coffee Machine appears in the sidebar, this does not match the other asset tables. It looks strange where it currently sits, at the bottom of the sidebar. Since we’re going to redesign the sidebar, we’ll need to go back into **Designer**.
 
 2. Use the documentation linked below to delete the menu button for **Coffee Machine Assets** from the sidebar:
@@ -9,11 +9,14 @@
     - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Menus/menu-button-configuration/how-to-crud-a-menu-item/" target="_blank">How to **delete** a Menu item</a>
 
 3. Return to **Explorer**.
-4. Open the **Assets** table from the sidebar. Notice that the other asset subtype tables (**IT Assets** and **Vehicle Assets**) are displayed as tabs along the tab strip at the top. Let's add our new table to this tab strip.
+4. Open the **Assets** table from the sidebar.
 
-    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/Layouts/list-of-available-layouts/#tab-strip" target="_blank">How to add a new tab to the Tab Strip</a>
+### Editing the Tab Strip
+Notice that the other asset subtype tables (**IT Assets** and **Vehicle Assets**) are displayed as tabs along the tab strip at the top. Let's add our new table to this tab strip.
 
-### Building the Create and Details Layout for a Table
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/Layouts/list-of-available-layouts/#tab-strip" target="_blank">How to add a new tab to the Tab Strip</a>
+
+### Building the Create Screen and Details Layout for a Table
 You might also notice that if we try to create a new Coffee Machine Asset, the Create sidebar is empty. We need to configure the layout of this section for the table to be able to accept new data.
 
 In this section, we will build a way to create new **Coffee Machine Asset** items, and edit their details.
