@@ -1,4 +1,4 @@
-const { AZURE_INDEX_API_KEY } = require("../../authCodes.json");
+const { AZURE_INDEX_API_KEY } = require("./authCodes.json");
 const fs = require("fs");
 const path = require("path");
 const { randomUUID } = require("crypto");
@@ -126,8 +126,8 @@ function generateIndexDocuments() {
 
   function parseUrlFromFilePath(str) {
     let returnStr = "";
-    const newStr = str?.split("doc\\")[1] ?? str?.split("docs/")[1];
-    const strParts = newStr.split("\\") ?? newStr.split("/");
+    const newStr = str?.split("docs\\")?.[1] ?? str?.split("docs/")?.[1];
+    const strParts = newStr?.split("\\") ?? newStr?.split("/");
 
     for (let i = 0; i < strParts.length; i++) {
       strParts[i] = strParts[i]?.replace(/^\d.*-/g, "");

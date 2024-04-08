@@ -30,11 +30,11 @@ $ npm run build
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-# Training
+## Training
 
 The training plugin allows us to present more directed tutorial like groups of documentation. 
 
-## File strucutre
+### File strucutre
 
 The training packs live in the `./training` folder in the root of the project. The packs displayed on the overview page reflect the structure of the folders and files inside `./training`;
 
@@ -93,12 +93,17 @@ To embed videos we can add an `<iframe />` directly into the markdown file with 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/Jt8bMFjSEd8?si=EuMNECVgOZA9bjSy" title="YouTube video player" width="750"></iframe>
 ```
 
-## Feedback
+### Feedback
 
 This plugin is still a work in progress and we want you, the training pack authors, to have a had in shaping it moving forward. If you have any questions or suggestions please reach out to Alex or Matt F. 
 
-## How to run the ai index generator
 
-Install ts-node
-npm i -g ts-node
-then npx ts-node ./generate-ai-indexs.ts
+## Updating the Support AI Index
+The Rapid Support AI is powered by an Azure searchable index. You can update the index with the current structure of the Docs using the `generate-ai-index` script.
+
+You will need the appropriate authority to execute this script.
+
+To run the script:
+
+1) Install ts-node: `npm i -g ts-node`
+2) then run the script with ts-node: `npx ts-node ./generate-ai-indexs.ts`
