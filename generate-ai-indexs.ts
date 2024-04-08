@@ -126,7 +126,7 @@ function generateIndexDocuments() {
 
   function parseUrlFromFilePath(str) {
     let returnStr = "";
-    const newStr = str?.split("doc\\") ?? str?.split("docs/")[1];
+    const newStr = str?.split("doc\\")[1] ?? str?.split("docs/")[1];
     const strParts = newStr.split("\\") ?? newStr.split("/");
 
     for (let i = 0; i < strParts.length; i++) {
