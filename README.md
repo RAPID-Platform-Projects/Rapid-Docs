@@ -96,3 +96,9 @@ To embed videos we can add an `<iframe />` directly into the markdown file with 
 ## Feedback
 
 This plugin is still a work in progress and we want you, the training pack authors, to have a had in shaping it moving forward. If you have any questions or suggestions please reach out to Alex or Matt F. 
+
+## How to run the ai index generator
+
+Install ts-node
+npm i -g ts-node
+then npx ts-node ./generate-ai-indexs.ts
