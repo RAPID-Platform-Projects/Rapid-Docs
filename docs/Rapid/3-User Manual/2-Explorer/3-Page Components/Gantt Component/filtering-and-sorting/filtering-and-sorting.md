@@ -1,4 +1,4 @@
-# How to view and order tasks based on Table Views in a Gantt Chart?
+# Filtering and Sorting Tasks
 
 A Gantt Chart presents visual representation of tasks based on data tables.
 

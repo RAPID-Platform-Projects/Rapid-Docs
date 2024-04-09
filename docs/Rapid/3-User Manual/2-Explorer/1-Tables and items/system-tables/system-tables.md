@@ -22,7 +22,7 @@ To create a new task from the default Task tab:
 
 ## Manualy completing a task
 
-In 
+To manually complete a task:
 
 1. In the Explorer experience, select click an item from an entity that you would have created a task for.
 2. In the Explorer view of an item, open the Tasks tab at the top of the page.

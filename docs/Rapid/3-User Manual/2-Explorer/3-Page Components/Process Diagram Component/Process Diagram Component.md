@@ -1,4 +1,4 @@
-# What is a Process Diagram component?
+# The Process Diagram Component
 
 As the name suggests, a Process Diagram component will display the Process Diagram on a page. If this component is added properly, it will display the relevant Process Diagram associated with the item on the page.
 
