@@ -100,3 +100,9 @@ However, if the *Embedded Files* component has <a href="https://rapiddocs.z8.web
 Note that the embedded files component can be configured by your system administrator so that multiple files can be attached simultaneously to the *Embedded Files* component.
 
 The also enables you to download, view, or remove each file separately. Instead of overwriting files, when a new file is uploaded to an *Embedded Files* component with **Multi-Mode** enabled, the component will instead upload additional documents.
+
+## Additional File Components
+Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>

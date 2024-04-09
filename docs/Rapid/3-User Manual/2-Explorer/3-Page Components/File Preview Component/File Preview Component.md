@@ -105,3 +105,9 @@ While arrow keys allow you to sequentially preview files, you can use the previe
 :::info[Please note]
 Here you can find File Preview component in different size and positions. This would appear as defined in Designer.
 :::
+
+## Additional File Components
+Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>

@@ -51,3 +51,10 @@ To email a file:
 3. The default email app will open allowing you to send an email with the file attached.
 
 ## Creating A Task with Attachments
+
+
+## Additional File Components
+Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
