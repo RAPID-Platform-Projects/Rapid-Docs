@@ -1,4 +1,4 @@
-# How to Hide / Show the Left Panel / Go Full Screen in Gantt Chart?
+# Full Screen View
 
 Gantt Chart in RAPID Platform display Task and Parent information in the Left Panel, along with the visual representation with bars across time.
 

@@ -1,4 +1,4 @@
-# What is a Policy Acknowledgement?
+# What is a Policy Acknowledgement
 
 When an employee is assigned a task to acknowledge, for example, the “Antibullying” and “Data Privacy” policies, this will create two “Policy Acknowledgement” items in the system. As the task automatically sends them an email to complete the initial status of the policy acknowledgement is “Sent”.
 

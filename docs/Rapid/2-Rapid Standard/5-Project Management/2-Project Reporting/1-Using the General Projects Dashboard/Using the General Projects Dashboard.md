@@ -1,4 +1,4 @@
-# Using the General Projects Dashboard
+# Using the Projects Dashboard
 
 ## Overview
 

@@ -1,4 +1,4 @@
-# How to change start date, duration and resource from left panel?
+# Editing Start and End Dates
 
 Sometimes it is convenient to modify the Start Date and Duration using numbers, rather than dragging bars over timeline.
 
