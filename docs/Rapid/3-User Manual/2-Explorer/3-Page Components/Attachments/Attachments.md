@@ -67,3 +67,9 @@ Note that you can view any files or folders attached to an item by clicking the 
 You can open the "Attachments" folder, to view the attachment files inside. Additionally, the **Files** tab allows you to view the files inside your organisation's SharePoint, change the folder they are located in, or preview the file in the preview pane on the right.
 
 ![A screenshot demonstrating how files from the Attachments component are displayed in the files tab of an item. The screenshot also indicates how to find the exact SharePoint file where an attachment is being stored.](<Attachments Sharepoint.png>)
+
+## Additional File Components
+Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>
