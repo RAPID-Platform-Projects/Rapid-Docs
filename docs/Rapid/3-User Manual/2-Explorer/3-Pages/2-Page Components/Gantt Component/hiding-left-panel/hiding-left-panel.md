@@ -29,13 +29,3 @@ The Gantt Chart can be viewed in Full Screen mode. The Full Screen mode allows y
 ![Exit full screen gantt.png](./downloaded_image_1705285668191.png)Please refer to the below GIF for illustration
 
 ![Full screen Gantt](full-screen.gif)
-
-## Related articles
-
-[**How to Zoom in and out the Gantt Chart timeline?**](../how-to-zoom-in-out-the-gantt-chart-timeline/how-to-zoom-in-out-the-gantt-chart-timeline.md "How to Zoom in / out the Gantt Chart timeline?")
-
-[**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
-
-[**How to view and order tasks based on *Table Views*?**](../filtering-and-sorting/filtering-and-sorting.md "How to view and order tasks based on Table views in a Gantt Chart?")
-
-[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")

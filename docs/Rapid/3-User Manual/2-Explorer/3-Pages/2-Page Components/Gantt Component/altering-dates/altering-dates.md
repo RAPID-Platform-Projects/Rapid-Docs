@@ -45,14 +45,4 @@ Please refer to the below GIF for illustration
 
 ![Resource from left](changing-resource.gif)
 
-**Please note:** Updating a resource does not have any impact on the visualization of the Task on the Chart with reference to timeline.
-
-## Related articles
-
-[**How to move tasks in time, extend start / end dates from the Gantt bars?**](../altering-dates/altering-dates.md "How to move tasks in time, extend start / end dates from the Gantt bars?")
-
-[**How to create and edit dependencies in a Gantt Chart?**](../how-to-create-and-edit-dependencies-in-a-gantt-chart/how-to-create-and-edit-dependencies-in-a-gantt-chart.md "How to create and edit dependencies in a Gantt Chart?")
-
-[**How to Auto-schedule tasks in Gantt Chart?**](../how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md "How to Auto-schedule tasks in Gantt Chart?")
-
-[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
+**Please note:** Updating a resource does not have any impact on the visualisation of the Task on the Chart with reference to timeline.

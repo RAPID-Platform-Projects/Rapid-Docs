@@ -44,13 +44,3 @@ Please refer to the below GIF for illustration.
 **Adding a new sub-type of task from Gantt Chart  
 
 ![New Task Gantt 2](new-task-2.gif)
-
-## Related articles
-
-[**How to view and order tasks based on *Table Views*?**](../altering-dates/altering-dates.md "How to view and order tasks based on Table views in a Gantt Chart?")
-
-[**How to open Task Details page from Gantt Chart?**](../how-to-open-task-item-profiles-from-gantt-chart/how-to-open-task-item-profiles-from-gantt-chart.md "How to open task item profiles from Gantt Chart?")
-
-[**How to Auto-schedule tasks in Gantt Chart?**](../how-to-auto-schedule-tasks-in-gantt-chart/how-to-auto-schedule-tasks-in-gantt-chart.md "How to Auto-schedule tasks in Gantt Chart?")
-
-[**How to interact with Gantt Chart component in Explorer with data?**](../1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md "How to interact with a Gantt Chart?")
