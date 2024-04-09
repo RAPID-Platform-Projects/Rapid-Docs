@@ -11,7 +11,7 @@ To configure the Document Storage of the item through the single page of an item
 
 ![File Browser 01.png](./downloaded_image_1705285491244.png)
 
-1. Follow the steps to configure the storage [here](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/file-browser/file-browser.md).
+1. Follow the steps to configure the storage [here](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/file-browser/file-browser.md).
 2. Once the Documentation Storage has been configured, users have the option to select where to place the items, either **Linked Item** or **This item**.
 
 ![File Browser 02.png](./downloaded_image_1705285492259.png)
@@ -55,6 +55,6 @@ To email a file:
 
 ## Additional File Components
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments">Attachments</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Embedded%20Files">Embedded Files</a>
