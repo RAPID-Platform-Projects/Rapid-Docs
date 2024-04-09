@@ -1,7 +1,7 @@
 ```
 title: Subqueries vs Calculated Columns
 ```
-# Accessing Calculated Columns and Subqueries in an SQL Query - Tables and Views: What is the difference?
+# Accessing Calculated Columns and Subqueries in an SQL Query - Tables and Views
 
 The first thing to note is that we have two column types that do calculations: “Computed Columns” and “Subqueries”
 

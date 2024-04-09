@@ -1,4 +1,4 @@
-# Generating an Assets, IT Assets, or Vehicles List PDF Report
+# Generating a PDF Report
 
 On the *Base Assets* list there is a feature that allows you to generate a PDF list of selected assets. This PDF list serves as a printer-friendly or email-friendly version of your asset list, which can be provided to a broker or used for stocktaking.
 
