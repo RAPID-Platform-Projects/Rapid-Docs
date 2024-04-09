@@ -169,4 +169,10 @@ Rename (selected) file, E-mail (selected) file, Delete file, open in SharePoint 
 The above description of the Pages is what you will see in most likely situation. However, Rapid Platform​ allows for full customisation of the Pages and hence it is possible that can see other components hosted on Pages.
 :::
 
-​
+​## Refreshing a Single Page
+
+To refresh a Single Page:
+
+1. In the Explorer Experience, navigate to an entity's list page that you wish to refresh.
+2. Select and click on an item.
+3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/linked-items/linked-items.md>) button, click the **Refresh** button.

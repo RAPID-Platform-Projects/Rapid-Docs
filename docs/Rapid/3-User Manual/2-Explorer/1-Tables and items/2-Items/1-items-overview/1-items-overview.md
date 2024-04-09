@@ -1,4 +1,4 @@
-# Items
+# Items Overview
 
 Items in Rapid represent a single row on a <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Tables%20and%20items/Tables/data-tables">Rapid Table</a>. They are made up of an arbitrary number of columns.
 
