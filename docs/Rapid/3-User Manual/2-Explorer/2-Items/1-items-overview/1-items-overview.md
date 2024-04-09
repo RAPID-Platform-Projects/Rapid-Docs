@@ -4,7 +4,7 @@ Items in Rapid represent a single row on a <a href="https://docs.rapidplatform.c
 
 ![A single item highlighted on a Rapid table](<a single item highlighted on a table.png>)
 
-A simple example of a rapid item is a Task, which exist on a default [system table](../1-Tables/1-viewing-data-using-tables.md), and thus exist on all rapid sites. You can access tasks by clicking on the 'Tasks' menu button in the Rapid sidebar
+A simple example of a rapid item is a Task, which exist on a default [system table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md>), and thus exist on all rapid sites. You can access tasks by clicking on the 'Tasks' menu button in the Rapid sidebar
 
 
 ## Columns

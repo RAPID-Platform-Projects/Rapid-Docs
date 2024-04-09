@@ -175,4 +175,4 @@ To refresh a Single Page:
 
 1. In the Explorer Experience, navigate to an entity's list page that you wish to refresh.
 2. Select and click on an item.
-3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/linked-items/linked-items.md>) button, click the **Refresh** button.
+3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>) button, click the **Refresh** button.

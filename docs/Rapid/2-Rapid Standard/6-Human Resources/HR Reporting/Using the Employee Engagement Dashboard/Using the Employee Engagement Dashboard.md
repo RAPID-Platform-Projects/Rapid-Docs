@@ -2,7 +2,7 @@
 
 ### Overview
 
-As part of the HR module, you are provided with an Out-Of-The-Box Employee Engagement Dashboard. This allows the HR team to quickly see the engagement and loyalty of staff by department based on the eNPS Score. (See [Employee Engagement Process](/docs/Rapid/2-Rapid%20Standard/6-Human%20Resources/employees/employee-engagement-process/employee-engagement-process.md) for a breakdown of the eNPS score and what it means).
+As part of the HR module, you are provided with an Out-Of-The-Box Employee Engagement Dashboard. This allows the HR team to quickly see the engagement and loyalty of staff by department based on the eNPS Score. (See [Employee Engagement Process](/docs/Rapid/2-Rapid Standard/6-Human Resources/Employees/employee-engagement-process/employee-engagement-process.md) for a breakdown of the eNPS score and what it means).
 
 ### How to Access the Employee Engagement Dashboard
 
