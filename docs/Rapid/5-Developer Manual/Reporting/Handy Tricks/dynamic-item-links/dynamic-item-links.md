@@ -13,6 +13,7 @@ When generating the link you can use the concatenation character Ampersand (&) t
 Here `ScalarTenant` and `ScalarSite` are Measures that have been produced from the following custom table
 
 Table : Settings
+
 Query : 
 ```SQL
 SELECT 
