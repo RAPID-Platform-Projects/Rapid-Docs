@@ -5,8 +5,8 @@
 
 2. Use the documentation linked below to delete the menu button for **Coffee Machine Assets** from the sidebar:
 
-    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Menus/" target="_blank">How to edit and navigate to menus in **Designer**</a>
-    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Menus/menu-button-configuration/how-to-crud-a-menu-item/" target="_blank">How to **delete** a Menu item</a>
+    - <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Menus/" target="_blank">How to edit and navigate to menus in **Designer**</a>
+    - <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Menus/menu-button-configuration/how-to-crud-a-menu-item/" target="_blank">How to **delete** a Menu item</a>
 
 3. Return to **Explorer**.
 4. Open the **Assets** table from the sidebar.
@@ -14,7 +14,7 @@
 ### Editing the Tab Strip
 Notice that the other asset subtype tables (**IT Assets** and **Vehicle Assets**) are displayed as tabs along the tab strip at the top. Let's add our new table to this tab strip.
 
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/Layouts/list-of-available-layouts/#tab-strip" target="_blank">How to add a new tab to the Tab Strip</a>
+- <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Pages/Layouts/list-of-available-layouts/#tab-strip" target="_blank">How to add a new tab to the Tab Strip</a>
 
 ### Building the Create Screen and Details Layout for a Table
 You might also notice that if we try to create a new Coffee Machine Asset, the Create sidebar is empty. We need to configure the layout of this section for the table to be able to accept new data.
@@ -24,7 +24,7 @@ In this section, we will build a way to create new **Coffee Machine Asset** item
 1. Open the **Coffee Machine Assets** table in **Designer**, and then navigate to the **Design** tab.
 2. Read the following documentation
 
-    - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/all-about-pages-in-designer#design-tab-of-table-in-designer" target="_blank">How to create pages in **Designer**</a>
+    - <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Pages/all-about-pages-in-designer#design-tab-of-table-in-designer" target="_blank">How to create pages in **Designer**</a>
 
 3. Add the columns to the form that you believe are relevant for tracking a Coffee Machine. Once you are satifisied with the columns selected, click **Add to Form**.
 
