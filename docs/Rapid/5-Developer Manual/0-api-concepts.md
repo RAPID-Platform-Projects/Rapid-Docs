@@ -669,6 +669,71 @@ Returns the page layout structure for the given page
 GET /pages/Explorer/{pageName}
 ```
 
+### Dependencies
+Dependencies can be created just like any item, except they have totally custom columns.
+
+| Column | Type | Description |
+| --- | --- | --- |
+| `source_id` | Number | Task ID that is the parent of the dependency (The source of the arrow) |
+| `target_id` | Number | Task ID that is the child of the dependency (The arrow points to this task) |
+| `type` | String | Enumeration of which direction the dependency is operating (see below) |
+| `gap` | Number | The number of whole days lag/lead for the dependency |
+
+Dependencies come in four flavours defined by type
+- 0 : Finish to Start (the 'standard' dependency)
+- 1 : Start to Start
+- 2 : Finish to Finish
+- 3 : Start to Finish
+
+Dependencies are only supported on Tasks and sub-types of Tasks. When fetching a Task item the list of dependencies that task is the source of will be presented in the `dependencies` key. For example when fetching Task 4 with a single dependency:
+```JSON
+{
+    "id": 4,
+    "dependencies": [
+        {
+            "id": 3,
+            "source_id": 4,
+            "target_id": 3,
+            "type": "2"
+        }
+    ],
+   "__metadata": {
+        "type": "Tasks"
+    }
+}
+```
+
+#### Create a new Dependency
+
+`POST /lists/Dependencies/All/items`
+
+```JSON
+{
+  "source_id": 4,
+  "target_id": 3,
+  "type": "0",
+  "gap": 2
+}
+```
+`gap` is optional
+
+#### Update and existing Dependency
+
+`PUT /lists/Dependencies/All/items/{dependency id}`
+
+```JSON
+{
+  "source_id": 4,
+  "target_id": 3,
+  "type": "1",
+  "gap": 0
+}
+```
+When updating, all columns are optional
+
+#### Delete an existing Dependency
+`DELETE /lists/Dependencies/All/items/{dependency id}`
+
 ### Edit Form
 
 Updates a form configuration
@@ -1152,3 +1217,4 @@ Notifications are generated with a type corresponding to these values
 | Reminder | 1 |
 | Announcement | 2 |
 | Mention | 3 |
+
