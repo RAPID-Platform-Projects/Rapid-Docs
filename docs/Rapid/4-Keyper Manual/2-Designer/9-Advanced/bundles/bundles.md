@@ -217,6 +217,6 @@ Template Bundle JSON
 
 ```
 
-## **Related articles**
+## Related articles
 
 [**ADVANCED Bundle Installation**](/docs/Rapid/4-Keyper%20Manual/2-Designer/9-Advanced/bundles/bundles.md)

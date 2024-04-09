@@ -4,11 +4,11 @@
 
 **Case 1:**
 
-Imagine a Project Manager is going through a Project Task Item in the Tasks Table. On the subject item, he/she feels the need to add a Phase to the Project Task in the Phases Table. Therefore, the ability to ***create a new item in another table from within the subject table item.***
+Imagine a Project Manager is going through a Project Task Item in the Tasks Table. On the subject item, he/she feels the need to add a Phase to the Project Task in the Phases Table. Therefore, the ability to **create a new item in another table from within the subject table item.**
 
 **Case 2:**
 
-Imagine a Sales executive is working with a Leads Table. Leads is a [Sub-type of Tasks](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") table. Now the job of the Sales Executive is to call the lead, tell them about the offering, and collect their email id. Email id is a field in the Contacts Table. Therefore, the ability to ***update an existing item in another table from within the subject table item.***
+Imagine a Sales executive is working with a Leads Table. Leads is a [Sub-type of Tasks](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") table. Now the job of the Sales Executive is to call the lead, tell them about the offering, and collect their email id. Email id is a field in the Contacts Table. Therefore, the ability to **update an existing item in another table from within the subject table item.**
 
 In both the above cases, Embedded Form component can be used.
 
@@ -16,7 +16,9 @@ This is different from the [Form component](/docs/Rapid/4-Keyper%20Manual/2-Desi
 
 An embedded form can be perceived as a window to an item of a table other than the subject table.
 
-**Please note: an embedded form can be only used for Tasks Table and Sub-type of Tasks Table(s).**
+:::note[Please note:]
+An embedded form can be only used for Tasks Table and Sub-type of Tasks Table(s).
+:::
 
 ## How to set up Embedded Form component in Designer
 
@@ -33,9 +35,10 @@ An embedded form can be perceived as a window to an item of a table other than t
 
     ![Display toggle](<../Display toggle.png>)
 
-**Please note:**
+:::note[Please note:]
 
 - In Rapid Platform, you can configure the Embedded Form via a Workflow Diagram. A workflow diagram has a specific section under User Task titled - "Form Details". You can learn more about it here. **&lt;&lt;PROVIDE LINK TO WORKFLOW PAGE&gt;&gt; 
+:::
 
     ![Embedded form in workflow configuration](<Embedded form in workflow configuration.png>)
 

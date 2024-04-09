@@ -56,7 +56,7 @@ The Accounts module includes the ability to create and manage bills. Along with 
 
         ![Edit Bill Fields as Required](edit-bill-detials-as-required.png)
 
-4. Once you have finished editing press **Save** or ****Save and Close****
+4. Once you have finished editing press **Save** or **Save and Close**
 
      ![Press Save or Save and Close](bill-press-save.png)
 
@@ -74,6 +74,6 @@ However, if you need to delete a Bill due to incorrect data entry or a duplicate
 
     ![Select Bills](select-bill-wish-to-delete.png)
 
-3. Press ****Delete X Bills**** 
+3. Press **Delete X Bills**
 
     ![Delete Bills](delete-x-bills.png)

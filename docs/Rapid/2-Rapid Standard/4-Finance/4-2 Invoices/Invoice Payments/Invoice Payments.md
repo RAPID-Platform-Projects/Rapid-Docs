@@ -56,7 +56,7 @@ The Accounts module can add payments against an invoice or bill. This allows you
 
         ![Edit Invoice Fields as Required](edit-invoice-fields-as-required2.png)
 
-4. Once you have finished editing press **Save** or ****Save and Close****
+4. Once you have finished editing press **Save** or **Save and Close**
 
      ![Press Save or Save and Close](press-save-or-save-and-close-edit.png)
 
@@ -74,6 +74,6 @@ However, if you need to delete an Invoice due to incorrect data entry or a dupli
 
     ![Select Invoices](select-invoices.png)
 
-3. Press ****Delete X Invoices**** 
+3. Press **Delete X Invoices**
 
     ![Delete Invoices](delete-invoices.png)

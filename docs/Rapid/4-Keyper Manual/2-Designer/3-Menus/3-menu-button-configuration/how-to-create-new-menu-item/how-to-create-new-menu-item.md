@@ -2,7 +2,7 @@
 
 One of the most fundamental actions in this discussion is - how to create a new menu item?
 
-Creating a new Menu item is same through all functions - [***Sidebars***](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar") or ***[Command bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")***. There are some default menu items already prepared by the system. You can create new items in the tree.
+Creating a new Menu item is same through all functions - [**Sidebars**](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar") or **[Command bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")**. There are some default menu items already prepared by the system. You can create new items in the tree.
 
 ![New menu page](<New menu item page.png>)
 

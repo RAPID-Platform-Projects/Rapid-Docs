@@ -36,13 +36,13 @@ Let us try to simulate Link Inheritance with this information.
 
 **Let**
 
-- ***Table A*** = Tasks
-- ***Table B*** = Projects
-- ***Feature to view across tables*** = Notes
+- Table A = Tasks
+- Table B = Projects
+- Feature to view across tables = Notes
 
 **Objective**
 
-**To view Notes created in an item of Tasks in linked item of Project Risks.** The Tasks item can be updated by a team-mate assigned to the subject task. Let us assume that the Task item ***Notes*** are updated with Risks to the Project. These notes should be visible in the corresponding Project Risks Table item. The Project Manager can view the Project Risks Table and hence will take cognisance of the Risks updated in the notes.
+To view Notes created in an item of Tasks in linked item of Project Risks. The Tasks item can be updated by a team-mate assigned to the subject task. Let us assume that the Task item **Notes** are updated with Risks to the Project. These notes should be visible in the corresponding Project Risks Table item. The Project Manager can view the Project Risks Table and hence will take cognisance of the Risks updated in the notes.
 
 1. Navigate to the Notes Table in Designer 
     1. Navigate to Designer &gt; Tables &gt; All Tables 
@@ -57,7 +57,7 @@ Let us try to simulate Link Inheritance with this information.
 
       ![Open the notes table](OpenTheNotesTable.png)
       
-2. Tick the Checkbox in Link Inheritance against ***Project*** Table   
+2. Tick the Checkbox in Link Inheritance against **Project** Table   
       
     **Please note -** Check against the name of the table where you want to view the update. If you want a two way communication, then check against both the table names. This means updates in Table A's item will be visible in Table B's item and vice versa.  
       
@@ -74,7 +74,7 @@ Let us try to simulate Link Inheritance with this information.
   
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/lc4u9t1_T9I?si=SgWACCr35BnQz81F" title="YouTube video player" width="750"></iframe>
 
-The above simulation has been illustrated for viewing ***Notes*** created on one item and automatically visible in another linked item of other table. Similarly, you can configure other tables as well like Task Assignation records, Contacts being created etc. Link inheritance is an abstract system that ultimately allows the creation of a new link between the item being created and some third item *linked* to your creation item context.
+The above simulation has been illustrated for viewing **Notes** created on one item and automatically visible in another linked item of other table. Similarly, you can configure other tables as well like Task Assignation records, Contacts being created etc. Link inheritance is an abstract system that ultimately allows the creation of a new link between the item being created and some third item *linked* to your creation item context.
 
 [How to create items from a linked table?](../creating-items-within-items/creating-items-within-items.md "How to create items from a linked table?")
 

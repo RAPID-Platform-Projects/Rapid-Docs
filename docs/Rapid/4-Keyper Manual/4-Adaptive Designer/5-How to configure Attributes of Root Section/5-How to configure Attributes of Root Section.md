@@ -1,4 +1,4 @@
-# COnfiguring the Attributes of Root Section
+# Configuring the Attributes of Root Section
 
 To configure the Root section properties, please consider the below points:
 
@@ -53,7 +53,7 @@ It is worth observing that both Justify children and Align children have the sam
 
   |  | e. **Justify children** | f. **Align children** | 
   |---- | -------- | ------ |
-  | **Definition** | This will justify the children ***along*** the line of the axis of the layout direction. Therefore, if the layout direction is selected as vertical, the justify will arrange children top-down, while if layout direction is selected as horizontal, the justify will arrange children left-right. | This will align the children ***across*** the line of the axis of the layout. Therefore, if the layout direction is selected as vertical, the align will arrange children left-right, while if layout direction is selected as horizontal, the justify will arrange children top-down. |
+  | **Definition** | This will justify the children **along** the line of the axis of the layout direction. Therefore, if the layout direction is selected as vertical, the justify will arrange children top-down, while if layout direction is selected as horizontal, the justify will arrange children left-right. | This will align the children **across** the line of the axis of the layout. Therefore, if the layout direction is selected as vertical, the align will arrange children left-right, while if layout direction is selected as horizontal, the justify will arrange children top-down. |
   | **Layout direction - Vertical** | ![Image showing justify vertical](vertical-justify.png) | ![Image showing align vertical](vertical-align.png) |
   | **Layout direction - Horizontal** | ![Image showing justify horizontal](horizontal-justify.png) | ![Image showing align horizontal](horizontal-align.png) |
 
@@ -73,7 +73,7 @@ It is worth observing that both Justify children and Align children have the sam
 
     h. **Show description** - if this is set to "Yes", then the description text will appear below the label header.
 
-    i. **Fill container** - if this is set to "Yes", the subject element fills up the space of the parent container. ***This does not have any effect for the root section, as it has no parent.***
+    i. **Fill container** - if this is set to "Yes", the subject element fills up the space of the parent container. **This does not have any effect for the root section, as it has no parent.**
 
     j. **Description** - this is a text field where you can type the description of the form / header. 
 

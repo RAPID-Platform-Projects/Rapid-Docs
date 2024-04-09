@@ -8,7 +8,7 @@ Now it is time to create the infrastructure to help Sales Team to record and vie
 2) Configure the page which will display the details of the recorded Lead(s).
 
   
-  ***HINT***
+  **HINT**
 
 You can create the Item Details as shown below:
 ![Image showing sample of Item Details page](Details.png)

@@ -74,14 +74,14 @@ To create dependencies among tasks, please consider the following points:
 4. A dotted line will appear on the screen in the direction of the pointer movement.
 5. Drag and drop the line to the desired circle of another task.
 
-**Please note:**
-
+:::note[Please note:]
 - The task from where you start dragging the white circle becomes TASK A
 - The task to which you drag and drop dependency line is considered as TASK B
 - The system will calibrate the type of dependency based on the relationship established
 - You can establish dependencies among any pair including tasks and task parents in the Gantt Chart
 - The Gantt Chart is automatically saved as the dependency is established (does not require saving)
 - RAPID Platform automatically optimizes the Gantt Chart based on the nature of dependencies
+:::
 
 Please refer to the below GIF for illustration
 

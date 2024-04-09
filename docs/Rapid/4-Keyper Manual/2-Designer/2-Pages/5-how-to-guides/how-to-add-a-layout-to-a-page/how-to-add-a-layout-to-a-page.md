@@ -6,11 +6,11 @@ It is easy to add a Layout to a Page. Please consider the following scenarios:
 
 ## Adding a Layout to a new Page created in Page Manager (Designer Sidebar)
 
-1. When you create a new Page using the Page Manager, the empty page will display an option to ***Add a layout*** as shown below
+1. When you create a new Page using the Page Manager, the empty page will display an option to **Add a layout** as shown below
 
     ![Blank page with no layout](<Blank page with no layout.png>)
 
-2. As you click on the "***Add a layout***" option, a panel to "***Add a Component***" will open at the right side of the screen.
+2. As you click on the "**Add a layout**" option, a panel to "**Add a Component**" will open at the right side of the screen.
 
     ![Add component panel](<Add component panel.png>)
     Observe the bottom of the list shows the Layouts section. This depicts the list of the layouts offered by Rapid Platform.
@@ -27,7 +27,7 @@ You can [**create a new page**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages
 
 ![Blank page in tabstrip](<Blank page in tabstrip.png>)
 
-Notice the "***Add a layout***" option. As you click on it, you can follow the same steps (step 2 onwards) as discussed above.
+Notice the "**Add a layout**" option. As you click on it, you can follow the same steps (step 2 onwards) as discussed above.
 
 ## Adding a Layout within an existing layout on a page
 
@@ -37,7 +37,7 @@ There can be situations where you have an existing page, which already has a lay
 
 This is similar to [**adding a component to the layout**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?").
 
-As you click on the "+" icon, the "***Add a Component***" panel will open. You can follow from Point 2 as discussed earlier in this article.
+As you click on the "+" icon, the "**Add a Component**" panel will open. You can follow from Point 2 as discussed earlier in this article.
 
 ## Related articles
 

@@ -4,7 +4,7 @@ Have you been a victim of losing changes made to a page, just because you naviga
 
 **The Save Intention field saves us from that frustration!**
 
-Across all the menus whether[ ***Sidebar***](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar") or the ***[command bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")***, the option to Save Intention is common.
+Across all the menus whether[ **Sidebar**](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar") or the **[command bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")**, the option to Save Intention is common.
 
 ![Save intention configuration location](<Save Intention config location.png>)
 
@@ -16,7 +16,7 @@ This is a dropdown field with three choices:
 
 ![Save intention options](<Save intention options.png>)
 
-Save Intention field is particularly useful for [***command bars.***](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")
+Save Intention field is particularly useful for [**command bars.**](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar> "Command bar")
 
 **Imagine you are working with data on a table or an item, and after making some modifications, you pressed the menu button. Before the menu button triggers its defined action, should the changes made to the data (on table or item) be saved?**
 

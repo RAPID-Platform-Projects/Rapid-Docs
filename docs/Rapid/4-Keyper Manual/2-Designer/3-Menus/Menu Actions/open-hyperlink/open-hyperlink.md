@@ -1,10 +1,10 @@
 # Open hyperlink
 
-This is configurable on both the ***[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)*** and ***[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)*** menu types.
+This is configurable on both the **[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)** and **[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)** menu types.
 
 ## Overview
 
-Open Hyperlink is among the most used On-Click Actions for a [***Menu button***](</docs/Rapid/3-User Manual/glossary/glossary.md#menu> "Menu"). As the name suggests, it will configure the subject Menu button so that when a user clicks the same, one will be directed to a defined URL.
+Open Hyperlink is among the most used On-Click Actions for a [**Menu button**](</docs/Rapid/3-User Manual/glossary/glossary.md#menu> "Menu"). As the name suggests, it will configure the subject Menu button so that when a user clicks the same, one will be directed to a defined URL.
 
 The URL can be anything from a Public Form, to even a website address.
 

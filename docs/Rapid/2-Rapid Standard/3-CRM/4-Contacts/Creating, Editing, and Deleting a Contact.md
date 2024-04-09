@@ -38,7 +38,7 @@ Contacts can be created without an associated lead. This is done in the same way
 
     ![Edit the relevent details as needed](<Screenshot 2024-03-13 at 9.03.52 am.png>)
 
-4. Press **Save** or ****Save and Close**** ![Save or save and close](<Save or save and close.png>)
+4. Press **Save** or **Save and Close** ![Save or save and close](<Save or save and close.png>)
 
 ### Deleting Contacts
 

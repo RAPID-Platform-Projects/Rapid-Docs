@@ -34,7 +34,8 @@ The provided cards are as follows:
     - Invoices Total QTD - Displays the sum of all invoice totals for the current quarter to date.
     - Invoice Total MTD - Displays the sum of all invoice totals for the current month to date.
 
-**Note**: If you change the financial year from the current one to a past one, each card will display the sum of bill/invoice totals for the last period of that financial year. For instance, if the current date is November of the 2024 financial year and you slice the report by the 2023 financial year, the Month to date cards will show the total for June (the last month) of the 2023 financial year.
+:::[Note]: If you change the financial year from the current one to a past one, each card will display the sum of bill/invoice totals for the last period of that financial year. For instance, if the current date is November of the 2024 financial year and you slice the report by the 2023 financial year, the Month to date cards will show the total for June (the last month) of the 2023 financial year.
+:::
 
 ### Charts
 

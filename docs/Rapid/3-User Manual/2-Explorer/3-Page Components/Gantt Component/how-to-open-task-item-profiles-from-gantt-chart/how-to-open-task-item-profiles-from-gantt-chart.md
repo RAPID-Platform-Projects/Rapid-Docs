@@ -16,7 +16,8 @@ There is an alternative way to open Task Details page from Gantt Chart interface
 
 ![Details from left panel](lBcvSNgJuBEVC19v-details-from-left-panel-480p-230914.gif)
 
-**Please note:** Any changes made to the Task Details page will be immediately effective in Gantt Chart upon saving.
+:::[Please note:] Any changes made to the Task Details page will be immediately effective in Gantt Chart upon saving.
+:::
 
 ## Related articles
 

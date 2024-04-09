@@ -16,7 +16,7 @@ Therefore to display a list of items, you need to:
 - You can [add the Data Table component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/data-table/data-table.md "How to add a component to a Layout / Page?"). The Data Table component is present on the Item Group (Plural) Details breakpoint [by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?"). It is set to the subject Table and All View. 
 
     ![Data table in component list](<Data table in component list.png>)
-- You can Add the Data Table component on both ***Singular Item Details breakpoint Pages*** as well as ***Plural Item Group Details Breakpoint***.
+- You can Add the Data Table component on both **Singular Item Details breakpoint Pages** as well as **Plural Item Group Details Breakpoint**.
 - If the Data Table component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
 - You can set the [visibility of Data Table on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").  
 
@@ -57,9 +57,10 @@ Therefore to display a list of items, you need to:
 
     ![Saving the configuration](<Saving the configuration.png>)
 
-**Please note:**
+:::note[Please note:]
 
 - The first option in the list of Table Views is a blank option. If you select the same, the system selects the "All" View.
+:::
 
     ![Blank default views default](<Blank default views default.png>)
 - The Data Table component can be set up for both Individual Item level (Singular) or Item group level (Plural). However, for Singular Item Details, it will show only the linked items in the list. For example: Let us assume you are on a Data Table - Projects. You have added a Data Table component on the Singular Item Details Page. You have configured it to Table - Project Meetings. In Explorer, when you select a Project Item and open its Details Page, only the Project Meetings linked to the select Project Item will be shown.

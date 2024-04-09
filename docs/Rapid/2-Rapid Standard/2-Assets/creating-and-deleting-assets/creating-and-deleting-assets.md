@@ -92,4 +92,4 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 
     ![Delete the asset from the details page](<Delete the asset from the details page.png>)
 
-**Note:** When deleting assets from the base *Assets List*, their entries on the subtype tables (i.e., *IT Assets* or *Vehicles*) will also be deleted, and vice versa.
+:::[Note:] When deleting assets from the base *Assets List*, their entries on the subtype tables (i.e., *IT Assets* or *Vehicles*) will also be deleted, and vice versa.:::

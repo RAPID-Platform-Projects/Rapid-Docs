@@ -10,11 +10,11 @@
 
     ![A screenshot that indicates how to create a new Department. A red box surrounds the "New Department" button. This button is at the top of the "Departments" page.](<Create a new department.png>)
 
-3. Enter a **Name** and ****Status**** 
+3. Enter a **Name** and **Status** 
 
     ![A screenshot that indicates where the Department fields titled "Name" and "Status" are located when creating a new Department item](<Fill in item creation form.png>)
 
-4. Select **Create** or ****Create and Open**** 
+4. Select **Create** or **Create and Open** 
 
     *Create or create and open image
 
@@ -32,7 +32,7 @@
 
     ![A screenshot that depicts how to edit Department items in Rapid Standard. The screenshot is annotated with a red box, which indicates the fields that can be edited.](<Update an item.png>)
 
-4. Press **Save** or ****Save and Close**** 
+4. Press **Save** or **Save and Close** 
 
 ### Deleting Departments
 

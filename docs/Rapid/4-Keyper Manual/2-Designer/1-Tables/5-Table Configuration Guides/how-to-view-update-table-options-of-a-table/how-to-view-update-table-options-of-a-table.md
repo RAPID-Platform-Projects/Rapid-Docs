@@ -85,7 +85,7 @@ The Document Storage and other options relates to storage and organisation of fi
 
 ![Document Storage options](DocumentStorageOptions.png)
 
-#### **Why are some options ghosted (inactive) while some are active?**
+#### Why are some options ghosted (inactive) while some are active?
 
 There can be a maximum of four inactive options in the list. The inactive options become active when their activating conditions are met.
 
@@ -109,7 +109,7 @@ We shall discuss each of these options in more detail; but it is important to no
 
 The first requirement for enabling the ghosted options is to define a Document Storage folder. So let us discuss this first.
 
-#### **Document Storage**
+#### Document Storage
 
 This is a dropdown field and allows you to select the Document Storage in SharePoint where the folder to store files for items created under subject table will be stored.
 
@@ -134,7 +134,7 @@ If the Document Storage isn't configured, then the system will not allow you upl
 
 ![Non Configured document storage example](UconfiguredDocumentStorage.png)
 
-#### **Options**
+#### Options
 
 Let us sequentially look at all the options
 
@@ -163,7 +163,7 @@ You can observe the following points:
 
 With this background, let us discuss each of the options.
 
-##### **1. Keep folder names in sync with Table item titles:** 
+##### 1. Keep folder names in sync with Table item titles:
 
 **Relates to:** This option relates to the naming of the Item Folder in SharePoint Document Storage.
 
@@ -180,7 +180,7 @@ Refer to the below image for illustration.
 
 ![Example item with folder](ExmapleItemWithFolder.png)
 
-##### **2. Always create a SharePoint folder when items are created**
+##### 2. Always create a SharePoint folder when items are created
 
 **Relates to:** This option relates to the timing of creation of Item Folder in SharePoint Document Storage.
 
@@ -188,7 +188,7 @@ You would have seen this field while creating the table. Here, in the Options Ta
 
 ![Always create a sharepoint folder](AlwaysCreateASharePointFolder.png)
 
-**Please note, this option is enabled only when a Document Storage has been defined.**
+:::tip[Please note:] This option is enabled only when a Document Storage has been defined.:::
 
 **Case:** When option - **Always create a SharePoint folder when items are created** - is **CHECKED OFF**
 
@@ -208,7 +208,7 @@ When this option is CHECKED ON, the system creates a Folder as soon as an item i
 
 When you want to reduce the clutter and do not want a folder for every item, then you can turn it OFF (uncheck this field).
 
-##### **3. Automatically create a folder on item, if folder does not exist**
+##### 3. Automatically create a folder on item, if folder does not exist
 
 **Relates to:** This option relates to the timing of creation of Item Folder in SharePoint Document Storage (for an existing item).
 
@@ -224,7 +224,7 @@ Please refer to below video for illustration
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/vei7DramEG0?si=XI_H3PN3FqEuQtdx" title="YouTube video player" width="750"></iframe>
 
-##### **4. Enable manual file uploads**
+##### 4. Enable manual file uploads
 
 When this field is checked, it will open another option to select a user. As you click on "+ Add User", it will open the list of all users and you can check mark the ones that are NOT enabled to upload files manually to the item of the table.
 
@@ -242,11 +242,11 @@ Please review the below video for illustration.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/NDdQ84A_V8c?si=Oqinoklo6kUPlOO7" title="YouTube video player" width="750"></iframe>
 
-##### **5. Copy linked items' SharePoint folder when creating Table item, if possible**
+##### 5. Copy linked items' SharePoint folder when creating Table item, if possible
 
 Imagine you have a linked item from some other table (refer [linked items](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "Link Inheritance") for more clarity) to this table's item. For instance - you can have an Invoices table and a Payments table. You have linked payments against invoice items.
 
-When this option is checked (ON), it would reference the linked item's SharePoint folder in your subject item's folder. In case, the linked item does not have any files or does not have a SharePoint drive defined, then the system would not be able to copy it. Hence the phrase - ***if possible.***
+When this option is checked (ON), it would reference the linked item's SharePoint folder in your subject item's folder. In case, the linked item does not have any files or does not have a SharePoint drive defined, then the system would not be able to copy it. Hence the phrase - **if possible.**
 
 To illustrate the effect of this option, we first need to understand how set up items between linked tables.
 
@@ -273,9 +273,9 @@ Then the invoice files will be visible in Payment item's File tab.
 
 This happens because the Payment item refers to the SharePoint folder of the linked item from Invoices.
 
-##### **6. Only allow creation of child items of this item**
+##### 6. Only allow creation of child items of this item
 
-**Please note -** This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.
+:::tip[Please note -] This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.:::
 
 When this option is checked on - it means - the system will disable creation of parent items and only the inherited tables can created.
 
@@ -285,7 +285,7 @@ When this option is checked off - it means - the system will allow creation of p
 
 This can be useful when we do not want creation of new parent items as the inherited tables might be covering information in a more comprehensive manner.
 
-##### **7. Disable delete buttons**
+##### 7. Disable delete buttons
 
 When this option is checked on, you cannot delete an item from the subject table. The delete item button is ghosted.
 
@@ -293,7 +293,7 @@ When this option is checked on, you cannot delete an item from the subject table
 
 This can be useful when you have an important table, items of which are being referenced for many other important functions. You would not want your users to delete an item of the table by mistake, and hence you can check (ON) this option.
 
-#### **Item Folder Template**
+#### Item Folder Template
 
 Imagine you have a Projects table. You always create a Project (item) with, say, three sub-folders and two checklists in it. Instead of having to create it with each item (make a folder and put those sub-folders and checklist every-time), you can define an Item Folder Template. This template in SharePoint will be copied every-time an item is created.
 
@@ -301,7 +301,7 @@ As you click on this field, it will open an Item Folder Template Selection windo
 
 ![Item Folder Templates](ItemFolderTemplates.png)
 
-#### **Undo changes**
+#### Undo changes
 
 There may be instances where you make changes to the Options unintentionally or wish to revert changes made. The system provides you with the feature to UNDO (unsaved) changes.
 
@@ -312,7 +312,7 @@ Once the changes are SAVED, the UNDO button will be ghosted.
 #####   
 
 
-#### **Create Sub-Type**
+#### Create Sub-Type
 
 It is easy to create child tables from within the parent table. If you want your subject table to become the parent and wish to derive column structure and other features into a child table, you can use the "Create Sub-Type" button.
 

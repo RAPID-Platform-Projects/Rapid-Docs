@@ -116,7 +116,7 @@ Rapid Platform allows for several different types of On-Click Actions that can b
 
 ## Menu item
 
-A Menu item is an item added in the menus list. This item is configured to give a [***menu button***](#menu "Menu") desired properties.
+A Menu item is an item added in the menus list. This item is configured to give a [**menu button**](#menu "Menu") desired properties.
 
 Each of the below shown in the tree is an example of menu item.
 
@@ -173,7 +173,7 @@ It is easy to identify which table is a Sub-Type of which other table in Designe
 
 ![Tables with sub types marked](<Tables with sub types marked.png>)
 
-For a particular table, we can easily identify which columns have been inherited from parent and which have been created afterwards. In the columns tab for a table in Designer, you can observe the last column ***Base Type.*** For the columns inherited from parent, this column provides the name of the column. For newly created columns, this field will display "*Not inherited*".
+For a particular table, we can easily identify which columns have been inherited from parent and which have been created afterwards. In the columns tab for a table in Designer, you can observe the last column **Base Type.** For the columns inherited from parent, this column provides the name of the column. For newly created columns, this field will display "*Not inherited*".
 
 ![Tables with base tables marked](<Tables with base tables marked.png>)
 
@@ -205,12 +205,12 @@ Layouts serve three main purposes:
 
 ![Anatomy of a page](<Anatomy of a page.png>)
 
-Please note :
-
+:::tip[Please Note:]
 - Every component needs a page where it can be configured.
 - A page can have multiple layouts.
 - Each layout can have multiple components.
 - There are a total of 19 component options that are possible in Rapid Platform.
+:::
 
 ![Add component dialog](<Add component dialog.png>)
 

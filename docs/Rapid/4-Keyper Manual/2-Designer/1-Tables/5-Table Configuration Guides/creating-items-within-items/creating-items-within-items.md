@@ -32,8 +32,10 @@ Follow the steps below for how to add a table in the context of another table:
 
     ![image-1702339505429.png](./downloaded_image_1705285631561.png)
 
-5. Select the **Table** dropdown and select the table you want nested in this table (In this illustration it is the Payments table)  
-    NOTE: After selecting the table this should automatically fill in the Page Name and the Tab name. If not fill in the page name with exact table name and fill in the tab name with what you want to appear on the tab when viewing the item in Explorer  
+5. Select the **Table** dropdown and select the table you want nested in this table (In this illustration it is the Payments table)
+
+    :::tip[NOTE:] After selecting the table this should automatically fill in the Page Name and the Tab name. If not fill in the page name with exact table name and fill in the tab name with what you want to appear on the tab when viewing the item in Explorer  
+    :::
 
     ![image-1702339600192.png](./downloaded_image_1705285632574.png)
 
@@ -41,7 +43,7 @@ Follow the steps below for how to add a table in the context of another table:
 
     ![image-1702339807859.png](./downloaded_image_1705285633593.png)
 
-7. Click ****Launch in Explorer**** 
+7. Click **Launch in Explorer** 
 
     ![image-1702339843053.png](./downloaded_image_1705285634605.png)
 
@@ -49,12 +51,12 @@ Follow the steps below for how to add a table in the context of another table:
 
     ![image-1702339938343.png](./downloaded_image_1705285635618.png)
 
-NOTE: If there is a lookup from the nested table to the table you created the tab, the items will be linked through the lookup. If there is no lookup between the tables a universal link will be created.
+:::tip[NOTE:] If there is a lookup from the nested table to the table you created the tab, the items will be linked through the lookup. If there is no lookup between the tables a universal link will be created. :::
 
 Please refer the below video for illustration.
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/7H9LDBt9UvI?si=s1RBkFDKkpvwdrKy" title="YouTube video player" width="750"></iframe>
 
-##### **Related articles**
+##### Related articles
 
 [How to link existing items of two different tables? (Use of Link Inheritance)](../how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "How to setup Link Inheritance?")

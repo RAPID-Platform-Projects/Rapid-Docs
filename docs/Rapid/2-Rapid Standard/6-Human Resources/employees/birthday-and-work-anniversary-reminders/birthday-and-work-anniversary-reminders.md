@@ -30,6 +30,6 @@ As a manager, you will receive birthday and work anniversary reminders from any 
 
     ![A screenshot demonstrating how to turn off Birthday Reminders and Work Anniversary Reminders for employees. The screenshot is annotated with a red box, which depicts the user setting the boolean fields to false.](<Enabling anniversy reminders.png>)
 
-4. Press **Save** or ****Save and Close**** 
+4. Press **Save** or **Save and Close** 
 
     ![A screenshot that depicts how to save an employee item. A "Save" button with a grey floppy disc icon appears in the tab strip. Beside it is a "Save and Close" button.](<Saving the employee.png>)

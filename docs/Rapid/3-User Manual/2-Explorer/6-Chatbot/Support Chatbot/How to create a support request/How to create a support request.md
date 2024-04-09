@@ -56,7 +56,7 @@ The email will display the subject of your support request, appended with a syst
 :::
 
 
-***How to enquire about a support request?***
+**How to enquire about a support request?**
 
 Users can enquire about their support requests (submitted in past), from the chatbot. 
 

@@ -14,7 +14,7 @@ Opportunities can be created in two ways. The first is through the Lead conversi
 
     ![Navigate to Opportunities](<Screenshot 2024-03-13 at 8.19.22 am.png>)
 
-2. Select ****New Opportunity**** 
+2. Select **New Opportunity** 
 
     ![Create new Opportinity](<Create new Opportunity.png>)
 

@@ -14,7 +14,7 @@ Imagine you are the Sales Manager. You want to always keep a sight of the number
 
 In such scenarios, you can configure the Counter component.
 
-The Counter Component can give you the ***count of items*** present in a defined [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Board%20Component/Board%20Component.md#changing--creating--editing-view "Table Views"). Therefore, for Case 1 above, you would need to :
+The Counter Component can give you the **count of items** present in a defined [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Board%20Component/Board%20Component.md#changing--creating--editing-view "Table Views"). Therefore, for Case 1 above, you would need to :
 
 1. Create a Table View on Projects Table that is configured to show "Active" Projects.
 2. [Add a Counter component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?") to the desired Page
@@ -44,7 +44,7 @@ The Counter Component can give you the ***count of items*** present in a defined
 
     ![Save the configuration](<Save the configuration.png>)
 
-**Please note:**
+:::note[Please note:]
 
 - The first option in the list of Table Views is a blank option. If you select the same, the system selects the "All" View.
 
@@ -53,6 +53,7 @@ The Counter Component can give you the ***count of items*** present in a defined
 - Do not forget to hit the "Save" button for the changes in the Page to take effect. 
  
     ![Save the page](<Save the page.png>)
+    :::
     
 ## Related articles
 

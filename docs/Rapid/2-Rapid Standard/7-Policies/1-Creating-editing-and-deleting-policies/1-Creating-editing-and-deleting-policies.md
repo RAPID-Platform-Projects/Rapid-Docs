@@ -14,7 +14,7 @@
 
     ![image-1702522867459.png](./downloaded_image_1705285318446.png)
 
-4. Press **Create and Open**** 
+4. Press **Create and Open** 
 
     ![image-1702522896903.png](./downloaded_image_1705285319457.png)
 
@@ -38,7 +38,7 @@
 
     ![image-1702523793222.png](./downloaded_image_1705285323515.png)
 
-4. Press **Save** or ****Save and Close**** 
+4. Press **Save** or **Save and Close** 
 
     ![image-1702523821862.png](./downloaded_image_1705285324532.png)
 

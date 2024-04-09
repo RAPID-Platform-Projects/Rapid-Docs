@@ -22,12 +22,13 @@ Attachments are visible in the [Tasks experience](</docs/Rapid/3-User Manual/glo
 
     ![Display toggle](<../Display toggle.png>)
 
-**Please note:**
+:::note[Please note:]
 
 - The option to Edit preferences (pencil icon) is not present in this component.
 - The files uploaded in the Attachments component can be previewed using the [File Preview component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-preview/file-preview.md "What is a File Preview component on a Layout / Page?").
 - To effectively upload files in the Attachments component, it is important to have the [Document Storage (SharePoint Folder) configured in the Options Tab of the Table in Designer.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md)
 - The Attachments component, although can be added to both Individual Item Level and Group Item List Level, logically it is meaningful to have it at the Individual Item Level.
+:::
 
 ## Related articles
 

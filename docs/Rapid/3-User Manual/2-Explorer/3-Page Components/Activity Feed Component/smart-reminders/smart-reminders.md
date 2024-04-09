@@ -4,11 +4,11 @@ When adding smart reminders there are a large number of cases it can pick up. Th
 
 Smart reminders are created out of sentences but need to follow a fairly defined structure.
 
-**Detector** *Date* ***Time***
+**Detector** *Date* **Time**
 
 Smart reminders support multiple reminders within the one note, thus the following note will generate two reminders.
 
-“Phoned Paul and **touched base** about the progress of the payment *yesterday*. Need to **chase up** the bank about payment this *tomorrow* at ***4pm***”
+“Phoned Paul and **touched base** about the progress of the payment *yesterday*. Need to **chase up** the bank about payment this *tomorrow* at **4pm**”
 
 Reminders created (today is 24/1/19)
 

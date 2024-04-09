@@ -2,7 +2,8 @@
 
 Data tables hold sensitive data and many a times, operations on tables should be permissible by authorised people only.
 
-**Note** : The permissions set on a table are the default permissions created items will have. These operations does not retroactively update permissions on existing items.
+:::note[Note:] The permissions set on a table are the default permissions created items will have. These operations does not retroactively update permissions on existing items.
+:::
 
 ## Adding User or Group Permissions to a Table
 

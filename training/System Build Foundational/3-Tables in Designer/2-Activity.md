@@ -6,7 +6,7 @@ The Sales Manager of your organisation has requested for some infrastructure to 
 
 He needs to capture details like lead's name, email, Phone number, status of the lead (to track whether the lead is a prospect / opportunity/ requires nurturing/ has become a client/ lost ), estimated value of business, Lead manager, Interests of lead.
 
-***HINT***
+**HINT**
 
 Create a Table titled - **Lead Details**
 

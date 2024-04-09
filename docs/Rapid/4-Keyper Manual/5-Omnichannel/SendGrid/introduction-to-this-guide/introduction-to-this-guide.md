@@ -20,18 +20,18 @@ For point 4 - [Dynamic Templates Guide](https://docs.rapidplatform.com/books/dyn
 
 1\) Sending a static email from RAPID Workflow engine using SendGrid Template
 
-- ***(Use case - Sending a Newsletter)***
+- **(Use case - Sending a Newsletter)**
 
 2\) Sending an email from RAPID Workflow using Dynamic Template Substitution from Data Table values
 
-- ***(Use case - Sending an acknowledgement email to a Lead who registered a query)***
+- **(Use case - Sending an acknowledgement email to a Lead who registered a query)**
 
 3\) Sending a Static email from Explorer Menu option button using SendGrid
 
-- ***(Use Case - Sending a generic rejection letter to candidates (on the fly) who do not qualify for the job)***
+- **(Use Case - Sending a generic rejection letter to candidates (on the fly) who do not qualify for the job)**
 
 4\) Sending an email from Explorer Menu option using Substitution from Data Table values
 
-- ***(Use Case - Sending a personalised email to successful candidates with date for next round of interview)***
+- **(Use Case - Sending a personalised email to successful candidates with date for next round of interview)**
 
 5\) Configuring SendGrid options from a USER TASK in a RAPID Workflow.

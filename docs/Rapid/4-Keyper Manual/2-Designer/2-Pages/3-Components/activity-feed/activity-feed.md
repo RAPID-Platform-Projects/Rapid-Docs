@@ -32,10 +32,11 @@ The activity feed component shows a timeline of added notes and previous events,
 
 ![Error message with no events](<Error message with no events.png>)
 
-**Please note:**
+:::note[Please note:]
 
-- **Activity Feed component would be relevant only on Singular - Item Details.**
-- **Setting Activity Feed Timeline Events visibility configures the default state of the component. In Explorer, you will get options to toggle visibility of the Activity Feed Data.**
+- Activity Feed component would be relevant only on Singular - Item Details.
+- Setting Activity Feed Timeline Events visibility configures the default state of the component. In Explorer, you will get options to toggle visibility of the Activity Feed Data.
+:::
 
 ## Related articles
 

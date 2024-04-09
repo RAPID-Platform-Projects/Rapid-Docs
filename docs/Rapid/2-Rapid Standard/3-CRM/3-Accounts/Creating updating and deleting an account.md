@@ -20,7 +20,7 @@ Accounts can be created via two methods. The first is through the Lead conversio
 
     ![Fill out create Account form](<Fill out create Account form.png>)
 
-4. Press **Create** or ****Create and Open**** 
+4. Press **Create** or **Create and Open** 
 
 
 ### How to edit an Account
