@@ -1,4 +1,4 @@
-# How to enquire about a support request?
+# How to enquire about a support request
 
 Users can enquire about their <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#support-request" target="_blank">support request</a>  (submitted in past), from the chatbot. 
 

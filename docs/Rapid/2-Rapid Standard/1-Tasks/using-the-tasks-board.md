@@ -1,4 +1,5 @@
 # Using the Tasks Board
+
 ## Overview
 The task board is a great way to visualise the status of each of the project’s sub-tasks. It also provides the user the ability to easily move tasks between each of the status fields which will automatically update the status of that task. Moreover, the “view” can be changed to show tasks on the task board that are only your tasks or “All” tasks depending if you want visibility of your responsibilities or the tasks from the project as a whole.
 

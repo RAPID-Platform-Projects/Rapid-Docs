@@ -1,4 +1,4 @@
-# Assigning an employee / employees to complete a policy
+# Requesting Policy Acceptance
 
 ### Overview
 

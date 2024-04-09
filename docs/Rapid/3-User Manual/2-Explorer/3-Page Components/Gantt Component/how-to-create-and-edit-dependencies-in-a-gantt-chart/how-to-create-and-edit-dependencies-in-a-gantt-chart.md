@@ -1,4 +1,4 @@
-# How to create and edit dependencies in a Gantt Chart
+# Dependencies
 
 A Gantt Chart provides a visual representation of tasks in a project. However, in real life scenarios, these tasks are often related to each other.
 

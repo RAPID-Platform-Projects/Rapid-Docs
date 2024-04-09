@@ -1,4 +1,4 @@
-# What is the 'Save Intention' option in a Menu setup
+# Save Intention
 
 Have you been a victim of losing changes made to a page, just because you navigated away from it without hitting the Save button?
 
