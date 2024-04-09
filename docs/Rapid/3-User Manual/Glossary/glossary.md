@@ -429,3 +429,26 @@ Based on the nature of the elements selected, configuration categories will appe
 ## Element Picker (Adaptive Documents)
 
 
+
+## Fetch on load (Adaptive Documents)
+
+If the Fetch on load is YES, 
+AND
+if the item(s) have an id, 
+THEN 
+the system will go to the site and update all the fields for that item when the Adaptive Document page loads. 
+
+This will overwrite prefill data, state data and default data (if it exists).
+
+Consider the following conditions:
+
+1. **Fetch on Load = Yes AND Item has an ID field**  
+  System will fetch the most up-to-date version of the source.
+
+2. **Fetch on Load = Yes  AND Item does not have an ID field**  
+  System has nothing to fetch from the source, hence the form will load is as per the form creator's provided values (via default, state and/or prefill)
+
+3. **Fetch on Load = No**  
+  System will load the form as configured by the form creator. (via default, state and/or prefill)
+
+Therefore, Fetch on Load will not have any effect if the item does not have an ID field.
