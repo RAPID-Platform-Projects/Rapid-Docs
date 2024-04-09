@@ -1,7 +1,7 @@
 # Items
 
-Items in Rapid represent a single row on a [Rapid Table](../data-tables/data-tables.md) they are made up of an arbitrary number of columns. 
 
+Items in Rapid represent a single row on a <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Tables%20and%20items/Tables/data-tables">Rapid Table</a>. They are made up of an arbitrary number of columns.
 
 ![A single item highlighted on a Rapid table](<a single item highlighted on a table.png>)
 
