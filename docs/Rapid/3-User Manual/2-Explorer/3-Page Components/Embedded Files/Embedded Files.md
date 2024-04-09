@@ -15,7 +15,7 @@ The component can be configured to appear on the details page of an item. When c
 
 Note the component has the following attributes:
 
-| Attribute | Description |
+| *Attribute* | Description |
 | --- | --- |
 | *Label* | If configured by your system administrator, an *Embedded File* component will provide a label for the expected file that will be uploaded into the component. In the example above, the expected file is a "Policy" document.|
 | *Attachment Area* | This section allows you to click and open a file using your computer's file browser, or to drag-and-drop a file from your computer onto the field. |
@@ -40,19 +40,15 @@ When a file is uploaded to the *Embedded Files* component, the component's appea
 
 Note the component will now have the following attributes and functionality:
 
-| Attribute | Fuctionality | Screenshot |
+| *Attribute* | Fuctionality | Screenshot |
 | --- | --- | --- |
-| Icon | Rapid Platform will display the icons of common filetypes that are uploaded to the *Embedded Files* component. | 
+| *Icon* | Rapid Platform will display the icons of common filetypes that are uploaded to the *Embedded Files* component. | ![A screenshot that is annotated with a red box to show the location of an icon in the Embedded Files page component. The icon is at the far left of the component, and is a word document icon in this example.](<Embedded Files Page Uploaded Icon.png>) |
+| *File Name* | This is the name of the embedded file. The name is rendered as a hyperlink, and clicking on the link will open the document in a new tab. | ![A screenshot that is annotated with a red box to show the location of the file name in the Embedded Files page component. The icon is to the right of the icon, and reads "Policy.docx" this example.](<Embedded Files Page Uploaded Open.png>) |
+| *Download Button* | This button allows you to download the embedded file to your computer. | ![A screenshot that is annotated with a red box to show the location of the file name in the Embedded Files page component. The icon at the far right of the component, and has an icon that resembles an arrow descending from a cloud.](<Embedded Files Page Uploaded Download.png>) |
+| *Delete Button* | This button allows you to delete the embedded file from the component, and from your site's Sharepoint. | ![A screenshot that is annotated with a red box to show the location of the file name in the Embedded Files page component. The icon at the far right of the component, and has an icon that resembles an X.](<Embedded Files Page Uploaded Remove.png>) |
 
 ### The File Preview Component
 If an item's page is also configured with the *File Preview Component*, then a preview of the *Embedded File* will appear in the preview pane. This is will be most apparent when visiting the **Files** Tab when inspecting an item. You can learn more by visiting the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">Files Preview Component</a> page.
-
-### Downloading an Embedded File
-
-
-### Opening an Embedded File's Containing Folder
-
-### Deleting Files
 
 ### Overwriting Files
 When the *Embedded Files* component is configured to only allow one file to be uploaded, uploading any additional files to a component will "overwrite" the file that is currently stored in the *Embedded Files* component. This means the original file will be deleted, and the new file will replace it.
