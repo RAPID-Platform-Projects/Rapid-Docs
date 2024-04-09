@@ -12,7 +12,7 @@ When generating the link you can use the concatenation character Ampersand (&) t
 
 Here `ScalarTenant` and `ScalarSite` are Measures that have been produced from the following custom table
 
-Table : Settings
+**Table** : Settings
 
 Query : 
 ```SQL
@@ -23,8 +23,8 @@ SELECT
 
 ![Produced Settings Table](SettingsTable.png)
 
-`ScalarTenant` DAX : `ScalarTenant = MAXX(Settings, Settings[Tenant])`
-`ScalarSite` DAX : `ScalarSite = MAXX(Settings, Settings[Site])`
+- `ScalarTenant` DAX : `ScalarTenant = MAXX(Settings, Settings[Tenant])`
+- `ScalarSite` DAX : `ScalarSite = MAXX(Settings, Settings[Site])`
 
 Here the `MAXX` aggregation function is used to cast the one row table string value to a scalar value for the measure.
 
