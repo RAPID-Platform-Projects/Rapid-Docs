@@ -1,4 +1,4 @@
-# How to create a new task and sub-types of task from Gantt Chart
+# Creating Tasks on a Gantt Chart
 
 A Gantt chart visually depicts the organisation of tasks across time.
 

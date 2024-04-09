@@ -1,4 +1,4 @@
-# How to access Designer?
+# How to access Designer
 
 **Welcome to Designer -** This is your space to create your business database [**tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") and organize the Rapid Platform according to your business needs.
 

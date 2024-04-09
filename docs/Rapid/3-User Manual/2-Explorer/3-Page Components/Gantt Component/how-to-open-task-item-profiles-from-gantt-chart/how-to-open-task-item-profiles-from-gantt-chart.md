@@ -1,4 +1,4 @@
-# How to open task item profiles from Gantt Chart?
+# Opening Tasks
 
 While Gantt Chart offers a great visual representation of all tasks associated to a data table with reference to time; there may be a need to view the details of a particular task.
 

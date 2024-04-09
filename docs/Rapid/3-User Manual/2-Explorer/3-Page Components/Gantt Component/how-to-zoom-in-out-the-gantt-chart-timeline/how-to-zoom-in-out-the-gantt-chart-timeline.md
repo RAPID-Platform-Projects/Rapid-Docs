@@ -1,4 +1,4 @@
-# How to Zoom in / out the Gantt Chart timeline?
+# Zooming In / Out
 
 A Gantt Chart is a visual representation of various tasks across time. Therefore, the scale of time becomes an important parameter of how we view our Gantt Charts.
 

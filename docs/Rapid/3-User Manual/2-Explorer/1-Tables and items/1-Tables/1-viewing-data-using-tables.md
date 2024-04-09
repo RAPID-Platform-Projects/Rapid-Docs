@@ -1,4 +1,5 @@
 # Viewing Data Using Tables
+
 ## Tables Display Data
 Data Tables are the main method of viewing data in Rapid. A data table is a page component used for viewing large amounts of data and is the simplest way of conveying a lot of information. To make the data more readable there are a couple key features in Explorer. These include; the quick filter, rule based filter, column filter and row sort.
 

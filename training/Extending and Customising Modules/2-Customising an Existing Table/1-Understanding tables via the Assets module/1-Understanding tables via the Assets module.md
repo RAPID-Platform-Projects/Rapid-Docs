@@ -43,7 +43,7 @@ Now, let’s click on the columns tab at the top of the page, to see what types 
 
 4.	We can see that the **Assets** table contains information such as the *Model* of an asset, its *Age*, any *Bills* that are attached to it, and the *Employee* responsible. We can see that the *Name* field is written in bold, which shows that it is title column.
 
-> <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Tables/all-about-tables-in-designer/" target="_blank">Click here</a> to learn more about viewing and editing columns in Designer. This doc also goes into detail about what a Title Column is.
+> <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/all-about-tables-in-designer/" target="_blank">Click here</a> to learn more about viewing and editing columns in Designer. This doc also goes into detail about what a Title Column is.
 
 ## Summary and Explanation
 
