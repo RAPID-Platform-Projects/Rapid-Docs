@@ -1,4 +1,5 @@
 # Creating, Editing, and Deleting Requests
+
 ## Creating a Request via the Adaptive Form
 Requests can be created using the adaptive form. This form can be distributed through your website, emails, via QR code, or whichever method suits your organisation.
 1.	Navigate to **Support** > **Request** form

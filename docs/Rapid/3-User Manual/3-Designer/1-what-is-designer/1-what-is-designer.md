@@ -1,4 +1,4 @@
-# What is Designer?
+# Introduction to Designer
 
 Databases are the backbone of all modern information systems. Business events generate data. Efficient processing of data can shape successful business operations. However, the data can be any size and complexity!
 

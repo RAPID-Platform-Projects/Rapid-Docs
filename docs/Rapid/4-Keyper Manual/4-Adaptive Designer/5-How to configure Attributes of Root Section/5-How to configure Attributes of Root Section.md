@@ -1,4 +1,4 @@
-# How to configure Attributes of Root Section?
+# COnfiguring the Attributes of Root Section
 
 To configure the Root section properties, please consider the below points:
 
