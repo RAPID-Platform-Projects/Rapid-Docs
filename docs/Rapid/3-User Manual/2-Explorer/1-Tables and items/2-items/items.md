@@ -1,11 +1,11 @@
 # Items
 
-Items in Rapid represent a single row on a [Rapid Table](../data-tables/data-tables.md) they are made up of an arbitrary number of columns. 
+Items in Rapid represent a single row on a [Rapid Table](../1-Tables/1-viewing-data-using-tables.md) they are made up of an arbitrary number of columns. 
 
 
 ![A single item highlighted on a Rapid table](<a single item highlighted on a table.png>)
 
-A simple example of a rapid item is a Task, which exist on a default [system table](../system-tables/system-tables.md), and thus exist on all rapid sites. You can access tasks by clicking on the 'Tasks' menu button in the Rapid sidebar
+A simple example of a rapid item is a Task, which exist on a default [system table](../1-Tables/1-viewing-data-using-tables.md), and thus exist on all rapid sites. You can access tasks by clicking on the 'Tasks' menu button in the Rapid sidebar
 
 
 ## Columns
