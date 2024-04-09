@@ -1,4 +1,5 @@
 # Attachments
+
 Files may be attached to any item in Rapid, using the Attachments page component. For example, you may wish to:
 - Upload a .PDF invoice to a project
 - Attach a .DOCX purchase request to an asset

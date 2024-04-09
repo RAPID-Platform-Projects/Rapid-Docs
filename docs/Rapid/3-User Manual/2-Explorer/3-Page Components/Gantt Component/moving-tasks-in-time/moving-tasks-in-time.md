@@ -1,6 +1,6 @@
-# How to move tasks in time, extend start / end dates from the Gantt bars
+# Adjusting Start, End and Due Dates
 
-The Gantt Chart in RAPID Platform is not just an excellent visualization tool, rather an efficient management tool as well. Using the Gantt Chart interface you can easily modify tasks with reference to time.
+The Gantt Chart in RAPID Platform is not just an excellent visualization tool, but an efficient management tool as well. Using the Gantt Chart interface you can easily modify tasks with reference to time.
 
 ## Dragging a task on timeline
 
