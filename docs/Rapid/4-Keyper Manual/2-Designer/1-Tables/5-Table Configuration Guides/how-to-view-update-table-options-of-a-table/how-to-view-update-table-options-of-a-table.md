@@ -1,4 +1,4 @@
-# How to view / update table options of an existing table in Designer
+# How to view / update table options in Designer
 
 You can view and update table options for an existing table.
 

@@ -1,6 +1,10 @@
 # Items
 
+<<<<<<< HEAD:docs/Rapid/3-User Manual/2-Explorer/1-Tables and items/2-items/items.md
 Items in Rapid represent a single row on a [Rapid Table](../1-Tables/1-viewing-data-using-tables.md) they are made up of an arbitrary number of columns. 
+=======
+Items in Rapid represent a single row on a [Rapid Table](../data-tables/1-data-tables.md) they are made up of an arbitrary number of columns. 
+>>>>>>> 8690bab81576292c3bbf873f33ed4e09ebcbaa51:docs/Rapid/3-User Manual/2-Explorer/1-Tables and items/items/items.md
 
 
 ![A single item highlighted on a Rapid table](<a single item highlighted on a table.png>)

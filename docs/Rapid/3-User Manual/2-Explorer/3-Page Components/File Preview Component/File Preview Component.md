@@ -1,4 +1,4 @@
-## What is a File Preview component?
+# The File Preview component
 
 As the name suggests, a File Preview component provides an area on the Page where the Preview of a File is visible.
 

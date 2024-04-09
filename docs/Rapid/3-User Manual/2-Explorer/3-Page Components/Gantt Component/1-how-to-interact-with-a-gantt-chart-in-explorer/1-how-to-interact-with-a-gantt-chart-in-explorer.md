@@ -1,4 +1,4 @@
-# How to interact with a Gantt Chart in Explorer?
+# Basic Gantt interactions
 
 ## Introduction
 

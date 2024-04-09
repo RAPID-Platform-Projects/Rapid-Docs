@@ -1,15 +1,14 @@
 # Sending a dynamic email from a Workflow Service Task
 
-##### Objective:
+## Objective:
 
-  
 Create an application where:
 
   
 1\) A lead can enter details like **name**, **email** and **query** about the product.  
 2\) The system should be able to send an acknowledgement to the lead addressing the lead by name and show the query message.
 
-##### Please follow the below steps to achieve the above objective.
+#### Please follow the below steps to achieve the above objective.
 
 ![d1.1.png](./downloaded_image_1705285956226.png)
 
