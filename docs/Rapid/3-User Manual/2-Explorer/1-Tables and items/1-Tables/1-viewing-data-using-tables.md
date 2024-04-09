@@ -13,7 +13,7 @@ The data of each item is split into columns. We can see that each item in this *
 ![A screenshot that shows how data tables display items. Each item is broken up into columns, so that similar data types of items can be compared easily. The screenshot is annotated with red boxes, and a red text label that states "tables display items, and divide items into columns".](<Data Table Columns.png>)
 
 ### Item Icons
-Each item in a table begins with an item icon. This icon represents all of the items in the table. This icon is also present beside the "New" button at the top of the table, and will appear next to the table's name in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary#sidebar" target="_blank">Sidebar</a>.
+Each item in a table begins with an item icon. This icon represents all of the items in the table. This icon is also present beside the "New" button at the top of the table, and will appear next to the table's name in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary#sidebar" target="_blank">Sidebar</a>.
 
 You can click on the icon beside a table item, and this will navigate you to the item's page.
 
@@ -70,9 +70,9 @@ If you would like to undo a quick filter and view all of the items again, there 
 ## Data Tables can be Refreshed
 If the data in a table is updated, the table will need to be refreshed in order for that data to be visible in the table. Refreshing the entire page, as mentioned earlier, is not desirable as you may need to reauthenticate, which will take time.
 
-Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a data table, without leaving the page. The *Inline Refresh* is located in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary#command-bar" target="_blank">Command Bar</a>, and has an icon that resembles a clockwise arrow.
+Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a data table, without leaving the page. The *Inline Refresh* is located in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary#command-bar" target="_blank">Command Bar</a>, and has an icon that resembles a clockwise arrow.
 
 ![A screenshot that shows what the inline refresh button looks like. The screenshot is annotated with a red box. The inline refresh button is a clockwise arrow.](<Data Table Inline Refresh.png>)
 
 ## Additional Information
-You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User Manual/glossary#data-table" target="_blank">visit the glossary</a> to learn more about data tables and their basic terminology.
+You can <a href="https://docs.rapidplatform.com/docs/Rapid/User Manual/glossary#data-table" target="_blank">visit the glossary</a> to learn more about data tables and their basic terminology.

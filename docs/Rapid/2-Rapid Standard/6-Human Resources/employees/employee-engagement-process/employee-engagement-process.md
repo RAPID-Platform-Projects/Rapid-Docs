@@ -29,4 +29,4 @@ This will send an email with a link to a questionnaire, for each selected employ
 1. "Select your department." (Employees are required to select which department they are from this helps to produce a eNPS score by department and the organisation as a whole).
 2. "On a scale of 0 to 10, how likely are you to recommend this company as a good place to work to your friends or family." (This is used to calculate the eNPS score).
 
-Visit [Using the Employee Engagement Dashboard](<../../HR Reporting/Using the Employee Engagement Dashboard/Using the Employee Engagement Dashboard.md>) for an explanation on how to view the aggregated results of the questionnaires.
+Visit <a href="http://docs.rapidplatform.com/docs/Rapid/Rapid%20Standard/Human%20Resources/HR%20Reporting/Using%20the%20Employee%20Engagement%20Dashboard">Using the Employee Engagement Dashboard</a> for an explanation on how to view the aggregated results of the questionnaires.

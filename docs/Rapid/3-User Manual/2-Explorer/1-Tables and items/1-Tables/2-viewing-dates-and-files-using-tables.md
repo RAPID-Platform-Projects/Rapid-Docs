@@ -10,7 +10,7 @@ Alternatively, you can change a date column so that it displays a description of
 
 To enable relative dates: 
 
-1. Press the **Edit View** button, located on the right-hand side of the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary#command-bar">Command Bar</a>.
+1. Press the **Edit View** button, located on the right-hand side of the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary#command-bar" target="_blank">Command Bar</a>.
 
 ![A screenshot that shows the location of the "Edit View" button. It is a button on the far right-hand side of the Command Bar, and resembles a Table with a Cog in the corner.](<Data Table View Editor Button.png>)
 
@@ -48,4 +48,4 @@ If an expected embedded file has been uploaded, it will appear with a checkmark 
 
 Note that if a file has been embedded, you can click on the embedded file's name and open the embedded file. This will open the attached file in a new browser tab.
 
-![Alt text](<Data Table Embedded Files Dialogue Box 3.png>)
+![A screenshot that shows how a file that has been uploaded appears in the embedded files description box, and can be clicked on by selecting the file name label that appears.](<Data Table Embedded Files Dialogue Box 3.png>)
