@@ -387,27 +387,29 @@ A support request is a unit communication between the system user and the system
 
 Users can also use support requests for submit bugs or improvement requests. 
 
-## Adaptive Document Canvas
+## Adaptive Documents
+
+### Adaptive Document Canvas
 ![Image showing Adaptive Document Canvas](<Adaptive Document Canvas.png>)
 
 The Adaptive Document Canvas is the interface which allows you to create, open, edit and configure elements of an Adaptive Document. 
 
-## Document Structure Panel / Tree of Elements (Adaptive Documents)
+### Document Structure Panel / Tree of Elements
 ![Image showing Document Structure Panel](<Document structure panel.png>)
 
 This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area-adaptive-documents" target="_blank">**Composition area**</a>
 
-## Composition Area (Adaptive Documents)
+### Composition Area
 ![Image showing Composition Area](<Composition Area.png>)
 
 This is the center portion of the Adaptive Document Canvas <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#adaptive-document-canvas" target="_blank">**Adaptive Document Canvas**</a>. Here you can add, select and delete elements, and also perceive how various elements will appear visually. Please note this is different from Preview.
 
-## Element Configuration Panel (Adaptive Documents)
+### Element Configuration Panel
 ![Image showing Element Configuration Panel](<Element configuration panel.png>)
 
 Element configuration panel appears towards the right of the Composition Area INSERT LINK. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-categories-adaptive-documents" target="_blank">**configuration categories**</a>.
 
-## Element Configuration Categories (Adaptive Documents)
+### Element Configuration Categories
 ![Image showing Element Configuration Categories](<Element configuration categories.png>)
 
 The configuration categories appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>. Categories include:
@@ -426,6 +428,25 @@ f. Choice - To define the choices that will appear in a dropdown element. (pleas
 
 Based on the nature of the elements selected, configuration categories will appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>
 
-## Element Picker (Adaptive Documents)
+### Element Picker
+
+The Element Picker enables you to select which component to add to your document.
 
 
+### Fetch on load
+
+The Fetch on Load flag for a connection controls if data is updated from the site. This ensures that data presented is always up to date for the User.
+Fetch on load can overwrite values from the documents default values, state values and prefill values. 
+
+Fetch on load will only try to get data for an item if it has an ID. This still allows for the creation via default/state/prefill of blank items to be created.
+
+Consider the following conditions:
+
+1. **Fetch on Load = Yes AND Item has an ID field**  
+  System will fetch the most up-to-date version of the source.
+
+2. **Fetch on Load = Yes AND Item does not have an ID field**  
+  System has nothing to fetch from the source, hence the form will load is as per the form creator's provided values (via default, state and/or prefill)
+
+3. **Fetch on Load = No**  
+  System will load the form as configured by the form creator. (via default, state and/or prefill)
