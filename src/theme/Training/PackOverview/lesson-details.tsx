@@ -10,13 +10,14 @@ interface ILessonDetailsProps {
 export default function LessonDetails(props: ILessonDetailsProps) {
   const [open, setOpen] = useState(false);
 
-  const toggleOpen = () => {
+  const toggleOpen = (event) => {
+    event.preventDefault();
     setOpen(!open);
   }
 
   return (
-    <details open={open} onClick={toggleOpen} className={"LessonDetails"} >
-      <summary className="LessonTitle" >
+    <details open={open} className={"LessonDetails"} >
+      <summary onClick={toggleOpen} className="LessonTitle" >
         {props.lesson.title}
       </summary>
       <div className="PagesContainer" >
