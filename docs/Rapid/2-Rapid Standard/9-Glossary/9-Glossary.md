@@ -30,7 +30,7 @@ A "contact" typically refers to a person with whom you or your business have som
 
 ### CRM
 
-CRM stands for Customer Relationship Management. It refers to a strategy, software, or system that businesses use to manage interactions and relationships with current and potential customers. The goal of CRM is to improve customer satisfaction, retain existing customers, and drive sales growth by organizing and automating customer interactions, sales, marketing, and customer service processes.#### Lead
+CRM stands for Customer Relationship Management. It refers to a strategy, software, or system that businesses use to manage interactions and relationships with current and potential customers. The goal of CRM is to improve customer satisfaction, retain existing customers, and drive sales growth by organizing and automating customer interactions, sales, marketing, and customer service processes.
 
 ### Department
 
