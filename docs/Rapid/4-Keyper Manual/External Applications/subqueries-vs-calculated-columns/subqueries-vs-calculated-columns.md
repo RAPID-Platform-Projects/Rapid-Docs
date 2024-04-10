@@ -1,21 +1,15 @@
 # Subquery vs Calculated
 
-## Accessing Calculated Columns and Subqueries in an SQL Query - Tables and Views: What is the difference?
+## Accessing Calculated Columns and Subqueries in an SQL Query: What is the difference?
 
-The first thing to note is that we have two column types that do calculations: “Computed Columns” and “Subqueries”
+There are two different columns that can perform calculations: Computed and Subqueries
 
-Computed columns are used to perform math or combine data using only information from the table that the column is on. This is great for doing simple math and concatenations. Such as “Profit” = “Sales Price” – “Revenue”. When creating an SQL query, these columns WILL appear when accessing the table directly.
+Computed columns are used to perform math or combine data using only information from the table that the column is on. This is great for doing simple math and concatenations. For example, `Profit = Sales Price – Revenue`. 
 
-Subqueries on the other hand are similar to computed columns in that that they can perform math and concatenations but can also use information from OTHER tables. The information on a subquery field is NOT stored in the database but is rather calculated when you load that table. Because these are NOT stored in the database it means that if you access the table directly (using the example query below) subquery columns will not be present. HOWEVER, there is a way you can access these.
+When querying computed columns in SQL they WILL appear when accessing the table directly.
 
-![Selecting from a table](<Selecting from a table.png>)
+Subqueries on the other hand are similar to computed columns in that that they can perform math and concatenations but can also use information from **other** tables. The information on a subquery field is **not** stored in the database but is rather calculated when you load that table. 
 
-When you load a table in RAPID, it shows the subqueries, this is called a VIEW. You can access a view using SQL and that way all of the subquery columns will be present and you DO NOT need to recalculate them in powerBI.
+Because these are not stored in the database they cannot be referenced directly on the table when using SQL to query it. This also means you cannot reference the output of a subquery field within another subquery field. 
 
-This does come with a trade off in that it is more tolling on the database, which is generally, by default, we advise accessing the database table and not the database view. However, if the subqueries are relatively simple, it should not be too tolling. See example below of accessing a view:
-
-![Selecting from a view](<Selecting from a view.png>)
-
-## Related article
-
-[Creating a Financial / Fiscal Year Calendar Table - Template](https://docs.rapidplatform.com/books/powerbi/page/creating-a-financial-fiscal-year-calendar-table-template)
+Subquery fields are 'baked' into views they are a part of, so it is possible to fetch and reference their values in a reporting environment. This is not recommended when trying to reference from another subquery due to performance and instability concerns.
