@@ -2,33 +2,27 @@
 
 Each item in Rapid Platform can have unique user permissions. This means on a per-item basis, you can select who is allowed to **Read**, **Write**, or **Delete** an item. Note that if you wish to [set default permissions for all items in a table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/6-permissions/6-permissions.md>), this is also possible.
 
-## Permission Coins
-
-
-
-- Can see the permission coins on items
-- Permission coins max out at 4 items
-- Clicking the coins opens the permissions panel
-
-## Permissions Page
+## Permissions Panel
 
 ### Viewing Permissions
 
-This is the Item's permissions configuration. It lists the users and groups which have access to the item. These are displayed as a user coin. To open more details as to what users exactly you are able to click on the 'Edit Permissions' button this will bring up the Permissions management config for that particular item.
+To view the permissions on an individual item, first open the item in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>). In the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), press the **Edit Permissions** button. The **Edit Permissions** button has an icon of a housekey.
 
-![Item-Level Permissions 01.png](./downloaded_image_1705285792600.png)
+![A screenshot that shows the location and appearance of the Edit Permissions button. To access an item's permission, open the item in Explorer. The Permissions button is in the top right-hand corner of the site, in the Command Bar. The button is stylised as a housekey.](<Permissions Access Button.png>)
 
-*Item Permission Configuration*
+The permissions panel will appear as an overlay panel.
 
-- Can see the list of permissions for the item
-- Can search for users/groups by typing
+![A screenshot that shows the appearance of the permissions panel. The permissions panel in this example has the prompt "Manage Permissions" at the top. Below it is a label that describes which item is having its permissions edited, in this example, the item is "Policy 21 - AI Generation Policy". Below this is a section titled "User or Group". There are three groups in the list. The "Projects Team" has Read access only enabled. The "Workplace Health & Safety Team" also only has Read access. Finally, the "Policies" team has Read, Write, and Delete access enabled. The permission access is granted by clicking a checkbox, which is filled with a black background and a checkmark when the permission is granted. At the bottom of the panel is a searchbar for finding additional users or groups. There is also a Save button with a black background. To the right of the save button is the "Save and Synchronise" button on a white background. In the far bottom right of the panel is a white button that reads "Cancel".](<Permissions Panel.png>)
 
-### Managing Item Permissions
+The permissions panel has the following attributes and functionality:
 
-- Can remove users/groups permissions
-- Can set the Read/Write/Delete permissions
-- Can add new users/groups permissions
-- Can cancel permission changes and have them revert
-- Can save changes to permissions
-- Can save and Sync permissions to linked items
+| Attribute | Description |
+|---|---|
+| *Label* | At the top of the panel, the name of the item whose permissions are being edited is written, along with its item id number. In this example, the label reads: 'Policy 21 - AI Generation Policy' |
+| *User or Group Permissions* | Here, the user can delete a user or group from a policy, by using the cancel (**X**) button to the right of the user's coin. Each user or group has a coloured coin with the initials of the group or user in white. It also has a string of text that describes which user or group is attached to the item's permission list. At the righthand side of this component is the Read/Write/Delete checkboxes. |
+| *Read / Write / Delete* | This is a matrix of checkboxes. Each item row can have the permission to Read, Write, and/or Delete set individually. |
+| *Add User or Group* | This searchbar allows you to search for a User or Group and add them to the item's permissions. You can find a User or Group by typing their name into the searchbar. At the time of writing, this searchbar is *Case Sensititve*.|
+| *Save* | This button saves changes to the item's permissions |
+| *Save and Synchronise* | This button saves changes to the item's permissions. It also synchronises these changes to **all** items that are linked to this item. |
 
+> **Caution:** The **Save and Synchronise** button will change permissions for all tasks, notes, and items that are linked to the current item. This can often lead to unintended consequences, such as certain users losing access to tasks, notes, and items that they require access to.
