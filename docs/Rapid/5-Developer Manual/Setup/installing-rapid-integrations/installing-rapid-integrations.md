@@ -1,4 +1,4 @@
-# 1. Installing Rapid-Integrations
+# Installing Rapid-Integrations
 
 Rapid-Integrations powers Rapid Standard installations with dedicated functionality.
 In order to install Rapid-Integrations follow these steps to add the application to your tenant and site:
