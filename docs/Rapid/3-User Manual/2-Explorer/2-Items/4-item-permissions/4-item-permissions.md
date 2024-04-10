@@ -26,3 +26,19 @@ The permissions panel has the following attributes and functionality:
 | *Save and Synchronise* | This button saves changes to the item's permissions. It also synchronises these changes to **all** items that are linked to this item. |
 
 > **Caution:** The **Save and Synchronise** button will change permissions for all tasks, notes, and items that are linked to the current item. This can often lead to unintended consequences, such as certain users losing access to tasks, notes, and items that they require access to.
+
+### Permission Levels
+
+![A screenshot that shows a zoomed-in view of the Read, Write and Delete checkboxes arranged in a matrix. The purpose of this image is to help the read quickly identify that this section of the article will discuss the meaning of these three permission levels.](<Permissions RWD.png>)
+
+There are several levels of permission that can be granted to a user or a group of users.
+
+| Level | Description |
+|---|---|
+| Read | The user is allowed to read items from the table. |
+| Write | The user is able to create and edit items in the table. |
+| Delete | The user is permitted to delete items from the table. |
+
+> Each of these levels can be set separately. For example, you may choose to grant a user Read and Write access, but not Delete access.
+
+The lowest level of permission is "None", where a user does not have Read, Write, or Delete access. The highest level of permission is when a user is able to Read, Write, and Delete data.
