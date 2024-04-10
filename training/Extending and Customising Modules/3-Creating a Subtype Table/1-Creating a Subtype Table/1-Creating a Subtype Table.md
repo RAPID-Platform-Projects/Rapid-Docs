@@ -12,7 +12,7 @@ Read the scenario below for context.
 > - The office or warehouse location where the coffee machine is installed
 
 ## Creating the Table
-1. Create a new table. (You can learn how to create a new table <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Tables/creating-tables/" target="_blank">here</a>).
+1. Create a new table. (You can learn how to create a new table <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/creating-tables/" target="_blank">here</a>).
 2. We need to name the table. We should give it a plural name because it is a collection of similar items. So, we will call it **Coffee Machine Assets**.
 3. Coffee Machines are a type of asset, so we are going to tick the “Create Sub-Type” button to inherit the columns from the **Assets** table. We then choose the **Assets** table from the drop-down menu.
 
