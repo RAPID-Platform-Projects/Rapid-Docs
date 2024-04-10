@@ -1,4 +1,4 @@
-# Sending an email from Explorers' menu buttons
+# Sending an email from an Explorer menu button
 
 ![s2.0.png](./downloaded_image_1705286053625.png)
 

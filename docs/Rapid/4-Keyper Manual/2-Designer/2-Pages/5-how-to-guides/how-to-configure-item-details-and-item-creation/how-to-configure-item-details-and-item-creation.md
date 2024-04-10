@@ -1,4 +1,4 @@
-# How to configure the Item Details and Item Creation pages
+# How to configure the Item Details and Creation pages
 
 ## The defaults on a Design Tab of a new Table
 

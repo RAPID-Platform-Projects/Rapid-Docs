@@ -10,7 +10,7 @@ So, let’s build a column that tracks what the company *intends* to do with eac
 
 ### 1. Open the Assets table in Designer
 
-> <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Designer/how-to-access-designer/" target="_blank">Click here</a> for a reminder on how to open a table in designer.
+> <a href="http://docs.rapidplatform.com/docs/Rapid/User%20Manual/Designer/how-to-access-designer/" target="_blank">Click here</a> for a reminder on how to open a table in designer.
 
 Since we want to build a column, we should press the columns tab at the top of the page.
 
@@ -36,4 +36,4 @@ So, which type of data is best for us? We *could* type our information into a si
 ## **Challenge 1:** Decide on which datatype is most suitable
 Using the scenario described above, and decide which type of data should be selected for this column. When you are ready, progress to the next page to check your answer.
 
-> You can <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.
+> You can <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.

@@ -1,4 +1,4 @@
-# How to edit / delete / add an item below an existing item?
+# How to edit / delete / add an item below an existing item
 
 Each [***menu item***](</docs/Rapid/3-User Manual/glossary/glossary.md#menu-item> "Menu item") created in has three options.
 
