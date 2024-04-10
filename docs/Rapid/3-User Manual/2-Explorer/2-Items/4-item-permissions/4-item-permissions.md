@@ -16,14 +16,15 @@ The permissions panel will appear as an overlay panel.
 
 The permissions panel has the following attributes and functionality:
 
-| Attribute | Description |
-|---|---|
-| *Label* | At the top of the panel, the name of the item whose permissions are being edited is written, along with its item id number. In this example, the label reads: 'Policy 21 - AI Generation Policy' |
-| *User or Group Permissions* | Here, the user can delete a user or group from a policy, by using the cancel (**X**) button to the right of the user's coin. Each user or group has a coloured coin with the initials of the group or user in white. It also has a string of text that describes which user or group is attached to the item's permission list. At the righthand side of this component is the Read/Write/Delete checkboxes. |
-| *Read / Write / Delete* | This is a matrix of checkboxes. Each item row can have the permission to Read, Write, and/or Delete set individually. |
-| *Add User or Group* | This searchbar allows you to search for a User or Group and add them to the item's permissions. You can find a User or Group by typing their name into the searchbar. At the time of writing, this searchbar is *Case Sensititve*.|
-| *Save* | This button saves changes to the item's permissions |
-| *Save and Synchronise* | This button saves changes to the item's permissions. It also synchronises these changes to **all** items that are linked to this item. |
+| Attribute | Description | Screenshot |
+|---|---|---|
+| *Label* | At the top of the panel, the name of the item whose permissions are being edited is written, along with its item id number. In this example, the label reads: 'Policy 21 - AI Generation Policy' |![A screenshot that shows the location of the *Label* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *label*'s location.](<Permissions Label.png>)|
+| *User or Group Permissions* | Here, the user can delete a user or group from a policy, by using the cancel (**X**) button to the right of the user's coin. Each user or group has a coloured coin with the initials of the group or user in white. It also has a string of text that describes which user or group is attached to the item's permission list. At the righthand side of this component is the Read/Write/Delete checkboxes. |![A screenshot that shows the location of the *User or Group Permissions* section on the Permissions Panel. The screenshot is annotated with a red box that highlights the *section*'s location.](<Permissions Users Groups.png>)|
+| *Read / Write / Delete* | This is a matrix of checkboxes. Each item row can have the permission to Read, Write, and/or Delete set individually. |![A screenshot that shows the location of the *Read, Write, and Delete matrix* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *matrix*'s location.](<Permissions RWD Matrix.png>)|
+| *Add User or Group* | This searchbar allows you to search for a User or Group and add them to the item's permissions. You can find a User or Group by typing their name into the searchbar. At the time of writing, this searchbar is *Case Sensititve*.|![A screenshot that shows the location of the *Add User or Group searchbar* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *searchbar*'s location.](<Permissions Users Groups.png>)|
+| *Save* | This button saves changes to the item's permissions |![A screenshot that shows the location of the *Save button* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *buttons*'s location.](<Permissions Save.png>)|
+| *Save and Synchronise* | This button saves changes to the item's permissions. It also synchronises these changes to **all** items that are linked to this item. |![A screenshot that shows the location of the *Save and Synchronise button* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *buttons*'s location.](<Permissions Synchronise.png>)|
+| *Cancel* | A button that allows you to undo any changes made to permissions without saving. |![A screenshot that shows the location of the *Cancel button* on the Permissions Panel. The screenshot is annotated with a red box that highlights the *buttons*'s location.](<Permissions Cancel.png>)|
 
 > **Caution:** The **Save and Synchronise** button will change permissions for all tasks, notes, and items that are linked to the current item. This can often lead to unintended consequences, such as certain users losing access to tasks, notes, and items that they require access to.
 
