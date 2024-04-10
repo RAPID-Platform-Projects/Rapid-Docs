@@ -9,11 +9,11 @@ In simple words, a data table component allows you to insert a view of the [data
 Therefore to display a list of items, you need to:
 
 1. Define which table you want the system to refer.
-2. Define the [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/3-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") you want to set for displaying the Table Data.
+2. Define the [Table View](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") you want to set for displaying the Table Data.
 
 ## How to set up a Data Table component in Designer
 
-- You can [add the Data Table component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/data-table/data-table.md "How to add a component to a Layout / Page?"). The Data Table component is present on the Item Group (Plural) Details breakpoint [by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?"). It is set to the subject Table and All View. 
+- You can [add the Data Table component onto the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-layout-to-a-page/how-to-add-a-layout-to-a-page.md "How to add a component to a Layout / Page?"). The Data Table component is present on the Item Group (Plural) Details breakpoint [by default](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?"). It is set to the subject Table and All View. 
 
     ![Data table in component list](<Data table in component list.png>)
 - You can Add the Data Table component on both ***Singular Item Details breakpoint Pages*** as well as ***Plural Item Group Details Breakpoint***.
