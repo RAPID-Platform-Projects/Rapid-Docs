@@ -1,6 +1,6 @@
 # Location to Display
 
-This is configurable on the ***[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)*** menu type.
+This is configurable on the **[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)** menu type.
 
 ![Location to Display config location](<Location to Display configuration location.png>)
 

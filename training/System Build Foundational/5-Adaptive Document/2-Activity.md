@@ -11,7 +11,7 @@ This form will help the sales team to :
 
 You are tasked with designing such a form for your organisation. 
 
-***HINT***
+**HINT**
 
 1. Create an Adaptive Document form 
 2. Create connection of the form with the data table (Lead Details)

@@ -4,12 +4,12 @@
 
 Imagine you are a Sales Manager. You work with the Sales Leads Table.
 
-Now, you want to see the progression of a lead across the Sales Funnel. Let us assume there is a [Choice Type](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md "How to add columns to a data table?") field "***Sales Stage*"** with choice option values as:
+Now, you want to see the progression of a lead across the Sales Funnel. Let us assume there is a [**Choice Type**](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/5-Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md "How to add columns to a data table?") field "**Sales Stage"** with choice option values as:
 
-- ***Lead***
-- ***Prospect***
-- ***Opportunity***
-- ***Client***
+- Lead
+- Prospect
+- Opportunity
+- Client
 
 These are the four stages of the Sales Funnel that you have defined.
 
@@ -17,7 +17,7 @@ You want to see them visually progressing from one stage to another.
 
 This is possible through the Pipeline component.
 
-We can think of Pipeline Component as a visual representation of sequential choice fields. The work sequential is important as it is meaningful when we have choice values that can be depicted in a sequence / progression. For instance: a choice field - "***Hobbies***" with choice options as ***Sports, Reading, Cooking*** etc. cannot be meaningfully represented as a Pipeline (from a logical perspective).
+We can think of Pipeline Component as a visual representation of sequential choice fields. The work sequential is important as it is meaningful when we have choice values that can be depicted in a sequence / progression. For instance: a choice field - **Hobbies** with choice options as **Sports, Reading, Cooking** etc. cannot be meaningfully represented as a Pipeline (from a logical perspective).
 
 ## How to set up Pipeline component in Designer
 

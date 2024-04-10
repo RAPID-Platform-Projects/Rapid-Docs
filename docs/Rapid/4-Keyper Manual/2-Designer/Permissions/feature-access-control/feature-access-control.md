@@ -2,11 +2,11 @@
 
 *Rapid* allows the restricting of certain users or user groups to access certain *Rapid Experiences*. These include the following;
 
-- ***Explorer***: The primary way of viewing data within the *RAPID Site*
-- ***Designer***: The primary way of modifying and configuring a *RAPID Site*
-- ***Workflow***: Creating and executing business processes
-- ***Tasks***: A list of tasks assigned to the user viewing them
-- ***Public Forms:*** A way of presenting forms for data entry to unauthenticated 3rd parties
+- **Explorer**: The primary way of viewing data within the *RAPID Site*
+- **Designer**: The primary way of modifying and configuring a *RAPID Site*
+- **Workflow**: Creating and executing business processes
+- **Tasks**: A list of tasks assigned to the user viewing them
+- **Public Forms:** A way of presenting forms for data entry to unauthenticated 3rd parties
 
 It is possible to enable *Access Control* on Explorer, Designer &amp; Workflow (collectively known as Core Rapid).
 

@@ -22,7 +22,7 @@
 
         ![A screenshot that depicts the "New employee creation form". The screenshot is annotated with a red box to show where the user can enter new data.](<New employee creation form.png>)
 
-4. Click on **Create** or ****Create and Open**** 
+4. Click on **Create** or **Create and Open** 
 
     ![A screenshot that depicts the "create" and "create and open" buttons at the top of the "new employee creation form" side pannel.](<Create and open button.png>)
 
@@ -40,7 +40,7 @@
 
     ![A screenshot that depicts how to open the "Additional Details" tab at the top of an employee item. The scerenshot is annotated with two red boxes. The upper red box indicates where to find the "Additional details", whereas the lower red box indicates all of the fields that will appear when this tab is opened.](<Employee details page.png>)
 
-4. Press **Save** or ****Save and Close**** 
+4. Press **Save** or **Save and Close** 
 
     ![A screenshot that depicts how to "save", or "save and close" an employee item.](<Saving the edited employee.png>)
 

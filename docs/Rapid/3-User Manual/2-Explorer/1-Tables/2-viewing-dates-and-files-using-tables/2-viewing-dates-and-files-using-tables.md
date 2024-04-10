@@ -46,6 +46,7 @@ If an expected embedded file has been uploaded, it will appear with a checkmark 
 
 ![A screenshot that shows how a file that has been uploaded appears in the embedded files description box.](<Data Table Embedded Files Dialogue Box 2.png>)
 
-Note that if a file has been embedded, you can click on the embedded file's name and open the embedded file. This will open the attached file in a new browser tab.
+:::[Note:] that if a file has been embedded, you can click on the embedded file's name and open the embedded file. This will open the attached file in a new browser tab.
+:::
 
 ![A screenshot that shows how a file that has been uploaded appears in the embedded files description box, and can be clicked on by selecting the file name label that appears.](<Data Table Embedded Files Dialogue Box 3.png>)

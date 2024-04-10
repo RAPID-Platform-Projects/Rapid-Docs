@@ -12,7 +12,7 @@ The default Table View can be defined in Designer while [configuring the Gantt P
 
 The above image depicts that the Gantt Chart prepared on Table View titled - All Tasks.
 
-Please note: The Gantt Chart will always sort Tasks based on the Start Date. However, if two or more Tasks have the same Start Date, then the Table View parameters will be used for ordering the Tasks.
+:::tip[Please note:] The Gantt Chart will always sort Tasks based on the Start Date. However, if two or more Tasks have the same Start Date, then the Table View parameters will be used for ordering the Tasks.:::
 
 ## Changing the Table Views from within the Gantt Chart
 
@@ -44,8 +44,7 @@ As you click on the Edit View button, a panel with existing View parameters will
 
 ![14.png](./downloaded_image_1705285741614.png)
 
-**Please note:**
-
+:::note[Please Note:]
 - Only the selected Table View will be modified.
 - The modification made to the Table View will only take effect once Save is pressed.
 - The modifications to the Table View will be effective across Explorer and not just limited to Gantt Chart page.

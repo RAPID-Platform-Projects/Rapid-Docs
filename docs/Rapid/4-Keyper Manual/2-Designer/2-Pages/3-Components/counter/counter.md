@@ -44,7 +44,7 @@ The Counter Component can give you the ***count of items*** present in a defined
 
     ![Save the configuration](<Save the configuration.png>)
 
-**Please note:**
+:::note[Please note:]
 
 - The first option in the list of Table Views is a blank option. If you select the same, the system selects the "All" View.
 
@@ -53,6 +53,7 @@ The Counter Component can give you the ***count of items*** present in a defined
 - Do not forget to hit the "Save" button for the changes in the Page to take effect. 
  
     ![Save the page](<Save the page.png>)
+    :::
     
 ## Related articles
 

@@ -53,7 +53,7 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 
         ![A screenshot showing how to change both the start and end dates of a task on a gantt by clicking and dragging the whole task item left or right](./downloaded_image_1705286200286.png)
 
-6. Press ****Save X Items****
+6. Press **Save X Items**
 
     ![A screenshot showing the location of the Save buttong, to save all changes made to tasks on the Gantt](./downloaded_image_1705286201301.png)
 

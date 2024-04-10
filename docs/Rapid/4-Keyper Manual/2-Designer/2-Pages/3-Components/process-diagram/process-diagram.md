@@ -10,7 +10,7 @@ As the name suggests, a Process Diagram component will display the Process Diagr
 
 ![Process diagram column example](<Process diagram column example.png>)
 
-## **How to set up Process Diagram component in Designer?**
+## How to set up Process Diagram component in Designer
 
 - You can [add the Process Diagram component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). This component is not present anywhere by default. 
 

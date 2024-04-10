@@ -20,7 +20,7 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 
     ![A screenshot showing the create screen fields for a new project](./downloaded_image_1705285333670.png)
 
-4. Click ****Create and Open**** 
+4. Click **Create and Open** 
     
     ![A screenshot showing the location of the "Create and Open" button on the Project's create screen](./downloaded_image_1705285334678.png)
 

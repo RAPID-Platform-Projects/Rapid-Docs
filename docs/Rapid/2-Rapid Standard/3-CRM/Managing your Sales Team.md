@@ -12,7 +12,7 @@ This allows the Sales Team to easily have visibility of all of their tasks and a
 
     ![Navigate to users and groups](<Navigate to Users and Groups.png>)
 
-2. Select the users you want to add to the Sales Team, then click **Add x Principals to Group**, finally click ****Sales Team**** 
+2. Select the users you want to add to the Sales Team, then click **Add x Principals to Group**, finally click **Sales Team** 
 
     ![Select users and add to group](<Select Sales Team from dropdown.png>)
 

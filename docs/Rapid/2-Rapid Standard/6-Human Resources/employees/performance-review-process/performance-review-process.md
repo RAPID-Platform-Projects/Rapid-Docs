@@ -14,7 +14,7 @@ The process is triggered in two ways:
 
         ![A screenshot that shows how to navigate Performance Review using the sidebar](<Side bar navigate to performance review.png>)
 
-    2. Click ****New Performance Review**** 
+    2. Click **New Performance Review** 
 
         ![A screenshot that depicts how to create a new performance review](<create new performance review button.png>)
 
@@ -24,7 +24,8 @@ The process is triggered in two ways:
 
 Once triggered, the performance review process follows these stages:
 
-*Note:* All stages of this process can be customised to align with your specific business needs. Whether you want to modify email content sent to employees, or adjust the questions on the form, Rapid offers flexibility. Please reach out to a Rapid Consultant for assistance.
+:::[Note:] All stages of this process can be customised to align with your specific business needs. Whether you want to modify email content sent to employees, or adjust the questions on the form, Rapid offers flexibility. Please reach out to a Rapid Consultant for assistance.
+:::
 
 1. **Manager Meeting Confirmation:** A task will be sent for the manager to confirm the meeting time, based on the specified “Review Date”. The manager has the option to change the meeting date or cancel the performance review upon completion of this task.
 2. **Employee Pre-Review Form:** Following the manager's confirmation, the employee receives an email requesting them to complete a "Pre-Review Form." Completion of all fields on this form is mandatory.

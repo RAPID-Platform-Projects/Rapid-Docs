@@ -1,6 +1,6 @@
 # Perform remote action
 
-This is configurable on both the ***[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)*** and ***[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)*** menu types.
+This is configurable on both the **[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)** and **[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)** menu types.
 
 ## Overview
 
@@ -43,17 +43,17 @@ The Perform Remote Action makes a post request to the specified address.
 
 ## Remote Action Options Further Details
 
-Please note when configuring on the ***[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)*** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in ***[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#menu>)*** menu type.
+Please note when configuring on the **[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)** menu the **Include Item**, **Single Request**, **Silent**, **Include Form**, and **Select Forms** options although visible will not do anything in this context but are used in **[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#menu>)** menu type.
 
 As we can observe, the following fields are prompted by the system upon selection of Perform Remote Action as On-Click Action.
 
 - **Include item -** This is a toggle field. A toggle ON would mean the current item context is included in the network request.
 - **Single Request -** This is a toggle field. By default if multiple items are selected on a list view and the "Perform Remote Action" menu button is clicked it will send on request per item. If this is toggled ON it will send one request containing all the items as an array.
-- **Save Intention** - This is a choice field. This will only take effect for a menu buttons triggered off an item page. The purpose of this is that Users may change the fields of the item they are on and then press the menu button to perform a remote action, expecting their changes on the item to be sent. If they have not saved the item, the most recent changes will not be sent. As such flexibility it given to the keyper where they can designate the Save Intention when the menu button is pressed. These options are: 
+- **Save Intention -** This is a choice field. This will only take effect for a menu buttons triggered off an item page. The purpose of this is that Users may change the fields of the item they are on and then press the menu button to perform a remote action, expecting their changes on the item to be sent. If they have not saved the item, the most recent changes will not be sent. As such flexibility it given to the keyper where they can designate the Save Intention when the menu button is pressed. These options are: 
     - Save on Action - When the menu button is pressed, the item will be saved then the request sent.
     - Prompt for Save - A prompt will appear asking the user to save or discard changes. Following their selection, the request will be sent.
     - Do not save - The request will be sent regardless of whether the user has saved or not saved the most recent changes on the item.
-    - For more information see - [What is the Save Intention Option in a Menu Setup?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-save-intention-in-a-menu/what-is-save-intention-in-a-menu.md)
+    - For more information see - [**What is the Save Intention Option in a Menu Setup?**](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/what-is-save-intention-in-a-menu/what-is-save-intention-in-a-menu.md)
 - **Address -** This is a mandatory field. It allows you to set the URL address of the network request. For instance, if you wish to request a Power Automate Flow, pass the appropriate Flow URL here.
 - **Info text -** This optional field allows you to set the Metadata or additional Information Text about the action.
 - **Action ID -** This optional field is useful when you wish to send an Action ID along with the network request to the remote end when the action is performed. This is a hardcoded string.

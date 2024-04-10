@@ -59,7 +59,7 @@ The filter can be cleared by pressing the X icon at the right end of the field.
   
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/GUyFwOgXU6M?si=JyHftwataRuuJY0o" title="YouTube video player" width="750"></iframe>
 
-### **Features and functions for Tables in Designer:**
+### Features and functions for Tables in Designer:
 
 [How to create a new table in Rapid Platform?](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new data table in Designer?")
 

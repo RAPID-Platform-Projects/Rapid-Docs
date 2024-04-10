@@ -84,4 +84,4 @@
 
 ![Picture 42.png](./downloaded_image_1705286146020.png)
 
-## **This completes the Static Design of the email template.**
+## This completes the Static Design of the email template.

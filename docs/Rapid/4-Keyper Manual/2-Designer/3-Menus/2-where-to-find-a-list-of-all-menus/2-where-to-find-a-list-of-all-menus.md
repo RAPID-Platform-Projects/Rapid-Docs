@@ -43,6 +43,6 @@ The list column shows which list the menu is created on if relevant. If the **Co
 
 ![List column](<List column.png>)
 
-### **Related article**
+### Related article
 
 [How to create Menu buttons in command bar of a data table?](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md "How to configure a Menu button in a command bar?")

@@ -76,11 +76,12 @@ You can easy toggle between making a column present and absent from All View by 
 2. As the column gets selected, a right panel will open with heading "Edit &lt;column name&gt;".
 3. You can edit the title or make changes based on the column type.
 
-**Please note**
+:::note[Please note:]
 
 - Changing the title now does not change the column\_name.
 - The type of the column cannot be changed.
 - If you wish to change the column type, the only way is to delete this column and create a new one.
+:::
 
 Once you have made all the changes to the column, hit the Save button.
 

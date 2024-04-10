@@ -78,9 +78,11 @@ In the current version (v1.31) of Rapid Platform, there are two ways to configur
 
 When you have configured an Embedded File component from the Options Tab of the Table, you need to define where to make it [visible on the Tab Strip.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/4-Layouts/list-of-available-layouts/list-of-available-layouts.md)
 
-**Please note :**
+:::note[Please note:]
 
-**If you have added an Embedded File component via the Options Tab method, then it will appear at the top left corner of the Page. You cannot change the position or resize the component.**
+If you have added an Embedded File component via the Options Tab method, then it will appear at the top left corner of the Page. You cannot change the position or resize the component.
+:::
+
 
 ### Via the Add Component Panel
     
@@ -107,7 +109,7 @@ When you have configured an Embedded File component from the Options Tab of the 
   - **Allow multiple files to be uploaded for each item (Yes / No Toggle)** is same as 6) above
   - **Required (Yes / No Toggle)** is same as 5) above.
 
-**Please note**
+:::note[Please note:]
 
 - The Embedded File component set up via Options Tab and Embedded file component added via components panel, both point to the same file and same folder. Therefore, if you have both components added from both methods, they will mirror each other's behaviour.
 - There is another way to configure Embedded Files - from the Workflow Diagram. This provides the ability to pass dynamic referencing to SharePoint folders. &lt;&lt;Provide REFERENCE TO WORKFLOW DISCUSSION&gt;&gt;  
@@ -115,6 +117,7 @@ When you have configured an Embedded File component from the Options Tab of the 
     ![Workflow embedded file configuration](<Workflow embedded file configuration.png>)
 
 - Embedded Files, although can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).
+:::
 
 ## Related articles
 

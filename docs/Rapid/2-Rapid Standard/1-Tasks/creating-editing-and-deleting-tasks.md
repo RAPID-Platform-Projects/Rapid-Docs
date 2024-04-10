@@ -10,7 +10,9 @@
 
 ![Alt text](1702439898361.png)
 
-4. Enter the relevant details. Note: The “Assigned To” column will determine whose task list this will appear in. You can assign a task to a “Role” such as “WHS Team” and any members of that team will see the task in their task list on the “My Tasks” view.
+4. Enter the relevant details. 
+
+:::[Note:] The “Assigned To” column will determine whose task list this will appear in. You can assign a task to a “Role” such as “WHS Team” and any members of that team will see the task in their task list on the “My Tasks” view.:::
 
 ![Alt text](1702439958052.png)
 

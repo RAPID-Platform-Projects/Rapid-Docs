@@ -8,10 +8,10 @@ A task can be easily dragged across timeline to change its Start Date and End Da
 
 ![Dragging timeline](dragging-timeline.gif)
 
-**Please note:**
-
+:::note[Please note:]
 - Dragging a task (as shown above) will change both the Start Date and End Date, while keeping the duration of the task as constant.
 - The duration respects weekends in calendar and therefore, the Start Date and End Date gets modified accordingly maintaining the duration in business days.
+:::
 
 ## Extending Start Date / End Date on timeline
 

@@ -24,7 +24,7 @@ Board component provides information about the following:
 
 ![Image of a Board Item Card in Explorer](<Explorer_Board- Image of an Item Card.png>)
 
-:::danger[***Fine Points***]   
+:::danger[**Fine Points**]   
 In the above image please note the following:
 - The icon of the item is visible next to the title.  
 - The choice option is visible along with the set colour.  
@@ -108,7 +108,7 @@ Click on the new item button. This will open the Create Item Form.
 
 If your subject table is a Parent Table and there are other child tables which inherit properties from your subject (parent) table, then you can create new items for the child table from within the Board.
 
-In the below illustration, ***Tasks*** is a Parent Table and ***Projects*** is a **[*Sub Type of*](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables>)**  ***Tasks***.  
+In the below illustration, **Tasks** is a Parent Table and **Projects** is a **[*Sub Type of*](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables>)**  **Tasks**.  
 
 You can create new Project items from the Board. 
 

@@ -39,7 +39,7 @@ The Process Run of workflow in Explorer helps us to interpret the execution of e
 
 ## Open Tasks from Process Diagram Component
 
-You can double click on ***Active (Orange)*** or ***Successfully Completed (Green)*** UserTasks to open the corresponding Task Item Profile.
+You can double click on **Active** (Orange) or **Successfully Completed** (Green) UserTasks to open the corresponding Task Item Profile.
 
 ![Image showing how double clicking on valid UserTasks opens Task Item Profile](<Process Diagram 4.png>)
 

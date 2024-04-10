@@ -45,7 +45,7 @@ There are certain options which are always present on the Design Tab. These are:
     | **Details** | Defines what information will be visible when an item is selected. | Defines what information will be visible for a set of items (Table view in Explorer) |
     | **Create Screen** | Defines what information will be visible when an item is created | No role of Create Screen in Plural definition |
     
-    To learn more please refer to [***How to configure Item Details and Item Creation?***](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?")
+    To learn more please refer to [**How to configure Item Details and Item Creation?**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?")
 3. **Navigate to Explorer from current page** - It is very easy to access Explorer from the table window in Designer.
     
     Once you have opened the table in designer, look at the screen and lens icon at the top right corner of the window.  

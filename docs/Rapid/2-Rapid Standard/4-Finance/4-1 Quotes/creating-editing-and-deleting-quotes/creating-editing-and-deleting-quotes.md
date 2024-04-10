@@ -56,7 +56,7 @@ The Finance module includes the ability to create and manage quotes.
 
         ![image-1703721434166.png](./downloaded_image_1705285369102.png)
 
-4. Once you have finished editing press **Save** or ****Save and Close****
+4. Once you have finished editing press **Save** or **Save and Close**
 
      ![image-1703721456091.png](./downloaded_image_1705285369102.png)
 
@@ -74,6 +74,6 @@ However, if you need to delete a Quote due to incorrect data entry or a duplicat
 
     ![image-1703721554841.png](./downloaded_image_1705285372165.png)
 
-3. Press ****Delete X Quotes**** 
+3. Press **Delete X Quotes** 
 
     ![image-1703721583655.png](./downloaded_image_1705285373179.png)

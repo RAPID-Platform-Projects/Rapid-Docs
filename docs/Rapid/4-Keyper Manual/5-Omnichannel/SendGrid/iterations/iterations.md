@@ -10,4 +10,4 @@ You can also view a video tutorial here:
 
 <iframe allowfullscreen="allowfullscreen" height="440" width="785" src="https://www.youtube.com/embed/zc_moohzobQ"/>
 
-##### **At the time of writing this guide, iterations do not work properly with RAPID integration.**
+##### At the time of writing this guide, iterations do not work properly with RAPID integration.

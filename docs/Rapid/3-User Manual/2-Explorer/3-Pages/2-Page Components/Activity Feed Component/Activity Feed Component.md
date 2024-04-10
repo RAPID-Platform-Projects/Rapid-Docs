@@ -110,7 +110,7 @@ Automatically generated reminders utilize specific phrases to identify reminders
 2. Click the Submit button at the edge of the text box to save your reminder note to the item.
 ![Image showing how to create a smart reminder in Activity Feed](<Smart reminder.png>)  
 
-[***Click here to learn more about Smart Reminders***](./smart-reminders/smart-reminders.md)
+[**Click here to learn more about Smart Reminders**](./smart-reminders/smart-reminders.md)
 
 ### Manually Generated Reminders
 To manually generate reminders:
@@ -128,7 +128,7 @@ You may add more than one reminder, to add another click Add Reminder again.
 
 :::  
 
-:::danger[**Please note**]  
+:::danger[Please note:]  
 
 Once all the reminders have been set, you need to add a note.  
 Click the Submit button at the edge of the text box to save your reminder note to the item.  

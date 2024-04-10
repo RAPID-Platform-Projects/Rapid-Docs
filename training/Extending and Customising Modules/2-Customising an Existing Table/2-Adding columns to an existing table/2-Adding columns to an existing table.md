@@ -33,7 +33,7 @@ So, which type of data is best for us? We *could* type our information into a si
     - A human can intuit that these are the same thing, but a computer cannot
 - It would make it extremely difficult to build a filter or view to see "all the assets that need to go into storage".
 
-## **Challenge 1:** Decide on which datatype is most suitable
+## Challenge 1:** Decide on which datatype is most suitable
 Using the scenario described above, and decide which type of data should be selected for this column. When you are ready, progress to the next page to check your answer.
 
 > You can <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.

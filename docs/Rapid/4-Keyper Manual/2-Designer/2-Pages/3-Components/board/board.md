@@ -6,13 +6,13 @@ A board (also known as Kanban Board) is a visual tool that gives an overview of 
 
 Imagine a CEO of a technology company wants to have a snapshot of current **status** of various **projects** in the organisation. These projects should display information on the names of the Project Managers and respective Due Dates. Moreover, as needed, the CEO should be able to drag and drop projects across categories to update status.
 
-The board component can provide a convenient view of projects organised across status categories. In the below image ***Not started***, ***In progress*** and ***Completed*** are the Project Status on which Project Titles are categorised.
+The board component can provide a convenient view of projects organised across status categories. In the below image **Not started**, **In progress** and **Completed** are the Project Status on which Project Titles are categorised.
 
 ![Board example](<Board example.png>)
 
 There can be many other use cases like - a sales manager viewing the status of various leads, a purchase manager looking at items' order status, an accounts manager monitoring invoices status etc.
 
-**Please note:**  
+:::note[Please note:] 
 Board component can only be set up for a table that has the following:
 
 - A title field - like project name
@@ -21,6 +21,7 @@ Board component can only be set up for a table that has the following:
 - A date type field - like project due date
 
 If any of the above types are missing, then the Board component cannot be configured properly.
+:::
 
 
 ## How to set up Board component in Designer
@@ -49,7 +50,7 @@ Following is the brief description of each field:
 1. **Table** - This is a dropdown field. You can select your desired table from the list of available tables in the system. Please note, this is not a mandatory field. If a table is not selected here, then the system will take the default value as the table on whose Design Tab you are hosting the subject Page.  
               
             
-    - In case there are [sub-types](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the ***Create New Item*** button from the Board for that sub-type.  
+    - In case there are [sub-types](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") of the selected table, then they will appear in a list as shown below. There is a checkbox next to each sub-type table title. If you check a box, then the system will hide the **Create New Item** button from the Board for that sub-type.  
 
     For example - if the Table selected is "*Contacts*". *Businesses, Employees* and *People* are sub-type of *Contacts* table. Now (by default) the Board component will enable the user to create new items for *Businesses*, *Employees* and *People* contacts tables. If a box is checked for *Businesses*, then the button to create new item for *Businesses* contacts will be hidden and the user will not be able to create new items from the Board component for relevant sub-type table.
     
@@ -95,13 +96,14 @@ Following is the brief description of each field:
               
     Selecting the checkbox will hide the respective button from the Board component and thus, the user cannot perform the subject action.
 
-**Please note -**
+:::note[Please note:]
 
 - Once the Board Component is properly configured, it will no longer appear RED. It show the name of the Target Table (selected in 1. Table field above) on which the Board component is created.
 
     ![Successfully configured board component](<Succesfully configured board component.png>)
 
 - You can set up a Board component on an Individual Item (Singular) Level as well as Group Item List (Plural) Level.
+:::
 
 ## Related articles
 

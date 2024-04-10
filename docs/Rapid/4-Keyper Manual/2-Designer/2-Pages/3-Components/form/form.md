@@ -65,7 +65,7 @@ While a Form component is present by default on the Item Details Tab, you can ad
         - You can select all columns and deselect all columns in the Form Fields panel with a single click.   
 
             ![Toggling selecting all fields](<Toggling selecting all fields.png>)
-        - You can create new columns. By clicking this button from within the Form Fields panel you can navigate to ***Add Columns*** panel for the Data Table.   
+        - You can create new columns. By clicking this button from within the Form Fields panel you can navigate to **Add Columns** panel for the Data Table.   
 
             ![Creating new column from a form](<Creating new column from a form.png>)
         - You need to click "Add to Form" button to add selected fields to the Form. 

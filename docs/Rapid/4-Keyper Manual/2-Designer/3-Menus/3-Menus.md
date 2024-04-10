@@ -13,7 +13,7 @@ In principle there are two main applications of Menus to a user:
 
 ## Properties of a menu item
 
-The appearance and behaviour of each menu item can be configured by defining the properties of a [***menu item***](</docs/Rapid/3-User Manual/glossary/glossary.md#menu-item> "Menu item").
+The appearance and behaviour of each menu item can be configured by defining the properties of a [**menu item**](</docs/Rapid/3-User Manual/glossary/glossary.md#menu-item> "Menu item").
 
 1. [Create a new Menu item, set display text and icon ](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-create-new-menu-item/how-to-create-new-menu-item.md "How to set display text and icon for a menu item?")
 2. [On-Click Action](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/1-how-to-set-on-click-action-for-a-menu/1-how-to-set-on-click-action-for-a-menu.md "How to set On-Click Action for a menu item?")
@@ -23,7 +23,7 @@ The appearance and behaviour of each menu item can be configured by defining the
 6. [Linking menu item to a table](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-link-a-menu-to-a-table/how-to-link-a-menu-to-a-table.md "How to link a menu item to a table?")
 7. [Edit / delete / add an item below an existing item](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-add-a-menu-below/how-to-add-a-menu-below.md "How to edit / delete / add an item below an existing item?")
 
-## **Related articles**
+## Related articles
 
 [All about *Tables* in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
 
