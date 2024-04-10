@@ -2,7 +2,7 @@
 
 Establishing a connection of a section with a data table enables the system to fetch and / or feed data to the data table from the form.   
   
-Please consider the below steps for establishing connection of root section with data table:  
+To create a connection to a table so you can add its fields to the root section:
 
 1. Select the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20the%20Overview%20Tab/" target="_blank">**Overview tab**</a> for the desired Adaptive Document. 
 
@@ -28,4 +28,4 @@ Please consider the below steps for establishing connection of root section with
 
 ![Image showing Create button](<Root Connection 4.png>)
 
-The root section is now connected to the desired table.
+You now have a connection for the chosen table and will be able to pick its fields from the element picker.
