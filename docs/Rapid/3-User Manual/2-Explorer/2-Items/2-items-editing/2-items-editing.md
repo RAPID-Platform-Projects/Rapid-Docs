@@ -40,8 +40,14 @@ The **Subquery** and **Computed** fields of a Rapid item are unique, in that the
 
 For example, we could have a **Computed Field** that combines the Name of an Employee, and their Email address.
 
-![Alt text](<Items Subquery Example.png>)
+![A screenshot demonstrating what a Computed or Subquery field looks like on an Item Page. The field has a grey background, and the screenshot is annotated with a red arrow and text that explains the field is a "Subquery Field".](<Items Subquery Example.png>)
 
-Subquery and Computed Fields are visually distinct from other fields on an item: they will always have a grey background, and will not allow a user to edit their data directly.
+**Subquery** and **Computed Fields** are visually distinct from other fields on an item: they will always have a grey background, and will not allow a user to edit their data directly.
 
+Note that in the screenshot below, we have changed the employee's email address field from `wandajones@example.com` to `wandajones2@example.com`, however, this change is not seen in the **Subquery** field.
+
+ ![A screenshot demonstrating that changing data in a field does not mean that data is then integrated into the calculations of subquery and computed fields. The email field remains as it was. The email field is highlighted in red for demonstration purposes.](<Items Subquery Change.png>)
+
+ If we press **Save**, however, the **Subquery** field runs its internal code again and recalculates the value it should contain. Now, the new data is displayed in the subquery field.
  
+ ![A screenshot demonstrating that by saving an item, the subquery and computed fields will be updated. The screenshot is annotated with a red box and arrow to highlight saving will change a value.](<Items Subquery Save.png>)
