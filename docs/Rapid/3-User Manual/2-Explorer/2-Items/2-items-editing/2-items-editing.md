@@ -1,5 +1,6 @@
 # Viewing and Editing Items
 
+## Opening an Item
 There are several ways for us to open an item to view or edit it.
 
 ### Clicking the Icon
@@ -26,3 +27,12 @@ You will notice that the Columns we created (*Name*, *DOB*, and *Email*) have ch
 
 This is also where any fields that may have been hidden from view in the table can be viewed and edited.
 
+## Universal Links
+- Fetching an item gets the universal links
+
+## Saving Changes
+- Can save fields
+
+## Updating Subqueries & Computed Fields
+- Updating an item updates the corresponding Subquery
+- Updating an item updates the corresponding Computed field
