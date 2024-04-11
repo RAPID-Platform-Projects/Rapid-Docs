@@ -23,7 +23,23 @@ A new drop-down menu appears that displays the current historical version of an 
 
 Pressing the **Undo Changes** button while viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
 
-## Item Footers
+## Item History Components
+
+### Item Timeline
+
+By default, items in Rapid will have an **Item Timeline** component on the righthand side of the **Item Page**.
+
+![A screenshot that demonstrates how the Item Timeline appears. In this example, the timeline has two entries. The top entry states that the Status of the task was updated from "Note Started" to "In Progress". The lower entry states that the task was created. Both entries state the date and time for their respective entries.](<Items Timeline.png>)
+
+The **Item Timeline** component lists changes to an item, with the most recent changes appearing at the top of the component. Each modification to an item is accompanied by the name of the user who made the change, what the change was, and the exact time and date that the change was made.
+
+If this component has been removed by your system administrator, you can also view a timeline of changes to an item by navigating to the **Activity** tab in the tabstrip at the top of the page. This tab will provide details regarding the item's creation, edits, and any notes added by users as well. Note that the **Activity Feed** component contains more data for users. You can learn more about this component at the link below.
+
+![A screenshot demonstrating the functionality of the Ativity Feed. Its functionality is described in the section above. All changes are outlined for the user.](<Items Activity Tab.png>)
+
+- [The Activity Feed](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Activity Feed Component/Activity Feed Component.md>)
+
+### Item Footers
 
 At the bottom of the **Item Page** is a footer, which contains important information about item history and versioning.
 
