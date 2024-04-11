@@ -51,3 +51,10 @@ Note that in the screenshot below, we have changed the employee's email address 
  If we press **Save**, however, the **Subquery** field runs its internal code again and recalculates the value it should contain. Now, the new data is displayed in the subquery field.
  
  ![A screenshot demonstrating that by saving an item, the subquery and computed fields will be updated. The screenshot is annotated with a red box and arrow to highlight saving will change a value.](<Items Subquery Save.png>)
+
+## Items can be Refreshed
+If the data in an item is updated, the item will need to be refreshed in order for that data to be visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
+
+Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in an item, without leaving the page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
+
+![A screenshot that shows what the inline refresh button looks like. The screenshot is annotated with a red box. The inline refresh button is a clockwise arrow.](<Items Inline Refresh.png>)

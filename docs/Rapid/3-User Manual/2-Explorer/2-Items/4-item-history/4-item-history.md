@@ -22,3 +22,22 @@ A new drop-down menu appears that displays the current historical version of an 
 ### Reverting an item back to its current version
 
 Pressing the **Undo Changes** button while viewing a historical view will revert the contents of the item back to its current state. Please note that an item's history does not track changes to the *Universal links* linked to an item.
+
+## Item Footers
+
+At the bottom of the **Item Page** is a footer, which contains important information about item history and versioning.
+
+![A screenshot that shows the location of the footer on an item page. The screenshot is annotated with a red box and arrow to highlight the footer's location. The footer in this example reads: "Employee 3" then a large gap followed by "Created April 11, 2024 by <censored> | Last Updated April 11, 2024 by <censored>.](<Items Footer Location.png>)
+
+> For privacy purposes, please note that in this example the name of the item's *Author* and *Editor* have been obscurred.
+
+The footer contains the following information to assist with identifying items and their history:
+
+| Attribute | Description |
+| --- | --- |
+| *Table Name* | The footer begins with the name of the table (singular) to help identify what type of item is being viewed. |
+| *Item ID Number* | After the Table Name is the ID number of the item. This is a unique number. No other item in this table will use this ID number, even if this item is deleted. |
+| *Created Date* | This is the date when the item was created. |
+| *Author* | This is the user who created the item. |
+| *Modifided Date* | This is the date when the item was last edited or modified. |
+| *Editor* | This is the user who edited the item last.|
