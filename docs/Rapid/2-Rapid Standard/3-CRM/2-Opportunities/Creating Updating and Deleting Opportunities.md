@@ -10,7 +10,7 @@ The Opportunities table provides a place for the sales team to store and keep tr
 
 Opportunities can be created in two ways. The first is through the Lead conversion button, where an Opportunity will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../1-Leads/3-Converting-a-Lead/3-Converting-a-Lead.md)). The second way, like many other items is through the Opportunity list page and those steps can be found below.
 
-1. In Explorer select CRM &gt; Opportunities  
+1. In Explorer select CRM > Opportunities  
 
     ![Navigate to Opportunities](<Screenshot 2024-03-13 at 8.19.22 am.png>)
 
@@ -28,7 +28,7 @@ Opportunities can be created in two ways. The first is through the Lead conversi
 
 ### How to edit an Opportunity
 
-1. In Explorer select CRM &gt; Opportunities  
+1. In Explorer select CRM > Opportunities  
 
     ![Navigate to Opportunities](<Screenshot 2024-03-13 at 8.19.22 am.png>)
 
@@ -52,7 +52,7 @@ However, if you need to delete an **Opportunity** due to incorrect data entry or
 
 #### How to delete multiple Opportunities at once
 
-1. In Explorer select CRM &gt; Opportunities 
+1. In Explorer select CRM > Opportunities 
 
     ![Navigate to Opportunities](<Screenshot 2024-03-13 at 8.19.22 am.png>)
 
@@ -68,7 +68,7 @@ However, if you need to delete an **Opportunity** due to incorrect data entry or
 
 #### How to delete a single Opportunity from the Opportunity Details page
 
-1. In Explorer select CRM &gt; Opportunities  
+1. In Explorer select CRM > Opportunities  
 
     ![Navigate to Opportunities](<Screenshot 2024-03-13 at 8.19.22 am.png>)
 

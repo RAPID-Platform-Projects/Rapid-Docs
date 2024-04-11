@@ -6,7 +6,7 @@ On the Employees list there is a feature that allows you to generate a PDF list 
 
 ## How to generate a PDF list of employees
 
-1. Navigate to **Human Resources** &gt; **Employees**  
+1. Navigate to **Human Resources** > **Employees**  
 
     ![A screenshot that depicts how to navigate to the Employees page.](<../Employee Menu Location.png>)
 

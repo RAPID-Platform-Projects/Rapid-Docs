@@ -10,7 +10,7 @@ The system provides a centralized list of all menus.
 
 ## Accessing the list of Menus
 
-1. Navigate to Designer &gt; Menus &gt; All Menus  
+1. Navigate to Designer > Menus > All Menus  
 
     ![Navigate to all menus](<Navigate to All Menus.png>)
 2. (Optional) Double-Clicking on the Menu item will open it and enable you to edit it (To find out more about editing Menus see [How to configure a Menu Button in Command Bar](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-menu-button-configuration/how-to-configure-a-command-bar-button/how-to-configure-a-command-bar-button.md))  

@@ -6,7 +6,7 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 
 ## How to access a Project's Gantt Chart
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the projects table](./downloaded_image_1705286190152.png)
 
@@ -24,7 +24,7 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 
 ## How to adjust the Start and End dates of Project Tasks using the Project Gantt
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the projects table](./downloaded_image_1705286190152.png)
 
@@ -61,7 +61,7 @@ The Project Gantt Chart is a useful visual for Project Management to visualise t
 
 A Gantt chart dependency is a relationship between two or more tasks in a project that dictates the sequence in which they must be executed. Dependencies illustrate the order and timing of task completion, outlining the relationships that exist between different project activities. A Finish-to-Start dependency is the most common type, where the start of one task depends on the completion of another. Task B cannot begin until Task A finishes. Follow the steps below to create Finish-to-Start Dependencies:
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the projects table](./downloaded_image_1705286190152.png)
 
@@ -95,7 +95,7 @@ For further information on using the Gantt and creating other dependencies see t
 
 ## How to edit a task from a Projects Gantt Chart
 
-1. Navigate to **Projects** &gt; **Projects** 
+1. Navigate to **Projects** > **Projects** 
 
     ![A screenshot showing how to navigate to the projects list](./downloaded_image_1705286190152.png)
 
@@ -133,7 +133,7 @@ It is important to note that while tasks cover a date range, milestones represen
 
 ### How to create Milestones
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the projects list](./downloaded_image_1705286190152.png)
 
@@ -168,7 +168,7 @@ It is important to note that while tasks cover a date range, milestones represen
 
 ### How to Adjust a Milestones Date
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the Projects list](./downloaded_image_1705286190152.png)
 

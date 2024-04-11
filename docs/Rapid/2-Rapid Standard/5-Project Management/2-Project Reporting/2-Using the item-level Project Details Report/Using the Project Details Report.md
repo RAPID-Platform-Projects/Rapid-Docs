@@ -6,7 +6,7 @@ Two reports are linked to the project's module. The first is an item-level repor
 
 ### How to access the item-level Project Details Report
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Side bar navigate to projects](<Side bar navigate to projects.png>)
 

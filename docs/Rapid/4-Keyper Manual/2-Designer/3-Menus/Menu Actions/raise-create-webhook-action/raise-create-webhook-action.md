@@ -14,7 +14,7 @@ This is different from **Perform Remote Action** type, as in this case, no addit
 
 ## How to configure the "Raise Webhook Create Action" for a menu button
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  

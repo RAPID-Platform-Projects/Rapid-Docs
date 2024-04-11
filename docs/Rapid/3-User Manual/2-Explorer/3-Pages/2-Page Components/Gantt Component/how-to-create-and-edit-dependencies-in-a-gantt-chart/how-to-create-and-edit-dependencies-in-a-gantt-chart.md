@@ -106,7 +106,7 @@ To edit a dependency, please consider the following points:
 2. The arrow will display a slight shadow indicating it is being selected.
 3. Double click on the dependency line.
 4. A dependency pop-up will appear.
-5. The pop-up will display the names of the two tasks (Task A -&gt; Task B).
+5. The pop-up will display the names of the two tasks (Task A -> Task B).
 6. It provides a number field to define the lag.
 7. There is a button to delete the dependency.
 8. There is a button to close the Edit pop-up.

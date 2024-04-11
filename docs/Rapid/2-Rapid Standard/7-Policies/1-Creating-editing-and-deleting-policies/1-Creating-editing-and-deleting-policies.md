@@ -2,7 +2,7 @@
 
 ### How to create a new Policy
 
-1. Navigate to Policies &gt; Policies  
+1. Navigate to Policies > Policies  
 
     ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 
@@ -26,7 +26,7 @@
 
 ### How to Edit a Policy
 
-1. Navigate to Human Resources &gt; Policies 
+1. Navigate to Human Resources > Policies 
 
     ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 
@@ -50,7 +50,7 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 
 #### Deleting multiple Policies from the policy list
 
-1. Navigate to Human Resources &gt; Policies  
+1. Navigate to Human Resources > Policies  
 
     ![image-1702522705319.png](./navigateToPolicies.png)
 
@@ -64,7 +64,7 @@ However, if you need to delete a policy due to incorrect data entry or a duplica
 
 #### How to delete a single policy from the policy page
 
-1. Navigate to Human Resources &gt; Policies 
+1. Navigate to Human Resources > Policies 
 
     ![image-1702522705319.png](./downloaded_image_1705285316426.png)
 

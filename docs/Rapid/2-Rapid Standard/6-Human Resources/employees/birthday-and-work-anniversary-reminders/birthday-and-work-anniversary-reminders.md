@@ -18,7 +18,7 @@ Should a manager prefer not to receive email reminders, they can turn off **Birt
 
 As a manager, you will receive birthday and work anniversary reminders from any employees that you directly manage, by default. To switch off these reminders, follow these steps:
 
-1. Navigate to **Human Resources** &gt; **Employees** 
+1. Navigate to **Human Resources** > **Employees** 
 
     ![This screenshot demonstrates where the Employee menu is located. A red box surrounds the menu buttons "Human Resources" and then "Employees" in the menu sidebar.](<../Employee Menu Location.png>)
 

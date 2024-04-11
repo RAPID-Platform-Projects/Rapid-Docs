@@ -37,7 +37,7 @@ This component enables you to display websites and webpages onto your Rapid Page
        - This table has a column titled **loc\_info** - which contains wikipedia page id for subject item.
        - An item of this table is Brisbane.
        - The loc\_info field of this item contains value "**wiki/brisbane**".
-       - The External Page component can be configured to show "**https://wikipedia.org/&lt;%-value.loc\_info%&gt;**"
+       - The External Page component can be configured to show "**https://wikipedia.org/<%-value.loc\_info%>**"
        - The system will display the portion of the page with url - "**https://wikipedia.org/wiki/brisbane**" by substituting the value of the column.
     - In this manner a dynamic value can be passed to the External Page component.
 

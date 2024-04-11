@@ -8,7 +8,7 @@ Contacts can be created without an associated lead. This is done in the same way
 
 ### How to create a new Contact
 
-1. Navigate to the Contacts table via CRM &gt; Contacts.  
+1. Navigate to the Contacts table via CRM > Contacts.  
 
     ![Navigate to Contacts](<Side bar navigate to Contacts.png>)
 
@@ -26,7 +26,7 @@ Contacts can be created without an associated lead. This is done in the same way
 
 ### How to edit a Contact
 
-1. Navigate to the Contacts table via CRM &gt; Contacts.  
+1. Navigate to the Contacts table via CRM > Contacts.  
 
     ![Navigate to Contacts](<Side bar navigate to Contacts.png>)
 
@@ -48,7 +48,7 @@ However, if you need to delete a Contact due to incorrect data entry or a duplic
 
 #### How to delete multiple Contacts from the Contacts list page
 
-1. Navigate to the Contacts table via CRM &gt; Contacts.  
+1. Navigate to the Contacts table via CRM > Contacts.  
 
     ![Navigate to Contacts](<Side bar navigate to Contacts.png>)
 
@@ -60,7 +60,7 @@ However, if you need to delete a Contact due to incorrect data entry or a duplic
 
 #### How to delete a single Contact from the Contact Details page
 
-1. Navigate to the Contacts table via CRM &gt; Contacts. 
+1. Navigate to the Contacts table via CRM > Contacts. 
 
     ![Navigate to Contacts](<Side bar navigate to Contacts.png>)
 

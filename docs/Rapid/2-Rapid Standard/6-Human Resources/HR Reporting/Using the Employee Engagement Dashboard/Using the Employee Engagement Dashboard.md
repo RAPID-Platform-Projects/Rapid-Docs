@@ -6,7 +6,7 @@ As part of the HR module, you are provided with an Out-Of-The-Box Employee Engag
 
 ### How to Access the Employee Engagement Dashboard
 
-1. Navigate to **Human Resources** &gt; **Employees**  
+1. Navigate to **Human Resources** > **Employees**  
 
     ![Sidebar menu location of employees dashboard](<Sidebar menu location of employees dashboard.png>)
 

@@ -10,7 +10,7 @@ There are three ways to create tasks in the context of a project: from the tasks
 
 ## How to create a task from a Project tasks list, task board, or Gantt Chart
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Side bar navigate to Projects](<Side bar navigate to projects.png>)
 
@@ -43,7 +43,7 @@ There are three ways to create tasks in the context of a project: from the tasks
 
 ## How to edit a Task from within a Project
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Side bar navigate to Projects](<Side bar navigate to projects.png>)
 

@@ -8,7 +8,7 @@ The process is triggered manually from within the project item you wish to “Wr
 
 ### How to trigger the Wrap-Up Project Process
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Side menu navigate to projects](<Side menu navigate to wrap up projects.png>)
 

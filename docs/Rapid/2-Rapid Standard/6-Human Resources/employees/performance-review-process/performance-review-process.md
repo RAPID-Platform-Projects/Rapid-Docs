@@ -10,7 +10,7 @@ The process is triggered in two ways:
 
 1. **Automated Trigger:** On creation of the employee, if the **Trigger Performance Reviews** boolean is set to "Yes", the process will be triggered automatically for this employee.
 2. **Manual Trigger:** The second way to trigger the process is by creating a “Performance Review” item. 
-    1. On the explorer side bar, click **Human Resources** &gt; **Performance Reviews**
+    1. On the explorer side bar, click **Human Resources** > **Performance Reviews**
 
         ![A screenshot that shows how to navigate Performance Review using the sidebar](<Side bar navigate to performance review.png>)
 

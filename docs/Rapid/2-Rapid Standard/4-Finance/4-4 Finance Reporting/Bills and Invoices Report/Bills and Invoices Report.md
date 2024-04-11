@@ -1,7 +1,7 @@
 # Bills and Invoices Report
 
 ## Accessing the Bills and Invoices Report
-1. Navigate to the **Finance** &gt; **Finance Report**
+1. Navigate to the **Finance** > **Finance Report**
 2. Select the **Bills and Invoices** tab
 
 ## Sections

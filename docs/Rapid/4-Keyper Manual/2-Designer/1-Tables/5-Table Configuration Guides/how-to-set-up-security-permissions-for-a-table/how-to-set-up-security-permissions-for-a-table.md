@@ -11,7 +11,7 @@ You can easily manage permissions on your subject table.
 
 To achieve so you can follow the below steps:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to designer](NaviagetToDesigner.png)
 
@@ -38,7 +38,7 @@ To achieve so you can follow the below steps:
 
 ## Removing User or Group Permissions from a Table
 
-1. Navigate to Designer &gt; Tables &gt; All Tables
+1. Navigate to Designer > Tables > All Tables
 
     ![Navigate to designer](NaviagetToDesigner.png)
 
@@ -68,7 +68,7 @@ Placeholder permissions specifically relate to a User column. By default, all ta
 
 To configure placeholder permissions, follow the steps below:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
   ![Navigate to designer](NaviagetToDesigner.png)
 

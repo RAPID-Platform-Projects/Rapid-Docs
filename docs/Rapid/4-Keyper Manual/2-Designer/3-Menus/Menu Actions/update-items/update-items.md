@@ -10,7 +10,7 @@ For example - updating the status of tasks as complete with a click of a menu bu
 
 ## How to configure an "Update Items" menu button
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list)  
     ![Open your table](<../../../Open Table.png>)

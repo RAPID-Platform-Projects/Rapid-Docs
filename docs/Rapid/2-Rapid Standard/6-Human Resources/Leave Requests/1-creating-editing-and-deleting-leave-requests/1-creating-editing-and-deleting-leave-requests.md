@@ -13,7 +13,7 @@ Leave requests can be created in two ways: through a public form and through the
 
 #### How to Create a Leave Request through the Leave Requests Table in Explorer
 
-1. Click **Human Resources** &gt; **Leave Requests** 
+1. Click **Human Resources** > **Leave Requests** 
 
     ![Alt text](<Navigating to leave requests.png>)
 
@@ -35,7 +35,7 @@ If you are taking advantage of the “Leave Request Approval” process it is NO
 
 In the case that you may not be using the Leave Request Approval process in your system you can edit leave requests by following the steps below:
 
-1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**.  
+1. Navigate to the leave requests table by clicking on the **Human Resources** > **Leave Requests**.  
 
     ![A screenshot depicting how to navigate to leave requests using the sidebar menu](<Navigating to leave requests.png>)
 
@@ -59,7 +59,7 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 
 #### How to Delete Multiple Leave Requests from the List Page
 
-1. Navigate to **Human Resources** &gt; **Leave Requests  
+1. Navigate to **Human Resources** > **Leave Requests  
 
     ![A screenshot depicting how to navigate to leave requests using the sidebar menu.](<Navigating to leave requests.png>)
 
@@ -73,7 +73,7 @@ However, if you need to delete a leave request due to a duplicate entry, you can
 
 #### How to Delete a Single Leave Request from the Item Page
 
-1. Navigate to the leave requests table by clicking on the **Human Resources** &gt; **Leave Requests**. 
+1. Navigate to the leave requests table by clicking on the **Human Resources** > **Leave Requests**. 
 
     ![A screenshot depicting how to navigate to leave requests using the sidebar menu.](<Navigating to leave requests.png>)
 

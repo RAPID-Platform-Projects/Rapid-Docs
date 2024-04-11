@@ -37,7 +37,7 @@ An embedded form can be only used for Tasks Table and Sub-type of Tasks Table(s)
 
 :::note[Please note:]
 
-- In Rapid Platform, you can configure the Embedded Form via a Workflow Diagram. A workflow diagram has a specific section under User Task titled - "Form Details". You can learn more about it here. **&lt;&lt;PROVIDE LINK TO WORKFLOW PAGE&gt;&gt; 
+- In Rapid Platform, you can configure the Embedded Form via a Workflow Diagram. A workflow diagram has a specific section under User Task titled - "Form Details". You can learn more about it here. **<<PROVIDE LINK TO WORKFLOW PAGE>> 
 :::
 
     ![Embedded form in workflow configuration](<Embedded form in workflow configuration.png>)

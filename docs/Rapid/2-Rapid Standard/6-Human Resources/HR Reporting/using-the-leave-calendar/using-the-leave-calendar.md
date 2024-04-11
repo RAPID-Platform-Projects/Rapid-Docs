@@ -8,7 +8,7 @@ If you want to customise the calendar to show other important dates, this is pos
 
 ### How to Access the HR Calendar
 
-1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting**  
+1. On the Explorer sidebar click **Human Resources** > **HR Reporting**  
 
     ![A screenshot that depicts how to use Eplorer's side bar to navigate to the HR Leave Calendar](<Side bar navigate to Leave Calendar.png>)
 

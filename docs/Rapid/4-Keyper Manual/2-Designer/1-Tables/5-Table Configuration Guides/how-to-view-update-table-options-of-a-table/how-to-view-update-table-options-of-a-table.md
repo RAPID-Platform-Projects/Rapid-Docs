@@ -4,7 +4,7 @@ You can view and update table options for an existing table.
 
 ### How to reach the 'Table Options' tab
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Designer](../../NavigateToDesignerTablesAllTablesImg.png)
 

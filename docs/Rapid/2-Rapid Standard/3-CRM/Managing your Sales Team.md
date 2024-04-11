@@ -8,7 +8,7 @@ This allows the Sales Team to easily have visibility of all of their tasks and a
 
 ## How to add a user to the Sales Team
 
-1. Navigate to the Users &amp; Groups table by clicking System &gt; Settings &gt; Users &amp; Groups  
+1. Navigate to the Users &amp; Groups table by clicking System > Settings > Users &amp; Groups  
 
     ![Navigate to users and groups](<Navigate to Users and Groups.png>)
 
@@ -18,7 +18,7 @@ This allows the Sales Team to easily have visibility of all of their tasks and a
 
 ## How to remove a user / users from the Sales Team
 
-1. Navigate to the Users &amp; Groups table by clicking System &gt; Settings &gt; Users &amp; Groups  
+1. Navigate to the Users &amp; Groups table by clicking System > Settings > Users &amp; Groups  
 
     ![Navigate to users and groups](<Navigate to Users and Groups.png>)
 

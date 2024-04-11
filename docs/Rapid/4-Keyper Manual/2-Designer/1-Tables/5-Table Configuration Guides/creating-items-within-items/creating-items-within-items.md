@@ -16,7 +16,7 @@ You have two tables - **Invoices** and **Payments.**
 
 Follow the steps below for how to add a table in the context of another table:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Designer](<Navigate to Designer.png>)
 
@@ -47,7 +47,7 @@ Follow the steps below for how to add a table in the context of another table:
 
     ![image-1702339843053.png](./downloaded_image_1705285634605.png)
 
-8. Open an item &gt; Press on the newly created tab &gt; and create a linked item  
+8. Open an item > Press on the newly created tab > and create a linked item  
 
     ![image-1702339938343.png](./downloaded_image_1705285635618.png)
 

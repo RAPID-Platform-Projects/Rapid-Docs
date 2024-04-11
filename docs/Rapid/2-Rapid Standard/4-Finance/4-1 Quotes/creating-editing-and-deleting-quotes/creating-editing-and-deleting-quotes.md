@@ -6,7 +6,7 @@ The Finance module includes the ability to create and manage quotes.
 
 ### How to create a Quote
 
-1. Navigate to the **Finance** &gt; **Quotes**  
+1. Navigate to the **Finance** > **Quotes**  
 
     ![Navigate to Quotes](downloaded_image_1705285359965.png)
 
@@ -43,7 +43,7 @@ The Finance module includes the ability to create and manage quotes.
 
 ### How to Edit a Quote
 
-1. Navigate to the **Finance** &gt; **Quotes**  
+1. Navigate to the **Finance** > **Quotes**  
 
     ![Navigate to Quotes](downloaded_image_1705285359965.png)
 
@@ -66,7 +66,7 @@ It is not recommended to delete a Quote instead, change its status to "VOIDED." 
 
 However, if you need to delete a Quote due to incorrect data entry or a duplicate entry, you can do so as described below.
 
-1. Navigate to the **Finance** &gt; **Quotes**  
+1. Navigate to the **Finance** > **Quotes**  
 
     ![Navigate to Quotes](downloaded_image_1705285359965.png)
 

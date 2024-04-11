@@ -6,7 +6,7 @@ As part of the Finance module comes the ability to automatically generate an inv
 
 ### How to Generate an Invoice from a Quote
 
-1. Navigate to the **Finance** &gt; **Quotes**  
+1. Navigate to the **Finance** > **Quotes**  
 
     ![Navigate to Quotes](<Side bar navigate to Quotes.png>)
 

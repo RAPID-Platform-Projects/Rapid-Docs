@@ -32,10 +32,10 @@ Rule based filtering allows you to narrow down the data set with more precision 
 
 - Exact string match: Only returns rows where the specified column is an exact match to the input string. This is denoted by the '=' symbol.
 - Does not equal: Only returns rows where the specified column is not equal to the input string. This is denoted by the '!=' symbol.
-- Greater than: Returns rows where the specified column is a greater number than input. his is denoted by the '&gt;=' symbol.
-- Greater than or equal: As above but also includes equal to. This is denoted by the '&gt;=' symbol.
-- Less than: Returns rows where the specified column is a smaller number than input. This is denoted by the '&lt;' symbol.
-- Less than or equal: As above but also includes equal to. This is denoted by the '&lt;=' symbol.
+- Greater than: Returns rows where the specified column is a greater number than input. his is denoted by the '>=' symbol.
+- Greater than or equal: As above but also includes equal to. This is denoted by the '>=' symbol.
+- Less than: Returns rows where the specified column is a smaller number than input. This is denoted by the '<' symbol.
+- Less than or equal: As above but also includes equal to. This is denoted by the '<=' symbol.
 - Partial string match: Performs a partial string match. This is denoted by the 'contains' choice.
 
 💡 It is also important to note that all symbols can be used for strings as well as integers.

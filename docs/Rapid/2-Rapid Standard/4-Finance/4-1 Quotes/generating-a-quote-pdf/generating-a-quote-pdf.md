@@ -8,7 +8,7 @@ As part of the Finance module comes the ability to automatically generate a Quot
 
 Follow the steps below to generate and access the Quote PDF (and Word Document).
 
-1. Navigate to the **Finance** &gt; **Quotes**  
+1. Navigate to the **Finance** > **Quotes**  
 
     ![Navigating to Quotes](downloaded_image_1705285497333.png)
 

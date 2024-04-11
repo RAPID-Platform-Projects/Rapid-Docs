@@ -270,7 +270,7 @@ Task - An item in the system default task entity.
 
 Page Layout- Refers to either Desktop, Tablet or Mobile layout. A single page will display different for each layout.
 
-Desktop Layout - One of three layouts able to be modified for an entity in RAPID Designer (&gt;1300px wide).
+Desktop Layout - One of three layouts able to be modified for an entity in RAPID Designer (>1300px wide).
 
 Tablet Layout - One of three layouts able to be modified for an entity in RAPID Designer (1300px wide).
 

@@ -45,7 +45,7 @@ Let us try to simulate Link Inheritance with this information.
 To view Notes created in an item of Tasks in linked item of Project Risks. The Tasks item can be updated by a team-mate assigned to the subject task. Let us assume that the Task item **Notes** are updated with Risks to the Project. These notes should be visible in the corresponding Project Risks Table item. The Project Manager can view the Project Risks Table and hence will take cognisance of the Risks updated in the notes.
 
 1. Navigate to the Notes Table in Designer 
-    1. Navigate to Designer &gt; Tables &gt; All Tables 
+    1. Navigate to Designer > Tables > All Tables 
 
         ![Navigate to designer](../../NavigateToDesignerTablesAllTablesImg.png)
 

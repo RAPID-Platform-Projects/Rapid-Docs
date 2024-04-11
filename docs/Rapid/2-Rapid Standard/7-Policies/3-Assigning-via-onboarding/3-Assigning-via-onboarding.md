@@ -12,7 +12,7 @@ To do this simply follow the steps on the “Create, edit, or delete and employe
 
 ## How to assign policies for an employee to acknowledge on creation of the employee item
 
-1. Navigate to Human Resources &gt; Employees  
+1. Navigate to Human Resources > Employees  
 
     ![Step 1](<Step 1.png>)
 

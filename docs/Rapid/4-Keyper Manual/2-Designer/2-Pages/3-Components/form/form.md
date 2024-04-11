@@ -47,7 +47,7 @@ While a Form component is present by default on the Item Details Tab, you can ad
     ![Blank form example](<Blank form example.png>)
     - Please note the following two options:
 
-**1. Add all &lt;*Table\_name*&gt; columns** - If you click on this option, the Form component will include all the existing columns to it. (Please note - the system built-in columns would not be included)  
+**1. Add all <*Table\_name*> columns** - If you click on this option, the Form component will include all the existing columns to it. (Please note - the system built-in columns would not be included)  
 
 ![Add all fields to a form adds everything](<Add all fields to a form.png>)
   

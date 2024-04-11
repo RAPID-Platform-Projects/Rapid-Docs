@@ -10,7 +10,7 @@ The process is triggered in two ways:
 
 1. **Automated Trigger:** On creation of the employee, if the **Trigger Probation Reviews** toggle is set to "Yes", the process will be automatically triggered for this employee.
 2. **Manual Trigger:** The second way to trigger this process is by creating a “Probation Review” item.
-    1. On the explorer side bar click **Human Resources** &gt; **Probation Reviews** 
+    1. On the explorer side bar click **Human Resources** > **Probation Reviews** 
     
     ![A screenshot depicting how to navigate via the sidebar to "Probation Reviews"](<Sidebar navigate to probation reviews.png>)
 

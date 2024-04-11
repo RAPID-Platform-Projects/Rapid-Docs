@@ -1,7 +1,7 @@
 # Quotes Report
 
 ## Accessing the Quotes Report
-1. Navigate to the **Finance** &gt; **Finance Report**
+1. Navigate to the **Finance** > **Finance Report**
 2. Select the **Quotes** tab
 
 ## Sections

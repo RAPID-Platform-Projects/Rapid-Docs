@@ -6,7 +6,7 @@ The HR Dashboard offers valuable employee-related statistics, such as turnover, 
 
 ### How to Access the HR Dashboard
 
-1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting** 
+1. On the Explorer sidebar click **Human Resources** > **HR Reporting** 
 
     ![Side bar navigate to HR report page](<Side bar navigate to HR report page.png>)
 

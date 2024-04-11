@@ -2,7 +2,7 @@
 
 ## How to Create a new Employee
 
-1. Navigate to **Human Resources** &gt; **Employees**  
+1. Navigate to **Human Resources** > **Employees**  
 
     ![A screenshot that depicts the Employee menu location. The screenshot is annotated with two red boxes to show that the user must click on "Human Resources" and then "Employees"](<../Employee Menu Location.png>)
 
@@ -28,7 +28,7 @@
 
 ## How to edit an Employee item
 
-1. Navigate to **Human Resources** &gt; **Employees**  
+1. Navigate to **Human Resources** > **Employees**  
 
     ![A screenshot that depicts the Employee menu location. The screenshot is annotated with two red boxes to show that the user must click on "Human Resources" and then "Employees"](<../Employee Menu Location.png>)
 
@@ -52,7 +52,7 @@ However, if you need to delete an employee due to incorrect data entry or a dupl
 
 ### How to delete multiple employees from the list page
 
-1. Navigate to Human Resources &gt; Employees  
+1. Navigate to Human Resources > Employees  
 
     ![A screenshot that depicts the Employee menu location. The screenshot is annotated with two red boxes to show that the user must click on "Human Resources" and then "Employees"](<../Employee Menu Location.png>)
 
@@ -66,7 +66,7 @@ However, if you need to delete an employee due to incorrect data entry or a dupl
 
 ### How to delete a single employee from employee page
 
-1. Navigate to Human Resources &gt; Employees 
+1. Navigate to Human Resources > Employees 
 
     ![A screenshot that depicts the Employee menu location. The screenshot is annotated with two red boxes to show that the user must click on "Human Resources" and then "Employees"](<../Employee Menu Location.png>)
 

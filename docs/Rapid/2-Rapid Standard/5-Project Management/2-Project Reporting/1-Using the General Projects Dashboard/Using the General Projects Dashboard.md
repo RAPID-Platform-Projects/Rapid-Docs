@@ -6,7 +6,7 @@ Two reports are linked to the project's module. The first is an item-level repor
 
 ## How to access the General Projects Dashboard
 
-1. Navigate to **Projects** &gt; **Project Reporting**  
+1. Navigate to **Projects** > **Project Reporting**  
 
    ![Side bar navigate to projects dashboard](<Side bar navigate to projects dashboard.png>)
 

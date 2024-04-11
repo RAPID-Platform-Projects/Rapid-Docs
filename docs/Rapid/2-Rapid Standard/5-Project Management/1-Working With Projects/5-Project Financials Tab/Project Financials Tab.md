@@ -8,7 +8,7 @@ Budgets are found under the scoping tab and under the financials tab. Both locat
 
 ### How to create an Invoice or Quote in the Context of a Project
 
-1. Navigate to **Projects** &gt; **Projects** 
+1. Navigate to **Projects** > **Projects** 
 
     ![Side bar navigate to projects](<Side bar navigate to projects.png>)
 
@@ -16,7 +16,7 @@ Budgets are found under the scoping tab and under the financials tab. Both locat
 
     ![Open a project](<Open a project.png>)
 
-3. Click **Financials** &gt; **Invoices** or **Quotes**  
+3. Click **Financials** > **Invoices** or **Quotes**  
 
     ![Navigate to the invoices or quotes tab](<Navigate to the invoices or quotes tab.png>)
 

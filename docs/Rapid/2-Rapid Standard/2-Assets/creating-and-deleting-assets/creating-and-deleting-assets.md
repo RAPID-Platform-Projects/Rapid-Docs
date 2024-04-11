@@ -4,7 +4,7 @@ Creating, editing, or deleting assets is the same process for each of the three 
 
 ## How to create an Asset (Asset, IT Asset, Vehicle)
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**
+1. On the Explorer sidebar, click **Assets** > **Assets**
 
     ![Navigating to assets](<Navigating to Assets.png>)
 
@@ -30,7 +30,7 @@ Creating, editing, or deleting assets is the same process for each of the three 
 
 ## How to Edit and Asset (Asset, IT Asset, Vehicle)
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
+1. On the Explorer sidebar, click **Assets** > **Assets**  
 
     ![Navigating to assets](<Navigating to Assets.png>)
 
@@ -58,7 +58,7 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 
 **Deleting from the list:**
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
+1. On the Explorer sidebar, click **Assets** > **Assets**  
 
     ![Navigating to assets](<Navigating to Assets.png>)
 
@@ -76,7 +76,7 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 
 **Deleting from the asset page:**
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**
+1. On the Explorer sidebar, click **Assets** > **Assets**
 
     ![Navigating to assets](<Navigating to Assets.png>)
 

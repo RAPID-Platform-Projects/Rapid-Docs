@@ -10,7 +10,7 @@ The URL can be anything from a Public Form, to even a website address.
 
 ## How to configure a "Open Hyperlink" menu button
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Step 1](menus-open-hyperlink-step-1.png)
 2. Open your desired table. (Find your desired table by using the search bar or scrolling through the list) 

@@ -8,7 +8,7 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 
 ### How to create the Project Item
 
-1. Click on Projects &gt; Projects 
+1. Click on Projects > Projects 
 
     ![A screenshot showing how to navigate to the Projects table from the explorer side bar](./downloaded_image_1705285331639.png)
 
@@ -47,7 +47,7 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 
 ### How to edit the Project Item
 
-1. Click on **Projects** &gt; **Projects**  
+1. Click on **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the projects table](./downloaded_image_1705285331639.png)
 
@@ -65,7 +65,7 @@ Projects, unlike most other lists, contain subitems. This means when creating, e
 
 ### How to Edit a Project's Objectives, Deliverables, Risks, Exclusions, and Budgets
 
-1. Click on **Projects** &gt; **Projects**  
+1. Click on **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the Projects table](./downloaded_image_1705285331639.png)
 
@@ -103,7 +103,7 @@ However, deleting the project will not delete the subitems (Objectives, Delivera
 
 ### How to delete a Project's Sub-Items (Objectives, Deliverables, Risks, Exclusions, and Budgets)
 
-1. Click on **Projects** &gt; **Projects**  
+1. Click on **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the Projects table](./downloaded_image_1705285331639.png)
 
@@ -129,7 +129,7 @@ However, deleting the project will not delete the subitems (Objectives, Delivera
 
 ### How to Delete a Project Item
 
-1. Click on **Projects** &gt; **Projects**  
+1. Click on **Projects** > **Projects**  
 
     ![A screenshot showing how to navigate to the Projects table](./downloaded_image_1705285331639.png)
 

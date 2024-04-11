@@ -18,7 +18,7 @@ To learn more about how to create sub-type tables read our documentation on [Tab
 
 **To check whether your desired table is a subtype of Tasks or not, please follow the below points:**
 
-1. Navigate to Designer &gt; Tables &gt; All Tables
+1. Navigate to Designer > Tables > All Tables
 2. Check the "Subtype Of" column for your desired table
 3. If it is a subtype of the "Tasks" table then you can make a Gantt from this.
 
@@ -30,7 +30,7 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
 
 **Please consider the following steps for configuring a Gantt Chart for your Table.**
 
-1. Navigate to Designer &gt; Tables &gt; All Tables
+1. Navigate to Designer > Tables > All Tables
 
     ![image-1702247570296.png](./downloaded_image_1705285577323.png)
 2. Open the Table you wish to configure a Gantt Chart on. (You can scroll through the list or use the search bar to find the table)

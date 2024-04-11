@@ -8,7 +8,7 @@ When a lead has been **Converted** this will create an Account, Contact, and Opp
 
 ### How to Convert a Lead
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select CRM > Leads  
 
     ![Navigate to Leads](<Side bar navigate to CRM Leads.png>)
 
@@ -24,7 +24,7 @@ When a lead has been **Converted** this will create an Account, Contact, and Opp
 
     ![Press the Convert Lead button](<Screenshot 2024-03-13 at 8.41.26 am.png>)
 
-5. To navigate to the newly created Contact, Account or Opportunity, please do so via Explorer &gt; CRM
+5. To navigate to the newly created Contact, Account or Opportunity, please do so via Explorer > CRM
 
     ![Navigate to newly created Contact, Account or Opportunity](<Screenshot 2024-03-13 at 8.44.36 am.png>)
 

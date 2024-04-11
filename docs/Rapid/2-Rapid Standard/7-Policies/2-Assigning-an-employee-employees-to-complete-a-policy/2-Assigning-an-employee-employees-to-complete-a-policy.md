@@ -6,7 +6,7 @@ An employee can easily be assigned a task to complete policies.
 
 ### How to assign employees to acknowledge a policy
 
-1. Navigate to HR &gt; Employees  
+1. Navigate to HR > Employees  
 
     ![Navigate to Employees](<../3-Assigning-via-onboarding/Step 1.png>)
     

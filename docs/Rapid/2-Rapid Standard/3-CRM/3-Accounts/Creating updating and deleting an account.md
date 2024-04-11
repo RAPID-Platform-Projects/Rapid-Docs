@@ -8,7 +8,7 @@ Accounts represent the various businesses that your organisation interacts with,
 
 Accounts can be created via two methods. The first is through the Lead conversion button, where an Account will automatically be created with the relevant lead details (More information on this method can be found here: [Converting a Lead](../1-Leads/3-Converting-a-Lead/3-Converting-a-Lead.md)). The second method, like many other items is through the table list page and those steps can be found below.
 
-1. In Explorer select CRM &gt; Accounts  
+1. In Explorer select CRM > Accounts  
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 
@@ -25,7 +25,7 @@ Accounts can be created via two methods. The first is through the Lead conversio
 
 ### How to edit an Account
 
-1. In Explorer select CRM &gt; Accounts  
+1. In Explorer select CRM > Accounts  
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 
@@ -49,7 +49,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
 #### How to delete multiple Accounts at once
 
-1. In Explorer select CRM &gt; Accounts  
+1. In Explorer select CRM > Accounts  
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 
@@ -61,7 +61,7 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
 #### How to delete a single Account from the Accounts page
 
-1. In Explorer select CRM &gt; Accounts  
+1. In Explorer select CRM > Accounts  
 
     ![Navigate to Accounts](<Navigate to Accounts.png>)
 

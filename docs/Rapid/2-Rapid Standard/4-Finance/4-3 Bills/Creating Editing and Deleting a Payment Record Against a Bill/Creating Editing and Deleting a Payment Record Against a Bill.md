@@ -6,7 +6,7 @@ The Accounts module can add payments against an invoice or bill. This allows you
 
 ### How to create a Payment Item Against a Bill
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills Table](<../Creating Editing and Deleting Bills/navigate-to-bills.png>)
 
@@ -29,7 +29,7 @@ The Accounts module can add payments against an invoice or bill. This allows you
 
 ### How to Edit a Payment Item Against a Bill
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills Table](<../Creating Editing and Deleting Bills/navigate-to-bills.png>)
 
@@ -51,7 +51,7 @@ The Accounts module can add payments against an invoice or bill. This allows you
 
 Deleting a payment works differently than deleting other items in Rapid as we only offer the ability to “soft” delete these items. This means the record is retained in the system but the status is changed to “DELETED”. Follow the steps below to do so.
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills Table](<../Creating Editing and Deleting Bills/navigate-to-bills.png>)
 

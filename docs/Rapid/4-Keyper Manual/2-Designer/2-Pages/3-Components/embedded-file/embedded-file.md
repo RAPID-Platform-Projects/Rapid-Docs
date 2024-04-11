@@ -112,7 +112,7 @@ If you have added an Embedded File component via the Options Tab method, then it
 :::note[Please note:]
 
 - The Embedded File component set up via Options Tab and Embedded file component added via components panel, both point to the same file and same folder. Therefore, if you have both components added from both methods, they will mirror each other's behaviour.
-- There is another way to configure Embedded Files - from the Workflow Diagram. This provides the ability to pass dynamic referencing to SharePoint folders. &lt;&lt;Provide REFERENCE TO WORKFLOW DISCUSSION&gt;&gt;  
+- There is another way to configure Embedded Files - from the Workflow Diagram. This provides the ability to pass dynamic referencing to SharePoint folders. <<Provide REFERENCE TO WORKFLOW DISCUSSION>>  
 
     ![Workflow embedded file configuration](<Workflow embedded file configuration.png>)
 

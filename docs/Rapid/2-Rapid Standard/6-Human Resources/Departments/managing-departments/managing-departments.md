@@ -2,7 +2,7 @@
 
 ### How to create a new Department
 
-1. Navigate to **Human Resources** &gt; **Departments**  
+1. Navigate to **Human Resources** > **Departments**  
 
     ![This image is a screenshot that depicts the user navigating to the "Departments" page of Rapid Platform. The image contains two red boxes which indicate what items to click on the sidebar. One red box surrounds the "Human Resources" menu item, and the other box surrounds the "Departments" menu item.](<Navigate to departments.png>)
 
@@ -20,7 +20,7 @@
 
 ### How to edit a Department
 
-1. Navigate to **Human Resources** &gt; **Departments** 
+1. Navigate to **Human Resources** > **Departments** 
 
     ![This image is a screenshot that depicts the user navigating to the "Departments" page of Rapid Platform. The image contains two red boxes which indicate what items to click on the sidebar. One red box surrounds the "Human Resources" menu item, and the other box surrounds the "Departments" menu item.](<Navigate to departments.png>)
 
@@ -42,7 +42,7 @@ However, if you need to delete a department due to incorrect data entry or a dup
 
 #### How to Delete Multiple Departments from the List page
 
-1. Navigate to Human Resources &gt; Departments  
+1. Navigate to Human Resources > Departments  
 
     ![This image is a screenshot that depicts the user navigating to the "Departments" page of Rapid Platform. The image contains two red boxes which indicate what items to click on the sidebar. One red box surrounds the "Human Resources" menu item, and the other box surrounds the "Departments" menu item.](<Navigate to departments.png>)
 
@@ -56,7 +56,7 @@ However, if you need to delete a department due to incorrect data entry or a dup
 
 #### How to Delete a single Department from the item page
 
-1. Navigate to **Human Resources** &gt; **Departments**
+1. Navigate to **Human Resources** > **Departments**
 
     ![This image is a screenshot that depicts the user navigating to the "Departments" page of Rapid Platform. The image contains two red boxes which indicate what items to click on the sidebar. One red box surrounds the "Human Resources" menu item, and the other box surrounds the "Departments" menu item.](<Navigate to departments.png>)
 

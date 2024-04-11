@@ -6,7 +6,7 @@ The Accounts module includes the ability to create and manage bills. Along with 
 
 ### How to create a Quote
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills](navigate-to-bills.png)
 
@@ -43,7 +43,7 @@ The Accounts module includes the ability to create and manage bills. Along with 
 
 ### How to Edit a Bill
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills](navigate-to-bills.png)
 
@@ -66,7 +66,7 @@ It is not recommended to delete a bill instead, change its status to **VOIDED**.
 
 However, if you need to delete a Bill due to incorrect data entry or a duplicate entry, you can do so as described below.
 
-1. Navigate to the **Finance** &gt; **Bills**  
+1. Navigate to the **Finance** > **Bills**  
 
     ![Navigate to Bills](navigate-to-bills.png)
 

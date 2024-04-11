@@ -30,7 +30,7 @@ POST: https://login.microsoftonline.com/contoso.onmicrosoft.com/oauth2/token
 ### Generate Auth
 
 - To generate auth you are gonna need the client-id, the client-secret and the scope uri from the first step
-- The url looks like this -&gt;  
+- The url looks like this ->  
 ```
 POST 
 https://login.microsoftonline.com/{tenant name}.onmicrosoft.com/oauth2/v2.0/token
@@ -56,7 +56,7 @@ All the keys above are mandatory.
 - The grant\_type is the type of token you are requesting, in this case we are wanting a application token
 - The grant\_type for an application token is client\_credentials
 
-This is based on the grant flow from Microsoft -&gt; [https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
+This is based on the grant flow from Microsoft -> [https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-client-creds-grant-flow)
 
 The scope is the Application ID URI attaching the scopes to the requested token
 

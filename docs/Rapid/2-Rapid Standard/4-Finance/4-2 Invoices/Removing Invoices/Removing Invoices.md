@@ -6,7 +6,7 @@ The Accounts module includes the ability to create and manage invoices. Along wi
 
 ### How to create a Quote
 
-1. Navigate to the **Finance** &gt; **Invoices**  
+1. Navigate to the **Finance** > **Invoices**  
 
     ![Navigate to Invoices](navigate-to-invoices.png)
 
@@ -43,7 +43,7 @@ The Accounts module includes the ability to create and manage invoices. Along wi
 
 ### How to Edit an Invoice
 
-1. Navigate to the **Finance** &gt; **Invoices**  
+1. Navigate to the **Finance** > **Invoices**  
 
     ![Navigate to Invoices](navigate-to-invoices.png)
 
@@ -66,7 +66,7 @@ It is not recommended to delete an Invoice instead, change its status to "VOIDED
 
 However, if you need to delete an Invoice due to incorrect data entry or a duplicate entry, you can do so as described below.
 
-1. Navigate to the **Finance** &gt; **Invoices**  
+1. Navigate to the **Finance** > **Invoices**  
 
     ![Navigate to Invoices](navigate-to-invoices.png)
 

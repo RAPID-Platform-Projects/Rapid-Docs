@@ -18,7 +18,7 @@ Every table in your Rapid System has a views tab in its configuration. Here you 
 
 Follow the steps below the access the views tab for a table:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables 
+1. Navigate to Designer > Tables > All Tables 
 
     ![Navigate to Tables](<Navigate to Tables.png>)
 
@@ -47,7 +47,7 @@ When a Table View is locked, it is not editable by a user in explorer. You canno
 
 To lock a table view follow the steps below:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Tables](<Navigate to Tables.png>)
 
@@ -69,7 +69,7 @@ When a Table View is unlocked, it is editable by a user in explorer. You can alt
 
 To unlock a table view follow the steps below:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Tables](<Navigate to Tables.png>)
 
@@ -110,7 +110,7 @@ Visibility refers to whether the subject Table View is visible in Explorer for a
 
 Follow the steps below to make a table view visible / not visible to users in explorer:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Tables](<Navigate to Tables.png>)
 
@@ -134,7 +134,7 @@ Please refer to the video below for additional information.
 
 If a view is no longer in use and you want to remove it from the table you have the ability to delete it. To do so follow the steps below:
 
-1. Navigate to Designer &gt; Tables &gt; All Tables  
+1. Navigate to Designer > Tables > All Tables  
 
     ![Navigate to Tables](<Navigate to Tables.png>)
 

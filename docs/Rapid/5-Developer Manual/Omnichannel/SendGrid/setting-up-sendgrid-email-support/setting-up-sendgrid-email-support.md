@@ -24,7 +24,7 @@ Before you start you will need
 
 This API Key configuration can be modified later if additional keys are required
 
-To create a service registration navigate to Designer in your site, &lt;Add how to use the UI with screenshots&gt;
+To create a service registration navigate to Designer in your site, <Add how to use the UI with screenshots>
 
 Once a registration is created you can now use it's generated key to interact with the Omnichannel API.
 
@@ -47,12 +47,12 @@ Next, in SendGrid navigate to the Inbound Parse section (under settings) and add
 3. Paste the Webhook URL from the RAPID integration into the destination URL
 4. Ensure that both Check incoming emails for spam and POST the raw, full MIME message are unchecked
 
-With this set up all email traffic that is sent to &lt;anything&gt;@&lt;subdomain&gt;.&lt;domain&gt; will now
+With this set up all email traffic that is sent to <anything>@<subdomain>.<domain> will now
 
 - Create an external contact (if required) in your site
 - Add the sent email as a note against the external contact 
     - This will use the inherited links system if you want to see notes in other, related contexts
-- Forward the email to &lt;anything&gt;@&lt;domain&gt; so you can see the sent email in your inbox
+- Forward the email to <anything>@<domain> so you can see the sent email in your inbox
 
 ## Using the Omnichannel API
 
@@ -95,7 +95,7 @@ Reply To Alias : $.replyTo.name
 
 SendGrid have two modes when displaying dynamic content on a template.
 
-Double moustache syntax \{\{}} will be rendered safely. This means any rich text will display html tags in the email itself &lt;p&gt; like so &lt;/p&gt;.
+Double moustache syntax \{\{}} will be rendered safely. This means any rich text will display html tags in the email itself <p> like so </p>.
 
 Triple moustache syntax \{\{\{}}} will be rendered raw. This will render any html tags in your content directly
 

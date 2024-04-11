@@ -6,7 +6,7 @@ The task board is a great way to visualise the status of each of the project’s
 
 ## How to access a Projects Task Board
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -24,7 +24,7 @@ The task board is a great way to visualise the status of each of the project’s
 
 ## How to change the status of a task using the tasks board
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -57,7 +57,7 @@ The task board is a great way to visualise the status of each of the project’s
 
 The default view on the Task Board is the **My Tasks – All** view which shows all tasks assigned to the user or a group the user is a part of. This view can be changed to the **All** view to show all tasks in the project irrespective of who it is assigned to. To do this follow the steps below.
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 
@@ -85,7 +85,7 @@ The default view on the Task Board is the **My Tasks – All** view which shows 
 
 ## How to edit a task from a Project's task board
 
-1. Navigate to **Projects** &gt; **Projects**  
+1. Navigate to **Projects** > **Projects**  
 
     ![Navigate to Projects](<Navigate to Projects.png>)
 

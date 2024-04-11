@@ -94,7 +94,7 @@ Please note:
 4. Toggle whether the Embedded File Bar should be visible on the page or not. 
     ![Embedded files toggled on](<Embedded files toggled on.png>)
     ![Embedded files toggled off](<Embedded files toggled off.png>)
-5. Remove a Tab from the Tab Strip (by pressing the bin icon in the far right of the subject Tab row) &lt;&lt;
+5. Remove a Tab from the Tab Strip (by pressing the bin icon in the far right of the subject Tab row) <<
 6. Select a Tab by clicking on the Tab row. A tick mark indicates that the subject Tab is selected 
     ![Filling in the details of the chosen tab](<Filling in the details of a chose tab.png>)
 7. As you select a Tab, the Tab particulars open. Here you can : 

@@ -73,7 +73,7 @@ You can easy toggle between making a column present and absent from All View by 
 ## How to edit parameters of an existing column
 
 1. Double click on the column name.
-2. As the column gets selected, a right panel will open with heading "Edit &lt;column name&gt;".
+2. As the column gets selected, a right panel will open with heading "Edit <column name>".
 3. You can edit the title or make changes based on the column type.
 
 :::note[Please note:]

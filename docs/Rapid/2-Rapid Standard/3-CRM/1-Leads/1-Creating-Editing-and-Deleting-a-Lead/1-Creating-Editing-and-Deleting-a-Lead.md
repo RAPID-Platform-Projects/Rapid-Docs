@@ -6,7 +6,7 @@ In Customer Relationship Management (CRM), a "lead" refers to a person or entity
 
 ### How to create a New Lead
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select CRM > Leads  
 
     ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
@@ -26,7 +26,7 @@ In Customer Relationship Management (CRM), a "lead" refers to a person or entity
 
 ### How to edit a Lead
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select CRM > Leads  
 
     ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
@@ -54,7 +54,7 @@ However, if you need to delete a lead due to incorrect data entry or a duplicate
 
 #### How to delete multiple Leads at once
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select CRM > Leads  
 
     ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 
@@ -72,7 +72,7 @@ However, if you need to delete a lead due to incorrect data entry or a duplicate
 
 #### How to delete a single Lead from the Leads page
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select CRM > Leads  
 
     ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
 

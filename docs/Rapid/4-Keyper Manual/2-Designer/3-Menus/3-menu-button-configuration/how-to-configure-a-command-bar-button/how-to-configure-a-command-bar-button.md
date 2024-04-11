@@ -22,13 +22,13 @@ Imagine you are looking at the Quotes table. You may want to perform specific ac
 
 ## Steps for adding a Menu button to a command bar
 
-1. Navigate to Designer &gt; Tables  
+1. Navigate to Designer > Tables  
     ![Navigate to Tables](<../../../Navigate to Tables.png>)
 2. Open the table you wish to add the menu button to from the tables list
 3. Select the Menu Tab  
 
     ![Navigate to the menu tab](<../../Navigate to Table Menus.png>)
-4. Select New Menu Item &gt; New Blank Item  
+4. Select New Menu Item > New Blank Item  
 
     ![Create new menu item](<../../Create a Menu.png>)
 5. Press the edit button on the newly created menu item 

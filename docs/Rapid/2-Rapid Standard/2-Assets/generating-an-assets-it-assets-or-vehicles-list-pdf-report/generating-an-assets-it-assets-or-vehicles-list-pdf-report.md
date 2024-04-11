@@ -4,7 +4,7 @@ On the *Base Assets* list there is a feature that allows you to generate a PDF l
 
 ### How to generate a PDF list of selected Assets
 
-1. Navigate to the Assets page by clicking on **Assets** &gt; **Assets** in the explorer side bar.  
+1. Navigate to the Assets page by clicking on **Assets** > **Assets** in the explorer side bar.  
 
     ![Navigating to Assets Page](./downloaded_image_1705285501405.png)
 

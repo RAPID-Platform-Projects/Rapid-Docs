@@ -4,7 +4,7 @@ It is possible to create an additional asset subtype alongside "IT Assets" or "V
 
 ### How to Create an Assets Subtype
 
-1. Select Designer &gt; Create Table
+1. Select Designer > Create Table
 
     ![image-1702445850673.png](./downloaded_image_1705285237147.png)
 

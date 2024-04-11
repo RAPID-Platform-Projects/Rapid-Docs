@@ -10,7 +10,7 @@ Finally, the eNPS is calculated by subtracting the percentage of detracts from p
 
 ### How to send out the eNPS Questionnaires
 
-1. Navigate to **Human Resources** &gt; **Employees**  
+1. Navigate to **Human Resources** > **Employees**  
 
     ![A screenshot that depicts how to navigate to the Employees page in Rapid Standard.](<Navigate to Employees.png>)
 

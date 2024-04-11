@@ -108,7 +108,7 @@ Go to https://aad.portal.azure.com
 
 35. Ask customer if they want Microsoft 2-factor if not follow these steps (OPTIONAL)
 
-36. Active directory &gt; properties &gt; access management for azure resources (yes) &gt; manage security defaults &gt; click no&gt; click my organisation is getting too many multi-factor authentication sign-up requests (OPTIONAL)
+36. Active directory > properties > access management for azure resources (yes) > manage security defaults > click no> click my organisation is getting too many multi-factor authentication sign-up requests (OPTIONAL)
 
 ## Do these steps with the customer user
 
@@ -120,7 +120,7 @@ Go to https://aad.portal.azure.com
 
 ![Create Tenant Step 19](<Create Tenant Step 19.png>)
 
-4. Go to admin.microsoft.com -&gt; billing -&gt; billing account
+4. Go to admin.microsoft.com -> billing -> billing account
 
 5. Make sure to fix the information in there and add a tax id if needed
 
