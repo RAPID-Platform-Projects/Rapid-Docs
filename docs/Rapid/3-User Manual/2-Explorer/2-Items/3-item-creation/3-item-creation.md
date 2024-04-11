@@ -14,7 +14,27 @@ The **+ Create** button will create the **Item** and return you to the **Table**
 
 ## Creating a New Sub-type of Items
 
-If you are viewing a sub-type 
+If you are viewing a table that has subtypes, your system administrator may have created additional buttons to create items. For example, in the Rapid Standard Assets Module, there are several "New X Asset"
+ buttons that will each create a different subtype of item on the same table. To learn more about this, visit the following link: 
 
+- [Creating and Deleting Assets in Rapid Standard](</docs/Rapid/2-Rapid Standard/2-Assets/creating-and-deleting-assets/creating-and-deleting-assets.md>)
 
 ## Cloning an Item
+
+It is also possible to "clone" an item. When an item is cloned, Rapid will open the **Create Screen**, and copy across the data from the current item, to the new item. This enables you to quickly build similar items without having to enter data multiple times.
+
+For example, if your company owned two vehicles that were the same Make, Model, and Year, you could use the clone tool to copy this information and reduce the time spent entering data.
+
+To clone an item:
+
+1. Open an **Item** in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>)
+
+2. Find the **Clone** button in the [Jumbotron](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md#jumbotron>) at the top of the site. This button will only be visible when you are viewing an Item Page.
+
+![A screenshot that highlights the location of the clone button. The clone button is at the top of the site, and the screenshot is annotated with a red square to highlight the button. The button's icon resembles two blank pages stacked atop each other. To the right of the Clone button is the Designer Button, then the Launchpad Notifications Bell, the User Coin, and the Rapido Chatbot Button.](<Clone Item.png>)
+
+3. The data from the original item has now been copied across to the fields in the **Create Screen Panel**.
+
+![Alt text](<Item Clone Create Screen.png>)
+
+4. Press the **Create** or **Create and Open** button to create the Item. Alternatively, you can press the **Undo Changes** if you do not wish to cancel.
