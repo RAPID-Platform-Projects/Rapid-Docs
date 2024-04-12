@@ -27,7 +27,7 @@ Pressing the **Undo Changes** button while viewing a historical view will revert
 
 ### Item Timeline
 
-By default, items in Rapid will have an **Item Timeline** component on the righthand side of the **Item Page**.
+By default, items in Rapid will have an **Item Timeline** component on the right hand side of the **Item Page**.
 
 ![A screenshot that demonstrates how the Item Timeline appears. In this example, the timeline has two entries. The top entry states that the Status of the task was updated from "Note Started" to "In Progress". The lower entry states that the task was created. Both entries state the date and time for their respective entries.](<Items Timeline.png>)
 
@@ -35,7 +35,7 @@ The **Item Timeline** component lists changes to an item, with the most recent c
 
 If this component has been removed by your system administrator, you can also view a timeline of changes to an item by navigating to the **Activity** tab in the tabstrip at the top of the page. This tab will provide details regarding the item's creation, edits, and any notes added by users as well. Note that the **Activity Feed** component contains more data for users. You can learn more about this component at the link below.
 
-![A screenshot demonstrating the functionality of the Ativity Feed. Its functionality is described in the section above. All changes are outlined for the user.](<Items Activity Tab.png>)
+![A screenshot demonstrating the functionality of the Activity Feed. Its functionality is described in the section above. All changes are outlined for the user.](<Items Activity Tab.png>)
 
 - [The Activity Feed](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Activity Feed Component/Activity Feed Component.md>)
 
@@ -45,7 +45,7 @@ At the bottom of the **Item Page** is a footer, which contains important informa
 
 ![A screenshot that shows the location of the footer on an item page. The screenshot is annotated with a red box and arrow to highlight the footer's location. The footer in this example reads: "Employee 3" then a large gap followed by "Created April 11, 2024 by (censored) | Last Updated April 11, 2024 by (censored).](<Items Footer Location.png>)
 
-> For privacy purposes, please note that in this example the name of the item's *Author* and *Editor* have been obscurred.
+> For privacy purposes, please note that in this example the name of the item's *Author* and *Editor* have been obscured.
 
 The footer contains the following information to assist with identifying items and their history:
 
@@ -55,5 +55,5 @@ The footer contains the following information to assist with identifying items a
 | *Item ID Number* | After the Table Name is the ID number of the item. This is a unique number. No other item in this table will use this ID number, even if this item is deleted. |
 | *Created Date* | This is the date when the item was created. |
 | *Author* | This is the user who created the item. |
-| *Modifided Date* | This is the date when the item was last edited or modified. |
+| *Modified Date* | This is the date when the item was last edited or modified. |
 | *Editor* | This is the user who edited the item last.|
