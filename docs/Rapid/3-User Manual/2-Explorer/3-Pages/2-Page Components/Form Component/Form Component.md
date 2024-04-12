@@ -26,5 +26,35 @@ To view a form:
 
 ![A screenshot that shows how the user can return to Explorer. They must return to the jumbotron at the top of the site, and press the button that resembles a browser window with a magnifying glass. The button is beside the dark blue Rapido Chatbot button. The screenshot is annotated with a red box and red arrow to highlight where the button is located on the site.](<Forms Explorer Return.png>)
 
-> Note that you can read a detailed explanation of [How to use Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>).
+> Note that you can read a detailed explanation of [How to use Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>) here.
 
+### Labels
+
+Labels are large pieces of text that act as headings on an item page. Labels allow us to understand sections of complex form. The example below is from a Rapid Standard item called "Incidents". Both the "General Details" and "Descriptions".
+
+![Alt text](<Forms Labels.png>)
+
+### Fields
+- Display certain types of data uniquely: i.e. Currency, Date, Date Time, Choice, etc.
+
+### Description Tooltips
+
+## Form Validation
+
+### Email Fields
+
+### Required Fields
+
+## User Fields, Lookup Fields, and Multi-lookup Fields
+
+A table here that goes through how:
+
+- User, Lookup fields display their configured display field
+- User, Lookup and Multi lookup fields can use different views to filter target items
+- User, Lookup and Multi lookup fields can search for items
+- User, Lookup and Multi lookup can create new items
+- User, Lookup and Multi lookup can clear the selected item
+
+### Multi-lookup Data
+Can select multiple items in a multi lookup
+Multi lookup fields display their display field comma separated
