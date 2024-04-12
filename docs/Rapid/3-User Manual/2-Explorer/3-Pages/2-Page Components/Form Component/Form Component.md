@@ -109,11 +109,23 @@ Below is an example of a **User Field**, followed by a table describing its func
 | *Chevron* | This icon indicates that the **User Fields** and **Multi-lookup Fields** will open a drop-down panel. Clicking on this button will open the drop-down panel.|![A screenshot that shows the location of the chevron button. This screenshot is annotated with a red box to indicate the location of the button. The chevron indicates that this field will open a drop-down panel.](<User Field Chevron.png>)|
 | *Drop-down Panel* | When a **User Field** or **Lookup Field** is pressed, it will open a drop-down panel where a connection to another item can be selected. If a **User** or **Item** is already selected, then selecting a *new* **User** or **Item** will replace it.| ![A screenshot that demonstrates the appearance of the drop-down panel from a User Field or Lookup Field. The screenshot is annotated with a red box to highlight the the drop-down panel. The following screenshots use this image, but different sections are annotated.](<User Field Dropdown.png>)|
 | *Search Bar* | This allows you to quickly search a Table for a specific item. Typing a User's name here, for example, would return a specific user. | ![A screenshot demonstrating the location of the "Search Bar". The screenshot is annotated in red to highlight the location of this Search Bar.](<User Field Search.png>)|
-| *Items List* | This is where you choose the specific **User** or **Item** that you want to link to this field to link. | ![A screenshot demonstrating the location of the "Items List". The screenshot is annotated in red to highlight the location of this list.](<User Field Items.png>)|
+| *Items List* | This is where you choose the specific **User** or **Item** that you want to link to this field to link. On the right-hand side of each item is the name of the table that contains the item. | ![A screenshot demonstrating the location of the "Items List". The screenshot is annotated in red to highlight the location of this list.](<User Field Items.png>)|
 | *Views Panel* | Here you can filter the items being displayed in the *Items List* to find a specific item or user more quickly. These views are [created at the Table level](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>). | ![A screenshot demonstrating the location of the "View Panel". The screenshot is annotated in red to highlight the location of this panel.](<User Field Views.png>)|
 | *New Item Button* | This button will open the **Create Screen** panel, so that  new item can be created. This item can then be linked to using the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "New Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field New.png>)|
 | *Clear Item Button* | This operates identically to the *Remove Value* button in the *Display Field*. Pressing this button will remove the data in the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "Clear Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field Clear.png>)|
 
 ## Multi-lookup Fields
-- Can select multiple items in a multi lookup
-- Multi lookup fields display their display field comma separated
+
+Forms can also contain **Multi-lookup Fields** which share many similarities to **Lookup Fields**. A **Multi-lookup Field**, however, can link to multiple items, rather than just a single item.
+
+A **Multi-lookup** field does not have the *Remove Values* or *Open Item* buttons in its *Display Field*. Instead, a **Multi-lookup** only contains a comma-separated list of items it links to, as well as the chevron.
+
+![A screenshot that shows how a multi-lookup appears on the item page. In this example, the field is called "Environmental Factors". It also contains three example items that are being linked to: "Noise", "Lighting", and "Vibration".](<Multilookup Raw.png>)
+
+When you click on a multi-lookup's field, a similar selection panel will open. Unlike a **Lookup Field**, however, you cannot open items using this panel.
+
+The multi-lookup does allow new items to be created from the selection panel if desires, and also allows all items to be cleared with the *Clear* button.
+
+By clicking the checkboxes beside each item, we are able to link or unlink multiple items using the component. The selected items appear as a comma-separated list in the *Display Field*.
+
+![A screenshot of the selection panel that opens when a user clicks on a multi-lookup field. The screenshot is annotated with a red box to highlight the panel. The panel contains similar components to the lookup and user fields discussed earlier. For example: a search bar, list of items, new item button, and clear button. The key difference is that each item contains a checkbox beside it for adding the item to the list.](<Multilookup Item Panel.png>)
