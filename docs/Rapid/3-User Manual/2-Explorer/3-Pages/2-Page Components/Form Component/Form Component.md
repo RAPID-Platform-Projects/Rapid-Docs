@@ -76,7 +76,7 @@ Email fields must be formatted correctly (e.g. `example@example.com`). Omitting 
 
 ### Required Fields
 
-Explorer also has validation for required fields. A required field will appear with a red asterisk after the field's name. In the example below, the *Date of Brith* field has been set to *Required*. If no data is entered, this field will display the message stating "This field is required" and the border of the field will turn red.
+Explorer also has validation for required fields. A required field will appear with a red asterisk after the field's name. In the example below, the *Date of Birth* field has been set to *Required*. If no data is entered, this field will display the message stating "This field is required" and the border of the field will turn red.
 
 ![Alt text](<Forms Required Validation.png>)
 
@@ -95,26 +95,25 @@ Below is an example of a **User Field**, followed by a table describing its func
 
 #### A User Field Without Data
 
-![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. There are no words inside the Display Field box. At the right-hand side of the field are three buttons: cancel, which has an icon of an X (this is greyed out); go to, which has an icon of a box and an arrow in its upper-right corner (this is also greyed out); and a chevron pointing down, to indicate that the field will open a drop-down menu.](<User Field Empty Raw.png>)
+![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. There are no words inside the Display Field box. At the right-hand side of the field are three buttons: cancel, which has an icon of an X (this is greyed out); go to, which has an icon of a box and an arrow in its upper-right corner (this is also greyed out); and a chevron pointing down, to indicate that the field will open a drop-down panel.](<User Field Empty Raw.png>)
 
 #### A User Field With Data
 
-![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. In the field's box is the words "Joel Data", who is a pretend user for this example. At the right-hand side of the field are three buttons: cancel, which has an icon of an X; go to, which has an icon of a box and an arrow in its upper-right corner; and a chevron pointing down, to indicate that the field will open a drop-down menu.](<User Field Raw.png>)
+![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. In the field's box is the words "Joel Data", who is a pretend user for this example. At the right-hand side of the field are three buttons: cancel, which has an icon of an X; go to, which has an icon of a box and an arrow in its upper-right corner; and a chevron pointing down, to indicate that the field will open a drop-down panel.](<User Field Raw.png>)
 
 | Attribute | Description | Screenshot |
 | --- | --- | --- |
-| *Display Field* | In this example, the title of the item that is being linked to appears in the User or Lookup Field. Your System Administrator could also choose another column to display here, such as a subquery, computed field, etc. | ![A screenshot of a User Field, annotated in red. The annotation is indicating where the displayed data from a linked item will appear.](<User Field Display.png>)|
- *Remove Value* | This is a button with an icon of an **X**. Clicking this button will delete the link between this item, and the item inside the *Display Field*. Note that this button will be greyed out, and cannot be used when no data is present in the *Display Field*.|![A screenshot that shows the location of the "Remove Value" button. This button ](<User Field Remove.png>)|
-
-
-A table here that goes through how:
-
-- User, Lookup fields display their configured display field
-- User, Lookup and Multi lookup fields can use different views to filter target items
-- User, Lookup and Multi lookup fields can search for items
-- User, Lookup and Multi lookup can create new items
-- User, Lookup and Multi lookup can clear the selected item
+| *Display Field* | In this example, the title of the item that is being linked to appears in the User or Lookup Field. Your System Administrator could also choose another column to display here, such as a subquery, computed field, etc. Clicking on this section will open the drop-down panel.| ![A screenshot of a User Field, annotated in red. The annotation is indicating where the displayed data from a linked item will appear.](<User Field Display.png>)|
+| *Remove Value* | This is a button with an icon of an **X**. Clicking this button will delete the link between this item, and the item inside the *Display Field*. Note that this button will be greyed out, and cannot be used when no data is present in the *Display Field*.|![A screenshot that shows the location of the "Remove Value" button. This screenshot is annotated with a red box to indicate the location of the button. The button has an icon of an X.](<User Field Remove.png>)|
+| *Open Item* | This button will navigate you away from the current item, and open the item that is being linked to.|![A screenshot that shows the location of the "Open Item" button. This screenshot is annotated with a red box to indicate the location of the button. The button has an icon of a box with an arrow in the upper-right corner.](<User Field Open.png>)|
+| *Chevron* | This icon indicates that the **User Fields** and **Multi-lookup Fields** will open a drop-down panel. Clicking on this button will open the drop-down panel.|![A screenshot that shows the location of the chevron button. This screenshot is annotated with a red box to indicate the location of the button. The chevron indicates that this field will open a drop-down panel.](<User Field Chevron.png>)|
+| *Drop-down Panel* | When a **User Field** or **Lookup Field** is pressed, it will open a drop-down panel where a connection to another item can be selected. If a **User** or **Item** is already selected, then selecting a *new* **User** or **Item** will replace it.| ![A screenshot that demonstrates the appearance of the drop-down panel from a User Field or Lookup Field. The screenshot is annotated with a red box to highlight the the drop-down panel. The following screenshots use this image, but different sections are annotated.](<User Field Dropdown.png>)|
+| *Search Bar* | This allows you to quickly search a Table for a specific item. Typing a User's name here, for example, would return a specific user. | ![A screenshot demonstrating the location of the "Search Bar". The screenshot is annotated in red to highlight the location of this Search Bar.](<User Field Search.png>)|
+| *Items List* | This is where you choose the specific **User** or **Item** that you want to link to this field to link. | ![A screenshot demonstrating the location of the "Items List". The screenshot is annotated in red to highlight the location of this list.](<User Field Items.png>)|
+| *Views Panel* | Here you can filter the items being displayed in the *Items List* to find a specific item or user more quickly. These views are [created at the Table level](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>). | ![A screenshot demonstrating the location of the "View Panel". The screenshot is annotated in red to highlight the location of this panel.](<User Field Views.png>)|
+| *New Item Button* | This button will open the **Create Screen** panel, so that  new item can be created. This item can then be linked to using the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "New Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field New.png>)|
+| *Clear Item Button* | This operates identically to the *Remove Value* button in the *Display Field*. Pressing this button will remove the data in the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "Clear Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field Clear.png>)|
 
 ## Multi-lookup Fields
-Can select multiple items in a multi lookup
-Multi lookup fields display their display field comma separated
+- Can select multiple items in a multi lookup
+- Multi lookup fields display their display field comma separated
