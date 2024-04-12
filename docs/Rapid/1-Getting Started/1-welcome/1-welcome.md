@@ -1,29 +1,28 @@
-# Welcome Note
+# Introducing Rapid Platform 
+Your All-in-One Solution for Streamlining Business Operations
 
-Dear Learner,
+## For Users:
 
-It's with great pleasure and excitement that we welcome you to our RapidPlatform Training Program! We're thrilled to have you join us on this journey of discovery and learning.
+Empower your team with intuitive task management tools, allowing for seamless coordination and efficient allocation of resources. 
 
-Intro 1
+Experience the convenience of process automation, reducing manual workload and ensuring tasks are completed swiftly and accurately. 
 
-Welcome to the Rapid Platform training program, where we will take you on a journey of how to build a powerful application called Base Rapid on Rapid Platform. We are excited to have you onboard and look forward to helping you become proficient in using Rapid Platform.  
-  
-This training program has been designed around the use case of Base Rapid. Our goal is to provide you with a comprehensive overview of Rapid Platform and equip you with the skills and knowledge needed to build this application on the platform. Whether you are a beginner or have some experience with Rapid Platform, this training program is tailored to meet your needs.  
-  
-At the end of this program, you will feel confident in using Rapid Platform and be able to create applications that can transform your business operations. We have created a step-by-step approach that will guide you through the entire process of building Base Rapid on Rapid Platform.  
-  
-We understand that learning a new platform can be challenging, but we assure you that this program is designed to be engaging, informative, and fun. Our team of experienced trainers are here to support you every step of the way.  
-  
-Once again, welcome to the Rapid Platform training program. We look forward to working with you and helping you achieve your learning objectives through the journey of building Base Rapid.
+Gain access to comprehensive data analytics tailored to reflect the intricacies of your business, providing invaluable insights for informed decision-making.
 
-\-- Intro 2
+## For Keypers:
 
-Today marks the beginning of an enriching experience where you'll dive deep into the world of RapidPlatform. This training is more than just a learning opportunity—it's a gateway to transforming the way you interact with technology and enhance your skills. Whether you're a user looking to efficiently navigate the system or a builder eager to explore its vast potential.
+Unlock the full potential of your business with a platform that adapts to your unique needs. 
 
-We've tailored this program to ensure that every participant, regardless of their prior experience with RapidPlatform, finds value and empowerment in the knowledge and skills they'll gain. Our team is committed to providing you with an engaging, informative, and inspiring experience.
+Enjoy the flexibility of fully customizable features, allowing you to tailor the system to your specific business data and processes. 
 
-So, let's embark on this adventure together, filled with learning, growth, and innovation. We're excited to see the incredible things you'll achieve with the power of RapidPlatform!
+Seamlessly manage workflows with intuitive process management tools, ensuring optimal efficiency at every step. 
 
-Welcome aboard!
+Harness the power of custom forms to capture essential information efficiently and accurately.
 
-\--- WIP
+## For Developers:
+
+Experience unparalleled freedom with a platform fully powered by APIs, eliminating the need for special back doors or workarounds. 
+
+Leverage integration support to seamlessly integrate with existing systems and build custom user interfaces and applications. 
+
+Empower innovation and creativity with the ability to develop bespoke solutions that align perfectly with your organization's unique requirements.
