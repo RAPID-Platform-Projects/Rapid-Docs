@@ -43,7 +43,7 @@ If this component has been removed by your system administrator, you can also vi
 
 At the bottom of the **Item Page** is a footer, which contains important information about item history and versioning.
 
-![A screenshot that shows the location of the footer on an item page. The screenshot is annotated with a red box and arrow to highlight the footer's location. The footer in this example reads: "Employee 3" then a large gap followed by "Created April 11, 2024 by <censored> | Last Updated April 11, 2024 by <censored>.](<Items Footer Location.png>)
+![A screenshot that shows the location of the footer on an item page. The screenshot is annotated with a red box and arrow to highlight the footer's location. The footer in this example reads: "Employee 3" then a large gap followed by "Created April 11, 2024 by (censored) | Last Updated April 11, 2024 by (censored).](<Items Footer Location.png>)
 
 > For privacy purposes, please note that in this example the name of the item's *Author* and *Editor* have been obscurred.
 
