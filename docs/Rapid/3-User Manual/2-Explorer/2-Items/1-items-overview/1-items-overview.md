@@ -36,7 +36,7 @@ Any item that we create inside the "Employees" table will now represent an emplo
 
 Note that there are three items in our table, and they each contain data inside of our three customised columns: *Name*, *Date of Birth*, and *Email Address*.
 
-![This is the same screenshot as before, but now it is annotated in red. Three red boxes show that each item in a table resembles a row, and each piece of data resembles a column. The three example items are labeled: item 1, item 2, item 3, to help indicate that they are all separate entities.](<Items Example Rows.png>)
+![This is the same screenshot as before, but now it is annotated in red. Three red boxes show that each item in a table resembles a row, and each piece of data resembles a column. The three example items are labelled: item 1, item 2, item 3, to help indicate that they are all separate entities.](<Items Example Rows.png>)
 
 ## Column and Field Types
 
@@ -55,17 +55,9 @@ There are many types of columns that an item can contain, and these **Columns** 
 |Number                 |A field that only accepts numbers                                                                                                  |![alt text](Number.png)
 |Percentage             |A number field that presents and calculates as a percentage                                                                        |![alt text](Percentage.png)
 |Currency               |A number field that presents as a predefined type of currency                                                                      |![alt text](Currency.png)
-|Computed               |An SQL field that is calulated off of data found only inside the current table, in the image to the right the *title* column is being merged with the  *number*  column      |![alt text](computed.png)
+|Computed               |An SQL field that is calculated off of data found only inside the current table, in the image to the right the *title* column is being merged with the  *number*  column      |![alt text](computed.png)
 |User                   |A lookup field specifically designed to point towards users on the current site (points towards the principal table)               |![alt text](User.png)
 |Subquery               |An SQL query that calculates off of data anywhere on the current sites database and presents in a predefined format (In the image to the right, the Subquery is counting all *tasks* on this site)                                                                                                                          |![alt text](Subquery.png)
 |Whole number           |A number field that will not accept decimal places                                                                                 |![alt text](<Whole number.png>)
 |Multiple Lookups       |A lookup field that allows you to select multiple items in a dropdown box, creating links between the current item and multiple others|![alt text](<Multi lookup.png>)
-|PowerBi                |A fieldtype that stores a PowerBI report to be presented at an item level context                                                  |
-
-## Task Items
-
-There is a unique category of item in Rapid called a **Task**. This is a special item used to track work within a company. All Rapid sites come packaged with a *Tasks Table*, and *Task Item* functionality.
-
-Tasks can also be "Completed", unlike regular items. Completing an item means that it will cease to appear in most Tables and Views. There are two methods of completing a Task. You can learn more about **Task** items by visting the link below.
-
-- [Creating, Editing, and Deleting Tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>)
+|PowerBi                |A field type that stores a PowerBI report to be presented at an item level context |
