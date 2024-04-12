@@ -1,4 +1,4 @@
-## Linked Items
+# Linked Items
 
 Items can be linked to other items. This allows additional functionality for tracking connections between items, and can be automated by a system administrator.
 
