@@ -1,6 +1,6 @@
 # Access Permissions
 
-Each table in Rapid Platform can have unique user permissions. This means on a per-table basis, you can select who is allowed to **Read**, **Write**, or **Delete** the items within a table. Note that if you wish to [only set permissions for a single item](</docs/Rapid/3-User Manual/2-Explorer/2-Items/4-item-permissions/4-item-permissions.md>), this is also possible.
+Each table in Rapid Platform can have unique user permissions. This means on a per-table basis, you can select who is allowed to **Read**, **Write**, or **Delete** the items within a table. Note that if you wish to [only set permissions for a single item](</docs/Rapid/3-User Manual/2-Explorer/2-Items/5-item-permissions/5-item-permissions.md>), this is also possible.
 
 ## Opening the Permissions Panel
 
