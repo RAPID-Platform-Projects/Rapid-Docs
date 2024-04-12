@@ -30,29 +30,82 @@ To view a form:
 
 ### Labels
 
-Labels are large pieces of text that act as headings on an item page. Labels allow us to understand sections of complex form. The example below is from a Rapid Standard item called "Incidents". Both the "General Details" and "Descriptions".
+#### Component Labels
 
-Labels will appear in large text, and also have a horizontal rule that helps break up content on a complex item page.
+Component Labels are large pieces of text that act as headings on an item page. Component Labels allow us to understand sections of complex form. The example below is from a Rapid Standard item called "Incidents". Both the "General Details" and "Descriptions".
+
+Component Labels will appear in large text, and also have a horizontal rule that helps break up content on a complex item page.
 
 In **Designer**, labels are added to forms, just like a field. However, they can also be added as a separate page component outside of a form as well.
 
-![A screenshot that demonstrates how labels appear on an item's page. The screenshot is annotated with two red boxes to help the user see where the labels are located in the example. The two labels read "General Details" and "Description".](<Forms Labels.png>)
+![A screenshot that demonstrates how component labels appear on an item's page. The screenshot is annotated with two red boxes to help the user see where the labels are located in the example. The two component labels read "General Details" and "Description".](<Forms Labels.png>)
+
+#### Field Labels
+
+Fields can also be labelled. This is to show other text instead of the field or column title. The example below is a field titled "report_by_id", but this would not look aesthetic on a form. Instead, the System Administrator has placed the label "Who is filling out this form?" on the field instead. Now this text appears on the field instead.
+
+![A screenshot demonstrating how labels can be added to fields. The field has a title that reads "Who is filling out this form?" instead of its proper column / field name.](<User Field Raw.png>)
 
 ### Fields
 
-The fields in a form display data uniquely, depending on the type of column they represent. For example, 
+The fields in a form display data uniquely, depending on the type of column they represent. The field functionality and how fields are displayed are explained in detail here:
 
-- Display certain types of data uniquely: i.e. Currency, Date, Date Time, Choice, etc.
+- [Types of Fields and Columns](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md#column-and-field-types>)
 
 ### Description Tooltips
 
+If you System Administrator has created field descriptions, these will appear as an information icon `ⓘ` above the field. These explain the purpose of the field, in context.
+
+![A screenshot demonstrating what the information icon looks like. It resembles the letter "i" inside of a circle. The screenshot is annotated with a red box to highlight the icon.](<Forms Description Icon.png>)
+
+To read a field's **Description**,  hover your mouse cursor over the information icon.
+
+![A screenshot demonstrating what the tooltip looks like. The tooltip resembles a square speech bracket that ascends from the tooltip icon.](<Forms Description Tooltip.png>)
+
 ## Form Validation
+
+Explorer has some simple form validation when editing or creating items.
 
 ### Email Fields
 
+Email fields must be formatted correctly (e.g. `example@example.com`). Omitting part of an email address will produce a validation message in red. The border of the field will also turn red to highlight the issue.
+
+![A screenshot demonstrating how email validation messages appear. In this example, the red text "Please enter a valid email" appears in an Email Address field, when the text "not an email" is entered into the field instead of a valid email address.](<Forms Email Validation.png>)
+
+> **Note:** Email addresses which are incorrectly formatted can still be saved and submitted.
+
 ### Required Fields
 
-## User Fields, Lookup Fields, and Multi-lookup Fields
+Explorer also has validation for required fields. A required field will appear with a red asterisk after the field's name. In the example below, the *Date of Brith* field has been set to *Required*. If no data is entered, this field will display the message stating "This field is required" and the border of the field will turn red.
+
+![Alt text](<Forms Required Validation.png>)
+
+> **Note:** Explorer will *not* allow you to create a *new* item, unless all required fields have been filled. However, Explorer will allow you to save an item after a required field has had its data deleted.
+
+## User Fields and Lookup Fields
+
+**User Fields** and **Lookup Fields** behave similarly. These are special fields that link to another item in the site.
+
+- The **Lookup Field** allows you to select an item from a Table that has been determined by your System Administrator.
+- The **User Field** is similar to the Lookup Field, except that it will only allow you to link an item to a User of your Rapid site. The **User Table** is a [System Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/5-system-tables/5-system-tables.md>) that is built into every Rapid site.
+
+### Functionality
+
+Below is an example of a **User Field**, followed by a table describing its functionality.
+
+#### A User Field Without Data
+
+![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. There are no words inside the Display Field box. At the right-hand side of the field are three buttons: cancel, which has an icon of an X (this is greyed out); go to, which has an icon of a box and an arrow in its upper-right corner (this is also greyed out); and a chevron pointing down, to indicate that the field will open a drop-down menu.](<User Field Empty Raw.png>)
+
+#### A User Field With Data
+
+![A screenshot of a User Field. The field's title reads: "Who si filling out this form?" It has a red, "required" asterisk after the field name. In the field's box is the words "Joel Data", who is a pretend user for this example. At the right-hand side of the field are three buttons: cancel, which has an icon of an X; go to, which has an icon of a box and an arrow in its upper-right corner; and a chevron pointing down, to indicate that the field will open a drop-down menu.](<User Field Raw.png>)
+
+| Attribute | Description | Screenshot |
+| --- | --- | --- |
+| *Display Field* | In this example, the title of the item that is being linked to appears in the User or Lookup Field. Your System Administrator could also choose another column to display here, such as a subquery, computed field, etc. | ![A screenshot of a User Field, annotated in red. The annotation is indicating where the displayed data from a linked item will appear.](<User Field Display.png>)|
+ *Remove Value* | This is a button with an icon of an **X**. Clicking this button will delete the link between this item, and the item inside the *Display Field*. Note that this button will be greyed out, and cannot be used when no data is present in the *Display Field*.|![A screenshot that shows the location of the "Remove Value" button. This button ](<User Field Remove.png>)|
+
 
 A table here that goes through how:
 
@@ -62,6 +115,6 @@ A table here that goes through how:
 - User, Lookup and Multi lookup can create new items
 - User, Lookup and Multi lookup can clear the selected item
 
-### Multi-lookup Data
+## Multi-lookup Fields
 Can select multiple items in a multi lookup
 Multi lookup fields display their display field comma separated
