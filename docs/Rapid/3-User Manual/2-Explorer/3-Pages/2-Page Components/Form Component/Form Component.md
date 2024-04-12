@@ -32,9 +32,16 @@ To view a form:
 
 Labels are large pieces of text that act as headings on an item page. Labels allow us to understand sections of complex form. The example below is from a Rapid Standard item called "Incidents". Both the "General Details" and "Descriptions".
 
-![Alt text](<Forms Labels.png>)
+Labels will appear in large text, and also have a horizontal rule that helps break up content on a complex item page.
+
+In **Designer**, labels are added to forms, just like a field. However, they can also be added as a separate page component outside of a form as well.
+
+![A screenshot that demonstrates how labels appear on an item's page. The screenshot is annotated with two red boxes to help the user see where the labels are located in the example. The two labels read "General Details" and "Description".](<Forms Labels.png>)
 
 ### Fields
+
+The fields in a form display data uniquely, depending on the type of column they represent. For example, 
+
 - Display certain types of data uniquely: i.e. Currency, Date, Date Time, Choice, etc.
 
 ### Description Tooltips
