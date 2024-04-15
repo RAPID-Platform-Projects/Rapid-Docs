@@ -2,15 +2,13 @@
 
 Rapid Platform is build on a suite of five core applications. These applications are interconnected, allowing you to manage data, process automation, and reporting.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oieul5GuLXE?si=gx8-pMEJGR1o3WbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Tasks
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/herZLtwGYx4?si=XTua-6r4PvNstCU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We understand that managing tasks efficiently is crucial for the success of any business. Tasks is designed to empower your team, enhance collaboration, and ensure nothing falls through the cracks.
 
 The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](/docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md).
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/herZLtwGYx4?si=XTua-6r4PvNstCU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>).
 - Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>).
@@ -51,7 +49,15 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 ![A screenshot that demonstrates the appearance of a Workflow webpage. The screenshot has a the side panel in dark blue on the left-hand side. On the right-hand side of the image, on a white and grey background, is the area for editing workflows and building automated processes. This process has been run successfully. The diagram is highlighted in green to show the route that the workflow took in order to complete the process run.](<Workflow Example.png>)
 
+- [**Automate with Precision:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Say goodbye to manual tasks and hello to automation excellence. Design workflow diagrams effortlessly using **BPMN**, ensuring your processes run smoothly and without a hitch.
 
+- [**Execute Complex Tasks:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Streamline your operations by creating workflows that execute complex tasks seamlessly. From task creation to intricate item management, **Workflow** puts you in control.
 
+- [**Trigger Dynamic Processes:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
+
+<!--
 ## Adaptive Documents
 
+Need screenshots and Adaptive is dead.
+
+-->
