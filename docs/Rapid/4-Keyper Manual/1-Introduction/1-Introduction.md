@@ -1,6 +1,6 @@
 # Keyper Introduction
 
-The Rapid Platform is a highly customizable solution for managing business data. As a Keyper (a Key Person) you can customize your site to better reflect the business. 
+The Rapid Platform is a highly customisable solution for managing business data. As a Keyper (a Key Person) you can customise your site to better reflect the business. 
 
 ## Managing Items
 
