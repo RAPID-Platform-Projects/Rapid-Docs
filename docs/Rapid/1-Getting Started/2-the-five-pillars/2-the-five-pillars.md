@@ -55,9 +55,13 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 - [**Trigger Dynamic Processes:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
 
-<!--
 ## Adaptive Documents
 
-Need screenshots and Adaptive is dead.
+![A screenshot demonstrating Adaptive Documents application. The application has a sidepanel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
 
--->
+**Adaptive Documents** allows you to quickly build web forms to collect data, and seamlessly integrate it with your Rapid database. Send forms to clients to collect data, or use them to power your daily internal operations.
+
+You can quickly build forms using the powerful **Elements Hierarchy**, and connect your form natively to the columns of your Rapid site. With **Adaptive Documents**, you can generate new items, create QR codes or shareable links to your form, generate personalised forms depending on the recipient, or even build forms that will generate repeating sections for multiple item-generation.
+
+- [**Keyper Manual:**](</docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-How to access Adaptive Designer/1-How to access Adaptive Designer.md>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
+- [**Adaptive Document Training:**](</training/System Build Foundational/5-Adaptive Document/1-Introduction to Adaptive Documents.md>) You can become an Adaptive Documents master using this training module package.
