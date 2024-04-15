@@ -126,3 +126,28 @@ The button icons are identical to before, with the addition of a large blue "lis
 
 ## Completing Tasks
 
+There are two methods for completing a task via the **Tasks Experience**.
+
+### Pressing the Complete Button
+
+1. Go to the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/Tasks-Experience.md#menu-bar>) of the **Tasks Experience**
+2. Press the **✓ Complete** button.
+
+![A screenshot showing what the complete button looks like. The complete button is rendered with a checkmark. When the user's mouse hovers over the button, the button's background turns light green, and the word "Complete" turns dark green, along with the checkmark icon.](<Tasks XP Complete.png>)
+
+### Changing the Status to "Completed"
+
+1. Go to the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/Tasks-Experience.md#menu-bar>) of the **Tasks Experience**
+2. Press the **Status** drop down menu.
+
+![A screenshot of the Status menu button. It is grey and reads "Not Started" in grey text. The user's pointer is hovering over the button.](<Tasks XP Status.png>)
+
+3. Select "Completed" from the list of options.
+
+![A screenshot of the Status dropdown menu. It is annotated in red to show the location of the "Completed" option. The user's mouse hovers over this option.](<Tasks XP Status Completed.png>)
+
+4. The **Status** should now appear green, with the word "Completed" inside
+
+![A screenshot of the Status menu button, now changed to the "Completed" option. The button background has turned to green, and the text "Completed" appears in white text.](<Tasks XP Status Completed Finished.png>)
+
+5. Save the Task using the **Save** button in the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/Tasks-Experience.md#menu-bar>).
