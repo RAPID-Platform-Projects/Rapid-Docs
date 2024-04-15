@@ -1,24 +1,57 @@
 # The Five Pillars
 
+Rapid Platform is build on a suite of five core applications. These applications are interconnected, allowing you to manage data, process automation, and reporting.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oieul5GuLXE?si=gx8-pMEJGR1o3WbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tasks
 
 Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We understand that managing tasks efficiently is crucial for the success of any business. Tasks is designed to empower your team, enhance collaboration, and ensure nothing falls through the cracks.
 
-The video below shows what is possible with Rapid tasks, and outlines the features that come packaged with Rapid Standard's Tasks Module.
+The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](/docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/herZLtwGYx4?si=XTua-6r4PvNstCU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Further Reading:
-
-- [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>)
-- [Tasks explained for **Users** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>)
+- Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>).
+- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>).
 
 ## Explorer
 
+![A screenshot that demonstrates an example Explorer webpage and its appearance. The screenshot contains a dark-blue sidebar, where a user can navigate to different tables. There is also a main section with a white-and-grey background. This section is demonstrating how the Tasks table appears in Rapid. The Tasks table contains a variety of buttons for managing data, such as adding new items, generating Excel Spreadsheets, and switching to new views or editing existing ones. The main table section contains a search bar for filtering items in a table, and several example columns. In this example, the columns are: Title, Assigned To, Start Date, Due Date, Status, and Estimated Time. The table is filled with example data.](<Explorer Example.png>)
+
+Welcome to a new era of intuitive data management with **Explorer** – the centre of your SaaS experience. Built for both simplicity and power, **Explorer** transforms the way you view, create, and edit crucial data. Whether it is tasks, assets, or any other key element central to your workflow.
+
+**Explorer** is designed to empower you to accomplish more in less time, giving you the freedom to focus on what truly matters.
+
+- [**Effortless Navigation:**](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>) Navigate through your data landscape effortlessly with a clean and intuitive interface. No more digging through layers of complexity – **Explorer** puts everything at your fingertips.
+
+- [**Real-time Collaboration:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/4-item-history/4-item-history.md>) Foster seamless collaboration with your team. Explore, create, and edit data in real-time, ensuring everyone stays on the same page and projects move forward with precision.
+
+- [**Dynamic Data Views:**](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>) Customise your data views to match your workflow. **Explorer** adapts to your needs, providing you with the flexibility to organise information the way that makes the most sense for you.
+
+- [**Smart Editing Tools:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/2-items-editing/2-items-editing.md>) Edit with confidence using smart, user-friendly tools. Whether you are updating tasks, refining assets, or managing any other data, Explorer streamlines the editing process without compromising precision.
+
 ## Designer
+
+![A screenshot that demonstrates an example Explorer webpage and its appearance. The Designer page focuses on a side bar that has opened with the title "Add Column" written in white on a white background. The side bar appears on the right-hand side of the image, and the rest of the image is blurred out. This is a feature in Rapid, that allows users to focus on the side panel. Underneath the "Add Column" title, are a variety of buttons and fields for the user to create their own column.](<Designer Example.png>)
+
+**Designer** allows you to create a user-experience tailored to your company and its needs. Utilising a low-code environment, **Designer** is both quick to learn, while remaining powerful and flexible.
+
+- [**Craft Tailored Tables:**](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md>) Design tables that match your unique needs. Whether it’s organising complex data structures or creating a sleek, minimalist layout, Designer empowers you to craft tables that suit your vision.
+
+- [**Customise Screens with Ease:**](</training/Extending and Customising Modules/1-Introduction to this Course/1-Welcome note.md>) Bring your data to life by customising screens effortlessly. From color schemes to layout intricacies, Designer puts the creative control in your hands, ensuring your interface reflects your brand and workflow.
+
+- [**Refine Item Pages:**](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>) Elevate user experience by tailoring item pages to perfection. Edit, organise, and present information in a way that makes sense for your audience, all within the intuitive interface of Designer.
+
+- [**Create and Modify Columns:**](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md>) Define your data with precision. Whether you’re creating new columns or modifying existing ones, Designer offers the tools you need to shape your data architecture with finesse.
+
+- [**Advanced Editing Tools:**](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>) Dive deep into the details with advanced editing tools designed for the seasoned user. From complex data relationships to nuanced design elements, Designer ensures you have the tools necessary for intricate customisation.
 
 ## Workflow
 
+![A screenshot that demonstrates the appearance of a Workflow webpage. The screenshot has a the side panel in dark blue on the left-hand side. On the right-hand side of the image, on a white and grey background, is the area for editing workflows and building automated processes. This process has been run successfully. The diagram is highlighted in green to show the route that the workflow took in order to complete the process run.](<Workflow Example.png>)
+
+
+
 ## Adaptive Documents
+
