@@ -60,4 +60,12 @@ There are many types of columns that an item can contain, and these **Columns** 
 |Subquery               |An SQL query that calculates off of data anywhere on the current sites database and presents in a predefined format (In the image to the right, the Subquery is counting all *tasks* on this site)                                                                                                                          |![alt text](Subquery.png)
 |Whole number           |A number field that will not accept decimal places                                                                                 |![alt text](<Whole number.png>)
 |Multiple Lookups       |A lookup field that allows you to select multiple items in a dropdown box, creating links between the current item and multiple others|![alt text](<Multi lookup.png>)
-|PowerBi                |A field type that stores a PowerBI report to be presented at an item level context |
+|PowerBi                |A field type that stores a PowerBI report to be presented at an item level context                                                  |
+
+## Task Items
+
+There is a unique category of item in Rapid called a **Task**. This is a special item used to track work within a company. All Rapid sites come packaged with a *Tasks Table*, and *Task Item* functionality.
+
+Tasks can also be "Completed", unlike regular items. Completing an item means that it will cease to appear in most Tables and Views. There are two methods of completing a Task. You can learn more about **Task** items by visting the link below.
+
+- [Creating, Editing, and Deleting Tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>)
