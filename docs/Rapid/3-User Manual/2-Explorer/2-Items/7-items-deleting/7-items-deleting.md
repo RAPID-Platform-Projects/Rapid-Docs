@@ -23,9 +23,26 @@ Sometimes deleting items is necessary. For instance:
 
 In cases like these, deleting may be necessary.
 
+### Deleting Can Be Disabled
+
+If an item cannot be deleted using the following steps, that is most-likely because your System Administrator has disabled item deletion within that **Data Table** component. This usually is done to prevent unwanted data removal, as outlined above.
+
+However, **Data Tables** permit item deletion by default. If item deletion is enabled, you can follow the following processes.
+
 ## Deleting Items via Tables
 
+1. Open a [Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md>) in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>).
+2. Select the item or items that you wish to delete
+3. In the Command Bar, note that the red button labelled `Delete X <Table Name>` has appeared.
+4. Press **Delete**.
 
+![A screenshot that demonstrates how to delete items via a table. In this example, the table is an Employees table. The screenshot is annotated in red, with two red boxes indicating where the user should click, and an arrow between them indicating the order that they should be pressed. In this example, the user has selected the Employee item: "Wanda Jones", and will now click the red button that says "Delete 1 Employee" the red button also has a red icon of a trash can.](<Items Deleting.png>)
+
+> Note that it is preferable to set important items like *Employees* to *Inactive*, rather than deleting them.
 
 ## Deleting Items via Pages
 
+1. Open an [Item](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>) in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>).
+2. In the Command Bar, note that the red button labelled **Delete** is present.
+
+![A screenshot showing how the Delete button appears on a page view of an item. The screenshot has been annotated with a red box to highlight the button's location. The delete button has red text that reads "Delete" and a red icon of a trash can. The rest of the screenshot is an example Employee page.](<Items Deleting Page.png>)
