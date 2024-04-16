@@ -23,16 +23,17 @@ In the example below, the "CRM" menu item does not navigate you to another page.
 
 Arranging menu items in this way can help group together tables logically, and can reduce visual clutter in the Sidebar.
 
-### Nested Menu Folders
+### Nested Menu Flyouts
 
-Menu Folders can open additional menu folders. These "nested" folders allow more complex grouping. They are, however, limited by the width of the screen that you are working on.
+Menu Flyouts can open additional Menu Flyouts. These "nested" flyouts allow more complex grouping. They are, however, limited by the width of the screen that you are working on.
 
-In the example below, the user has clicked on the following menu item folders: 
+In the example below, the user has clicked on the following menu item flyout: 
 `System > Settings > Adaptive` and has now arrived at the "Adaptive Designer" menu item that will navigate them to a different page.
 
-![An example of opening multiple menu items. The items that the user has clicked are described in the paragraph before this image. The user's cursor now hovers over the item "Adaptive Designer" on the far right.](<Menus Open Multiple.png>)
+![An example of opening multiple menu flyouts. The items that the user has clicked are described in the paragraph before this image. The user's cursor now hovers over the item "Adaptive Designer" on the far right.](<Menus Open Multiple.png>)
 
 - [More information about **Menus in the Sidebar**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/1-Setting up your sidebar/1-Setting up your sidebar.md>)
+- [More information about **Menus Opening Flyouts**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-in-flyout/open-in-flyout.md>) 
 
 ## Open a Hyperlink
 
@@ -52,21 +53,61 @@ You can create a menu button that opens one of Rapid's other applications, such 
 
 A menu item can also interact other web applications such as Microsoft 365. Essentially, this type of menu item will send .json or simple code to another web application. This prevents you as a user needing to copy-and-paste data, or move between two different websites.
 
-For example, this menu item could be used to trigger and run **Azure Functions** or **Power Automate Flows**.
+For example, this menu item could be used to trigger and run **Azure Functions** or **Power Automate Flows**. Essentially, it will send data from your Rapid site, to an external site.
 
 - [More information about **Menus Performing Remote Actions**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/perform-remote-action/perform-remote-action.md>)
 
 ## Raise Create Webhook Action
 
+This type of menu item action is also used to trigger an external Rapid application. By using a **Raise Create Webhook Action** results in a **Webhook** triggering. Note that this is different to a **Process Diagram** triggering, which is discussed in the next section.
+
+This is typically used when you want to trigger the *Created* webhook signal event. For example, you may have a [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) process that creates a new **Contact** item in your **Contacts Table**, as soon as a new **Lead** is created in your **Lead Table**. The process would then take the contact information added to the lead, and generate a contact using that information.
+
+However, if a contact is deleted, you would want to generate the contact again automatically (rather than by manually copying-and-pasting information). The **Raise Create Webhook Action** allows you to trigger the webhook event a second time, even though a new item hasn't been created. The Webhook would then find and trigger any necessary [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) processes.
+
+- [More information about **Menus Raising Create Webhook Actions**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/raise-create-webhook-action/raise-create-webhook-action.md>)
+
 ## Raise Workflow Created Signal
+
+The **Raise Workflow Created Signal** is an internal action similar to **Raise Create Webhook Action**. However, instead of raising a general **Webhook** that can trigger multiple workflows, you might instead only want to trigger the start of a particular [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) process diagram.
+
+When this action is performed by clicking on the menu item, the selected [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) diagram will run the process from any *Created* of the diagram's "Created Signal" events.
+
+- [More information about **Menus Raising Workflow Created Signals**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/raise-workflow-created-signal/raise-workflow-created-signal.md>)
+
+## Workflow - Execute Process
+
+This is similar to the **Raise Workflow Created Signal**. However, instead of triggering the specific *Created* webhook signal events, this action will trigger the entire process. This is useful when your process does not begin with a *Signal Start Event*.
+
+- [More information about **Menus Executing Workflow Processes**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/execute-workflow-process/execute-workflow-process.md>)
 
 ## Update Items
 
+This action allows you to update multiple items at a time. For example, you may wish to change the "Status" of multiple leads to "Inactive" if they are not returning your company's calls. Or, you may have added a new column to a table, and now many different items need to be bulk-updated with new data.
+
+The **Update Items** action allows you to update the data of one or more items. When the button is pressed, an Adaptive Form will open
+
+In the example below, an Update Items action is run to change the value inside several item's *Name* column at once.
+
+![A screenshot demonstrating how multiple items can be selected using a checkbox. Then, a Command Bar button can be pressed. The Adaptive Form that opens only contains a "Name" field, and the user has typed "Example Name" in the field. The mouse hovers over the "OK" button, which will commit the changes.](<Test update action in Explorer.png>)
+
+![This screenshot takes place after the previous one. Here, the original names of the items have all been replaced with the name: "Example Name".](<Observe items are updated.png>)
+
+- [More information about **Menus Updating Items**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/update-items/update-items.md>)
+
 ## Generate SendGrid Emails
 
-## Open a Flyout
+When a menu item is pressed, it can be used to send emails using the **SendGrid** application (this is an application that can be integrated with your Rapid site).
 
-## Execute Workflow Processes
+Using **SendGrid**, a menu button can:
+
+1. Send a **Static** (unchanging) email. For example, you may wish to send a generic follow-up email to a client, or a customer satisfaction survey.
+
+2. Send **Dynamic** (changing) emails. These emails can be formatted so that the name of the client is written into the email body, as well as any other field of information. Creating and automating **dynamic** emails more complex than **static** emails.
+
+To use the SendGrid system, you must select an item or items in your Rapid site, and then press the **SendGrid** menu item to send emails to those specific individuals. Typically, you will want this action to trigger only on items that contain an *Email Address* column in their Table.
+
+- [More information about **Menus Sending Emails**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/sendgrid-email/sendgrid-email.md>)
 
 ## Open Adaptive Documents
 
