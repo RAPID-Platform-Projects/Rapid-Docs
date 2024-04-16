@@ -14,6 +14,12 @@ The **Data Table** can also be placed on *any* Page. For example, a **Data Table
 
 ## Creating Items
 
+Using the **Create** button in a **Data Table** component, you can create new items within a Table.
+
+![A screenshot demonstrating how to create a new item in a data table. This screenshot is annotated with a red box. Inside the red box are the words "New Employee" with an icon of two people. The rest of the image is a sample table that contains employee information, such as their Name, Date of Birth, and Email Addresses.](<Create Item.png>)
+
+- Visit this link: [Creating Items via Tables](</docs/Rapid/3-User Manual/2-Explorer/2-Items/3-item-creation/3-item-creation.md>), to read about item creation in detail.
+
 ## Deleting Items
 
 ## Opening Items
