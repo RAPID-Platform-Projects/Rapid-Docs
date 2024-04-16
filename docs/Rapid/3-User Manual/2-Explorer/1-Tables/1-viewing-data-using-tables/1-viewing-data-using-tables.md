@@ -76,4 +76,4 @@ Rapid Platform includes an *Inline Refresh* button, that allows you to refresh a
 
 ## Additional Information
 - You can [visit the glossary](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table>) to learn more about data tables and their basic terminology.
-- You can visit the [Data Tables page component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>) to learn more detailed information regarding how data tables work.
+- You can visit the [Data Tables page component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>) to learn more detailed information regarding how Data Tables and Views operate.
