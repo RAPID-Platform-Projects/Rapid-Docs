@@ -30,7 +30,7 @@ To enable editing:
 
 ![A screenshot that describes how to edit the properties of a report component. In order to this, the user must navigate to the Design tab in Designer, and find the component. They can then press the pencil icon to edit a reporting component. The screenshot is annotated with a red box that highlights the boundaries of the report component. It is also annotated with a red circle that highlights where the edit button is located for a reporting component.](<PowerBI Enable Editing.png>)
 
-5. In the Edit sidepanel that opens, change the **Enable Edit Mode** toggle to *Enabled*.
+5. In the Edit side panel that opens, change the **Enable Edit Mode** toggle to *Enabled*.
 6. **Save** changes.
 7. Return to **Explorer**. The next section explains how to edit a PowerBI report once editing is enabled.
 
