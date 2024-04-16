@@ -51,14 +51,14 @@ As another example, we can filter for the *Status* of an item. For example, we c
 
 ![Another example of searching for items in a table. In this example, the user can search for the content of a choice field.](<Data Table Search Example 2.png>)
 
-However, some fields cannot be used with the quick filter. The *Embedded Files* and *Share Link* columns, for example, will not interact with the quick filter. Additionally, your system administrator may decide to prevent quick filter fuctionality on any columns with sensitive information.
+However, some fields cannot be used with the quick filter. The *Embedded Files* and *Share Link* columns, for example, will not interact with the quick filter. Additionally, your system administrator may decide to prevent quick filter functionality on any columns with sensitive information.
 
 ### Undoing a Quick Filter
 If you would like to undo a quick filter and view all of the items again, there are several ways to do this.
 
 1. **Press the cancel button.** On the far right-hand side of the quick filter bar, there is an **X** icon that will cancel your quick filter.
 
-![A screenshot that shows how to cancel a search button, by pressing the "cancel" button on the far right-hand side of the search bar. The screenshot is annotated with a red box and an arrow that indicate where the cancel button can be lcoated.](<Data Table Undo Search.png>)
+![A screenshot that shows how to cancel a search button, by pressing the "cancel" button on the far right-hand side of the search bar. The screenshot is annotated with a red box and an arrow that indicate where the cancel button can be located.](<Data Table Undo Search.png>)
 
 2. **Delete filter text and press enter**. You can delete the text in the quick filter, and then press enter to remove all filters from the table.
 
@@ -68,11 +68,13 @@ If you would like to undo a quick filter and view all of the items again, there 
 . Note, however, that this may require you to log in again, so it is not a recommended approach.
 
 ## Data Tables can be Refreshed
-If the data in a table is updated, the table will need to be refreshed in order for that data to be visible in the table. Refreshing the entire page, as mentioned earlier, is not desirable as you may need to reauthenticate, which will take time.
+If the data within in a table is updated, the table will need to be refreshed in order for that data to be visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
 
 Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a data table, without leaving the page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 
 ![A screenshot that shows what the inline refresh button looks like. The screenshot is annotated with a red box. The inline refresh button is a clockwise arrow.](<Data Table Inline Refresh.png>)
 
 ## Additional Information
-You can [visit the glossary](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table>) to learn more about data tables and their basic terminology.
+- You can [visit the glossary](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table>) to learn more about data tables and their basic terminology.
+- You can visit the [Data Tables page component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>) to learn more detailed information regarding how Data Tables and Views operate.
+- Tables also utilise [Views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>), which are data filters that can be saved and reused. This filters Tables so that they return only the items you want to see.

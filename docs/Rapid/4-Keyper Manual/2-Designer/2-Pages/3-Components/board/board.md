@@ -70,7 +70,7 @@ Following is the brief description of each field:
 
     ![Choice field options being toggled](<Choice field options being toggled.png>)
 
-3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/Data%20Table%20Component/data-table-component-views/data-table-component-views.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
+3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/Data%20Table%20Component/Data%20Table%20Component.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
 
 4. **Title column -** This is a mandatory field. This forms the title of the Board items. For example - Project Name.  
      
