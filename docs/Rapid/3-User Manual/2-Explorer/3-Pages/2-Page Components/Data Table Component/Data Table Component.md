@@ -22,9 +22,15 @@ Using the **Create** button in a **Data Table** component, you can create new it
 
 ## Deleting Items
 
-## Opening Items
+Items can be deleted by selecting them, and then pressing the **Delete** button that will appear in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
 
-## Sorting Items
+- You can read more about [when and how to delete items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/7-items-deleting/7-items-deleting.md>) here.
+
+## Opening and Editing Items
+
+Opening items is the same as using any of the main tables in your Rapid Site. If you "open" an item using the **Data Table** component, you will navigate away from the current page, and will instead view the item's page you opened.
+
+- You can read about [how to open and edit items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/2-items-editing/2-items-editing.md>) here.
 
 ## Refreshing Data Tables
 
@@ -36,9 +42,13 @@ Rapid Platform includes an *Inline Refresh* button, that allows you to refresh a
 
 ## The Command Bar Can Be Disabled
 
-## Data Tables Can Filter Items
+It is possible to edit the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>) so certain menu items do not appear. For example, you can disable editing, or prevent the user from changing the table view.
 
-There are several methods for filtering the items visible on a **Data Table**. Filtering Items allows us to quickly find the relevant data we need.
+- You can read about [how to disable a Data Table's Command Bar](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/disabling-the-command-bar/disabling-the-command-bar.md>) here.
+
+## Data Tables Can Filter and Sort Items
+
+There are several methods for filtering and sorting the items visible on a **Data Table**. Filtering Items allows us to quickly find the relevant data we need.
 
 **Table Views** provide a means to control what items are shown in a list. You can consider **Table Views** as a filter on a **Data Table**, which organises and displays information based on defined criteria.
 
