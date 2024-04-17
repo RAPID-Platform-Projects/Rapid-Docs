@@ -11,11 +11,19 @@ To create a custom view:
 
 3. Pressing *Create View* will bring up the configuration for the view. The initial configuration fields for the view will default to the values being used for the current view. Essentially, this means when you create a new view, you **clone** the current view, and then can make changes and adjustments to it.
 
-4. Inputting any *sorting* or *filtering* within the **Edit View** flyout will commit those changes to the view after it is created. After giving the view a title, you will now be able to create it.
-
-![A screenshot demonstrating the "Create New" panel that will open when creating a new view. The title of the panel states "Edit Data source", with a greyed-out save button beneath it. The panel contains several fields, such as "Title" (which is highlighted in red and reads "Title column is required"), as well as a "Default Sort Column", "Default Sort Order", "View Filter", "Extra Filters" and "Columns".](<Views Create New.png>)
+4. Inputting any *sorting* or *filtering* within the **Edit View** flyout will commit those changes to the view after it is created. After giving the view a title, you will now be able to create it. The process of creating a new view is explained below.
 
 Once a view is created, it will be available from the **Views Dropdown** menu button, unless it is hidden by a System Administrator. Each of the sections of the view creation side panel are explained below.
+
+## Edit View Sidepanel
+
+When creating a view (or editing it via the **Edit View Panel Button**, Rapid's **Edit View Sidepanel** will open.
+
+![A screenshot showing the "Edit View Sidepanel Button". The screenshot is annotated with a red box to highlight the button's location. The icon of the button resembles a database table with a cog in the bottom left corner.](<Views Edit Edit Panel Button.png>)
+
+The sidepanel and its features are explained below.
+
+![A screenshot demonstrating the "Create New" panel that will open when creating a new view. The title of the panel states "Edit Data source", with a greyed-out save button beneath it. The panel contains several fields, such as "Title" (which is highlighted in red and reads "Title column is required"), as well as a "Default Sort Column", "Default Sort Order", "View Filter", "Extra Filters" and "Columns".](<Views Create New.png>)
 
 ## Details
 

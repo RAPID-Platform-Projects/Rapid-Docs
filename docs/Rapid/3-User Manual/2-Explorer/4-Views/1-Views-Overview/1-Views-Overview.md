@@ -55,8 +55,8 @@ Below is an explanation of each of these buttons and their purpose:
 
 | Label | Button Name | Description |
 |---|---|---|
-| 1 | *Views Dropdown* | This button opens a dropdown menu where you can switch between views. Additionally, there is an option to **Create Views** here as well. |
-| 2 | *Edit View Mode* | This allows you to change the way a view is displayed on a table. You can also change which column the view will sort its items by. |
-| 3 | *Edit View Panel* | This button opens a side panel, where you can change the rules governing what a view will and will not display, as well as how the view will sort its items. |
+| 1 | [Views Dropdown](</docs/Rapid/3-User Manual/2-Explorer/4-Views/2-Views-Changing/2-Views-Changing.md>) | This button opens a dropdown menu where you can switch between views. Additionally, there is an option to **Create Views** here as well. |
+| 2 | [Edit View Mode](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views-Editing/4-Views-Editing.md#editing-a-views-appearance>) | This allows you to change the way a view is displayed on a table. You can also change which column the view will sort its items by. |
+| 3 | [Edit View Panel Button](</docs/Rapid/3-User Manual/2-Explorer/4-Views/3-Views-Creating/3-Views-Creating.md#edit-view-sidepanel>) | This button opens a side panel, where you can change the rules governing what a view will and will not display, as well as how the view will sort its items. |
 
 Each of these buttons and their functionality will be discussed further in the next sections.
