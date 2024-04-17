@@ -1,4 +1,4 @@
-# Views
+# An Introduction to Views
 
 A **View** is a way of filtering [Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>) on a Table. A view can be created, edited, or deleted when viewing a [Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>), [Gantt Chart](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md>), or [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Board Component/Board Component.md>). A **View** is the essential method for **sorting** or **ordering** items, and well as determining which items should **visible** or **hidden**.
 

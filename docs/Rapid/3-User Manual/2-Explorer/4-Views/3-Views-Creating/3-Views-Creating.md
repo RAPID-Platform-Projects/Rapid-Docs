@@ -1,4 +1,4 @@
-## Creating a View
+# Creating a New View
 
 Custom **Views** can be created via the **Drop-down Views** menu button when viewing a Table, Gantt Chart, or Board. Having custom views allows for you to switch between them, depending on your needs. Alternatively, other users may require different views, depending on their needs or role.
 
@@ -72,7 +72,7 @@ When using the view extra filters these tokens are available
 
 For example
 
-![OdataViews.png](<Views OData.png>)
+![Odata Views.png](<Views OData.png>)
 
 ### Columns
 
