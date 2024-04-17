@@ -12,9 +12,9 @@ RAPID Platform allows 9 types of on-click actions for menu items. These are:
 4. [Raise Create Webhook Action](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/raise-create-webhook-action/raise-create-webhook-action.md> "How to raise a Webhook Create Action from click of a Menu button?")
 5. [Raise Workflow Created Signal](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/raise-create-webhook-action/raise-create-webhook-action.md> "How to raise a Workflow Created Signal from a click of a Menu button?")
 6. [Update Items](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/update-items/update-items.md> "How to update items from a click of a Menu button?")
-7. [SendGrid Email](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/sendgrid-email.md> "Sending Static Email from SendGrid using Explorer Menu Button")
+7. [SendGrid Email](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/sendgrid-email/sendgrid-email.md> "Sending Static Email from SendGrid using Explorer Menu Button")
 8. [Open in Fly-out](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-in-flyout/open-in-flyout.md> "How to open a specific page in Fly-out with a click of a Menu button?")
-9. [Execute Workflow Process](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/execute-workflow-process.md> "How to execute a specific workflow process")  
+9. [Execute Workflow Process](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/execute-workflow-process/execute-workflow-process.md> "How to execute a specific workflow process")  
 
 Click on each of the above links to learn more.
 
