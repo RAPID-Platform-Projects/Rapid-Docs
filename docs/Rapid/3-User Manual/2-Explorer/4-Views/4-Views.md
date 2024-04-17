@@ -63,32 +63,42 @@ Each of these buttons and their functionality will be discussed further in the n
 
 ## Changing Views
 
-Alternative views can be selected using the dropdown menu button. The default "All" view is available for selection. The "All" view displays all items present in the **Data Table**. It's important to note here that the "All" view option can be enabled or disabled (in **Designer**) by user according to their needs.
+Alternative views can be selected using the **Views Dropdown** menu button. The default "All" view is available for selection. The "All" view displays all items present in the **Data Table**. It's important to note here that the "All" view option can be enabled or disabled (in **Designer**) by user according to their needs.
 
 To change views:
 
-1. 
+1. Press the **Views Dropdown** menu button.
+2. Select a View from the dropdown menu.
+3. The dropdown menu button's label will change to display the name of the view that is currently in use.
 
 ![A screenshot demonstrating the All view in the dropdown menu. The all button is highlighted with a red box to show its location. The "All" view has a tick next to it to indicate it is the currently selected view. Additionally, the muse cursor is hovering over this view, so the background of the dropdown button is grey.](<Views Dropdown All.png>)
 
-The dropdown menu button's label will change to display the name of the view that is currently in use. In the example above, the "All" view has been selected, because its name appears next to the filter icon. Additionally, the view that is currently selected will have a checkmark icon beside the view name in the dropdown list.
-
+> In the example above, the "All" view has been selected, because its name appears next to the filter icon. Additionally, the view that is currently selected will have a checkmark icon beside the view name in the dropdown list.
 
 ## Creating a View
 
-Custom views can be created via the drop-down View menu in Tables, Gantt Charts, or Boards. 
+Custom **Views** can be created via the **Drop-down Views** menu button when viewing a Table, Gantt Chart, or Board. Having custom views allows for you to switch between them, depending on your needs. Alternatively, other users may require different views, depending on their needs or role.
 
-![Alt text](<Views Dropdown.png>)
+To create a custom view:
 
-Having custom views allows for multiple different views to be chosen. These views may be dependant on an item set or different users may require a different view. Having a custom view is a quick way of cycling between the same data set but with different sorts and filters applied. The alternative to having multiple custom views would be exclusively using the '*All View*' and changing the filters and sorts each time you wish to change the view. To create a new custom view, press the '*Views*' button this will open a drop-down.
+1. Press the **Dropdown Views** button.
+2. In the dropdown menu that appears, select **Create View**.
 
-//TODO image
+![A screenshot that shows the location of the "Create View" button. The process for creating a new view is described in the steps above. In this screenshot, the "Create View" button is annotated with a red box to highlight its location.](<Views Dropdown Create.png>)
 
-Pressing '*Create View*' will bring up the configuration for the view. The initial configuration for the view being made will always be the current configuration of the view already selected. Inputting any sorts and filters on the '*Edit View*' flyout will commit those changes to the view after it is created. After giving the view a title you will now be able to create it. Any custom views will be selectable in the drop-down menu for the views.
+3. Pressing *Create View* will bring up the configuration for the view. The initial configuration fields for the view will default to the values being used for the current view. Essentially, this means when you create a new view, you **clone** the current view, and then can make changes and adjustments to it.
 
-//TODO image
+4. Inputting any *sorting* or *filtering* within the **Edit View** flyout will commit those changes to the view after it is created. After giving the view a title, you will now be able to create it.
 
-## Column Sort
+![A screenshot demonstrating the "Create New" panel that will open when creating a new view. The title of the panel states "Edit Datasource", with a greyed-out save button beneath it. The panel contains several fields, such as "Title" (which is highlighted in red and reads "Title column is required"), as well as a "Default Sort Column", "Default Sort Order", "View Filter", "Extra Filters" and "Columns".](<Views Create New.png>)
+
+Once a view is created, it will be available from the **Views Dropdown** menu button, unless it is hidden by a System Administrator. Each of the sections of the view creation side panel are explained below.
+
+### Details
+
+Every **View** requires a title. The side panel will not allow you to save a **View** unless it has a title. This title will appear in the dropdown menu with the other created views.
+
+### Sort
 
 The default sort on a data table is 'Created Date', meaning that the newest items will be at the top. This however is not always desirable. Column sorting allows you to order the data table by the specified field. The sorts have two states. Largest to smallest and smallest to largest. To apply a sort press the edit view button. This will put you in the table edit mode.
 
@@ -100,7 +110,10 @@ To enable a sort, click on a column header. Once a sort has been enabled, clicki
 
 //TODO image
 
-## Rule Based Filtering
+
+### View Filter
+
+Column filtering allows you to hide columns from the view, it is a simple reversible action that can help reduce clutter. To hide one or more columns from the view open the view edit configuration and change the selection of fields that are visible in the view.
 
 Rule based filtering allows you to narrow down the data set with more precision than exclusively using the quick filter. The following rules are supported by Rapid. Adding a rule requires you to define the exact column the rule should apply to.
 
@@ -114,21 +127,29 @@ Rule based filtering allows you to narrow down the data set with more precision 
 
 💡 It is also important to note that all symbols can be used for strings as well as integers.
 
-## Configuring Filters
-
 To open configuration for the rules press the edit view button, then to add a rule press '**+ Rule**'.
 
 //TODO images
 
 It is possible to add multiple rules, the behaviour for adding multiple rules depends on the operator chosen. There are OR rules as well as AND rules. Making a rule group with OR rules specifies that one or another rule should match. AND rules specify that all of the rules must match and will only return rows of data where the rules are true.
 
-## Column Filtering
+### Extra Filters
 
-In certain contexts, having all columns visible in a data table can be redundant or an eye sore. Removing redundant fields from the view will do two things:
+When using the view extra filters these tokens are available
 
-1. Make room for important fields
-2. Reduce clutter making the table easier to read and more usable overall.
+- @me
+- @startOfQuarter
+- @endOfQuarter
+- @startOfMonth
+- @endOfMonth
+- @startOfWeek
+- @endOfWeek
+- @today
+- @tomorrow
 
-Column filtering allows you to hide columns from the view, it is a simple reversible action that can help reduce clutter. To hide one or more columns from the view open the view edit configuration and change the selection of fields that are visible in the view.
+For example
 
-//TODO image
+![OdataViews.png](OData.png)
+
+### Columns
+
