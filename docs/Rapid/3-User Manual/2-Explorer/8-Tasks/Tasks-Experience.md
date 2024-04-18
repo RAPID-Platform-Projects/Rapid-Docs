@@ -85,7 +85,7 @@ This is the dark blue heading bar across the top of the site. Here, you can edit
     > Clicking this button will do several things:
     > 1. It will set the "Status" of the task to "Completed"
     > 2. It will trigger any [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) processes that are waiting for the task to be completed.
-    > 3. It will remove the task from certain table or task [Views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>), such as "My Tasks". It will also disappear in views dedicated to seeing upcoming tasks.
+    > 3. It will remove the task from certain table or task [Views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>), such as "My Tasks". It will also disappear in views dedicated to seeing upcoming tasks.
 3. **Start Date**
     > This is the date when the Task's work is expected to begin, or when the task was created. Note that you can click the date to change it. You must **Save** your changes for the new *Start Date* to take effect.
 4. **Due Date**
