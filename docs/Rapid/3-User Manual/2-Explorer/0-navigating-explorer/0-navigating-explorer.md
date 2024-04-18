@@ -66,7 +66,7 @@ You can navigate to **Workflow** using the centre button, which has an icon of a
 
 ![Alt text](<Workflow Nav.png>)
 
-- Learn more about **Workflow** here.
+- [Learn more about **Workflow** here](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>).
 
 #### Designer
 
@@ -74,13 +74,11 @@ You can also navigate to **Designer** using the button on the right. This button
 
 ![Alt text](<Designer Nav.png>)
 
-- Learn more about **Designer** here.
+- [Learn more about **Designer** here](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>).
 
 ## Pages
 
-The Page component is how all data is conveyed. A page can be set up in countless ways as there are a multitude of page components which can be added to the page. In the previous example, an image component was added to the Dashboard page. This caused an image to be displayed on the Dashboard. The page component however is not limited to the Dashboard. All entities that are present in the Explorer sidebar can have pages added, along with the ability to edit them to suit the user requirements. An overview of all possible page components can be found [here](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md).
+The Page component is how all data is conveyed. A page can be set up in countless ways as there are a multitude of page components which can be added to a page. All entities that are present in the **Explorer Sidebar** can have pages added.
+- You can also read an overview of [how to use pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/1-overview/1-overview.md).
 
-
-Here we can see an example of a custom page in explorer, showing two customized details panes (asset details and purchase details) as well as a custom image component.
-
-![Customized page](image-1.png)
+![A screenshot demonstrating the location of a page. The page in this example is a projects page with a tab strip, and a projects form included. The screenshot is annotated with a red box that surrounds the page component.](<Page Example.png>)
