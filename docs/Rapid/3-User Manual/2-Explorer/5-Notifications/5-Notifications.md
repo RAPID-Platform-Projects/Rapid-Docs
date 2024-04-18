@@ -1,9 +1,8 @@
 # Notifications
 
-## The notifications alert indicator
+## Notifications Alert Indicator
 
-
-A visual alert indicator can be found in the top right of Rapid Platforms explorer expereince. This indicator presents a count of unread mentions, reminders and announcements.
+A visual alert indicator can be found in the top right of Rapid Platforms explorer experience. This indicator presents a count of unread mentions, reminders and announcements.
 
 :::info[Please note]
  Regardless of weather you have unread messages, you can click on this bell icon to see previously read messages.
@@ -12,11 +11,9 @@ A visual alert indicator can be found in the top right of Rapid Platforms explor
 ![Location of notifications button](<Bell icon.png>)
 
 
-## Easy segmentation for Reminders and Mentions
+## Easy Segmentation for Reminders and Mentions
 
 The notifications interface makes it easy to find your mentions and reminders from the remaining list by filtering them into easy to access tabs. 
-
-
 
 ![View of unread notifications](<Mentions location.png>)
 
@@ -34,14 +31,14 @@ Observe that the number of unread mentions and reminders is also visible.
 ![Image showing reminders notifications](<Notification 4.png>)
 :::
 
-## Header and body visible in the notification list
+## Header and Body are Visible in the Notification List
 
 The notification interface shows both the header and the body (without truncation) in the notification list itself. This helps users stay ontop of messages and reminders without having to hunt them down, or navigate to them before reading their content.  
 
 
 ![Image showing comparison between old and new notifications interface with reference to header and body of notification](<Notification 5.png>)
 
-## Action buttons for notifications
+## Action buttons for Notifications
 
 With each notification you get four action buttons:
 
@@ -62,7 +59,7 @@ With each notification you get four action buttons:
 Once a notification is "Read", it cannot go back to the "Unread" state. Observe in the above image, there are only three action buttons. 
 :::
 
-## Mark all notifications as read
+## Mark All Notifications as Read
 
 You can also easily change the status of all notifications to "Read" with a single click. 
 
