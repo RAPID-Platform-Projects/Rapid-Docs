@@ -16,6 +16,7 @@ This is what a simple Gantt Chart may look like in RAPID Platform
 
 ![1.png](./downloaded_image_1705285669206.png)
   
+  //TODO
 
 ## Understanding the Gantt Chart
 
@@ -33,7 +34,7 @@ Next to the list of tasks, there are three columns:
 
 The above is a Gantt Chart for a Project. The green bars depict Phases in the project and the blue ones indicate various tasks under each phase. Being a very simplistic case, this illustration has one task per phase.
 
-The Gantt Chart shows the current date with a vertical line labelled "**Now**". Based on the current system time, the vertical line will move through the date column from left to right. For example - the below image depicts evening hours of Monday - 11th September 2023.
+The Gantt Chart shows the current date with a vertical line labelled "**Now**". Based on the current system time, the vertical line will move through the date column from left to right. For example - the below image depicts April 15th. More zoomed in Gantt charts will display greater levels of fidelity.
 
 ![4.png](./downloaded_image_1705285671243.png)
 

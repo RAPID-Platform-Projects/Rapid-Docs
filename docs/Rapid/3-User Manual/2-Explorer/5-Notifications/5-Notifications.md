@@ -29,6 +29,7 @@ Observe that the number of unread mentions and reminders is also visible.
 "Reminders" will display the list of unread reminders in descending order of date and time. Observe the icon of reminder against it.
 
 ![Image showing reminders notifications](<Notification 4.png>)
+
 :::
 
 ## Header and Body are Visible in the Notification List

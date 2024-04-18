@@ -24,7 +24,7 @@ Board component provides information about the following:
 
 ![Image of a Board Item Card in Explorer](<Explorer_Board- Image of an Item Card.png>)
 
-:::danger[**Fine Points**]   
+:::note [Fine Points]   
 In the above image please note the following:
 - The icon of the item is visible next to the title.  
 - The choice option is visible along with the set colour.  
@@ -73,7 +73,7 @@ b. Click to select your desired view. This will become the active view and will 
 c. Click to create new views.
 d. Click to open Edit View Panel. Please note, you can edit only the active view.
 
-:::note[**Important Note:**]**Important Note:**
+:::note [Important Note:]
 In case you do not find the option to :
 - Change View  
 OR
@@ -90,7 +90,7 @@ You can trigger action buttons / menus from the Board. Just click on the button 
 
 ![Image showing action button on Board in Explorer](<Explorer_Board - Showing Action Menu button.png>)
 
-:::note[**Important Note:**]
+:::note[Important Note:]
 In case you have seen the action button on the Item Lists Page and is missing from the board, this means that this option has been disabled from the Board Component preferences level.
 
 ![Image showing the menu button is hidden from board](<Explorer_Board - Hidden Action Menu button.png>)  
@@ -114,7 +114,7 @@ You can create new Project items from the Board.
 
 ![Image showing option to create Child Table Item](<Explorer_Board - Create Child Item.png>)
 
-:::note[**Important Note:**]
+:::note[Important Note:]
 In case your subject table is a Parent AND you do not find the option to create new items for the Child Table, this means that this option has been disabled from the Board Component preferences level.
 
 ![Image showing option to create child table item hidden](<Explorer_Board - Hidden Create Child Item.png>)
@@ -134,7 +134,7 @@ Such items, where the category value is blank, are placed under an unspecified c
 
 ![Image showing unspecified category on Board in Explorer](<Explorer_Board - Showing unspecified category.png>)
 
-:::note[**Important Note:**]
+:::note[Important Note:]
 In case you do not see "unspecified" as a category on your board, this means that this option has been disabled from the Board Component preferences level.
 
 ![Image showing unspecified category as hidden](<Explorer_Board - Hidden unspecified category.png>)
