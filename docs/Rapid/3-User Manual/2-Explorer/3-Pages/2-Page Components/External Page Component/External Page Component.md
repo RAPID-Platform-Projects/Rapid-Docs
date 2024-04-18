@@ -10,7 +10,7 @@ If you are viewing an data from an external webpage, it is possible via the Exte
 
 ![Image showing external page component on Page](<External Page1.png>)
 
-:::danger[Please note]
+:::danger[Warning]
 1. The external page will show the information as configured at the preferences level. You cannot change the URL / External Page setting from Explorer.
 
 2. The size and position of the component is also set at the preferences level in Designer and the same reflects on your Page in Explorer. You cannot resize or reposition the component on your Page in Explorer.

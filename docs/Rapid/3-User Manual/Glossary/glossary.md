@@ -101,9 +101,11 @@ A menu can be most fundamentally be perceived as a button.
 There are two types of menu buttons:
 
 - In the [Sidebars](#sidebar "Sidebar")
+
     ![Main experience example sidebars](<Main experince example sidebars.png>)
 
 - In [command bars](#command-bar "Command bar")
+
     ![Command Bar - Data Table.png](./command-bar-data-table.png)
 
 The On-Click Action of the menu button can be configured.

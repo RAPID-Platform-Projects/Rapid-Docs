@@ -11,9 +11,13 @@ We can click on the item's **Icon**. This is a small image on the far left side 
 
 ### Clicking the Title Column
 
+We can also press the title field of the item. The title of an item is emboldened, and an underline will appear when your mouse hovers over it.
+
 ![A screenshot that shows how the user can click on the title of an item to open it.](<Items Example Click Title.png>)
 
 ### Double-clicking on the Row
+
+Alternatively, you can double-click anywhere on an item's row, and the item will open. The item's row will become highlighted in light grey when your mouse hovers over it.
 
 ![A screenshot that shows how the user can click anywhere on the row of an item in order to open it.](<Items Example Click Row.png>)
 

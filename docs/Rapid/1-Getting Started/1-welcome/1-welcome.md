@@ -1,19 +1,27 @@
-# Introducing Rapid Platform 
+# Welcome
 
-Welcome to the Rapid Platform.
+Welcome to Rapid Platform. This documentation site is structured to support users of various abilities and expertise.
 
-## Get started using Rapid
+## Rapid Standard Docs
 
-<!-- TODO : Need the tasks link here too -->
+This section is useful for users who have purchased **Rapid Standard**, and are eager to learn about each of its modules and how they operate. **Rapid Standard** is a pre-built system suitable for a variety of companies. This documentation will provide a solid basis for companies who want to start using with Rapid without having to build their own system from scratch.
 
-The Rapid Platform is all about keeping things organised so you can focus on getting things done. [Tasks](/docs/Rapid/3-User%20Manual/1-rapid-overview/1-rapid-overview.md) help keep track of what needs to be done. [Custom tables](/docs/Rapid/3-User%20Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md) keep all your data in one place, easy to share and never out of date.
+- [Visit the **Rapid Standard** documentation](</docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md>)
 
-[Processes](/docs/Rapid/3-User%20Manual/4-Workflow/workflow-introduction.md) help describe and automate tasks throughout Rapid, while [Notifications](/docs/Rapid/3-User%20Manual/2-Explorer/5-Notifications/5-Notifications.md) keep you up to date as the world changes.
+## User Manual Docs
 
-## Start customising your experience
+This documentation is useful for regular users who want to learn the basic concepts underpinning Rapid Platform, or for users who have a custom-built site. While power users may find some benefits to learning the system fundamentals here, this section is instead written for users with less technical experience and focuses on Rapid's core applications: **Explorer** and **Tasks**.
 
-The Rapid Platform is all about making a system that works for your business.  Whether you want to [customize what data](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md) you're tracking, [set up pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md) to improve the experience, [create automated processes](/docs/Rapid/4-Keyper%20Manual/3-Workflow/1-overview/1-overview.md) to simplify your business, or [generate public forms](/docs/Rapid/4-Keyper%20Manual/4-Adaptive%20Designer/2-How%20to%20create%20a%20new%20Adaptive%20Document%20Form/2-How%20to%20create%20a%20new%20Adaptive%20Document%20Form.md) to capture data we've got you covered.
+- [Visit the **User Manual** documentation](</docs/Rapid/3-User Manual/1-rapid-overview/1-rapid-overview.md>)
 
-## For Developers:
+## Keyper Manual
 
-The Rapid Platform is fully powered via our API, there's no special routes or back doors to any of our front ends. If you see something an Experience can do, you can create a custom UI that does it too! Check out our [API Docs](/docs/Rapid/5-Developer%20Manual/0-api-concepts.md) to get started interacting with Rapid.
+The Keyper (Key Person) Manual is designed for power users who will be building and customising the Rapid Platform to suit the needs of their company. This section focuses on Rapid's other applications such as **Designer**, **Workflow**, and **Adaptive Designer** applications, rather than **Explorer**. This manual also assumes you understand the fundamentals of using Rapid.
+
+- [Visit the **Keyper Manual** documentation](</docs/Rapid/3-User Manual/1-rapid-overview/1-rapid-overview.md>)
+
+## Developer Manual
+
+The Developer Manual is useful for those who are looking to interact directly with the Rapid API, create their own custom front-ends, or simply extend the site with third-party automation and software integration. This section of the documentation assumes you have high-level technical expertise.
+
+- [Visit the **Developer Manual** documentation](</docs/Rapid/5-Developer Manual/5-Developer Manual.md>)

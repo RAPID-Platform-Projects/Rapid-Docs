@@ -1,49 +1,14 @@
-# Launchpad
+# User Coin
 
-The launchpad collates notifications from throughout Rapid, helping you stay up to date.
+The **User Coin** can be found at the top right of Rapid Platform, between the notifications and Rapid AI Bot buttons.
 
-## Viewing the Launchpad
+Please navigate to the [Notifications](../5-Notifications/5-Notifications.md) or 
+[Support Bot](<../6-Support Chatbot/How to create a support request/How to create a support request.md>) pages for more details on these buttons.
 
-In Explorer click your User coin in the top right to open the launchpad.
+![A picture showing the location of the user coin in rapid platform](<User Coin location.png>)
 
-![User coin location](<User Coin Location.png>)
+Clicking this coin will expand the user details page, which includes a button for logging out.
 
-## Notifications in Launchpad
+![an image of a user details page in rapid platform](<User Details.png>)
 
-Within the launchpad you will see a list of outstanding notifications as well as controls to filter and manage them. 
-
-![Launchpad with a single notification](<Launchpad with a single notification.png>)
-
-Notifications that have not been read are marked in bold.
-
-## Managing notifications
-
-![Expanded notification with buttons](<Expanded notification with buttons.png>)
-
-While interacting with notifications there are three different things you can do.
-
-### Snoozing notifications
-Snooze will defer the notification to a later date.
-
-To snooze a task notification in Launchpad:
-
-1. Select the task notification you wish to snooze.
-2. Click the **Snooze** dropdown menu.
-3. Select the duration you wish to snooze the notification for.
-
-### Dismissing notifications
-Dismissing a notification will remove it forever.
-
-To dismiss a task notification:
-
-1. Select the task notification you wish to dismiss.
-2. Click **Dismiss** to dismiss the task notification.
-
-### Open notifications related items
-Frequently a notification is for something, the open panel shows all items associated with the notification and helps you to navigate directly to the related item(s) for more context.
-
-To open a task from a task notification:
-
-1. Select the task notification you wish to open.
-2. Click the **Open** dropdown menu, and select the task.
-3. The task flyout pane should now be visible.
+All user details are managed by Azure, if you wish to update a name or picture, you will need to do so through the official Azure Portal.

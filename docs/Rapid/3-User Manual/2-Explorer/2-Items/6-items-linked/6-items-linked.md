@@ -1,4 +1,4 @@
-## Linked Items
+# Linked Items
 
 Items can be linked to other items. This allows additional functionality for tracking connections between items, and can be automated by a system administrator.
 
@@ -26,3 +26,4 @@ Note that there are several other methods for viewing linked items. The followin
 
 - [Linked Items Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>)
 - [Data Table Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>)
+- [User Fields, Lookup Fields, and Multi-lookup Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form Component/Form Component.md#user-fields-and-lookup-fields>)

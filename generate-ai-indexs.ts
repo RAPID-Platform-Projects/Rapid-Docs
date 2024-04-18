@@ -130,7 +130,7 @@ function generateIndexDocuments() {
     const strParts = newStr?.split(newStr.includes("\\") ? "\\" : "/")
 
     for (let i = 0; i < strParts.length; i++) {
-      strParts[i] = strParts[i]?.replace(/^\d.*-/g, "");
+      strParts[i] = strParts[i]?.replace(/^\d+-\b/, "");
     }
 
     if (strParts[strParts.length - 1].endsWith(".md")) {

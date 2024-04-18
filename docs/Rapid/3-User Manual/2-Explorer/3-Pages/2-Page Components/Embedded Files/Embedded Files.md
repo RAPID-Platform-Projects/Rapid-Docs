@@ -25,7 +25,9 @@ Note the component has the following attributes:
 | *Label* | If configured by your system administrator, an *Embedded File* component will provide a label for the expected file that will be uploaded into the component. In the example above, the expected file is a "Policy" document.|
 | *Attachment Area* | This section allows you to click and open a file using your computer's file browser, or to drag-and-drop a file from your computer onto the field. |
 
-> **Important:** When a *Label* is provided (e.g. "Policy"), then the document that is uploaded will be **renamed**. For example, the Word document titled **Example.docx** will be renamed **Policy.docx** automatically. If no *Label* is provided, then the document will not be renamed.
+:::note Important:
+When a *Label* is provided (e.g. "Policy"), then the document that is uploaded will be **renamed**. For example, the Word document titled **Example.docx** will be renamed **Policy.docx** automatically. If no *Label* is provided, then the document will not be renamed.
+:::
 
 ## Uploading a File to the Page Component
 ### Clicking on the Attachment Area
@@ -94,8 +96,9 @@ When the *Embedded Files* component is configured to only allow one file to be u
 
 However, if the *Embedded Files* component has <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files#Mutli-Mode%20Embedded%20Files">Multi-Mode enabled</a>, then multiple documents can be uploaded to the same component.
 
-> **Warning:** Unlike the *Embedded Files* page component, the tabstrip component will not display a message when a file is being overwritten.  
-
+:::danger Warning:
+Unlike the *Embedded Files* page component, the tabstrip component will not display a message when a file is being overwritten.  
+:::
 ## Multi-Mode Embedded Files
 Note that the embedded files component can be configured by your system administrator so that multiple files can be attached simultaneously to the *Embedded Files* component.
 

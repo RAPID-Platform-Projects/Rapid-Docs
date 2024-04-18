@@ -16,6 +16,8 @@ To edit the Start Date,
 
 Please refer to the below GIF for illustration
 
+//TODO update all these gifs
+
 ![Date from left](changing-date.gif)
 
 ## Modifying Duration using Left Panel

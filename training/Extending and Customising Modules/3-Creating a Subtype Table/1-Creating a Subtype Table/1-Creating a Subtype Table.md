@@ -1,5 +1,5 @@
 # Creating a Subtype Table
-Eventually, you will want to extend your Rapid site by adding new tables beyond what is offered in the Assets modual of Rapid Standard. This section will the process of adding new tables (specifically subtype tables).
+Eventually, you will want to extend your Rapid site by adding new tables beyond what is offered in the Assets module of Rapid Standard. This section will the process of adding new tables (specifically subtype tables).
 
 Read the scenario below for context.
 
