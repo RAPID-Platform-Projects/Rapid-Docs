@@ -10,7 +10,9 @@ Rapid's file management system is built upon Microsoft's *Sharepoint*, which is 
 
 You can access all of your files directly using Sharepoint, or you can choose to manipulate them using Rapid components. Below, we will discuss how to do both.
 
-## File Browser Component
+## File Tabs on Items
+
+### File Browser Component
 
 By default, all Rapid [items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>) include a **Files** tab.
 
@@ -26,16 +28,20 @@ The **File Browser** allows you to upload, download, delete, rename, open, or em
 
 - Read an in-depth guide about [how to use the **File Browser**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/File-Browser.md>).
 
+### File Preview Component
+
+Files can also be previewed within **Explorer**. When a file is selected using the **File Browser**, a preview of the file and its contents will appear on the right-hand panel.
+
+![A screenshot of the file preview component on the files tab. The screenshot is annotated in red. A label that reads "File Preview component on Files Tab" points towards the component, which is also annotated with a red box surrounding it. Inside the file previewer is the Rapid Platform logo.](<File Preview 1.png>)
+
+- Read a detailed explanation about [how to use the **Attachments Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>).
+
 ## Attachments Component
 
 The **Attachments Component** allows you to display a file more prominently on an item's page alongside other page components or column fields.
 
-![Alt text](<File Attachments Example.png>)
+![A screenshot demonstrating how the Attachments component appears on the Rapid site. The screenshot is annotated with a red box that highlights the location of the component on the page. In this example, the attachment component is placed on a "Project" page, underneath the "Project Wrap-up / Sign-off" section. The component displays a word document icon, the title of the file ("Example Attachment.docx") as well as three buttons bellow it: "Open", "Download", and "Remove".](<File Attachments Example.png>)
 
 Note that files which are attached to an item using this component will also appear in the **File Browser** component, but inside a folder labelled "Attachments".
 
 - Read a detailed explanation about [how to use the **Attachments Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>).
-
-## File Preview Component
-
-Files can also be previewed within **Explorer**. 
