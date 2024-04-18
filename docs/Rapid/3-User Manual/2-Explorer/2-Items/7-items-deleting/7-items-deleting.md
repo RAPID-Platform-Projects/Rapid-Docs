@@ -12,7 +12,7 @@ Often, you should avoid deleting items. For example, if you had a employee leave
 
 Instead of deleting an item, you could ask your System Administrator to ensure that the relevant item contains a *Status* column. Here, you can set the item from *Active* to *Inactive*. 
 
-This allows you to build a [View](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>) to filter out "Inactive" items. This way, the information can still be found by changing the View, but it will disappear from your company's daily operations.
+This allows you to build a [View](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>) to filter out "Inactive" items. This way, the information can still be found by changing the View, but it will disappear from your company's daily operations.
 
 ### When to Delete Items
 

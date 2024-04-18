@@ -77,4 +77,4 @@ Rapid Platform includes an *Inline Refresh* button, that allows you to refresh a
 ## Additional Information
 - You can [visit the glossary](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table>) to learn more about data tables and their basic terminology.
 - You can visit the [Data Tables page component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>) to learn more detailed information regarding how Data Tables and Views operate.
-- Tables also utilise [Views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>), which are data filters that can be saved and reused. This filters Tables so that they return only the items you want to see.
+- Tables also utilise [Views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>), which are data filters that can be saved and reused. This filters Tables so that they return only the items you want to see.

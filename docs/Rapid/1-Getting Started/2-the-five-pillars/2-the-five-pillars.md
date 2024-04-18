@@ -25,7 +25,7 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 - [**Real-time Collaboration:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/4-item-history/4-item-history.md>) Foster seamless collaboration with your team. Explore, create, and edit data in real-time, ensuring everyone stays on the same page and projects move forward with precision.
 
-- [**Dynamic Data Views:**](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>) Customise your data views to match your workflow. **Explorer** adapts to your needs, providing you with the flexibility to organise information the way that makes the most sense for you.
+- [**Dynamic Data Views:**](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>) Customise your data views to match your workflow. **Explorer** adapts to your needs, providing you with the flexibility to organise information the way that makes the most sense for you.
 
 - [**Smart Editing Tools:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/2-items-editing/2-items-editing.md>) Edit with confidence using smart, user-friendly tools. Whether you are updating tasks, refining assets, or managing any other data, Explorer streamlines the editing process without compromising precision.
 
