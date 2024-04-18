@@ -23,7 +23,7 @@ These buttons allow you to access, from left to right:
 **User token:** A button to access information about the current user, including a log out button.
 
 
-:::tip[Please note]
+:::tip [Please note]
 
 To the right of the Jumbotron (as pictured above) is a button to access the Rapid ai powered chatbot. For more information please see our docs on //DO RAPIDO
  :::

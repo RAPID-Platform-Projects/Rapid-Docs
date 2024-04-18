@@ -26,7 +26,7 @@ To view a form:
 
 ![A screenshot that shows how the user can return to Explorer. They must return to the jumbotron at the top of the site, and press the button that resembles a browser window with a magnifying glass. The button is beside the dark blue Rapido Chatbot button. The screenshot is annotated with a red box and red arrow to highlight where the button is located on the site.](<Forms Explorer Return.png>)
 
-> Note that you can read a detailed explanation of [How to use Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>) here.
+You can read a detailed explanation of How to use Designer [here](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>).
 
 ### Labels
 
@@ -72,7 +72,9 @@ Email fields must be formatted correctly (e.g. `example@example.com`). Omitting 
 
 ![A screenshot demonstrating how email validation messages appear. In this example, the red text "Please enter a valid email" appears in an Email Address field, when the text "not an email" is entered into the field instead of a valid email address.](<Forms Email Validation.png>)
 
-> **Note:** Email addresses which are incorrectly formatted can still be saved and submitted.
+:::note Note: 
+Email addresses which are incorrectly formatted can still be saved and submitted.
+:::
 
 ### Required Fields
 

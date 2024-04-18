@@ -1,6 +1,8 @@
 # Data Table Component
 
+
 The data table is arguably the most important page component, as it is used to *create*, *delete*, *edit*, *view*, and *sort* [Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>). Whenever a Table is added to your Rapid site's database, the following happens automatically:
+
 
 - A [Page](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/1-Pages Introduction/1-Pages Introduction.md>) is created for your Table
 - A [Menu Item](</docs/Rapid/3-User Manual/2-Explorer/8-Menus/8-Menus.md>) is created in the sidebar, which links to the Page
