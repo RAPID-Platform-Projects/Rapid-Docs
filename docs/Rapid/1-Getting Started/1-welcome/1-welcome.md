@@ -24,4 +24,4 @@ The Keyper (Key Person) Manual is designed for power users who will be building 
 
 The Developer Manual is useful for those who are looking to interact directly with the Rapid API, create their own custom front-ends, or simply extend the site with third-party automation and software integration. This section of the documentation assumes you have high-level technical expertise.
 
-- [Visit the **Developer Manual** documentation](</docs/Rapid/5-Developer Manual/0-overview.md>)
+- [Visit the **Developer Manual** documentation](</docs/Rapid/5-Developer Manual/5-Developer Manual.md>)
