@@ -61,6 +61,7 @@ The following rules are supported by Rapid. Adding a rule requires you to define
 | *Greater Than* | `>` | Returns rows where the specified column is a greater value than input value. |
 | *Greater than or equal* | `>=` | Returns rows where the specified column is a greater value than input, or an equal value to the input value. |
 | *Less Than* | `<` | Returns rows where the specified column is a smaller value than input value. |
+| *Less than or equal* | `<=` | Returns rows where the specified column is a smaller value than input, or an equal value to the input value. |
 | *Not Nil Check* | `has value` | Returns rows where the specified column contains any value. |
 | *Nil Check* | `no value` | Returns rows where the specified column does not contain any value. |
 | *Partial String Match* | `contains` | Returns rows where the specified column contains part of the input value. |
@@ -105,7 +106,7 @@ In this section of the side panel, you can select which columns will appear in t
 
 ![A screenshot of the "Columns" section of the create view side panel.](<Views Create Columns.png>)
 
-For your convenience, a **Select ALl** button is located at the top of the list. Note that this will include the [System Fields](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/4-default-fields/4-default-fields.md>), however.
+For your convenience, a **Select All** button is located at the top of the list. Note that this will include the [System Fields](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/4-default-fields/4-default-fields.md>), however.
 
 ### Edit Column
 
