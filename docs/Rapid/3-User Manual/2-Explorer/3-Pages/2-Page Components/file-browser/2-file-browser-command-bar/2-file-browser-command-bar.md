@@ -112,7 +112,13 @@ Selecting a folder in the **File Browser** and then pressing the **E-mail Files*
 
 ## Deleting Files
 
-TODO
+Deleting files using the **Files Browser** component will delete them from *Sharepoint* as well. To delete a file or files:
+
+1. Select the file(s) you wish to delete
+
+2. Press the **Delete** button in the **Command Bar**
+
+![A screenshot demonstrating the appearance of the "Delete" button in the Command Bar. The screenshot is annotated with a red box to show the button's location. The button is red and says "Delete". It also has a red icon of a trash can.](<Files Delete.png>)
 
 ## Creating A Task with Attachments
 
@@ -126,7 +132,11 @@ Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explo
 
 3. The "New Task" **Create Screen** will open on the right side of the site
 
-![Alt text](<Files New Task.png>)
+![A screenshot of the new tasks screen. tasks is empty, aside from some pre-filled date data and the parent field now containing the name of the item where the files are being stored. The ](<Files New Task.png>)
+
+:::info[Task Parent]
+Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside an project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
+:::
 
 4. Fill out the **Task** information and details as desired
 
@@ -135,13 +145,7 @@ Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explo
 6. The task will now be generated, and the selected files will appear as *Attachments* in the **Files** tab of the Task item, or in the **Attachments** component of the item.
 
 :::notes[Task Files]
-If the files do not appear on a **Task**, this might be because your System Administrator has not added a page component to the *Tasks* page for viewing files.
-:::
-
-![Alt text](<Files Task Parent.png>)
-
-:::info[Task Parent]
-Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside an project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
+If the files do not appear on a **Task**, this might be because your System Administrator has not added a page component to the *Tasks* page for viewing files. To view the files, you can use the *Parent* field to navigate back to the item where the files are stored.
 :::
 
 ## Opening Files
@@ -154,12 +158,73 @@ Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Expl
 
 ### Opening Files in Sharepoint
 
+You can also open the *Sharepoint* folder that stores an item's files. This is useful if you wish to move files to a different location in your *Sharepoint* directory.
+
+1. Press the **Open in Sharepoint** button on the **Command Bar**. Its icon is the Microsoft Sharepoint logo (several spheres with an S emblazoned over them).
+
+![A screenshot demonstrating the location of the "Open in Sharepoint" button in the Command Bar. The screenshot is annotated with a red box to highlight the button's location. The icon of the button resembles three circles grouped together, with a dark square badge on top, and an S label on the badge.](<Files Sharepoint Button.png>)
+
+2. In a new browser tab, *Sharepoint* will open.
+
+![A screenshot of a browser tab displaying the Sharepoint website. Inside the website are the files that were displayed on the Rapid site. Note that several sections of this image have had names or other private information blurred out. The purpose of this image is to show that files attached to a Rapid item can be accessed and used in Microsoft Sharepoint.](<Files Sharepoint Opened.png>)
+
+You can now view your files directly in Microsoft *Sharepoint*.
+
+- You can also read more about <a href="https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872">the functionality of Microsoft Sharepoint</a> on their website.
+
+## Navigating Sharepoint Folders
+
+In both Microsoft *Sharepoint* and the **File Browser** component, a breadcrumbs component allows the user to navigate to other folders within the *Sharepoint* directory.
+
+:::notes[Example]
+A user may wish to view not just the files of this particular project, but to quickly navigate and find files in other projects without leaving the current web page. Using breadcrumbs is a fast way to achieve this.
+:::
+
+To navigate to a different folder, the user can click on any of the previous breadcrumbs in the site by clicking their name in the breadcrumb trail.
+
+![A screenshot of the breadcrumbs section of the Jumbotron. The screenshot is annotated with a red box to highlight the series of links know as "breadcrumbs". The series of links reads: "Projects > Office Building Construction". The words "Officer Building Construction" are bold, an annotation explains that this is the current page name (item) and represents the current page being viewed. These words do not act as a hyperlink, as they are the current page. The word "Projects" is written in regular text. An annotation explains that the is the previous page name (for a table) and represents the table where the item is stored. Clicking this word would cause the user to be navigated back to the table.](<Breadcrumbs Explained.png>)
+
+:::note[Terminology]
+The term "Breadcrumbs" comes from the fairytale *Hansel and Gretel* collected by the Brothers Grimm. In the story, the two children leave breadcrumbs behind them to find their way home. In web design, this term has come to mean a series of links that allow you to return to previous webpages that you have visited. Essentially, this type of component allows you to "retrace your steps".
+:::
+
 ## Changing Folder
 
+You may decide to change which folder stores the files for a particular item. This could be because you wish for two different items to point to the same *Sharepoint* folder, or there is an existing folder that you want the item to point to.
+
+The **Files Browser** component allows users to change the *Sharepoint* folder that is attached to a Rapid item.
+
+1. Press the **Change Folder** button in the **Command Bar**
+
+![A screenshot demonstrating the location of the "Change Folder" button in the Command Bar. The screenshot is annotated with a red box to highlight the location of the button. The button has an icon of a folder, with an arrow pointing inside the folder.](<Files Change Folder.png>)
+
+2. Rapid will open a list of all the storage locations linked to your Rapid site. For instance, in this example there are two main storage locations: *Internal* and *Marketing*.
+
+![A screenshot demonstrating how the storage locations appear in Rapid when changing them. The command bar now only has a single button that reads "Select Current Folder". Beneath it are two drop down menus: "Internal (1)" and "Marketing (1)". The number symbolises the different sub directories inside these storage locations.](<Files Change Folder Accordians.png>)
+
+3. Select the directory.
+
+4. Choose a sub-directory. For many simple sites, there will only be a "Documents" button here.
+
+![A screenshot that demonstrates what the "Documents" button looks like inside the dropdown menu. The button is blue and simply states "Documents". The user's mouse cursor is hovering over the corner of the button.](<Files Change Internal.png>)
+
+5. Navigate through the folder directory that appears, and find the folder you wish to point the current item towards. **Note:** double-clicking on a folder opens it.
+
+![A screenshot of the folder directory that appears after choosing a storage location. The section is titled "root", meaning it the root or base directory folder, and all other folders sit below it. There are a variety of folders in the view. The purpose of the image is to demonstrate that the entire document storage of a site can be accessed this way.](<Files Storage List.png>)
+
+6. Press the **Select Current Folder** button in the **Command Bar** to set the current folder view to be your new document storage folder.
+
+![A screenshot demonstrating the location of the "Select Current Folder" button in the Command Bar. The screenshot is annotated with a red box to indicate the button's location. The button contains an icon of a floppy disk.](<Files Folder Select.png>)
+
+:::notes[Careful]
+This means that whatever is visible inside the **File Browser** component when you press **Select Current Folder** will be exactly the files and section of the *Sharepoint* directory you will see each time the item is opened.
+:::
 
 ## Sharing
 
+At the time of writing, the **Share** button performs identically to the **Email Files** button.
 
+- You can revisit the [**Email Files** button functionality here](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/2-File-Browser-Command-Bar/2-File-Browser-Command-Bar.md#emailing-files>).
 
 ## Additional File Components
 
@@ -168,5 +233,3 @@ Rapid Platform has several additional components that are useful for storing and
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments">Attachments</a>
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Embedded%20Files">Embedded Files</a>
-
-You can also read more about <a href="https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872">the functionality of Microsoft Sharepoint</a> on their website.
