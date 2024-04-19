@@ -31,11 +31,11 @@ Rapid Platform allows you to select multiple files at once. This allows you to u
 
 - Read about [how to select multiple items in a Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/3-manipulating-data-using-tables/3-manipulating-data-using-tables.md#selecting-multiple-items>)
 
-### Preview Pane
+### File Preview
 
-When **an item is selected** using its selection circle, a preview of the file's contents will be generated in the *Preview Pane* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
+When **an item is selected** using its selection circle, a preview of the file's contents will be generated in the *File Preview* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
 
-For this to happen, the **Preview Pane** must be enabled by your system administrator. The **Preview Pane** can also be revealed or hidden by using the **Details** button in the **File Browser's** [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
+For this to happen, the **File Preview** must be enabled by your system administrator. The **File Preview** can also be revealed or hidden by using the **Details** button in the **File Browser's** [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
 
 1. Ensure an item is selected in the **File Browser**.
 
@@ -45,12 +45,32 @@ For this to happen, the **Preview Pane** must be enabled by your system administ
 
 ![A screenshot that shows the location of the details button. The screenshot is annotated with a red box to highlight the location of the button. The "Details" button has an icon of the letter "i" enclosed within a circle: symbolising that this button provides further information.](<Files Selected Item Details Button.png>)
 
-3. If the **Preview Pane** is enabled, it will appear as a side panel on the right-hand side of the site.
+3. If the **File Preview** is enabled, it will appear as a side panel on the right-hand side of the site.
 
-![A screenshot of the Preview Pane and how it appears on the Rapid site. The screenshot is annotated with a red box that surrounds the Preview Pane. There is also a red arrow indicating that the item which has been selected is now displaying in the pane.](<Files Selected Item Details Pane.png>)
+![A screenshot of the File Preview and how it appears on the Rapid site. The screenshot is annotated with a red box that surrounds the File Preview. There is also a red arrow indicating that the item which has been selected is now displaying in the preview file.](<Files Selected Item Details Pane.png>)
 
-4. If *multiple items* are selected, navigation arrows will appear at the top of the **Preview Pane** so that you can navigate between the files being previewed. In the centre of the arrows is displayed the name of the current document being previewed.
+4. If *multiple items* are selected, navigation arrows will appear at the top of the **File Preview** so that you can navigate between the files being previewed. In the centre of the arrows is displayed the name of the current document being previewed.
 
 ![A screenshot showing how the navigation arrows appear in the header. This is a "zoomed-in" view of the header from the previous image. The screenshot is annotated with red boxes to highlight the location of the arrows that point left and right at either side of the blue heading. The name of the current file is displayed in the centre of the header.](<Files Selected Multipane.png>)
 
-In the next article, we will discuss how the many buttons in the Command Bar.
+- Read more about [how to use the **File Preview Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>).
+
+## Upload Files via Drag-and-Drop
+
+If the folder being viewed in the **File Browser** component is empty, the main display section of the component will display the following message:
+
+![A screenshot of the message. There is an icon of an empty folder at the top of the message. On the first line it reads: "This folder is empty." On the second line it reads: "Drag and drop some files from your device over this area to upload them to this Project."](<Files Empty.png>)
+
+As soon as a file is uploaded to the **File Browser** component, this message will appear. Note, however, that the functionality of dragging-and-dropping files will persist despite the message vanishing.
+
+1. Find the relevant file in your operating system's file browser.
+
+2. Click the file, hold the mouse, and drag it onto the display area of the component
+
+3. Release the mouse when the cursor displays the message `+ Copy`.
+
+4. The file will now upload.
+
+![A screenshot that demonstrates how a file can be dragged from the operating system of a computer onto the display area of the Files Browser Component in Rapid. The screenshot is annotated with a red box to indicate the operating system's file brows, and an arrow to indicate that an item can be dragged from this browser onto the component. The mouse cursor has a faint image of the word icon, and the message '+ Copy' beneath the cursor.](<Files DragDrop.png>)
+
+In the next article, we will learn about the **File Browser's Command Bar** and its various functions, including an alternative method of file uploading.

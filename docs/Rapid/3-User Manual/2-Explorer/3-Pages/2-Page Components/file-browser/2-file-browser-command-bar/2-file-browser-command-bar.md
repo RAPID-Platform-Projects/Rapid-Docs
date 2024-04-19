@@ -1,16 +1,48 @@
-## Command Bar
+# Command Bar
 
-The Command Bar contains many useful functions for navigating and managing files in your Rapid site's *Sharepoint*. These functions are listed below:
+The **File Browser's Command Bar** contains many useful functions for navigating and managing files in your Rapid site's *Sharepoint*.
 
-### Create a New Folder
+![A screenshot showing how an ellipsis will appear in the Command Strip instead of the expected menu buttons, if the screen width is too small. The screenshot is annotated with a red box to show the location of the ellipsis icon.](<Files Ellipsis.png>)
 
-## Uploading A File
+If the screen width or browser window are too small, the **Command Bar** may hide certain menu items. To reveal the hidden menu items, select the ellipsis (`...`) icon in the **Command Bar**. The hidden menu items will appear in a drop-down menu.
 
-### Via the Command Bar
+![A screenshot showing the menu items that appear when clicking on the ellipsis. The ellipsis button and the menu items dropdown menu have all been annotated with a red box to indicate their location. The menu items that appear in this example are: "Email Files", "Delete", "Upload Files" and "Create Task with Attachments".](<Files Ellipsis Dropdown.png>)
+
+Each of these menu items and their functions are explained below.
+
+## Create a New Folder
+
+To keep files organised, you may wish to add additional folders to the current file directory. This way, new files that are uploaded can be added to these folders, just as though you were using your operating system's file browser.
+
+To add a new folder:
+
+1. Press the **+ New** button.
+
+![Alt text](<Files New Button.png>)
+
+2. Select **Folder**.
+
+![Alt text](<Files New Dropdown.png>)
+
+3. A new folder item will appear inside the **File Browser** display area, alongside any other folders or items that may be saved in this directory.
+
+4. Delete the **New Folder** text by pressing **Backspace ⌫** on your keyboard (Windows & Linux) or **Delete ⌫** (Mac).
+
+5. Type the desired name for your folder instead.
+
+6. Press **Enter ↵** or **Return ↵** on your keyboard.
+
+![Alt text](<Files New Folder.png>)
+
+## Upload Files via the Command Bar
 
 1. Click the **Upload files** button in the **Command Bar**.
 
 ![A screenshot demonstrating the location of the "Upload files" button in the command bar. The screenshot is annotated with a red box to highlight the button's location.](<Files Upload.png>)
+
+:::note[Upload Files]
+When an item is selected, this button will be "pushed" to a position further along the Command Bar.
+:::
 
 2. Select the intended file to upload and click **Open** in the pop-out window from your operating system's file browser.
 
@@ -20,28 +52,18 @@ The Command Bar contains many useful functions for navigating and managing files
 
 ![A screenshot of the file now uploaded. The screenshot is annotated in red to show how the file will appear in a list within the component. The File's name is "Example Attachment.docx", followed by a download icon, which is a cloud with an arrow pointing downwards. In this example, the file states it was "Last Modified an hour ago". The "Modified By" column is blurred out to protect the privacy of the user. The file size is 0.0MB as it is an empty document.](<Files Upload Complete.png>)
 
-### Via Drag-and-Drop
-
-If the folder being viewed in the **File Browser** component is empty, the main display section of the component will display the following message:
-
-![A screenshot of the message. There is an icon of an empty folder at the top of the message. On the first line it reads: "This folder is empty." On the second line it reads: "Drag and drop some files from your device over this area to upload them to this Project."](<Files Empty.png>)
-
-As soon as a file is uploaded to the **File Browser** component, this message will appear. Note, however, that the functionality of dragging-and-dropping files will persist despite the message vanishing.
-
-1. Find the relevant file in your operating system's file browser.
-
-2. Click the file, hold the mouse, and drag it onto the display area of the component
-
-3. Release the mouse when the cursor displays the message `+ Copy`.
-
-4. The file will now upload.
-
-![A screenshot that demonstrates how a file can be dragged from the operating system of a computer onto the display area of the Files Browser Component in Rapid. The screenshot is annotated with a red box to indicate the operating system's file brows, and an arrow to indicate that an item can be dragged from this browser onto the component. The mouse cursor has a faint image of the word icon, and the message '+ Copy' beneath the cursor.](<Files DragDrop.png>)
+## Renaming Files
 
 
-### Opening Files
 
-- How to
+## Opening Files
+
+
+### Downloading Files
+
+Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser.
+
+![Alt text](<Files Item Download.png>)
 
 ## Manipulating Files
 
