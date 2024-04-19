@@ -88,11 +88,27 @@ When naming a file or folder, *Sharepoint* will prevent you from using an "illeg
 
 ### Emailing Files
 
-To email a file:
+The **Files Browser** allows you to send files via email, and to also compose the email before sending it.
 
-1. In a configured document storage with an uploaded file, check the radio box that you wish to email.
-2. Click **E-mail Files** to email the file.
-3. The default email app will open allowing you to send an email with the file attached.
+1. Select the file(s) that you wish to E-mail
+
+:::info[Folders Cannot Be Emailed]
+Selecting a folder in the **File Browser** and then pressing the **E-mail Files** button, will merely cause an empty email to be generated. This occurs whether the folder contains other files, or if it is empty.
+:::
+
+2. Click **E-mail Files** button in the Command Bar
+
+![A screenshot demonstrating the "E-mail Files" button and how it appears in the Command Bar. The screenshot is annotated with a red box to highlight the location of the button. The button has an icon of an envelope.](<Files Email.png>)
+
+3. The Microsoft 365 email app will open, allowing you to send an email with the file(s) attached.
+
+4. Press the **Edit Email** button to edit the *draft* email that has been generated. It has an icon of a pencil.
+
+![A screenshot showing how to edit the draft email that is generated. The screenshot is annotated by a red arrow that points to a red box. Inside the red box is the Edit Email button. These annotations are to highlight the location of the button.](<Files Email Pre-Popout.png>)
+
+5. You can now compose your email, choose it recipient, and then send it.
+
+![A screenshot demonstrating how the email will appear in the Microsoft 365 pop-up. The file as been attached to the email, and both the message body and the "To" field are empty.](<Files Email Popout.png>)
 
 ### Creating A Task with Attachments
 
