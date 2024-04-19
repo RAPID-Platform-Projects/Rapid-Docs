@@ -6,11 +6,11 @@ As the name suggests, a File Preview component provides an area on the Page wher
 
 You can find the File Preview Component:
 
-1) **In the Files Tab at Individual Item Level** - Here the File Preview component appears as integrated with the [File Browser component](<../file-browser/file-browser.md>) and can appear as default.
+1) **In the Files Tab at Individual Item Level** - Here the File Preview component appears as integrated with the [File Browser component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md>) and can appear as default.
    
   ![Image showing File Browser component on Files Tab](<File Preview 1.png>)
 
-2) **Any other Page** - Here the File Preview component may appear with [Attachments](../Attachments/Attachments.md), [Embedded Files](<../Embedded Files/Embedded Files.md>) or [File Browser component](<../file-browser/file-browser.md>)
+2) **Any other Page** - Here the File Preview component may appear with [Attachments](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>), [Embedded Files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Files/Embedded Files.md>) or [File Browser component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md>).
 
   ![Image showing File Browser component on Item Details Tab with Attachments Component](<File preview 2.png>)
 
@@ -110,4 +110,4 @@ Here you can find File Preview component in different size and positions. This w
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>
+- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser/file-browser">File Browser</a>
