@@ -17,5 +17,8 @@
         "Subquery",
         "Tabstrip"
     ],
-    "cSpell.language": "en-GB"
+    "cSpell.language": "en-GB",
+    "cSpell.ignoreWords": [
+        "Multipane"
+    ]
 }

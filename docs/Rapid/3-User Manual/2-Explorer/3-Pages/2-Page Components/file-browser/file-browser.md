@@ -8,40 +8,6 @@ The **File Browser** component will be labelled `<Item Name> Files` to indicate 
 
 <!-- These docs regarding how to configure document storage now seems outdated as its set up automatically? Or am I missing something...? We also discuss how to set up the component in Keyper Manual. -->
 
-## Uploading A File
-
-### Via the Command Bar
-
-1. Click the **Upload files** button in the **Command Bar**.
-
-![A screenshot demonstrating the location of the "Upload files" button in the command bar. The screenshot is annotated with a red box to highlight the button's location.](<Files Upload.png>)
-
-2. Select the intended file to upload and click **Open** in the pop-out window from your operating system's file browser.
-
-![A screenshot demonstrating how to select a file from the operating system and then click "open" on the pop-out window. The screenshot is annotated in red. A red box surrounds the item that should be selected, then a red arrow directs the user that they must click the "Open" button afterwards.](<Files Upload OS.png>)
-
-3. The file will now upload.
-
-![A screenshot of the file now uploaded. The screenshot is annotated in red to show how the file will appear in a list within the component. The File's name is "Example Attachment.docx", followed by a download icon, which is a cloud with an arrow pointing downwards. In this example, the file states it was "Last Modified an hour ago". The "Modified By" column is blurred out to protect the privacy of the user. The file size is 0.0MB as it is an empty document.](<Files Upload Complete.png>)
-
-### Via Drag-and-Drop
-
-If the folder being viewed in the **File Browser** component is empty, the main display section of the component will display the following message:
-
-![A screenshot of the message. There is an icon of an empty folder at the top of the message. On the first line it reads: "This folder is empty." On the second line it reads: "Drag and drop some files from your device over this area to upload them to this Project."](<Files Empty.png>)
-
-As soon as a file is uploaded to the **File Browser** component, this message will appear. Note, however, that the functionality of dragging-and-dropping files will persist despite the message vanishing.
-
-1. Find the relevant file in your operating system's file browser.
-
-2. Click the file, hold the mouse, and drag it onto the display area of the component
-
-3. Release the mouse when the cursor displays the message `+ Copy`.
-
-4. The file will now upload.
-
-![A screenshot that demonstrates how a file can be dragged from the operating system of a computer onto the display area of the Files Browser Component in Rapid. The screenshot is annotated with a red box to indicate the operating system's file brows, and an arrow to indicate that an item can be dragged from this browser onto the component. The mouse cursor has a faint image of the word icon, and the message '+ Copy' beneath the cursor.](<Files DragDrop.png>)
-
 ## Viewing Files
 
 ### Files as Items
@@ -67,57 +33,24 @@ Rapid Platform allows you to select multiple files at once. This allows you to u
 
 ### Preview Pane
 
-When an item is selected, a preview of the file's contents will be generated in the *Preview Pane* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
+When **an item is selected** using its selection circle, a preview of the file's contents will be generated in the *Preview Pane* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
 
+For this to happen, the **Preview Pane** must be enabled by your system administrator. The **Preview Pane** can also be revealed or hidden by using the **Details** button in the **File Browser's** [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
 
+1. Ensure an item is selected in the **File Browser**.
 
-- Selected files highlight for their Office colours as appropriate (doc, xls, ppt, etc)
-- Selecting a file opens the preview pane if enabled
-- Selecting a file does not open the preview pane if disabled
-- Can toggle the preview pane
+![Alt text](<Files Selected Item.png>)
 
-### Opening Files
+2. Press the **ⓘ Details** button in the **Command Bar**.
 
-- How to
+![A screenshot that shows the location of the details button. The screenshot is annotated with a red box to highlight the location of the button. The "Details" button has an icon of the letter "i" enclosed within a circle: symbolising that this button provides further information.](<Files Selected Item Details Button.png>)
 
-## Manipulating Files
+3. If the **Preview Pane** is enabled, it will appear as a side panel on the right-hand side of the site.
 
-### Deleting A File
+![A screenshot of the Preview Pane and how it appears on the Rapid site. The screenshot is annotated with a red box that surrounds the Preview Pane. There is also a red arrow indicating that the item which has been selected is now displaying in the pane.](<Files Selected Item Details Pane.png>)
 
-To delete a file:
+4. If *multiple items* are selected, navigation arrows will appear at the top of the **Preview Pane** so that you can navigate between the files being previewed. In the centre of the arrows is displayed the name of the current document being previewed.
 
-1. In a configured document storage with an uploaded file, check the radio box that you wish to delete.
-2. Click **Delete** in the command bar to delete the file.
+![A screenshot showing how the navigation arrows appear in the header. This is a "zoomed-in" view of the header from the previous image. The screenshot is annotated with red boxes to highlight the location of the arrows that point left and right at either side of the blue heading. The name of the current file is displayed in the centre of the header.](<Files Selected Multipane.png>)
 
-### Renaming A File
-
-To rename a file:
-
-1. In a configured document storage with an uploaded file, check the radio box that you wish to rename.
-2. Click **Rename** to rename the file.
-3. Press **Enter** to save the changes.
-
-- Files with illegal file names prompt for a rename
-- When renaming a file validation warns for illegal names
-
-### Emailing Files
-
-To email a file:
-
-1. In a configured document storage with an uploaded file, check the radio box that you wish to email.
-2. Click **E-mail Files** to email the file.
-3. The default email app will open allowing you to send an email with the file attached.
-
-### Creating A Task with Attachments
-
-- TODO
-
-## Additional File Components
-
-Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
-
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments">Attachments</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Embedded%20Files">Embedded Files</a>
-
-You can also read more about <a href="https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872">the functionality of Microsoft Sharepoint</a> on their website.
+In the next article, we will discuss how the many buttons in the Command Bar.
