@@ -86,7 +86,7 @@ When naming a file or folder, *Sharepoint* will prevent you from using an "illeg
 ![A screenshot demonstrating the message that appears when an illegal file name is typed into the naming field. The screenshot is annotated with a red box to show the illegal character that has been used (a "/" ). The message reads: "You can't call a file or folder by the name of "Example Attachment/Example". Please choose another name.](<Files Illegal Name.png>)
 :::
 
-### Emailing Files
+## Emailing Files
 
 The **Files Browser** allows you to send files via email, and to also compose the email before sending it.
 
@@ -110,19 +110,47 @@ Selecting a folder in the **File Browser** and then pressing the **E-mail Files*
 
 ![A screenshot demonstrating how the email will appear in the Microsoft 365 pop-up. The file as been attached to the email, and both the message body and the "To" field are empty.](<Files Email Popout.png>)
 
-### Creating A Task with Attachments
-
-- TODO
-
 ## Deleting Files
+
+TODO
+
+## Creating A Task with Attachments
+
+Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>) that connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that once a file or files are selected, a task can be generated with the selected file(s) attached to it.
+
+1. Select the file(s) you wish to link to a new **Task**
+
+2. In the **Command Bar**, press the **Create Task with attachments** button
+
+![A screenshot that shows the location of the "Create Task with attachments" button. The screenshot is annotated with a red box to show the button's location in the Command Bar. The button also has an icon of a paper clip.](<Files Create Task.png>)
+
+3. The "New Task" **Create Screen** will open on the right side of the site
+
+![Alt text](<Files New Task.png>)
+
+4. Fill out the **Task** information and details as desired
+
+5. Press **+ Create** at the top of the **Create Screen**
+
+6. The task will now be generated, and the selected files will appear as *Attachments* in the **Files** tab of the Task item, or in the **Attachments** component of the item.
+
+:::notes[Task Files]
+If the files do not appear on a **Task**, this might be because your System Administrator has not added a page component to the *Tasks* page for viewing files.
+:::
+
+![Alt text](<Files Task Parent.png>)
+
+:::info[Task Parent]
+Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside an project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
+:::
 
 ## Opening Files
 
 ### Downloading Files
 
-Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser.
+Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser. This can be achieved using the in-line download button on a file that appears in the **Files Browser** component.
 
-![Alt text](<Files Item Download.png>)
+![A screenshot that demonstrates the location of the in-line download button. The screenshot is annotated with a red box to highlight the button's location. The button's icon resembles a cloud with an arrow descending from it.](<Files Item Download.png>)
 
 ### Opening Files in Sharepoint
 
