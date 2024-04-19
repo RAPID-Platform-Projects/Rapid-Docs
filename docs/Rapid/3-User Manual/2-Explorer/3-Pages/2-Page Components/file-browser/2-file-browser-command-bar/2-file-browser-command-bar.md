@@ -18,21 +18,27 @@ To add a new folder:
 
 1. Press the **+ New** button.
 
-![Alt text](<Files New Button.png>)
+![A screenshot that demonstrates the appearance of the "+ New" menu button. The screenshot is annotated with a red box to highlight the button's location in the Command Bar.](<Files New Button.png>)
 
 2. Select **Folder**.
 
-![Alt text](<Files New Dropdown.png>)
+![A screenshot that demonstrates the appearance of the Folder menu item that appears in the "+ New" dropdown menu. Currently, it is the only item that appears. The screenshot is annotated with a red box to highlight the location of the menu item.](<Files New Dropdown.png>)
 
 3. A new folder item will appear inside the **File Browser** display area, alongside any other folders or items that may be saved in this directory.
+
+![A screenshot that demonstrates what the field for typing a new folder name looks like. The screenshot is annotated with a red box to highlight the location of the field. The field has an icon of a folder, followed by the default text "New Folder".](<Files New Folder.png>)
 
 4. Delete the **New Folder** text by pressing **Backspace ⌫** on your keyboard (Windows & Linux) or **Delete ⌫** (Mac).
 
 5. Type the desired name for your folder instead.
 
-6. Press **Enter ↵** or **Return ↵** on your keyboard.
+6. Press **Enter ↵** or **Return ↵** on your keyboard. Alternatively, you can click elsewhere on the page, and the text field where you were typing will disappear. The folder name you typed into the field will be saved automatically.
 
-![Alt text](<Files New Folder.png>)
+:::info[Illegal File Names]
+When creating a folder, *Sharepoint* will prevent you from using an "illegal" name. For example, certain symbols and characters are not allowed in a folder name. If a folder contains a `/` for example, the **File Browser** will issue a warning in red, and will not allow the folder to be created.
+
+![A screenshot demonstrating the message that appears when an illegal folder name is typed into the naming field. The screenshot is annotated with a red box to show the illegal character that has been used (a "/" ). The message reads: "You can't call a file or folder by the name of "New Folder/Example". Please choose another name.](<Files Illegal Folder.png>)
+:::
 
 ## Upload Files via the Command Bar
 
@@ -52,38 +58,33 @@ When an item is selected, this button will be "pushed" to a position further alo
 
 ![A screenshot of the file now uploaded. The screenshot is annotated in red to show how the file will appear in a list within the component. The File's name is "Example Attachment.docx", followed by a download icon, which is a cloud with an arrow pointing downwards. In this example, the file states it was "Last Modified an hour ago". The "Modified By" column is blurred out to protect the privacy of the user. The file size is 0.0MB as it is an empty document.](<Files Upload Complete.png>)
 
-## Renaming Files
+## Renaming Files and Folders
 
+You may need to rename a file, folder, or multiple files and folders in your *Sharepoint*. The **File Browser** allows you to do this without leaving your Rapid site.
 
+1. Select the file(s) or folder(s) you wish to rename
 
-## Opening Files
+2. Press the **Rename** button that appears in the **Command Bar**
 
+![A screenshot of the Command Bar that shows the "Rename Button". The screenshot is annotated with a red box to indicate the button's location. The Rename button has an icon of a field being edited by an "editing" cursor.](<Files Rename Menu.png>)
 
-### Downloading Files
+3. Any files or folders selected will now have a field appear in their name column. Microsoft files will have a field name, followed by a filetype tag, indicating the type of document it is.
 
-Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser.
+4. Click on the field that you wish to edit. This field will behave the same as typing into a **Single Line Text** field in any Rapid form.
 
-![Alt text](<Files Item Download.png>)
+![A screenshot demonstrating what the text field looks like when renaming a file. The screenshot is annotated with a red box to highlight the location of the text field.](<Files Rename Item.png>)
 
-## Manipulating Files
+4. Delete the old file or folder name by pressing **Backspace ⌫** on your keyboard (Windows & Linux) or **Delete ⌫** (Mac).
 
-### Deleting A File
+5. Type the desired name for your folder instead.
 
-To delete a file:
+6. Press **Enter ↵** or **Return ↵** on your keyboard. Alternatively, you can click elsewhere on the page, and the text fields where you were typing will disappear. The file names you typed into the fields will be saved automatically.
 
-1. In a configured document storage with an uploaded file, check the radio box that you wish to delete.
-2. Click **Delete** in the command bar to delete the file.
+:::info[Illegal File Names]
+When naming a file or folder, *Sharepoint* will prevent you from using an "illegal" name. For example, certain symbols and characters are not allowed in a file name. If a file or folder contains a `/` for example, the **File Browser** will issue a warning in red, and will not allow the file or folder to be renamed.
 
-### Renaming A File
-
-To rename a file:
-
-1. In a configured document storage with an uploaded file, check the radio box that you wish to rename.
-2. Click **Rename** to rename the file.
-3. Press **Enter** to save the changes.
-
-- Files with illegal file names prompt for a rename
-- When renaming a file validation warns for illegal names
+![A screenshot demonstrating the message that appears when an illegal file name is typed into the naming field. The screenshot is annotated with a red box to show the illegal character that has been used (a "/" ). The message reads: "You can't call a file or folder by the name of "Example Attachment/Example". Please choose another name.](<Files Illegal Name.png>)
+:::
 
 ### Emailing Files
 
@@ -96,6 +97,25 @@ To email a file:
 ### Creating A Task with Attachments
 
 - TODO
+
+## Deleting Files
+
+## Opening Files
+
+### Downloading Files
+
+Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser.
+
+![Alt text](<Files Item Download.png>)
+
+### Opening Files in Sharepoint
+
+## Changing Folder
+
+
+## Sharing
+
+
 
 ## Additional File Components
 

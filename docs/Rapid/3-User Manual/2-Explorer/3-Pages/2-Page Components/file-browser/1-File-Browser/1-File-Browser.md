@@ -25,13 +25,23 @@ Using the **File Browser** component, we are able to view a variety of file attr
 | Modified by | Blurred out in this example for privacy reasons. | Here, the full name of the User or System that uploaded the file or edited it, will be displayed.
 | Size | 0.0MB | This is the size of the file in megabytes. The document in this example is very small (less than 1MB), so it appears as 0MB here.|
 
-### Selecting Multiple Files
+### Selecting a Single File or Folder
 
-Rapid Platform allows you to select multiple files at once. This allows you to use a button from the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and apply its commands to multiple items. Essentially, files in the **Files Browser** behave similarly to items in **Explorer's Tables**.
+To select a *single* file or folder, click anywhere on its row (except the download button).
+
+![Alt text](<Files Selection.png>)
+
+:::note[Selecting Files]
+Clicking on *another* item will cause the selection to switch to that file or folder instead.
+:::
+
+### Selecting Multiple Files or Folders
+
+The **File Browser** component allows you to select *multiple* files or folders at once. This allows you to use a button from the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and apply its commands to multiple items. Essentially, files in the **Files Browser** behave similarly to items in **Explorer's Tables**.
 
 - Read about [how to select multiple items in a Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/3-manipulating-data-using-tables/3-manipulating-data-using-tables.md#selecting-multiple-items>)
 
-### File Preview
+## File Preview
 
 When **an item is selected** using its selection circle, a preview of the file's contents will be generated in the *File Preview* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
 
@@ -54,6 +64,18 @@ For this to happen, the **File Preview** must be enabled by your system administ
 ![A screenshot showing how the navigation arrows appear in the header. This is a "zoomed-in" view of the header from the previous image. The screenshot is annotated with red boxes to highlight the location of the arrows that point left and right at either side of the blue heading. The name of the current file is displayed in the centre of the header.](<Files Selected Multipane.png>)
 
 - Read more about [how to use the **File Preview Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>).
+
+### File Preview Full-screen
+
+On the right of the **ⓘ Details** button is the *Full Screen** preview button. This button only functions when the **File Preview** sidebar is open.
+
+![A screenshot demonstrating the appearance of the "Full-screen Preview" button. The screenshot is annotated with a red box to demonstrate the location of the button on the Command Bar. The icon of the button resembles a diagonal line, with two arrows on either end. One arrow points to the upper right, and the other arrow points to the lower left. This symbolises a the File Preview growing larger.](<Preview Fullscreen Button.png>)
+
+Pressing this button will open the document in full screen for an easier reading experience. The Rapid site behind the document will become blurred.
+
+![A screenshot of how the Full-screen Preview appears on the Rapid side. The regular Rapid site becomes blurred in the background. The File Preview component now fills most of the browser window. The heading "OneDrive" appears at the top on a blue banner. In this example, a Word document titled "Example Policy (v1.1)" is being displayed in the viewing area. At the bottom of the component are buttons to change the page number, or zoom in and out.](<Preview Fullscreen.png>)
+
+To return to the Rapid site, either click the blurred background of the site, or press the **Esc** key on your keyboard.
 
 ## Upload Files via Drag-and-Drop
 
