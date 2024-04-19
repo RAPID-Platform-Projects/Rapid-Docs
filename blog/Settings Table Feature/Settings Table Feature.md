@@ -1,6 +1,6 @@
 # Setting up reports linked to items of other tenants and sites
 
-Imagine a Power BI consultant creating reports for its clients. The tenants for the consultant and the client would be different. 
+Imagine a WHS consultant is aggregating a report on various hazardous incidents occurred for its various clients. Such a report will have items spread across various tenants. 
 OR 
 Imagine a marketing head of a group of companies aggregating sales figures from various units. The unit companies may be operating on different Rapid sites.
 
