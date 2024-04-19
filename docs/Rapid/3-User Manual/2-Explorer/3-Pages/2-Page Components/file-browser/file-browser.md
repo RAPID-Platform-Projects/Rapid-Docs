@@ -24,17 +24,33 @@ The **File Browser** component will be labelled `<Item Name> Files` to indicate 
 
 ![A screenshot of the file now uploaded. The screenshot is annotated in red to show how the file will appear in a list within the component. The File's name is "Example Attachment.docx", followed by a download icon, which is a cloud with an arrow pointing downwards. In this example, the file states it was "Last Modified an hour ago". The "Modified By" column is blurred out to protect the privacy of the user. The file size is 0.0MB as it is an empty document.](<Files Upload Complete.png>)
 
-4. Double-click on the file to view it.
-
 ### Via Drag-and-Drop
 
-1. 
+If the folder being viewed in the **File Browser** component is empty, the main display section of the component will display the following message:
 
+![A screenshot of the message. There is an icon of an empty folder at the top of the message. On the first line it reads: "This folder is empty." On the second line it reads: "Drag and drop some files from your device over this area to upload them to this Project."](<Files Empty.png>)
 
-- Can manually start uploading files to the current folder with a button in the command bar
-- Can upload files to the current folder by dragging them over the component
+As soon as a file is uploaded to the **File Browser** component, this message will appear. Note, however, that the functionality of dragging-and-dropping files will persist despite the message vanishing.
+
+1. Find the relevant file in your operating system's file browser.
+
+2. Click the file, hold the mouse, and drag it onto the display area of the component
+
+3. Release the mouse when the cursor displays the message `+ Copy`.
+
+4. The file will now upload.
+
+![A screenshot that demonstrates how a file can be dragged from the operating system of a computer onto the display area of the Files Browser Component in Rapid. The screenshot is annotated with a red box to indicate the operating system's file brows, and an arrow to indicate that an item can be dragged from this browser onto the component. The mouse cursor has a faint image of the word icon, and the message '+ Copy' beneath the cursor.](<Files DragDrop.png>)
 
 ## Viewing Files
+
+### Preview Pane
+
+
+
+### Files as Items
+
+
 - Can see a file name
 - Can see a file last modified as a moment
 - Can see a file modified by as a User name
