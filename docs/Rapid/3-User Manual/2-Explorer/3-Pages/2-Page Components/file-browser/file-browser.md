@@ -1,40 +1,65 @@
 # File Browser
 
-You can configure document storage from the Single Page of the item, or through the Options of the entity in the Designer experience. More can be read [here](https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872).
+The **File Browser** component allows you to directly access the files stored in your Rapid site's *Sharepoint* folders. With the **File Browser** you can upload, download, delete, rename, open, or email the files stored in *Sharepoint*.
 
-## Configuring Document Storage Through the Single Page
+![A screenshot of the "File Browser" component as it appears in Explorer. The screenshot is annotated with two red boxes to assist the viewer in locating the location of the file browser component. In the upper portion of the screen, the user has selected the "Files" tab of an item. In this example, the item is a Project titled "Office Building Construction". Underneath is the Command Bar, and below it is the File Browser component. The Browser component is similar to how files appear in Windows File Explorer: each file is placed in a row. In the "Name" column, the projects are labelled as: "Project Scope - 26-03-2024.docx" "Project Scope - 26-03-2024.pdf" and "Project Scope.docx". The next column has a "download" button for each file. The icon of the download button is a cloud, with an arrow pointing downwards. The next column states when files were modified. The column afterwards states who modified the file. The final column lists the size of the files.](<File Browser Example.png>)
 
-To configure the Document Storage of the item through the single page of an item:
+The **File Browser** component will be labelled `<Item Name> Files` to indicate which item's files are being accessed.
 
-1. In the Explorer experience, in the **File** tab of the item that you'd like to configure the documentation storage.
-2. Click **Configure Document Storage**. It will then take you to the Options tab of the entity.
+<!-- These docs regarding how to configure document storage now seems outdated as its set up automatically? Or am I missing something...? We also discuss how to set up the component in Keyper Manual. -->
 
-![File Browser 01.png](./downloaded_image_1705285491244.png)
+## Uploading A File
 
-1. Follow the steps to configure the storage [here](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/file-browser/file-browser.md).
-2. Once the Documentation Storage has been configured, users have the option to select where to place the items, either **Linked Item** or **This item**.
+### Via the Command Bar
 
-![File Browser 02.png](./downloaded_image_1705285492259.png)
+1. Click the **Upload files** button in the **Command Bar**.
 
-1. Select **This Item** to save documents to this specific item.
+![A screenshot demonstrating the location of the "Upload files" button in the command bar. The screenshot is annotated with a red box to highlight the button's location.](<Files Upload.png>)
 
-## Uploading A New File
+2. Select the intended file to upload and click **Open** in the pop-out window from your operating system's file browser.
 
-To upload a new file:
+![A screenshot demonstrating how to select a file from the operating system and then click "open" on the pop-out window. The screenshot is annotated in red. A red box surrounds the item that should be selected, then a red arrow directs the user that they must click the "Open" button afterwards.](<Files Upload OS.png>)
 
-1. In a configured Document Library, click **Upload files**.
-2. Select the intended file to upload and click **Open** in the pop-out window.
 3. The file will now upload.
-4. Double click on the file to view it.
 
-## Deleting A File
+![A screenshot of the file now uploaded. The screenshot is annotated in red to show how the file will appear in a list within the component. The File's name is "Example Attachment.docx", followed by a download icon, which is a cloud with an arrow pointing downwards. In this example, the file states it was "Last Modified an hour ago". The "Modified By" column is blurred out to protect the privacy of the user. The file size is 0.0MB as it is an empty document.](<Files Upload Complete.png>)
+
+4. Double-click on the file to view it.
+
+### Via Drag-and-Drop
+
+1. 
+
+
+- Can manually start uploading files to the current folder with a button in the command bar
+- Can upload files to the current folder by dragging them over the component
+
+## Viewing Files
+- Can see a file name
+- Can see a file last modified as a moment
+- Can see a file modified by as a User name
+- Can see the size of a file
+- Can download a file inline
+- Can select multiple files
+- Selected files highlight for their Office colours as appropriate (doc, xls, ppt, etc)
+- Selecting a file opens the preview pane if enabled
+- Selecting a file does not open the preview pane if disabled
+- Can toggle the preview pane
+
+### Opening Files
+
+- How to
+
+## Manipulating Files
+
+### Deleting A File
 
 To delete a file:
 
 1. In a configured document storage with an uploaded file, check the radio box that you wish to delete.
 2. Click **Delete** in the command bar to delete the file.
 
-## Renaming A File
+### Renaming A File
 
 To rename a file:
 
@@ -42,7 +67,10 @@ To rename a file:
 2. Click **Rename** to rename the file.
 3. Press **Enter** to save the changes.
 
-## Emailing Files
+- Files with illegal file names prompt for a rename
+- When renaming a file validation warns for illegal names
+
+### Emailing Files
 
 To email a file:
 
@@ -50,11 +78,16 @@ To email a file:
 2. Click **E-mail Files** to email the file.
 3. The default email app will open allowing you to send an email with the file attached.
 
-## Creating A Task with Attachments
+### Creating A Task with Attachments
 
+- TODO
 
 ## Additional File Components
+
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
+
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments">Attachments</a>
 - <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Embedded%20Files">Embedded Files</a>
+
+You can also read more about <a href="https://support.office.com/en-us/article/what-is-a-document-library-3b5976dd-65cf-4c9e-bf5a-713c10ca2872">the functionality of Microsoft Sharepoint</a> on their website.
