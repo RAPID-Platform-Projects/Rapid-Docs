@@ -44,19 +44,33 @@ As soon as a file is uploaded to the **File Browser** component, this message wi
 
 ## Viewing Files
 
-### Preview Pane
-
-
-
 ### Files as Items
 
+Using the **File Browser** component, we are able to view a variety of file attributes and information. If we examine the example file item below, the following information is visible:
 
-- Can see a file name
-- Can see a file last modified as a moment
-- Can see a file modified by as a User name
-- Can see the size of a file
-- Can download a file inline
-- Can select multiple files
+![A screenshot of the example file item "Example Attachment.docx" again.](<Files Item.png>)
+
+| Column | Example | Explanation |
+| --- | --- | --- |
+| Icon | ![A screenshot of the Microsoft Word icon, zoomed in from the image above. It resembles a written page, with a blue W logo atop it.](<Files Word Example.png>) | Here the file's icon is displayed. In this example, a word document icon appears.|
+| Name | Example Attachment.docx | Here the name of the file, and the file's extension are written out.|
+| Download | ![A screenshot of the download icon, zoomed in from the image above. It resembles a cloud with an arrow descending from it.](<Files Download Button.png>) | Clicking this button will download the file to your computer.|
+| Last Modified | 2 minutes ago | This is the (relative) time that the file was uploaded or last updated. |
+| Modified by | Blurred out in this example for privacy reasons. | Here, the full name of the User or System that uploaded the file or edited it, will be displayed.
+| Size | 0.0MB | This is the size of the file in megabytes. The document in this example is very small (less than 1MB), so it appears as 0MB here.|
+
+### Selecting Multiple Files
+
+Rapid Platform allows you to select multiple files at once. This allows you to use a button from the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and apply its commands to multiple items. Essentially, files in the **Files Browser** behave similarly to items in **Explorer's Tables**.
+
+- Read about [how to select multiple items in a Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/3-manipulating-data-using-tables/3-manipulating-data-using-tables.md#selecting-multiple-items>)
+
+### Preview Pane
+
+When an item is selected, a preview of the file's contents will be generated in the *Preview Pane* if the file is a common filetype (e.g. `.DOCX`, `.CSV`, `.PDF`, `.JPG`, `.PNG`, etc.)
+
+
+
 - Selected files highlight for their Office colours as appropriate (doc, xls, ppt, etc)
 - Selecting a file opens the preview pane if enabled
 - Selecting a file does not open the preview pane if disabled

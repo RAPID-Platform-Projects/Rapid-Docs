@@ -1,7 +1,7 @@
 # Manipulating Data Using Tables
 
 ## Selecting Multiple Items
-Rapid Platform allows you to select multiple items at once. This allows you to use a button from the Command Bar, and apply its commands to multiple items. When multiple items are selected, this allows the user to: 
+Rapid Platform allows you to select multiple items at once. This allows you to use a button from the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and apply its commands to multiple items. When multiple items are selected, this allows the user to: 
 1. Delete multiple items
 2. Link multiple items to another item
 3. Launch a [Process or Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) using multiple items
