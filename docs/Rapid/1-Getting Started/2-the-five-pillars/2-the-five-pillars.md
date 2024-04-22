@@ -11,7 +11,7 @@ Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We unders
 The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](</docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md>).
 
 - Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>).
-- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>).
+- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>).
 
 ## Explorer
 
