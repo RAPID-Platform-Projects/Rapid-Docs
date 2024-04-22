@@ -21,6 +21,12 @@ Alternatively, you can double-click anywhere on an item's row, and the item will
 
 ![A screenshot that shows how the user can click anywhere on the row of an item in order to open it.](<Items Example Click Row.png>)
 
+### Selecting Multiple Items
+
+Rapid Platform allows you to select multiple items at once. This allows you to use a button from the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and apply its commands to multiple items.
+
+- Read about [how to select multiple items in a Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/3-manipulating-data-using-tables/3-manipulating-data-using-tables.md#selecting-multiple-items>)
+
 ## Fields and the Item Page
 
 Note in the screenshot below that once we open an item, the item's data is no longer arranged as columns. This is called the **Item Page**, and it is the main method for users to edit data on an item. 
