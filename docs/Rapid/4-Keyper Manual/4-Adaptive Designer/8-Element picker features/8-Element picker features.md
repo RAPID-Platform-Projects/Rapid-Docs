@@ -73,7 +73,7 @@ When **Connections Tab** is active, the list of categories displayed are changed
 
 a. **All** - This category does not change between Controls Tab and Connections Tab. It displays the list of all the controls and templates available across both the tabs.
 
-b. ***List title*** - You can then see all the list titles for which the connection has been successfully established with the document.
+b. ***List title*** - You can then see all the list titles for which the connection has been successfully established with the document, or the connection name if it has been chosen.
 
 For example - Contacts and Lead Contacts are the two tables for which connection has been established with the document. They are visible in the above image. 
 
