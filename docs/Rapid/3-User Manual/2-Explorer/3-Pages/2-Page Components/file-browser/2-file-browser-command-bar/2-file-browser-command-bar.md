@@ -144,7 +144,7 @@ Creating a **Task** this way will cause Rapid to fill the *Parent* field with a 
 
 6. The task will now be generated, and the selected files will appear as *Attachments* in the **Files** tab of the Task item, or in the **Attachments** component of the item.
 
-:::notes[Task Files]
+:::note [Task Files]
 If the files do not appear on a **Task**, this might be because your System Administrator has not added a page component to the *Tasks* page for viewing files. To view the files, you can use the *Parent* field to navigate back to the item where the files are stored.
 :::
 
@@ -152,7 +152,7 @@ If the files do not appear on a **Task**, this might be because your System Admi
 
 ### Downloading Files
 
-Files can be opened by [downloading the files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser. This can be achieved using the in-line download button on a file that appears in the **Files Browser** component.
+Files can be opened by [downloading the files](<../1-File-Browser/1-File-Browser.md#files-as-items>) and then opening them with your operating system or browser. This can be achieved using the in-line download button on a file that appears in the **Files Browser** component.
 
 ![A screenshot that demonstrates the location of the in-line download button. The screenshot is annotated with a red box to highlight the button's location. The button's icon resembles a cloud with an arrow descending from it.](<Files Item Download.png>)
 
@@ -176,7 +176,7 @@ You can now view your files directly in Microsoft *Sharepoint*.
 
 In both Microsoft *Sharepoint* and the **File Browser** component, a breadcrumbs component allows the user to navigate to other folders within the *Sharepoint* directory.
 
-:::notes[Example]
+:::note [Example]
 A user may wish to view not just the files of this particular project, but to quickly navigate and find files in other projects without leaving the current web page. Using breadcrumbs is a fast way to achieve this.
 :::
 
@@ -184,7 +184,7 @@ To navigate to a different folder, the user can click on any of the previous bre
 
 ![A screenshot of the breadcrumbs section of the Jumbotron. The screenshot is annotated with a red box to highlight the series of links know as "breadcrumbs". The series of links reads: "Projects > Office Building Construction". The words "Officer Building Construction" are bold, an annotation explains that this is the current page name (item) and represents the current page being viewed. These words do not act as a hyperlink, as they are the current page. The word "Projects" is written in regular text. An annotation explains that the is the previous page name (for a table) and represents the table where the item is stored. Clicking this word would cause the user to be navigated back to the table.](<Breadcrumbs Explained.png>)
 
-:::note[Terminology]
+:::note [Terminology]
 The term "Breadcrumbs" comes from the fairytale *Hansel and Gretel* collected by the Brothers Grimm. In the story, the two children leave breadcrumbs behind them to find their way home. In web design, this term has come to mean a series of links that allow you to return to previous webpages that you have visited. Essentially, this type of component allows you to "retrace your steps".
 :::
 
@@ -216,7 +216,7 @@ The **Files Browser** component allows users to change the *Sharepoint* folder t
 
 ![A screenshot demonstrating the location of the "Select Current Folder" button in the Command Bar. The screenshot is annotated with a red box to indicate the button's location. The button contains an icon of a floppy disk.](<Files Folder Select.png>)
 
-:::notes[Careful]
+:::note [Careful]
 This means that whatever is visible inside the **File Browser** component when you press **Select Current Folder** will be exactly the files and section of the *Sharepoint* directory you will see each time the item is opened.
 :::
 
@@ -224,12 +224,12 @@ This means that whatever is visible inside the **File Browser** component when y
 
 At the time of writing, the **Share** button performs identically to the **Email Files** button.
 
-- You can revisit the [**Email Files** button functionality here](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File-Browser/2-File-Browser-Command-Bar/2-File-Browser-Command-Bar.md#emailing-files>).
+- You can revisit the [**Email Files** button functionality here](<2-file-browser-command-bar.md#emailing-files>).
 
 ## Additional File Components
 
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
 
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments">Attachments</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Embedded%20Files">Embedded Files</a>
+- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>)
+- [Attachments](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>)
+- [Embedded Files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Files/Embedded Files.md>)
