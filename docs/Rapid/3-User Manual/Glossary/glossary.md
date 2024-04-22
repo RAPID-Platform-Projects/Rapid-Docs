@@ -101,9 +101,11 @@ A menu can be most fundamentally be perceived as a button.
 There are two types of menu buttons:
 
 - In the [Sidebars](#sidebar "Sidebar")
+
     ![Main experience example sidebars](<Main experince example sidebars.png>)
 
 - In [command bars](#command-bar "Command bar")
+
     ![Command Bar - Data Table.png](./command-bar-data-table.png)
 
 The On-Click Action of the menu button can be configured.
@@ -396,8 +398,6 @@ The Adaptive Document Canvas is the interface which allows you to create, open, 
 
 ### Document Structure Panel / Tree of Elements
 ![Image showing Document Structure Panel](<Document structure panel.png>)
-
-This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. 
 
 You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, or double click to edit the name of the element.
 

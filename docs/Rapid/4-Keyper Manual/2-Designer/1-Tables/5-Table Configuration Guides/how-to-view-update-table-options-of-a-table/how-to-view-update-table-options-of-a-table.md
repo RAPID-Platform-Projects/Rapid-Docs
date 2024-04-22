@@ -188,7 +188,8 @@ You would have seen this field while creating the table. Here, in the Options Ta
 
 ![Always create a sharepoint folder](AlwaysCreateASharePointFolder.png)
 
-:::tip[Please note:] This option is enabled only when a Document Storage has been defined.:::
+:::tip[Please note:] This option is enabled only when a Document Storage has been defined.
+:::
 
 **Case:** When option - **Always create a SharePoint folder when items are created** - is **CHECKED OFF**
 
@@ -275,7 +276,8 @@ This happens because the Payment item refers to the SharePoint folder of the lin
 
 ##### 6. Only allow creation of child items of this item
 
-:::tip[Please note -] This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.:::
+:::tip[Please note -] This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.
+:::
 
 When this option is checked on - it means - the system will disable creation of parent items and only the inherited tables can created.
 

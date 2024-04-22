@@ -1,29 +1,27 @@
-# Welcome Note
+# Welcome
 
-Dear Learner,
+Welcome to Rapid Platform. This documentation site is structured to support users of various abilities and expertise.
 
-It's with great pleasure and excitement that we welcome you to our RapidPlatform Training Program! We're thrilled to have you join us on this journey of discovery and learning.
+## Rapid Standard Docs
 
-Intro 1
+This section is useful for users who have purchased **Rapid Standard**, and are eager to learn about each of its modules and how they operate. **Rapid Standard** is a pre-built system suitable for a variety of companies. This documentation will provide a solid basis for companies who want to start using with Rapid without having to build their own system from scratch.
 
-Welcome to the Rapid Platform training program, where we will take you on a journey of how to build a powerful application called Base Rapid on Rapid Platform. We are excited to have you onboard and look forward to helping you become proficient in using Rapid Platform.  
-  
-This training program has been designed around the use case of Base Rapid. Our goal is to provide you with a comprehensive overview of Rapid Platform and equip you with the skills and knowledge needed to build this application on the platform. Whether you are a beginner or have some experience with Rapid Platform, this training program is tailored to meet your needs.  
-  
-At the end of this program, you will feel confident in using Rapid Platform and be able to create applications that can transform your business operations. We have created a step-by-step approach that will guide you through the entire process of building Base Rapid on Rapid Platform.  
-  
-We understand that learning a new platform can be challenging, but we assure you that this program is designed to be engaging, informative, and fun. Our team of experienced trainers are here to support you every step of the way.  
-  
-Once again, welcome to the Rapid Platform training program. We look forward to working with you and helping you achieve your learning objectives through the journey of building Base Rapid.
+- [Visit the **Rapid Standard** documentation](</docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md>)
 
-\-- Intro 2
+## User Manual Docs
 
-Today marks the beginning of an enriching experience where you'll dive deep into the world of RapidPlatform. This training is more than just a learning opportunity—it's a gateway to transforming the way you interact with technology and enhance your skills. Whether you're a user looking to efficiently navigate the system or a builder eager to explore its vast potential.
+This documentation is useful for regular users who want to learn the basic concepts underpinning Rapid Platform, or for users who have a custom-built site. While power users may find some benefits to learning the system fundamentals here, this section is instead written for users with less technical experience and focuses on Rapid's core applications: **Explorer** and **Tasks**.
 
-We've tailored this program to ensure that every participant, regardless of their prior experience with RapidPlatform, finds value and empowerment in the knowledge and skills they'll gain. Our team is committed to providing you with an engaging, informative, and inspiring experience.
+- [Visit the **User Manual** documentation](</docs/Rapid/3-User Manual/1-rapid-overview/1-rapid-overview.md>)
 
-So, let's embark on this adventure together, filled with learning, growth, and innovation. We're excited to see the incredible things you'll achieve with the power of RapidPlatform!
+## Keyper Manual
 
-Welcome aboard!
+The Keyper (Key Person) Manual is designed for power users who will be building and customising the Rapid Platform to suit the needs of their company. This section focuses on Rapid's other applications such as **Designer**, **Workflow**, and **Adaptive Designer** applications, rather than **Explorer**. This manual also assumes you understand the fundamentals of using Rapid.
 
-\--- WIP
+- [Visit the **Keyper Manual** documentation](</docs/Rapid/3-User Manual/1-rapid-overview/1-rapid-overview.md>)
+
+## Developer Manual
+
+The Developer Manual is useful for those who are looking to interact directly with the Rapid API, create their own custom front-ends, or simply extend the site with third-party automation and software integration. This section of the documentation assumes you have high-level technical expertise.
+
+- [Visit the **Developer Manual** documentation](</docs/Rapid/5-Developer Manual/5-Developer Manual.md>)

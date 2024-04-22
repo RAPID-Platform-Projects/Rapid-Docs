@@ -2,8 +2,6 @@
 
 ## Accessing your RAPID Site
 
-
-
 To access your site there are three main requirements:  
 
 1. Environment  
@@ -11,7 +9,6 @@ To access your site there are three main requirements:
 3. Site Name  
 
 ![URL Breakdown](<URL breakdown.png>)
-
 
 ### Environment
   

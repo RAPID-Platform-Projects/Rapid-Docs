@@ -11,7 +11,7 @@ Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We unders
 The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](</docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md>).
 
 - Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>).
-- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/8-Tasks/8-Tasks.md>).
+- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>).
 
 ## Explorer
 
@@ -25,7 +25,7 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 - [**Real-time Collaboration:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/4-item-history/4-item-history.md>) Foster seamless collaboration with your team. Explore, create, and edit data in real-time, ensuring everyone stays on the same page and projects move forward with precision.
 
-- [**Dynamic Data Views:**](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>) Customise your data views to match your workflow. **Explorer** adapts to your needs, providing you with the flexibility to organise information the way that makes the most sense for you.
+- [**Dynamic Data Views:**](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>) Customise your data views to match your workflow. **Explorer** adapts to your needs, providing you with the flexibility to organise information the way that makes the most sense for you.
 
 - [**Smart Editing Tools:**](</docs/Rapid/3-User Manual/2-Explorer/2-Items/2-items-editing/2-items-editing.md>) Edit with confidence using smart, user-friendly tools. Whether you are updating tasks, refining assets, or managing any other data, Explorer streamlines the editing process without compromising precision.
 

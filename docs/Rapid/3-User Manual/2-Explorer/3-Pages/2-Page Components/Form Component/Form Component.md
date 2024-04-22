@@ -26,7 +26,7 @@ To view a form:
 
 ![A screenshot that shows how the user can return to Explorer. They must return to the jumbotron at the top of the site, and press the button that resembles a browser window with a magnifying glass. The button is beside the dark blue Rapido Chatbot button. The screenshot is annotated with a red box and red arrow to highlight where the button is located on the site.](<Forms Explorer Return.png>)
 
-> Note that you can read a detailed explanation of [How to use Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>) here.
+You can read a detailed explanation of How to use Designer [here](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>).
 
 ### Labels
 
@@ -72,7 +72,9 @@ Email fields must be formatted correctly (e.g. `example@example.com`). Omitting 
 
 ![A screenshot demonstrating how email validation messages appear. In this example, the red text "Please enter a valid email" appears in an Email Address field, when the text "not an email" is entered into the field instead of a valid email address.](<Forms Email Validation.png>)
 
-> **Note:** Email addresses which are incorrectly formatted can still be saved and submitted.
+:::note Note: 
+Email addresses which are incorrectly formatted can still be saved and submitted.
+:::
 
 ### Required Fields
 
@@ -110,7 +112,7 @@ Below is an example of a **User Field**, followed by a table describing its func
 | *Drop-down Panel* | When a **User Field** or **Lookup Field** is pressed, it will open a drop-down panel where a connection to another item can be selected. If a **User** or **Item** is already selected, then selecting a *new* **User** or **Item** will replace it.| ![A screenshot that demonstrates the appearance of the drop-down panel from a User Field or Lookup Field. The screenshot is annotated with a red box to highlight the the drop-down panel. The following screenshots use this image, but different sections are annotated.](<User Field Dropdown.png>)|
 | *Search Bar* | This allows you to quickly search a Table for a specific item. Typing a User's name here, for example, would return a specific user. | ![A screenshot demonstrating the location of the "Search Bar". The screenshot is annotated in red to highlight the location of this Search Bar.](<User Field Search.png>)|
 | *Items List* | This is where you choose the specific **User** or **Item** that you want to link to this field to link. On the right-hand side of each item is the name of the table that contains the item. | ![A screenshot demonstrating the location of the "Items List". The screenshot is annotated in red to highlight the location of this list.](<User Field Items.png>)|
-| *Views Panel* | Here you can filter the items being displayed in the *Items List* to find a specific item or user more quickly. These views are [created at the Table level](</docs/Rapid/3-User Manual/2-Explorer/4-Views/4-Views.md>). | ![A screenshot demonstrating the location of the "View Panel". The screenshot is annotated in red to highlight the location of this panel.](<User Field Views.png>)|
+| *Views Panel* | Here you can filter the items being displayed in the *Items List* to find a specific item or user more quickly. These views are [created at the Table level](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>). | ![A screenshot demonstrating the location of the "View Panel". The screenshot is annotated in red to highlight the location of this panel.](<User Field Views.png>)|
 | *New Item Button* | This button will open the **Create Screen** panel, so that  new item can be created. This item can then be linked to using the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "New Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field New.png>)|
 | *Clear Item Button* | This operates identically to the *Remove Value* button in the *Display Field*. Pressing this button will remove the data in the **User Field** or **Lookup Field**. | ![A screenshot demonstrating the location of the "Clear Item Button". The screenshot is annotated in red to highlight the location of this button.](<User Field Clear.png>)|
 
