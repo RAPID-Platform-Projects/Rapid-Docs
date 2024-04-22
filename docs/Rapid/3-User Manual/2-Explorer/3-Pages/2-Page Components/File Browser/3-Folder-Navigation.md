@@ -8,7 +8,3 @@
 - Can create a new folder for this item
 - Can select an arbitrary folder from within SharePoint
 - Displays the selected folder for an item when it exists
-
-- Can navigate to SharePoint for the current folder
-- Can create a subfolder
-- Can change the current folder triggering the arbitrary folder selection for SharePoint
