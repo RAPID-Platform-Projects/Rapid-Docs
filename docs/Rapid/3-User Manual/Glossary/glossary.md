@@ -399,7 +399,7 @@ The Adaptive Document Canvas is the interface which allows you to create, open, 
 ### Document Structure Panel / Tree of Elements
 ![Image showing Document Structure Panel](<Document structure panel.png>)
 
-This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>
+You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, or double click to edit the name of the element.
 
 ### Composition Area
 ![Image showing Composition Area](<Composition Area.png>)
@@ -417,7 +417,7 @@ An element is a <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Us
 ### Element Configuration Panel
 ![Image showing Element Configuration Panel](<Element configuration panel.png>)
 
-Element configuration panel appears towards the right of the Composition Area INSERT LINK. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**configuration categories**</a>.
+Element configuration panel appears towards the right of the Composition Area. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**configuration categories**</a>.
 
 ### Element Configuration Categories
 ![Image showing Element Configuration Categories](<Element configuration categories.png>)
