@@ -135,7 +135,7 @@ Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explo
 ![A screenshot of the new tasks screen. tasks is empty, aside from some pre-filled date data and the parent field now containing the name of the item where the files are being stored. The ](<Files New Task.png>)
 
 :::info[Task Parent]
-Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside an project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
+Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside a project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
 :::
 
 4. Fill out the **Task** information and details as desired
