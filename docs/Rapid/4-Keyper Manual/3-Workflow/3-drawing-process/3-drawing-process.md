@@ -1,4 +1,3 @@
-
-
+# Drawing Process
 
 TODO
