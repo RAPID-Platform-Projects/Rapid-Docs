@@ -1,6 +1,6 @@
 # How to access Designer
 
-**Welcome to Designer -** This application allows you to create your business database [**tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") and organise the Rapid Platform according to your business needs.
+**Welcome to Designer -** This application allows you to create your business [database tables](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") and organise the Rapid Platform according to your business needs.
 
 In this guide, we will take a quick look at some of the important functions that you can perform using Designer in Rapid Platform.
 
