@@ -15,5 +15,9 @@ These diagrams are also called **Processes** once they begin running, and their 
 If you have received a task created by the **Rapid System**, this is because a **Workflow Process** has been triggered, and this has created a user task for you to complete.
 
 :::info[Caution]
-**Workflow** is a complex application that is not suitable for users who are not Keypers, or System Administrators, or haven't received permission to create automated systems for their organisations. This is because, by its nature, **Workflow** is designed to run behind-the-scenes: updating data, creating tasks and items, and sometimes even deleting data. As a result, it can cause data loss or corruption if not handled properly.
+**Workflow** is a complex application is only suitable for Keypers, System Administrators, users who have received permission to create automated systems for their organisations.
+
+This is because, by its nature, **Workflow** is designed to run behind-the-scenes: updating data, creating tasks and items, and sometimes even deleting data. As a result, it can cause data loss or corruption if not handled properly.
+
+You can learn about [how to use **Workflow** via the **Keyper Manual**](</docs/Rapid/4-Keyper Manual/3-Workflow/1-overview/1-overview.md>).
 :::
