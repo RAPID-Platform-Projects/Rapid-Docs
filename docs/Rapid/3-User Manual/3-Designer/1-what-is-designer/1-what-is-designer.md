@@ -2,13 +2,15 @@
 
 Databases are the backbone of all modern information systems. Business events generate data. Efficient processing of data can shape successful business operations. However, the data can be any size and complexity!
 
+![A screenshot to demonstrate the functionality of Designer. The screenshot is mostly blurred. On the right hand-side of the image is a side panel with the title "Add Column", followed by a series of fields where the user can title their database column, choose the type of data, add hyperlinks, etc. The purpose of the image is to simply demonstrate that users can build their database using a visual interface rather than coding SQL by hand.](<Designer Demo.png>)
+
 ## Data Tables
 
-Just like any other powerful database management system, Rapid Platform provides you with the flexibility to define data structures based on your business needs and also organize your data through them.
+Just like any other powerful database management system, Rapid Platform provides you with the flexibility to define data structures based on your business needs and also organise your data through them.
 
 [**Designer**](</docs/Rapid/3-User Manual/glossary/glossary.md#designer> "Designer") is where you define and manage your data structure. This application is a vital pillar of Rapid Platform.
 
-Designer enables you to create and organize [**data tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table"). It is essential for database management. It ensures that the data is organized in a logical and efficient manner, which is crucial for data accuracy, reliability, and consistency.
+Designer enables you to create and organize [**data tables**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table"). It is essential for database management. It ensures that the data is organised in a logical and efficient manner, which is crucial for data accuracy, reliability, and consistency.
 
 A well-designed [**data table structure**](</docs/Rapid/3-User Manual/glossary/glossary.md#data-table> "Data Table") helps to optimize data retrieval and processing, which can significantly improve the performance of the data processing, analytics and reporting. It also makes it easier to maintain and update the data over time.
 

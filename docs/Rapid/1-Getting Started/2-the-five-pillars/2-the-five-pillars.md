@@ -49,15 +49,15 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 ![A screenshot that demonstrates the appearance of a Workflow webpage. The screenshot has a the side panel in dark blue on the left-hand side. On the right-hand side of the image, on a white and grey background, is the area for editing workflows and building automated processes. This process has been run successfully. The diagram is highlighted in green to show the route that the workflow took in order to complete the process run.](<Workflow Example.png>)
 
-- [**Automate with Precision:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Say goodbye to manual tasks and hello to automation excellence. Design workflow diagrams effortlessly using **BPMN**, ensuring your processes run smoothly and without a hitch.
+- [**Automate with Precision:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Say goodbye to manual tasks and hello to automation excellence. Design workflow diagrams effortlessly using **BPMN**, ensuring your processes run smoothly and without a hitch.
 
-- [**Execute Complex Tasks:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Streamline your operations by creating workflows that execute complex tasks seamlessly. From task creation to intricate item management, **Workflow** puts you in control.
+- [**Execute Complex Tasks:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Streamline your operations by creating workflows that execute complex tasks seamlessly. From task creation to intricate item management, **Workflow** puts you in control.
 
-- [**Trigger Dynamic Processes:**](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
+- [**Trigger Dynamic Processes:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
 
 ## Adaptive Documents
 
-![A screenshot demonstrating Adaptive Documents application. The application has a sidepanel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
+![A screenshot demonstrating Adaptive Documents application. The application has a side-panel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
 
 **Adaptive Documents** allows you to quickly build web forms to collect data, and seamlessly integrate it with your Rapid database. Send forms to clients to collect data, or use them to power your daily internal operations.
 
