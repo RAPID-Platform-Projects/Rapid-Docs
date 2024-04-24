@@ -24,6 +24,6 @@ Below is a list of the attributes and features of the **Linked Items Panel**.
 ### Linked Items and Page Components
 Note that there are several other methods for viewing linked items. The following page components will also display items that are linked to the current item:
 
-- [Linked Items Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>)
-- [Data Table Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>)
-- [User Fields, Lookup Fields, and Multi-lookup Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form Component/Form Component.md#user-fields-and-lookup-fields>)
+- [Linked Items Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Linked Items/Linked Items.md>)
+- [Data Table Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>)
+- [User Fields, Lookup Fields, and Multi-lookup Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form/Form.md#user-fields-and-lookup-fields>)
