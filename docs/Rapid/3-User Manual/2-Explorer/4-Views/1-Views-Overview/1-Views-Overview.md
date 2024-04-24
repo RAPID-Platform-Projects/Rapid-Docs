@@ -1,6 +1,6 @@
 # An Introduction to Views
 
-A **View** is a way of filtering [Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>) on a Table. A view can be created, edited, or deleted when viewing a [Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>), [Gantt Chart](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Gantt/Gantt.md>), or [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Board Component/Board Component.md>). A **View** is the essential method for **sorting** or **ordering** items, and well as determining which items should **visible** or **hidden**.
+A **View** is a way of filtering [Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md>) on a Table. A view can be created, edited, or deleted when viewing a [Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>), [Gantt Chart](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Gantt/Gantt.md>), or [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Board Component/Board Component.md>). A **View** is the essential method for **sorting** or **ordering** items, and well as determining which items should **visible** or **hidden**.
 
 Views also affect which items are visible when selecting data using a [Lookup Field](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md#column-and-field-types>), [Multi-Lookup Field](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md#column-and-field-types>) or [User Field](</docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview/1-items-overview.md#column-and-field-types>). You can read about [how views are rendered within Lookup Fields, Multi-lookup Fields, and User Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form Component/Form Component.md#user-fields-and-lookup-fields>) here.
 
@@ -10,7 +10,7 @@ For example, if you are a project manager for a company, you do not want to view
 
 ### Views in Tables
 
-When using a **View** with [Data Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>), you can control:
+When using a **View** with [Data Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>), you can control:
 
 - If an item appears in a the Table's list, or not
 - The order that items are displayed in
@@ -47,7 +47,7 @@ When using a **View** with [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages
 
 ## View Controls
 
-There are three **View Control** buttons in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>) of a [Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>), [Gantt Chart](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md>), or [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Board Component/Board Component.md>).
+There are three **View Control** buttons in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>) of a [Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>), [Gantt Chart](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Gantt Component/1-how-to-interact-with-a-gantt-chart-in-explorer/1-how-to-interact-with-a-gantt-chart-in-explorer.md>), or [Board](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Board Component/Board Component.md>).
 
 ![A screenshot that shows what the Views buttons look like. The screenshot is annotated with three red boxes and arrows that point to the buttons. The red boxes are labelled 1, 2, 3. The labels point to the following button icons: 1 - an icon of a filter, and the word "All" with a downwards-facing chevron; 2 - the icon of a pencil; 3 - an icon of a data table with a cog in the lower right corner.](<Views Buttons.png>)
 

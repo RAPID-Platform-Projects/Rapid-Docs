@@ -230,6 +230,6 @@ At the time of writing, the **Share** button performs identically to the **Email
 
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
 
-- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>)
+- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview/File Preview.md>)
 - [Attachments](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>)
 - [Embedded Files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Files/Embedded Files.md>)

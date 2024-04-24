@@ -63,7 +63,7 @@ For this to happen, the **File Preview** must be enabled by your system administ
 
 ![A screenshot showing how the navigation arrows appear in the header. This is a "zoomed-in" view of the header from the previous image. The screenshot is annotated with red boxes to highlight the location of the arrows that point left and right at either side of the blue heading. The name of the current file is displayed in the centre of the header.](<Files Selected Multipane.png>)
 
-- Read more about [how to use the **File Preview Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>).
+- Read more about [how to use the **File Preview Component**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview/File Preview.md>).
 
 ### File Preview Full-screen
 
