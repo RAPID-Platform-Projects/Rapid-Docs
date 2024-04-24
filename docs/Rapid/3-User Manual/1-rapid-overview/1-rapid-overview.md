@@ -31,7 +31,7 @@ If you're looking to [track information](/docs/Rapid/3-User%20Manual/2-Explorer/
 
 ![Workflow Screen](Workflow_Example.png)
 
-Based off the popular [BPMN 2.0](https://camunda.com/bpmn/), [Workflow](/docs/Rapid/3-User%20Manual/4-Workflow/workflow-introduction.md) is a process diagramming and automation tool. Its rare for work to be done in a vacuum, Workflow helps you describe the flow of labour throughout your business. This helps self document what should happen when, and why. With a good description of what happens, Workflow can also <a href="https://docs.rapidplatform.com/training/Using%20Workflow">start automating</a> the creation of tasks and flow of information to help you and your team focus on getting things done.
+Based off the popular [BPMN 2.0](https://camunda.com/bpmn/), [Workflow](/docs/Rapid/3-User%20Manual/4-Workflow/4-Workflow.md) is a process diagramming and automation tool. Its rare for work to be done in a vacuum, Workflow helps you describe the flow of labour throughout your business. This helps self document what should happen when, and why. With a good description of what happens, Workflow can also <a href="https://docs.rapidplatform.com/training/Using%20Workflow">start automating</a> the creation of tasks and flow of information to help you and your team focus on getting things done.
 
 ### Tasks and the Task Experience
 
@@ -40,7 +40,7 @@ Based off the popular [BPMN 2.0](https://camunda.com/bpmn/), [Workflow](/docs/Ra
 Tasks are a fundamental unit of the Rapid Platform. A task describes a singular activity in time owned by someone.
 With a good set of processes under your belt, tasks are an excellent way to focus on what needs to be done and minimise the amount of chasing up information you need to do.
 
-When you're in the groove having a well organised list of tasks can really help, that's what the [Tasks Experience](/docs/Rapid/3-User%20Manual/2-Explorer/8-Tasks/Tasks-Experience.md) was built for.
+When you're in the groove having a well organised list of tasks can really help, that's what the [Tasks Experience](/docs/Rapid/3-User%20Manual/2-Explorer/9-Tasks/Tasks-Experience.md) was built for.
 
 ### Designer
 
