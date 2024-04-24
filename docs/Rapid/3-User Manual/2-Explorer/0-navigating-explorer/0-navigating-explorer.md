@@ -66,7 +66,7 @@ You can navigate to **Workflow** using the centre button, which has an icon of a
 
 ![Alt text](<Workflow Nav.png>)
 
-- [Learn more about **Workflow** here](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>).
+- [Learn more about **Workflow** here](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>).
 
 #### Designer
 
