@@ -1,4 +1,4 @@
-## The Image Component
+## Image
 
 Imagine you find your company logo on the Project Item Details Page or on the screen to create new project items.
 

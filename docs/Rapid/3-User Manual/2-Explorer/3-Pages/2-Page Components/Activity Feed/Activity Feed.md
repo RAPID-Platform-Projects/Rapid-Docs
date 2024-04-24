@@ -1,4 +1,4 @@
-# The Activity Feed
+# Activity Feed
  
 An activity feed can be thought of as a bulletin board and an activity log for the Table Item. 
 

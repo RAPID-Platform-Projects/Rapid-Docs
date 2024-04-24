@@ -1,4 +1,4 @@
-# Introduction to Pages in Explorer
+# Pages
 
 Pages is a fundamental concept in Rapid Platform. A Page in Explorer hosts components and displays information as configured in Designer. Whether it is a Gantt Chart, Counter component, Data Table, Board, or Report etc., every component needs a Page on which it can be hosted. Page enables adding, editing and viewing capabilities based on the nature of components hosted on it.​
 ​

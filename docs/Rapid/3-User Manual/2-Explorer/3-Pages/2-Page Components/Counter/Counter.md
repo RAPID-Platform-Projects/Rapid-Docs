@@ -1,5 +1,4 @@
-# The Counter Component
-
+# Counter
 
 Imagine you are a Company Executive and frequently visit the Projects Table. At any given point in time, you want to quickly reference the number of Customers of your organisation. 
 

@@ -1,4 +1,4 @@
-# Embedded Files Component
+# Embedded Files
 The *Embedded Files* component allows you to attach files to an item in Rapid so that they are more visible, and have additional functionality.
 
 ### Viewing Embedded Files in a Table

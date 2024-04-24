@@ -1,6 +1,4 @@
-# Basic Gantt interactions
-
-## Introduction
+# Gantt Basics
 
 Gantt charts are essentially a visualization tool for data in context to time. As long as items have a start and end date they can be viewed in relation to each other in time.
 
@@ -15,8 +13,6 @@ RAPID Platforms allows you to visualise tasks in a Gantt Chart. Tasks are the un
 This is what a simple Gantt Chart may look like in RAPID Platform
 
 ![1.png](./downloaded_image_1705285669206.png)
-  
-  //TODO
 
 ## Understanding the Gantt Chart
 
