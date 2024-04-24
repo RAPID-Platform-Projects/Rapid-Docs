@@ -122,7 +122,7 @@ Deleting files using the **Files Browser** component will delete them from *Shar
 
 ## Creating A Task with Attachments
 
-Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that once a file or files are selected, a task can be generated with the selected file(s) attached to it.
+Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that is connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that, once a file or files are selected, a task can be generated with the selected file(s) attached to it.
 
 1. Select the file(s) you wish to link to a new **Task**
 
