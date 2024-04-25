@@ -22,7 +22,7 @@ Using **Tasks** via [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigatin
 
 <!-- Is this phrasing correct @MattFranklin-Rapid?-->
 
-This is the other method of engaging with **Tasks**. The Tasks application is also interconnected with Rapid's other main applications: [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>), [Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>), and [Workflow](</docs/Rapid/3-User Manual/4-Workflow/workflow-introduction.md>).
+This is the other method of engaging with **Tasks**. The Tasks application is also interconnected with Rapid's other main applications: [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>), [Designer](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>), and [Workflow](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>).
 
 For example:
 - A list of all **Tasks** on a Rapid site can be viewed in **Explorer**.

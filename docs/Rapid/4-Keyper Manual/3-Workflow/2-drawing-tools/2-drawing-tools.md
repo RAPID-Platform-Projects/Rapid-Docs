@@ -1,8 +1,8 @@
 # Drawing Tools
 
-This section will focus on the drawing tools included in the **Workflow** application.
+This section will focus on the drawing tools included in the **Workflow** experience.
 
-When you open a process diagram in the **Workflow** application, all of the diagram-drawing tools will be located in the left-hand toolbar.
+When you open a process diagram in the **Workflow** experience, all of the diagram-drawing tools will be located in the left-hand toolbar.
 
 Each of the tools are discussed in detail below, in the order that they appear in the toolbar.
 
