@@ -1,4 +1,4 @@
-# FIltering values in a lodash expression
+# Filtering Values with Lodash
 
 In some instance you may only want the array you are passing to prefill a document, form, or email to be filtered based on one of the array items characteristics. This can be achieved using the filter method.
 
