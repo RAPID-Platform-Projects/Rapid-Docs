@@ -17,3 +17,14 @@ To configure the type of element:
 4. The element will now be configured to that type, and its appearance will change to reflect this new type
 
 ![A screenshot demonstrating how the Start Event that had its type changed now has a new appearance. As it is now configured as a "Signal Start Event", the element's symbol is now a circle with a triangle inside.](<Workflow Change Type Finished.png>)
+
+Below is a summary of all element types, and the base type that they are configured from:
+
+| Element Type | Base Element | Description | How to Access |
+| --- | --- | --- | --- |
+| | Start Event | | |
+| | Intermediate Event | | |
+| | End Event | | |
+| | Task | | |
+| **Get Item** | Data Store Reference | Fetches a single item from a Rapid *Table* using an item *id*. | Place a Data Store Reference on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |
+| **Get Items** | Data Store Reference | Fetches multiple items from a Rapid *Table* using a *table view*, a [lodash array expression for *selection*](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-arrays-with-lodash/formatting-arrays-with-lodash.md>) and a [lodash expression for *filtering*](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>). | Place a Data Store Reference on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |

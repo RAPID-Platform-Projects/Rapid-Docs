@@ -1,4 +1,4 @@
-# How to format array values in a lodash expression
+# Formatting Arrays with Lodash
 
 A get all items service task will return an array of item profiles. In this case, to format the values as you want is different to if you are returning a single item. In order to do this the .map method must be used.
 
