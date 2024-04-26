@@ -11,6 +11,14 @@ When you open a new **Process Diagram** in **Workflow**, the user interface will
 | **Canvas** | This is where the process diagram will be drawn. |
 | **Properties Panel** | This is where each element in the **Process Diagram** can be configured or have its inputs and outputs scrutinised. To view an element in the **Properties Panel**, first click on the element on the **Canvas**. Clicking the background of the **Canvas** will cause the Properties Panel to display the properties of the entire **process diagram** instead. |
 
+:::info[Properties Panel]
+The **Properties Panel** can be revealed or hidden, using the double chevrons at the top of the panel.
+
+![A screenshot that shows the location and appearance of the double chevron that can hide or reveal the "Properties Panel". The screenshot is annotated with a red box to highlight the button's location.](<Properties Hide.png>)
+
+**Above:** This icon will hide or expand the Properties Panel.
+:::
+
 ## Adding Elements
 
 ### Adding Elements via the Toolbar
