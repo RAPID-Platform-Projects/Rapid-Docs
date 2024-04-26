@@ -31,8 +31,8 @@ The "en-AU" argument tells the method to format the number as per Australian Eng
 
 ## Related articles
 
-[**How to filter values in a lodash expression**](../how-to-format-array-values-in-a-lodash-expression/how-to-format-array-values-in-a-lodash-expression.md)
+- [How to **filter values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>)
 
-[**How to format array values in a lodash expression**](../how-to-filter-values-in-a-lodash-expression/how-to-filter-values-in-a-lodash-expression.md)
+- [How to **format array values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-arrays-with-lodash/formatting-arrays-with-lodash.md>)
 
-[**Fill Document**](../fill-document/fill-document.md)
+- [How to **fill document** using a service task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/service-task/fill-document/fill-document.md>)

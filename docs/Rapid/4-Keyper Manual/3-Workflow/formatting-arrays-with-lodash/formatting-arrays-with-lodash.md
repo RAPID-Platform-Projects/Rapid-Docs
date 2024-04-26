@@ -31,8 +31,8 @@ In the case above, because we only want to format the 'amount' property that is 
 
 ## Related articles
 
-[Formatting Values in a LODASH expression](../formatting-values-in-a-lodash-expression/formatting-values-in-a-lodash-expression.md)
+- [How to **filter values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>)
 
-[How to filter values in a lodash expression](../how-to-filter-values-in-a-lodash-expression/how-to-filter-values-in-a-lodash-expression.md)
+- [How to **format values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-values-with-lodash/formatting-values-with-lodash.md>)
 
-[Fill Document](../fill-document/fill-document.md)
+- [How to **fill document** using a service task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/service-task/fill-document/fill-document.md>)

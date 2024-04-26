@@ -20,11 +20,52 @@ To configure the type of element:
 
 Below is a summary of all element types, and the base type that they are configured from:
 
-| Element Type | Base Element | Description | How to Access |
+## Start Event Types
+| Element Type | Symbol | Description | How to Access |
 | --- | --- | --- | --- |
-| | Start Event | | |
-| | Intermediate Event | | |
-| | End Event | | |
-| | Task | | |
-| **Get Item** | Data Store Reference | Fetches a single item from a Rapid *Table* using an item *id*. | Place a Data Store Reference on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |
-| **Get Items** | Data Store Reference | Fetches multiple items from a Rapid *Table* using a *table view*, a [lodash array expression for *selection*](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-arrays-with-lodash/formatting-arrays-with-lodash.md>) and a [lodash expression for *filtering*](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>). | Place a Data Store Reference on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |
+| Message Start Event |![The "Message Start Event" Reference icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. ](<Start Event Message.png>)|||
+| Timer Start Event |![Alt text](<Start Event Timer.png>)|||
+| Conditional Start Event |![Alt text](<Start Event Conditional.png>)|||
+| Signal Start Event |![Alt text](<Start Event Signal.png>)|||
+
+- You can also [read more about **Start Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/5-start-events/5-start-events.md>).
+
+## Intermediate Event Types
+| Element Type | Symbol | Description | How to Access |
+| --- | --- | --- | --- |
+|||||
+
+- You can also [read more about **Intermediate Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/6-intermediate-events.md>).
+
+## Intermediate Boundary Event Types
+
+| Element Type | Symbol | Description | How to Access |
+| --- | --- | --- | --- |
+|||||
+
+- Boundary events are created by placing an **Intermediate Event** on top of a **Task**. You can [read more about **Intermediate Boundary Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/boundary-events/boundary-events.md>).
+
+## End Event Types
+
+| Element Type | Symbol | Description | How to Access |
+| --- | --- | --- | --- |
+|||||
+
+- You can also [read more about **End Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/7-end-events/7-end-events.md>).
+
+## Task Types
+
+| Element Type | Symbol | Description | How to Access |
+| --- | --- | --- | --- |
+|||||
+
+- You can also [read more about **Tasks**](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/8-tasks.md>).
+
+## Data Store Reference Types
+
+| Element Type | Symbol | Description | How to Access |
+| --- | --- | --- | --- |
+| **Get Item** | ![The "Data Store Reference: Get Item" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. ](<Workflow Data Can.png>) |  Fetches a single item from a Rapid *Table* using an item *id*. | Place a **Data Store Reference** on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |
+| **Get Items** | ![The "Data Store Reference: Get Items" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. Note that this is the same icon as the previous one. ](<Workflow Data Can.png>) | Fetches multiple items from a Rapid *Table* using a *table view*, a [lodash array expression for *selection*](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-arrays-with-lodash/formatting-arrays-with-lodash.md>) and a [lodash expression for *filtering*](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>). | Place a **Data Store Reference** on Canvas, and use the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>) to configure the *Type* field. |
+
+- You can also [read more about **Data Store References**](</docs/Rapid/4-Keyper Manual/3-Workflow/9-data-store-reference/9-data-store-reference.md>).
