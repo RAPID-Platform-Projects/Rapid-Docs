@@ -53,7 +53,12 @@ You can reposition an element after it is placed, by clicking and dragging on th
 
 ### Illegal Placement
 
+You cannot place an object on top of another object. If this occurs, the object that is being infringed upon will turn red. If you release the cursor when an object is being illegally placed the following will occur:
 
+![A screenshot demonstrating the appearance of an element when another element will be placed on top of it. In this example, the orange task rectangle is being placed atop the start event element. The start event element is now highlighted in a faint red, indicating that this is an illegal placement.](<Workflow Illegal Placement.png>)
+
+- **When adding a new element:** the element being placed will disappear, and need to be selected from the toolbar again.
+- **When repositioning an element:** the element will return to its old location on the canvas. (This location is indicated by a feint grey outline of the element while it is being repositioned).
 
 ## Naming Elements
 
