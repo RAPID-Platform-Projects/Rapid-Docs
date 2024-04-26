@@ -15,7 +15,7 @@ When you open a new **Process Diagram** in **Workflow**, the user interface will
 
 There are two methods for adding a diagram element onto the page.
 
-### Using the toolbar
+### Adding Elements via the Toolbar
 
 1. Select the diagram element on the toolbar
 
@@ -35,13 +35,37 @@ There are two methods for adding a diagram element onto the page.
 
 ![A screenshot demonstrating the appearance of an element once it has been placed on the canvas. The element now has a black rectangle outline, rather than an orange one. Further out from the element's edge, a dotted rectangle surrounds the element, indicating that it has been selected. Inside the task element, a vertical line cursor is blinking, indicating that text can be typed here. To the right of the task element is a series of button represented by icons. These will be described in more detail later in the article.](<Workflow Placed Element.png>)
 
-:::notes[Repositioning]
+:::note[Repositioning]
 You can reposition an element after it is placed, by clicking and dragging on the element. You will not be able to reposition an element if it is expecting you to type a label (i.e. the text cursor is flashing in the centre of the element). In this case, you will need to de-select the element first, and then it can be dragged as usual.
 :::
 
-### Using the "Quick Add" Panel
+### Adding Elements via the Configuration Panel
 
-After selecting an element on the **Canvas**, a panel of 
+After selecting an element on the **Canvas**, a panel of buttons will appear beside the element. This is the **Configuration Panel**. This panel allows you to configure, delete, or link elements. However, it also allows you to create a new element and add it "downstream" of the current element. This means the element will be placed on the canvas for you, and the two elements will be linked.
+
+To add an element via the **Configuration Panel**:
+
+1. Select an element by clicking it
+
+![Alt text](<Workflow Configuration Panel Add.png>)
+
+2. Select the new element symbol from the **Configuration Panel**. These element symbols match the symbols from the **Toolbar** with a few exceptions noted below.
+
+![Alt text](<Workflow Configuration Panel Add Task.png>)
+
+3. The selected element will now appear on the **Canvas** and be linked *downstream* to the first element.
+
+![Alt text](<Workflow Configuration Panel Added.png>)
+
+:::note[Configuration Panel Elements]
+There is an additional type of element that is not present in the **Toolbar**. The **Text Annotation** element is used for adding additional documentation to an element onto the **Canvas**.
+
+![A screenshot demonstrating the location and appearance of the "Text Annotation" button within the "Configuration Panel" of workflow. The screenshot is annotated with a red box to indicate the location of the button. The button's icon resembles a square bracket, with a dotted line attached to it.](<Workflow Configuration Annotation.png>)
+
+If you select the annotation element, you will be prompted to type text into a resizeable text field that can be placed onto the **Canvas**. Note that the **Text Annotation** does not affect how a process runs.
+
+![Alt text](<Workflow Annotation on Canvas.png>)
+:::
 
 ## Aligning Elements
 
@@ -80,7 +104,7 @@ Large elements (such as Tasks) will display their titles within the element's sy
 
 There are several methods for adding a title, which are explained below.
 
-### When an Element is Placed
+### Adding Titles When an Element is Placed
 
 After an element is placed, Workflow's UI immediately will prompt you to give the element a title.
 ![A screenshot demonstrating the appearance of an element once it has been placed on the canvas. The element now has a black rectangle outline, rather than an orange one. Further out from the element's edge, a dotted rectangle surrounds the element, indicating that it has been selected. Inside the task element, a vertical line cursor is blinking, indicating that text can be typed here. To the right of the task element is a series of button represented by icons. These will be described in more detail later in the article.](<Workflow Placed Element.png>)
@@ -91,13 +115,23 @@ After an element is placed, Workflow's UI immediately will prompt you to give th
     - Pressing **Enter** or **Return** on your keyboard, or
     - Clicking on the **Canvas**.
 
-### Via the Configuration Panel
+### Adding Titles via the Configuration Panel
 
 
 
-### Via the Properties Sidepanel
+### Adding Titles via the Properties Sidepanel
 
 
 
 ## Linking Elements Together
 
+Elements that are added to a process should be connected to other elements to create a flowchart diagram. There are two methods for linking items together.
+
+### Using the Configuration Panel
+
+Selecting an item, and then selecting an element from the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md#adding-elements-via-the-configuration-panel>), will cause the two elements to become linked. The element that was placed first will be "upstream" (i.e. it will be processed first). This is indicated by the direction of the link's arrow.
+
+    - Select the **Global Connect** tool from the toolbar
+    - 
+    
+![Alt text](<Workflow Global Connect.png>)
