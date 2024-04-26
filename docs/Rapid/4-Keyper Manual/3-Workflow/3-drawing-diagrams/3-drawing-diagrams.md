@@ -13,8 +13,6 @@ When you open a new **Process Diagram** in **Workflow**, the user interface will
 
 ## Adding Elements
 
-There are two methods for adding a diagram element onto the page.
-
 ### Adding Elements via the Toolbar
 
 1. Select the diagram element on the toolbar
@@ -47,15 +45,15 @@ To add an element via the **Configuration Panel**:
 
 1. Select an element by clicking it
 
-![Alt text](<Workflow Configuration Panel Add.png>)
+![A screenshot that shows the appearance of the new element buttons within the configuration panel. The screenshot is annotated with a red box to highlight the location of the buttons.](<Workflow Configuration Panel Add.png>)
 
 2. Select the new element symbol from the **Configuration Panel**. These element symbols match the symbols from the **Toolbar** with a few exceptions noted below.
 
-![Alt text](<Workflow Configuration Panel Add Task.png>)
+![A screenshot that shows the location of the new Task button. The screenshot is annotated with a red box to highlight the location of the button. In this example, the user's cursor is about to click the button. The button has an icon of a rectangle with rounded corners, and a user image in the upper-left corner.](<Workflow Configuration Panel Add Task.png>)
 
-3. The selected element will now appear on the **Canvas** and be linked *downstream* to the first element.
+3. The selected element will now appear on the **Canvas** and will be linked *downstream* from the first element.
 
-![Alt text](<Workflow Configuration Panel Added.png>)
+![A screenshot that shows how a task added via the configuration panel will appear. The task element has a dotted rectangle surrounds the element, indicating that it has been selected. Inside the task element, a vertical line cursor is blinking, indicating that text can be typed here. To the right of the task element is a series of button represented by icons. These will be described in more detail later in the article.](<Workflow Configuration Panel Added.png>)
 
 :::note[Configuration Panel Elements]
 There is an additional type of element that is not present in the **Toolbar**. The **Text Annotation** element is used for adding additional documentation to an element onto the **Canvas**.
@@ -104,6 +102,20 @@ Large elements (such as Tasks) will display their titles within the element's sy
 
 There are several methods for adding a title, which are explained below.
 
+### Adding Titles via Keyboard Shortcut
+
+To add a title to an element:
+
+1. Select an element by clicking it
+
+2. Press **E** on the keyboard
+
+3. Type the desired title into the element
+
+4. Confirm the title by:
+    - Pressing **Enter** or **Return** on your keyboard, or
+    - Clicking on the **Canvas**
+
 ### Adding Titles When an Element is Placed
 
 After an element is placed, Workflow's UI immediately will prompt you to give the element a title.
@@ -113,25 +125,80 @@ After an element is placed, Workflow's UI immediately will prompt you to give th
 
 2. Confirm the title by:
     - Pressing **Enter** or **Return** on your keyboard, or
-    - Clicking on the **Canvas**.
+    - Clicking on the **Canvas**
 
-### Adding Titles via the Configuration Panel
+### Adding Titles via the Properties Panel
 
+Certain element types will display information in the **Properties Panel**. For example, a basic task (with no icon) will not allow the user to edit the tasks properties. However, the **User Task** element can be configured. Selecting a **User Task** will allow you to edit the *Title* in the **Properties Panel**.
 
+1. Select an element by clicking it on the **Canvas**
+2. Ensure the **Element** tab is selected in the **Properties Panel**
+3. Edit the the title using the *Title* field
+4. Confirm the title by:
+    - Pressing the **Save** button in the top toolbar
 
-### Adding Titles via the Properties Sidepanel
-
-
+![A screenshot demonstrating how to edit the name of of an element via the "Properties Panel". The screenshot is annotated in red to indicate that the title inside the symbol of an element can be edited via a field in the "Properties Panel".](<Workflow Title in Properties Panel.png>)
 
 ## Linking Elements Together
 
 Elements that are added to a process should be connected to other elements to create a flowchart diagram. There are two methods for linking items together.
 
-### Using the Configuration Panel
+### Linking Elements Using the Configuration Panel
 
-Selecting an item, and then selecting an element from the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md#adding-elements-via-the-configuration-panel>), will cause the two elements to become linked. The element that was placed first will be "upstream" (i.e. it will be processed first). This is indicated by the direction of the link's arrow.
+Selecting an item, and then selecting an element from the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md#adding-elements-via-the-configuration-panel>), will cause the two elements to become linked automatically.
 
-    - Select the **Global Connect** tool from the toolbar
-    - 
-    
-![Alt text](<Workflow Global Connect.png>)
+![A screenshot that shows the appearance of the new element buttons within the configuration panel. The screenshot is annotated with a red box to highlight the location of the buttons.](<Workflow Configuration Panel Add.png>)
+
+### Linking Elements Using the Toolbar
+
+For a process diagram to work, it is necessary to link together elements.
+
+The direction of an arrow indicates the "flow" of the diagram. Elements that are executed earlier in a diagram are described as being *upstream*, whereas elements that execute later are described as being *downstream*.
+
+![Alt text](<Workflow Stream.png>)
+
+To create a link between items:
+
+1. Select the **Global Link** tool from the toolbar
+
+![A screenshot demonstrating the location of the global linking tool in the toolbar. The screenshot is annotated with a red box that highlights the location of the button in the toolbar.](<Workflow Global Connect.png>)
+
+2. Click on the element that will be *upstream* (the element will highlight green to indicate it is being selected). Your cursor will change to a hand to indicate the element can be selected.
+
+![A screenshot demonstrating the appearance of selecting an element to link. The element being selected is a Start Event element. It is highlighted in green.](<Workflow Link 1.png>)
+
+:::note[Linking]
+After selecting the first element, your cursor will change to an **Incorrect** symbol until you position your mouse over an appropriate *downstream* element. A temporary, dotted line will now be connected between the first element, and your mouse cursor.
+
+![An image that shows how the mouse cursor and line that is being drawn will appear. The line that now connects from the Start Event is dotted, and the mouse cursor has changed to a red circle with a line through the middle, indicating that you cannot select an element here.](<Workflow Link 2.png>)
+
+Clicking on the **Canvas** while your cursor is in its **Incorrect** state, will cause the link to be cancelled.
+:::
+
+3. Click on the element that will be *downstream* (this element will also highlight as green to indicate it is being selected)
+
+![A screenshot demonstrating the appearance of selecting an element to link. The element being selected is now the task element. It is highlighted in green.](<Workflow Link 3.png>)
+
+:::note[Linking]
+When the mouse cursor is placed over an appropriate *downstream* element, the cursor will return to a hand icon. The temporary dotted line will now turn into a directional arrow to indicate the flow of the diagram.
+:::
+
+![A screenshot that shows the completed link. The Start Event circle element has an arrow that points away from itself, downstream to the task element (a rounded rectangle with an icon of a person in the upper left corner). Because the task element is now selected, the Configuration Panel is now active on the right-hand side of the task element.](<Workflow Link 4.png>)
+
+Once a link has been created, the green highlighting will disappear, and the *downstream* element will now become selected.
+
+## Deleting Elements
+
+### Deleting Elements via Keyboard
+
+Pressing the **Delete** key on the keyboard will delete an element or link that is selected on the **Canvas**.
+
+### Deleting Elements via the Configuration Panel
+
+Alternatively, you can delete an element or link by doing the following:
+
+1. Select the element or link by clicking on it
+
+2. Press the **Delete** button that appears in the **Configuration Panel**
+
+![A screenshot demonstrating the appearance and location of the delete button in the Configuration Panel. The screenshot is annotated with a red box to highlight the location of the "Delete" button. The icon for the "Delete" button resembles a trash can.](<Workflow Configuration Delete.png>)
