@@ -28,10 +28,10 @@ To access any of the **Start Event Types** below, place a [Start Event](</docs/R
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |
-| **Message Start Event** |![The "Message Start Event" Reference icon. This icon resembles circle with an envelope inside.](<Start Event Message.png>)||
-| **Timer Start Event** |![The "Timer Start Event" Reference icon. This icon resembles circle with an analogue clock inside.](<Start Event Timer.png>)||
-| **Conditional Start Event** |![The "Conditional Start Event" Reference icon. This icon resembles circle with an page of written instructions inside.](<Start Event Conditional.png>)||
-| **Signal Start Event** |![The "Signal Start Event" Reference icon. This icon resembles circle with a triangle inside.](<Start Event Signal.png>)|||
+| **Message Start Event** |![The "Message Start Event" Reference icon. This icon resembles circle with an envelope inside.](<Start Event Message.png>) | |
+| **Timer Start Event** |![The "Timer Start Event" Reference icon. This icon resembles circle with an analogue clock inside.](<Start Event Timer.png>) | Triggers the start of a workflow and produces a token as set by a timer. For example, can be configured to run at *specific dates of the year* or at specific *times of day*. |
+| **Conditional Start Event** |![The "Conditional Start Event" Reference icon. This icon resembles circle with an page of written instructions inside.](<Start Event Conditional.png>) | |
+| **Signal Start Event** |![The "Signal Start Event" Reference icon. This icon resembles circle with a triangle inside.](<Start Event Signal.png>) | Triggers the start of a workflow and produces a token when certain conditions on a table are met. The trigger is configured using an [OData query](</docs/Rapid/3-User Manual/2-Explorer/4-Views/3-Views-Creating/3-Views-Creating.md#extra-filters>). |
 
 - You can also [read more about **Start Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/5-start-events/5-start-events.md>).
 
@@ -41,24 +41,40 @@ To access any of the **Intermediate Event Types** below, place an [Intermediate 
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |
-| **Message Intermediate Catch Event** |||
-| **Message Intermediate Throw Event** |||
-| **Timer Intermediate Catch Event** |||
-| **Escalation Intermediate Throw Event** |||
-| **Conditional Intermediate Catch Event** |||
-| **Link Intermediate Catch Event** |||
-| **Link Intermediate Throw Event** |||
-| **Compensation Intermediate Throw Event** |||
-| **Signal Intermediate Catch Event** |||
-| **Signal Intermediate Throw Event** |||
+| **Message Intermediate Catch Event** | ![The "Message Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and an envelope inside.](<Intermediate Message Catch.png>) ||
+| **Message Intermediate Throw Event** | ![The "Message Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black envelope inside.](<Intermediate Message Throw.png>) ||
+| **Timer Intermediate Catch Event** | ![The "Timer Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a clock inside.](<Intermediate Timer Catch.png>) | Pauses the process token for a duration that is specified using a Lodash expression, or for a fixed length of time. |
+| **Escalation Intermediate Throw Event** | ![The "Escalation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black upwards arrow inside.](<Intermediate Escalation Throw.png>) ||
+| **Conditional Intermediate Catch Event** | ![The "Conditional Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a page of writing inside.](<Intermediate Conditional Catch.png>) ||
+| **Link Intermediate Catch Event** | ![The "Link Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a white arrow pointing to the right, inside.](<Intermediate Link Catch.png>) ||
+| **Link Intermediate Throw Event** | ![The "Link Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black arrow pointing to the right, inside.](<Intermediate Link Throw.png>) ||
+| **Compensation Intermediate Throw Event** | ![The "Compensation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a "rewind" symbol inside. The rewind symbol is two arrows point to the left.](<Intermediate Compensation Throw.png>) ||
+| **Signal Intermediate Catch Event** | ![The "Signal Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and white equilateral triangle inside.](<Intermediate Signal Catch.png>) | Creates a new token when the conditions for a table are met. Also discards all other active tokens. These conditions are specified using an OData query.|
+| **Signal Intermediate Throw Event** | ![The "Signal Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and black equilateral triangle inside.](<Intermediate Signal Throw.png>) ||
 
 ## Intermediate Boundary Event Types
 
-Boundary events are created by placing an **Intermediate Event** on top of a **Task**. These events can then have their type configured using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>). You can [read more about **Intermediate Boundary Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/boundary-events/boundary-events.md>).
+Boundary events are created by placing an **Intermediate Event** on top of a **Task**. The result is an element that combines both task and intermediate event.
+
+![A screenshot demonstrating the appearance of a boundary event type of element. The screenshot shows a task rectangle which is rounded in the corners. On the top of the task is a timer boundary event: this event has a symbol that resembles a clock. The event symbol has a thick white outline.](<Boundary Example.png>)
+
+These events can then have their type configured using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>). You can [read more about **Intermediate Boundary Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/boundary-events/boundary-events.md>).
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |
-||||
+| **Message Boundary Event** |||
+| **Timer Boundary Event** |||
+| **Escalation Boundary Event** |||
+| **Conditional Boundary Event** |||
+| **Error Boundary Event** |||
+| **Cancel Boundary Event** |||
+| **Signal Boundary Event** |||
+| **Compensation Boundary Event** |||
+| **Message Boundary Event (non-interrupting)** |||
+| **Timer Boundary Event (non-interrupting)** |||
+| **Escalation Boundary Event (non-interrupting)** |||
+| **Conditional Boundary Event (non-interrupting)** |||
+| **Signal Boundary Event (non-interrupting)** |||
 
 ## End Event Types
 
