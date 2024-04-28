@@ -41,16 +41,16 @@ To access any of the **Intermediate Event Types** below, place an [Intermediate 
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |
-| **Message Intermediate Catch Event** | ![The "Message Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and an envelope inside.](<Intermediate Message Catch.png>) ||
-| **Message Intermediate Throw Event** | ![The "Message Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black envelope inside.](<Intermediate Message Throw.png>) ||
-| **Timer Intermediate Catch Event** | ![The "Timer Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a clock inside.](<Intermediate Timer Catch.png>) | Pauses the process token for a duration that is specified using a Lodash expression, or for a fixed length of time. |
-| **Escalation Intermediate Throw Event** | ![The "Escalation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black upwards arrow inside.](<Intermediate Escalation Throw.png>) ||
-| **Conditional Intermediate Catch Event** | ![The "Conditional Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a page of writing inside.](<Intermediate Conditional Catch.png>) ||
-| **Link Intermediate Catch Event** | ![The "Link Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and a white arrow pointing to the right, inside.](<Intermediate Link Catch.png>) ||
-| **Link Intermediate Throw Event** | ![The "Link Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a black arrow pointing to the right, inside.](<Intermediate Link Throw.png>) ||
-| **Compensation Intermediate Throw Event** | ![The "Compensation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and a "rewind" symbol inside. The rewind symbol is two arrows point to the left.](<Intermediate Compensation Throw.png>) ||
-| **Signal Intermediate Catch Event** | ![The "Signal Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, and white equilateral triangle inside.](<Intermediate Signal Catch.png>) | Creates a new token when the conditions for a table are met. Also discards all other active tokens. These conditions are specified using an OData query.|
-| **Signal Intermediate Throw Event** | ![The "Signal Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, and black equilateral triangle inside.](<Intermediate Signal Throw.png>) ||
+| **Message Intermediate Catch Event** | ![The "Message Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, with an envelope inside.](<Intermediate Message Catch.png>) ||
+| **Message Intermediate Throw Event** | ![The "Message Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, with a black envelope inside.](<Intermediate Message Throw.png>) ||
+| **Timer Intermediate Catch Event** | ![The "Timer Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, with a clock inside.](<Intermediate Timer Catch.png>) | Pauses the process token for a duration that is specified using a Lodash expression, or for a fixed length of time. |
+| **Escalation Intermediate Throw Event** | ![The "Escalation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, with a black upwards arrow inside.](<Intermediate Escalation Throw.png>) ||
+| **Conditional Intermediate Catch Event** | ![The "Conditional Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, with a page of writing inside.](<Intermediate Conditional Catch.png>) ||
+| **Link Intermediate Catch Event** | ![The "Link Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, with a white arrow pointing to the right, inside.](<Intermediate Link Catch.png>) ||
+| **Link Intermediate Throw Event** | ![The "Link Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, with a black arrow pointing to the right, inside.](<Intermediate Link Throw.png>) ||
+| **Compensation Intermediate Throw Event** | ![The "Compensation Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, with a "rewind" symbol inside. The rewind symbol is two arrows point to the left.](<Intermediate Compensation Throw.png>) ||
+| **Signal Intermediate Catch Event** | ![The "Signal Intermediate Catch Event" icon. This icon resembles a circle with a thick white border, with white equilateral triangle inside.](<Intermediate Signal Catch.png>) | Creates a new token when the conditions for a table are met. Also discards all other active tokens. These conditions are specified using an OData query.|
+| **Signal Intermediate Throw Event** | ![The "Signal Intermediate Throw Event" icon. This icon resembles a circle with a thick white border, with black equilateral triangle inside.](<Intermediate Signal Throw.png>) ||
 
 ## Intermediate Boundary Event Types
 
@@ -62,19 +62,19 @@ These events can then have their type configured using the [Configuration Panel]
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |
-| **Message Boundary Event** |||
-| **Timer Boundary Event** |||
-| **Escalation Boundary Event** |||
-| **Conditional Boundary Event** |||
-| **Error Boundary Event** |||
-| **Cancel Boundary Event** |||
-| **Signal Boundary Event** |||
-| **Compensation Boundary Event** |||
-| **Message Boundary Event (non-interrupting)** |||
-| **Timer Boundary Event (non-interrupting)** |||
-| **Escalation Boundary Event (non-interrupting)** |||
-| **Conditional Boundary Event (non-interrupting)** |||
-| **Signal Boundary Event (non-interrupting)** |||
+| **Message Boundary Event** |![The "Message Boundary Event" icon. This icon resembles a circle with a thick white border, with a white envelope inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Message.png>)||
+| **Timer Boundary Event** |![The "Timer Boundary Event" icon. This icon resembles a circle with a thick white border, with a clock inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Timer.png>)||
+| **Escalation Boundary Event** |![The "Escalation Boundary Event" icon. This icon resembles a circle with a thick white border, with a white upwards arrow inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Escalation.png>)||
+| **Conditional Boundary Event** |![The "Conditional Boundary Event" icon. This icon resembles a circle with a thick white border, with a page symbol inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Conditional.png>)||
+| **Error Boundary Event** |![The "Error Boundary Event" icon. This icon resembles a circle with a thick white border, with a white lightning bolt symbol inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Error.png>)||
+| **Cancel Boundary Event** |![The "Cancel Boundary Event" icon. This icon resembles a circle with a thick white border, with a white x inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Cancel.png>)||
+| **Signal Boundary Event** |![The "Signal Boundary Event" icon. This icon resembles a circle with a thick white border, with a white equilateral triangle inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Signal.png>)||
+| **Compensation Boundary Event** |![The "Compensation Boundary Event" icon. This icon resembles a circle with a thick white border, with two white arrows pointing to the left, inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Compensation.png>)||
+| **Message Boundary Event (non-interrupting)** |![The "Message Boundary Event (Non-Interrupting)" icon. This icon resembles a circle with a double-dashed border, with a white envelope inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Message Non.png>)||
+| **Timer Boundary Event (non-interrupting)** |![The "Message Boundary Event (Non-Interrupting)" icon. This icon resembles a circle with a double-dashed border, with a clock inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Timer Non.png>)||
+| **Escalation Boundary Event (non-interrupting)** |![The "Message Boundary Event (Non-Interrupting)" icon. This icon resembles a circle with a double-dashed border, with a white upwards arrow inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Escalation Non.png>)||
+| **Conditional Boundary Event (non-interrupting)** |![The "Message Boundary Event (Non-Interrupting)" icon. This icon resembles a circle with a double-dashed border, with a page symbol inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Conditional Non.png>)||
+| **Signal Boundary Event (non-interrupting)** |![The "Signal Boundary Event (Non-Interrupting)" icon. This icon resembles a circle with a double-dashed border, with a white equilateral triangle inside. Behind the icon is a straight line from the task that the event has been placed on.](<Boundary Signal Non.png>)||
 
 ## End Event Types
 
