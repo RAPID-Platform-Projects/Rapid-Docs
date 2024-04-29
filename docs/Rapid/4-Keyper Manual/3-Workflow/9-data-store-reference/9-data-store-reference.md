@@ -1,6 +1,6 @@
 # Data Store References
 
-The **Data Store Reference** or "Data Can" is used for both retrieving items from a Rapid Database. When a Start Event in a process diagram is triggered, any **Data Store References** on the canvas will obtain the item(s) they are configured to find.
+The **Data Store Reference** or "Data Can" is used for both retrieving items from a Rapid Database. When a Start Event in a process diagram is triggered, any **Data Store References** on the canvas will obtain the item(s) they are configured to find. Below are the two methods of configuring **Data Store References**.
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |

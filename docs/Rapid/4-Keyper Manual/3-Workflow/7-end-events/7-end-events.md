@@ -1,5 +1,7 @@
 # End Events
 
+An **End Event** will discard any token that is directed onto it. A **Workflow Process** will remain active until all active tokens have been discarded.
+
 | Element Type | Symbol | Function |
 | --- | --- | --- |
 | **End Event** |![The "End Event" icon. This icon resembles a circle with a thick, black border.](<End Base.png>)| Discards any token that arrives on it.|

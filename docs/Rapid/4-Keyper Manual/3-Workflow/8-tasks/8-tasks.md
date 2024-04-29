@@ -1,5 +1,7 @@
 # Tasks
 
+**Tasks** represent work that needs to be completed. Tasks can generate Task items for users or for Rapid's system to complete. Below is a list of the different **Tasks** and their functionality.
+
 | Element Type | Symbol | Function |
 | --- | --- | --- |
 | **Abstract Task** |![A screenshot of a default task element. The task is a rounded rectangle that is empty inside.](Task.png)| This type of task cannot be configured or automated. It is useful for documentation purposes only. |

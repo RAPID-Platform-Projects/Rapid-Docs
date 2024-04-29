@@ -1,6 +1,6 @@
 # Gateways
 
-**Gateways** require at least one input and one output connection for the Gateway to be configured properly. To configure a **Gateway**, select it on the **Canvas** and configure it using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
+**Gateways** require at least one input and one output connection for the Gateway to be configured properly. To configure a **Gateway**, select it on the **Canvas** and configure it using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>). Below is a list of all **Gateway** types and their functionality.
 
 | Element Type | Symbol | Function |
 | --- | --- | --- |

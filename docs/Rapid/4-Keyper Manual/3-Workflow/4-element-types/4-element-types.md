@@ -101,6 +101,10 @@ Flows (or Links), control the direction of tokens across the process diagram. Fl
 
 Selecting this element by clicking on it will allow you to configure conditions that determine when a token is permitted to travel along this element.
 
-To add a **Flow** to your diagram, you can either use to the **toolbar** to place a [Flow](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas**, or select an element and then select the **Global Link** button that appears in the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types>), or by selecting another element from the same panel.
+To add a **Flow** to your diagram, you can:
+- Use the **Toolbar** to place a [Global Connection](</docs/Rapid/4-Keyper Manual/3-Workflow/2-drawing-tools/2-drawing-tools.md>) between two elements on the **Canvas**
+- Select an element, and then click the **Global Connect** button that appears in the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types>)
 
 ![A "Flow" or "Link" as it appears on the canvas. It resembles a black arrow with a triangular point.](<Flow Example.png>)
+
+> **Above:** A *Flow Connection* between two elements

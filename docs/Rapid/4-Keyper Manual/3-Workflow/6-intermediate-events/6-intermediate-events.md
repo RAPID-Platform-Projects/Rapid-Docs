@@ -1,5 +1,7 @@
 # Intermediate Events
 
+An **Intermediate Event** is used to perform actions on a token such as pausing its movement, creating additional tokens, or discarding active tokens. Below is a list of **Intermediate Events** and their functions.
+
 | Element Type | Symbol | Function |
 | --- | --- | --- |
 | **Intermediate Event** | ![The "Intermediate Event" icon. This icon resembles a circle with a thick white border.](<Intermediate Base.png>) | The default **Intermediate Event**. This event cannot be configured, and should be changed to a different intermediate type. |

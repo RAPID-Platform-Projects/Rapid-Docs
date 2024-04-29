@@ -1,5 +1,7 @@
 # Start Events
 
+A **Start Event** produces a token when triggered by its start condition. Below is a list of all **Start Events** and the conditions required for them to start a **Workflow Process**.
+
 | Element Type | Symbol | Function |
 | --- | --- | --- |
 | **Start Event** |![The "Start Event" icon. This icon resembles an empty, white circle.](<Start Event Base.png>)| The default **Start Event**. This event will start when manually triggered with the **Launch** button in the **Workflow** experience, and cannot be configured. |
