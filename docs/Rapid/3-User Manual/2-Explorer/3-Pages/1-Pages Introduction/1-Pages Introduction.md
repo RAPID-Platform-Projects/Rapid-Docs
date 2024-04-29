@@ -26,7 +26,7 @@ The above image displays the List page for a table titled "Quotes". Observe the 
 
 To learn more about the Data Table component <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Data%20Table%20Component/" target="_blank">**click here**</a>.
 
-:::note[Please note]
+:::note [Please note]
 You may see the List Page showing other components as well. The Explorer Page will display information based on the component's hosted and configured in Designer.
 :::
 
@@ -75,7 +75,7 @@ Next let us look at the Single Item Page.
 
 ​You can navigate to single item page from the list page by clicking on either the title of the item or the icon of the item. 
 
-This is how a Single Item Page for a Table item may look like (see image below)
+This is how a Single Item Page for a Table item may appear (see image below)
 
 ![Image showing Single Item Page](<Explorer Page 4.png>)
 

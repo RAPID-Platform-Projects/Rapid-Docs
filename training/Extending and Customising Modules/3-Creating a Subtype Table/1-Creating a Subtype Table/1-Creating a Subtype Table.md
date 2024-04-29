@@ -22,7 +22,7 @@ Read the scenario below for context.
 
 ![A screenshot demonstrating how to create a Coffee Machine Assets subtype table. It highlights the importance of choosing a descriptive icon.](<Coffee Machine Icon.png>)
 
-5. Lastly, we must choose where our table items and files will be stored in SharePoint. I’m going to choose Base **Rapid > Documents**, which is the main documents folder. I want Rapid Platform to create neat folders for each item in my Sharepoint system, so I’ll press the checkbox.
+5. Lastly, we must choose where our table items and files will be stored in SharePoint. Here we will select **Rapid > Documents**, which is the main documents folder. I want Rapid Platform to create neat folders for each item in my Sharepoint system, so I’ll press the checkbox.
 6. Press **Create**
 
 ![A screenshot demonstrating how to create a Coffee Machine Assets subtype table. It highlights the importance of choosing the correct file structure.](<Coffee Machine Storage.png>)

@@ -69,7 +69,7 @@ For example, a Gantt chart **CAN** be constructed from the Projects table as it 
     3. Select a view. Views can be used to filter out particular rows. (See Views documentation for more information on how these work)
     4. If you do not want people to be able to create Subtypes of Tasks from the Gantt Chart Hide this
     5. Determine if you want the tree collapsed or open  
-        **The below images depict how a collapsed and expanded tree may look like in Explorer view.**
+        **The below images depict how a collapsed and expanded tree may appear in the Explorer view.**
 
         **Collapsed Tree**
         ![Col.png](./downloaded_image_1705285586574.png)
