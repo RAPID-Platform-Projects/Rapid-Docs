@@ -2,8 +2,6 @@
 
 ## Accessing your RAPID Site
 
-
-
 To access your site there are three main requirements:  
 
 1. Environment  
@@ -12,9 +10,8 @@ To access your site there are three main requirements:
 
 ![URL Breakdown](<URL breakdown.png>)
 
-
 ### Environment
-  
+
 In order to create a site it must be connected to the database, this is the backbone of nearly all solutions that require data input and manipulation. The Rapid Platform uses SQL databases to achieve this.
 A simple way of knowing what database the site will be configured to is to inspect the URL.
 

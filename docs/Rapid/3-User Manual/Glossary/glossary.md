@@ -399,22 +399,30 @@ The Adaptive Document Canvas is the interface which allows you to create, open, 
 ### Document Structure Panel / Tree of Elements
 ![Image showing Document Structure Panel](<Document structure panel.png>)
 
-This appears to the left of the canvas (when the Elements Tab is active). Here, you can see the tree structure of elements for the active form.  We can refer this as the Adaptive Document structure panel or the Tree of Elements section. This section houses all the elements added to the form. The structure may have elements nested within each other based on your desired configuration. You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area-adaptive-documents" target="_blank">**Composition area**</a>
+You can scroll up and down to view all the components of the structure. You can click on any of the structural elements to select it on the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, or double click to edit the name of the element.
 
 ### Composition Area
 ![Image showing Composition Area](<Composition Area.png>)
 
 This is the center portion of the Adaptive Document Canvas <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#adaptive-document-canvas" target="_blank">**Adaptive Document Canvas**</a>. Here you can add, select and delete elements, and also perceive how various elements will appear visually. Please note this is different from Preview.
 
+### Control
+
+A control is the fundamental object which can be configured as an <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a>. For example - imagine your Adaptive Document has two input fields - First name and Last name. Both of these are configured as different elements over the same control type (Single line). 
+
+### Element
+
+An element is a <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**control**</a> configured with attributes. For example - Imagine your Adaptive document has two input fields - First name and Last name. Both of these are single line input fields (control). These are two different elements which can be present on the composition area.
+
 ### Element Configuration Panel
 ![Image showing Element Configuration Panel](<Element configuration panel.png>)
 
-Element configuration panel appears towards the right of the Composition Area INSERT LINK. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-categories-adaptive-documents" target="_blank">**configuration categories**</a>.
+Element configuration panel appears towards the right of the Composition Area. Depending on the nature of the element, this panel will display different  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**configuration categories**</a>.
 
 ### Element Configuration Categories
 ![Image showing Element Configuration Categories](<Element configuration categories.png>)
 
-The configuration categories appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>. Categories include:
+The configuration categories appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a>. Categories include:
 
 a. Attributes - to define the appearance parameters of the element on the form.
 
@@ -428,12 +436,12 @@ e. Event - To define what actions can be triggered upon click of the element (pl
 
 f. Choice - To define the choices that will appear in a dropdown element. (please note this option is applicable for choice type elements.)
 
-Based on the nature of the elements selected, configuration categories will appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**Element configuration panel**</a>
+Based on the nature of the elements selected, configuration categories will appear in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a>
 
 ### Element Picker
 
-The Element Picker enables you to select which component to add to your document.
-
+The Element Picker enables you to add <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
+![Image of an element picker](<Element picker.png>)
 
 ### Fetch on load
 
@@ -452,3 +460,4 @@ Consider the following conditions:
 
 3. **Fetch on Load = No**  
   System will load the form as configured by the form creator. (via default, state and/or prefill)
+

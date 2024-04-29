@@ -2,7 +2,7 @@
 
 You can access Adaptive Designer using the below link:
 
-**INSERT LINK LIKE** https://v3.designer.rapidplatform.dev/
+<a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
 
 As you navigate to the above link, you will see a landing page as below:
 
