@@ -6,7 +6,7 @@ There are two faces to the Workflow coin:
 
 ![A screenshot that demonstrates an example diagram from Workflow. The screenshot depicts a complex diagram that beings on the left, and moves to the right. The start and end points are circles. Between the circles are square tasks that are labelled, and a diamond-shaped logic gate. Arrows point between the components to demonstrate the flow of logic. Part of the diagram is coloured green, to show the path that the flowchart and logic has taken to conclude the process.](<Workflow Example Demo.png>)
 
-The **Workflow** application is one of the [Five Pillars of Rapid](</docs/Rapid/1-Getting Started/2-the-five-pillars/2-the-five-pillars.md>). With this application, you can create flowchart diagrams of your organisation's processes that can then be automated using code.
+The **Workflow** experience is one of the [Five Pillars of Rapid](</docs/Rapid/1-Getting Started/2-the-five-pillars/2-the-five-pillars.md>). With this experience, you can create flowchart diagrams of your organisation's processes that can then be automated using code.
 
 These diagrams are also called **Processes** once they begin running, and their code executes. For example, **Processes** can do the following:
 
@@ -17,7 +17,7 @@ These diagrams are also called **Processes** once they begin running, and their 
 5. Generate documents and PDFs using data from the Rapid site
 
 :::note[Keypers]
-**Workflow** is a complex application is only suitable for Keypers, System Administrators, users who have received permission to create automated systems for their organisations.
+**Workflow** is a complex tool and is only suitable for Keypers, System Administrators, or users who have received permission to create automated systems for their organisations.
 
 This is because, by its nature, **Workflow** is designed to run behind-the-scenes: updating data, creating tasks and items, and sometimes even deleting data. As a result, it can cause data loss or corruption if not handled properly.
 :::
