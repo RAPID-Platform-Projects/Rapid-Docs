@@ -26,7 +26,7 @@ If any of the above types are missing, then the Board component cannot be config
 
 ## How to set up Board component in Designer
 
-- You can **[add the Board component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?")**. The Board component is not present anywhere by default. 
+- You can [**add the Board component on to the Layout / Page**](</docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md> "How to add a component to a Layout / Page?"). The Board component is not present anywhere by default. 
     
     ![Component list](<Component list.png>)
 
@@ -70,7 +70,7 @@ Following is the brief description of each field:
 
     ![Choice field options being toggled](<Choice field options being toggled.png>)
 
-3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/Data%20Table%20Component/Data%20Table%20Component.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
+3. **Default view -** This is an optional field. This dropdown field will display a set of all configured [Table Views](/docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components/Data%20Table/Data%20Table.md "Data Table Component - Views") based on which the items will be filtered / sorted. The selected value for Default view field here will define the default view to load for the Board component.
 
 4. **Title column -** This is a mandatory field. This forms the title of the Board items. For example - Project Name.  
      

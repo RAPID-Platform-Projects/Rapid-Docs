@@ -33,8 +33,8 @@
     "ts-node": "^10.9.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "file:latest/@docusaurus/tsconfig@latest",
-    "@docusaurus/tsconfig": "^3.1.1",
+    "@docusaurus/module-type-aliases": "^3.2.1",
+    "@docusaurus/tsconfig": "^3.2.1",
     "@docusaurus/types": "^3.2.1",
     "typescript": "~5.2.2"
   },
