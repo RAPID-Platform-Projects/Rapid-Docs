@@ -24,40 +24,81 @@ Below is a summary of all element types, and the base type that they are configu
 
 ## Start Event Types
 
+A **Start Event** is where a **Workflow Process** begins. A **Start Event** that is triggered will create a token, which will move along the diagram's flow until it is paused or discarded.
 
+To use a **Start Event**, place a [Default Start Event](</docs/Rapid/4-Keyper Manual/3-Workflow/5-start-events/5-start-events.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
 
-To access any of the **Start Event Types**, place a [Start Event](</docs/Rapid/4-Keyper Manual/3-Workflow/5-start-events/5-start-events.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+![The "Start Event" as it appears on the canvas. It resembles an empty, white circle.](<Start Event Base.png>)
 
-![The "Start Event" icon. This icon resembles an empty, white circle.](<Start Event Base.png>)
+> **Above:** A default *Start Event*
 
 ## Intermediate Event Types
 
-To access any of the **Intermediate Event Types**, place an [Intermediate Event](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/6-intermediate-events.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+**Intermediate Events** are triggered when certain configured conditions are met. If an **Intermediate Event** is set to *interrupt* the diagram, it will discard all other active tokens on the process diagram, and then generate a new token. If an **Intermediate Event** is set to *non-interrupt*, it will not discard all other active tokens, and will instead simply generate a new token.
 
-![The "Intermediate Event" icon. This icon resembles a circle with a thick white border.](<Intermediate Base.png>)
+To access an **Intermediate Event Type**, place a [Default Intermediate Event](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/6-intermediate-events.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
 
-## Intermediate Boundary Event Types
+![The "Intermediate Event" as it appears on the canvas. It resembles a circle with a thick white border.](<Intermediate Base.png>)
 
-Boundary events are created by placing an **Intermediate Event** on top of a **Task**. The result is an element that combines both task and intermediate event.
-
-These events can then have their type configured using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>). You can [read more about **Intermediate Boundary Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/boundary-events/boundary-events.md>).
-
-![A screenshot demonstrating the appearance of a boundary event type of element. The screenshot shows a task rectangle which is rounded in the corners. On the top of the task is a timer boundary event: this event has a symbol that resembles a clock. The event symbol has a thick white outline.](<Boundary Example.png>)
+> **Above:** A default *Intermediate Event*
 
 ## End Event Types
 
-To access any of the **End Events** below, place an [End Event](</docs/Rapid/4-Keyper Manual/3-Workflow/7-end-events/7-end-events.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+**End Events** will discard a token that arrives on them.
 
-![The "End Event" icon. This icon resembles a circle with a thick, black border.](<End Base.png>)
+To access an **End Event**, place an [End Event](</docs/Rapid/4-Keyper Manual/3-Workflow/7-end-events/7-end-events.md>) on the **Canvas**. You can change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+
+![The "End Event" as it appears on the canvas. It resembles a circle with a thick, black border.](<End Base.png>)
+
+> **Above:** A default *End Event*
 
 ## Task Types
 
-To access any of the **Tasks** below, place a [Task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/8-tasks.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+**Tasks** can be completed by users or by the Rapid system. They represent work that needs to be completed before the process flow will continue.
+
+You can access task types by placing a [Default Task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/8-tasks.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
 
 ![A screenshot of a default task element. The task is a rounded rectangle that is empty inside.](Task.png)
 
+> **Above:** A default *Task Event*
+
+## Intermediate Boundary Event Types
+
+This is an element that combines both **Task** and **Intermediate Event**. If the conditions for the **Boundary Event** are met, the **Boundary Event** will trigger before the task is completed. When the task is completed all **Boundary Events** are discarded.
+
+- An *interrupting* **Boundary Event** will discard the task it is attached to. 
+- A *non-interrupting* **Boundary Event** will *not* discard the task it is attached to.
+
+Boundary events are created by placing an **Intermediate Event** on top of a **Task**. These events can then have their type configured using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>). You can [read more about **Intermediate Boundary Events**](</docs/Rapid/4-Keyper Manual/3-Workflow/6-intermediate-events/boundary-events/boundary-events.md>).
+
+![A screenshot demonstrating the appearance of a boundary event type of element. The screenshot shows a task rectangle which is rounded in the corners. On the top of the task is a timer boundary event: this event has a symbol that resembles a clock. The event symbol has a thick white outline.](<Boundary Example.png>)
+
+> **Above:** An example *Boundary Event*
+
 ## Data Store Reference Types
 
-To access any of the **Data Store References** below, place a [Data Store Reference](</docs/Rapid/4-Keyper Manual/3-Workflow/9-data-store-reference/9-data-store-reference.md>) on the **Canvas** and change its type using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
+**Data Store References** retrieve or update data from a Rapid database. They can be used to return a single item, or multiple items.
 
-![The "Data Store Reference: Get Item" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. ](<Workflow Data Can.png>)
+To use a **Data Store References**, place a [Data Store Reference](</docs/Rapid/4-Keyper Manual/3-Workflow/9-data-store-reference/9-data-store-reference.md>) on the **Canvas** and change its type using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
+
+![A "Data Store Reference: Get Item" as it appears on the canvas. It resembles a database can, or database stack: a cylinder that is bisected at its top. ](<Workflow Data Can.png>)
+
+> **Above:** A *Data Store Reference* element
+
+## Gateways
+
+**Gateways** control the logical flow of a process diagram, and allow you to apply conditional logic that will determine which path a token will travel down.
+
+To use a **Gateway**, use to the **toolbar** to place a [Gateway](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas** and change its type as desired using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
+
+![A "Gateway" as it appears on the canvas. It resembles a diamond. In this example, the Gateway is configured to be an exclusive Gateway, so inside the Gateway is a cross shape.](<Gateway Example.png>)
+
+> **Above:** An *Exclusive Gateway*
+
+## Flows / Links
+
+Flows (or Links), control the direction of tokens across the process diagram. Flows will move any token in the direction of the arrow, and act as bridges between other elements.
+
+To add a **Flow** to your diagram, you can either use to the **toolbar** to place a [Flow](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas**, or select an element and then select the **Global Link** button that appears in the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>), or by selecting another element from the same panel.
+
+![A "Flow" or "Link" as it appears on the canvas. It resembles a black arrow with a triangular point.](<Flow Example.png>)
