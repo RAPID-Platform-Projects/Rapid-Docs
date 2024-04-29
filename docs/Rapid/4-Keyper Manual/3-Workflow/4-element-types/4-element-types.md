@@ -56,7 +56,7 @@ To access an **End Event**, place an [End Event](</docs/Rapid/4-Keyper Manual/3-
 
 **Tasks** can be completed by users or by the Rapid system. They represent work that needs to be completed before the process flow will continue.
 
-You can access task types by placing a [Default Task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/8-tasks.md>) on the **Canvas** and change its type using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+You can access task types by placing a [Default Task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/8-tasks.md>) on the **Canvas** and change its type using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
 
 ![A screenshot of a default task element. The task is a rounded rectangle that is empty inside.](Task.png)
 
@@ -89,7 +89,7 @@ To use a **Data Store References**, place a [Data Store Reference](</docs/Rapid/
 
 **Gateways** control the logical flow of a process diagram, and allow you to apply conditional logic that will determine which path a token will travel down.
 
-To use a **Gateway**, use to the **toolbar** to place a [Gateway](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas** and change its type as desired using the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>).
+To use a **Gateway**, use to the **toolbar** to place a [Gateway](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas** and change its type as desired using the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types>).
 
 ![A "Gateway" as it appears on the canvas. It resembles a diamond. In this example, the Gateway is configured to be an exclusive Gateway, so inside the Gateway is a cross shape.](<Gateway Example.png>)
 
@@ -101,6 +101,6 @@ Flows (or Links), control the direction of tokens across the process diagram. Fl
 
 Selecting this element by clicking on it will allow you to configure conditions that determine when a token is permitted to travel along this element.
 
-To add a **Flow** to your diagram, you can either use to the **toolbar** to place a [Flow](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas**, or select an element and then select the **Global Link** button that appears in the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>), or by selecting another element from the same panel.
+To add a **Flow** to your diagram, you can either use to the **toolbar** to place a [Flow](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas**, or select an element and then select the **Global Link** button that appears in the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types>), or by selecting another element from the same panel.
 
 ![A "Flow" or "Link" as it appears on the canvas. It resembles a black arrow with a triangular point.](<Flow Example.png>)
