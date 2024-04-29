@@ -2,11 +2,11 @@
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked. 
 
-Imagine a Project Manager of a stationery manufacturing company wants to have a snapshot of current status of various projects tasks in the organisation. These tasks  should display information on the names of the Task Principal (person responsible for completing the subject Task) and respective Due Dates. Moreover, as needed, the Project Manager should be able to drag and drop tasks across categories to update status. This can be achieved using the Board Component.
+Imagine a Project Manager of a stationery manufacturing company wants to have a snapshot of current status of various projects tasks in the organisation. These tasks should display information on the names of the Task Principal (person responsible for completing the subject Task) and respective Due Dates. Moreover, as needed, the Project Manager should be able to drag and drop tasks across categories to update status. This can be achieved using the Board Component.
 
-The board component can provide a convenient view of project tasks organized across status categories. In the below image _Not started_, _In progress_, _Completed_, _Aborted_ and _Failed_ are the Task Status on which Task Titles are categorized. 
+The board component can provide a convenient view of a project's tasks organized across a choice field. In the below image _Not started_, _In progress_, _Completed_, _Aborted_ and _Failed_ are the Task's 'Status' column on which Task cards are categorized. 
 
-To put in simple words - a Board component allows you to view the list of items (as cards) categorized across options of the desired choice field.
+To put in simple words - a Board component allows you to view the list of items (as cards) categorized across a pre-configured choice field.
 
 ![Sample image of a Board Component on Explorer](Explorer_Board_1.png)
 
@@ -53,7 +53,7 @@ In case, any changes are made to the Item in the Details page, the same are visi
 ## Updating item's category using Board Component
 One of the key benefits of using a Board Component is the ability to update an item's selected choice field by a simple drag and drop.
 
-For instance - imagine you are a Project Manager, going through the Task Items on the Board. You need to update a task from _Not Started_ **TO** _In progress_. You can simply do it by dragging and dropping the task in the category.
+For instance - imagine you are a Project Manager, going through the Task Items on the Board. You need to update a task from **Not Started** to **In progress**. You can simply do it by dragging and dropping the task in the category.
 
 Refer to the below image. The task titled - "Onboard staff to new machine operation" has a status - **Not Started**. It is dragged and dropped in the In progress category and observe that the status in the item card changes to **In progress**
 

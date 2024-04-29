@@ -27,7 +27,7 @@ There are two methods for uploading files using the **Attachments** component.
 ### Attachment Records
 While a file is uploading, a loading icon and progress bar will appear in the component. Once the file has finished uploading, the file's *Title*, *Type*, and *Icon* will be displayed as an **Attachment Record**. The Attachments component also includes options for you to *Open*, *Download*, or *Remove* the file.
 
-Next, we will now closely examine the **Attachment Record** that is created when attaching a file, and the functionality it provides.
+Next, we will closely examine the **Attachment Record** that is created when attaching a file, and the functionality it provides.
 
 ![A screenshot demonstrating what an Attachment will look like once it is uploaded. The attachment has an icon, a title, and the file type or extension. There are also buttons to open, download to remove the attachment.](<Attachments Upload Complete.png>)
 

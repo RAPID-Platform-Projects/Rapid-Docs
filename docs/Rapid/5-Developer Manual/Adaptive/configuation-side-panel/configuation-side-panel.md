@@ -90,7 +90,7 @@ This key, is simply just a function that returns an import statement to your com
 
 The configuration config, is where you will be designing what the config panel for your component consists of and looks like. This is also where you can add controls which edit the default attributes key in the overall schema.
 
-Each Configuration config must have a root JSON schema followed by three children panels, the configuration schema provides proper padding, while the panels provide tabs which the user can switch to. There for each configuration config should at minim in, look like the following.
+Each Configuration config must have a root JSON schema followed by three children panels, the configuration schema provides proper padding, while the panels provide tabs which the user can switch to. Therefore each configuration config should at minimin, look like the following.
 
 ```js
 { $type: 'Panel', id: 'root-panel', attributes: { id: 'root-panel', type: 'panel', title: 'Root Panel', }, $children: [{ $type: 'Layout.Section', id: 'attributes-panel', title: 'Attributes', $children: [], }, { $type: 'Layout.Section', id: 'conditions-section', title: 'Conditions', $children: [{ $type: 'Adaptive.Conditions', id: 'conditions', },], },] }

@@ -20,7 +20,7 @@ You can close an active form by clicking on the "X" icon present at the right en
 
 4. Clicking on this icon brings you to the Edit mode of the active form. You can create or modify the elements of the active form, when in Edit mode.  
 
-5. Clicking on this icon brings you to the Preview page depicting how the form may look like outside designer canvas.  
+5. Clicking on this icon brings you to the Preview page depicting how the form may appear outside designer canvas.  
 
 :::note[Please note]
 You can toggle between Edit and Preview mode by clicking on respective icons. One and only one of these two modes will be in-action for the active form. The other will remain passive till clicked.
