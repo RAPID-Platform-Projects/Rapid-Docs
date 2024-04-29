@@ -122,7 +122,7 @@ Deleting files using the **Files Browser** component will delete them from *Shar
 
 ## Creating A Task with Attachments
 
-Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that once a file or files are selected, a task can be generated with the selected file(s) attached to it.
+Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that is connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that, once a file or files are selected, a task can be generated with the selected file(s) attached to it.
 
 1. Select the file(s) you wish to link to a new **Task**
 
@@ -135,7 +135,7 @@ Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explo
 ![A screenshot of the new tasks screen. tasks is empty, aside from some pre-filled date data and the parent field now containing the name of the item where the files are being stored. The ](<Files New Task.png>)
 
 :::info[Task Parent]
-Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside an project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
+Creating a **Task** this way will cause Rapid to fill the *Parent* field with a lookup link to the current item where the files are located. In this example, the files that are being used to generate a task are located inside a project item titled "Office Building Construction". Once the new Task is created, it will also link back to this item.
 :::
 
 4. Fill out the **Task** information and details as desired
@@ -230,6 +230,6 @@ At the time of writing, the **Share** button performs identically to the **Email
 
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
 
-- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>)
+- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview/File Preview.md>)
 - [Attachments](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>)
 - [Embedded Files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Files/Embedded Files.md>)

@@ -37,7 +37,7 @@ If this component has been removed by your system administrator, you can also vi
 
 ![A screenshot demonstrating the functionality of the Activity Feed. Its functionality is described in the section above. All changes are outlined for the user.](<Items Activity Tab.png>)
 
-- [The Activity Feed](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Activity Feed Component/Activity Feed Component.md>)
+- [The Activity Feed](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Activity Feed/Activity Feed.md>)
 
 ### Item Footers
 

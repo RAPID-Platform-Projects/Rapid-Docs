@@ -57,7 +57,7 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 ## Adaptive Documents
 
-![A screenshot demonstrating Adaptive Documents application. The application has a sidepanel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
+![A screenshot demonstrating Adaptive Documents application. The application has a side-panel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
 
 **Adaptive Documents** allows you to quickly build web forms to collect data, and seamlessly integrate it with your Rapid database. Send forms to clients to collect data, or use them to power your daily internal operations.
 

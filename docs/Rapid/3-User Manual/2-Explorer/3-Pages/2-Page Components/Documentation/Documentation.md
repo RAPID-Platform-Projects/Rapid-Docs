@@ -1,4 +1,4 @@
-# Documentation Component
+# Documentation
 
 Sometimes you just need to write something down and show it on the page. When you need to simply present static text, look toward the Documentation Component.
 

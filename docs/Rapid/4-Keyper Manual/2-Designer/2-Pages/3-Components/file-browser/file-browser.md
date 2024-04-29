@@ -30,9 +30,27 @@ Rapid Platform allows you to set up SharePoint folders for each item. The File B
 **Please note:**
 
 - Although Files Browser component is present on the Files Tab of the Individual Item (Singular) Details breakpoint [by default,](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-configure-item-details-and-item-creation/how-to-configure-item-details-and-item-creation.md "How to configure Item Details and Item Creation?") you can add it to other layouts as well.
-- Files Browser component provides an interface to the Individual Item's SharePoint folder, therefore, although you can (theoretically) add the component to the Group Items List (Plural) level, yet it doesn't make logical purpose there.
-- You can configure the default for preview pane from Designer, however, you can open / close the preview pane in Explorer.
-- It is worth noting that for each data table has a SharePoint Folder allocated within a SharePoint Drive. Each new item is created as a folder within the Table's SharePoint folder. The File Browser points to the item's SharePoint Folder.
+- Files Browser component provides an interface to the Individual Item's *SharePoint* folder, therefore, although you can (theoretically) add the component to the Group Items List (Plural) level, it does not have a logical purpose there.
+- You can configure the default setting (open or closed) for the **Preview Pane** from **Designer**. However, the user can open or close the preview pane in Explorer.
+- It is worth noting that for each file, a Table has a *SharePoint* Folder allocated within a *SharePoint* Drive. Each new item is created as a folder within the Table's SharePoint folder. The File Browser points to the item's SharePoint Folder.
+
+## Configuring Document Storage
+
+1. When viewing the **File Browser** component on an item page, if the Table has not had its document storage configured, the component will display the following message:
+
+![A screenshot of how the File Browser component will appear if document storage has not been established for a particular table. The component's command bar buttons are now grey. In the middle of the component is a question mark icon, inside a circle. The message to the user reads: "Document storage has not been configured for (name of table) items." Underneath the message is a button that reads "Open Designer".](<Files Browser Not Configured.png>)
+
+2. Press the "Open Designer" button to launch the **Designer** application
+
+![This screenshot is a "zoomed-in" view of the message and button from the previous image. The screenshot is annotated with a red box to indicate the location of the "Open Designer" button.](<Files Browser Button.png>)
+
+3. In the **Designer** options page that opens, select the desired Document Library using the drop-down menu in the *Document Storage* section (this section is highlighted in the image below)
+
+![A screenshot of the Options page for a Table. The screenshot is annotated with a red box to indicate the "Document Storage" location of the Options page, where the user will need to select a document library.](<Files Browser Designer.png>)
+
+4. Select the desired documents folder in the desired *Storage Location*.
+
+5. Ensure you **Save** your changes.
 
 ## Related articles
 

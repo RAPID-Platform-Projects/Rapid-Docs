@@ -15,22 +15,22 @@ Clicking on the **Tasks Portal** menu item, for example, will navigate the user 
 
 ## Expanding Menu Sections
 
-Some menu items are used as "folders" or "containers" to hold other menu items. A menu item that contains other menu items will have a sideways chevron ( **>**) at the end of the menu button. When a menu folder is opened, its contents appear in a flyout panel to the right.
+Some menu items are used as "folders" or "containers" to hold other menu items. A menu item that contains other menu items will have a sideways chevron ( **>**) at the end of the menu button. When a menu folder is opened, its contents appear in a fly-out panel to the right.
 
-In the example below, the "CRM" menu item does not navigate you to another page. Instead, it opens a flyout panel that contains many other menu items such as "Leads", "Opportunities", "Accounts", etc.
+In the example below, the "CRM" menu item does not navigate you to another page. Instead, it opens a fly-out panel that contains many other menu items such as "Leads", "Opportunities", "Accounts", etc.
 
-![An example of a menu item that is used as a contained for other menu items. The user has clicked on "CRM", and now a flyout panel has opened beside the sidebar.](<Menus Open Container.png>)
+![An example of a menu item that is used as a contained for other menu items. The user has clicked on "CRM", and now a fly-out panel has opened beside the sidebar.](<Menus Open Container.png>)
 
 Arranging menu items in this way can help group together tables logically, and can reduce visual clutter in the Sidebar.
 
-### Nested Menu Flyouts
+### Nested Menu Fly-outs
 
-Menu Flyouts can open additional Menu Flyouts. These "nested" flyouts allow more complex grouping. They are, however, limited by the width of the screen that you are working on.
+Menu Fly-outs can open additional Menu Fly-outs. These "nested" fly-outs allow more complex grouping. They are, however, limited by the width of the screen that you are working on.
 
-In the example below, the user has clicked on the following menu item flyout: 
+In the example below, the user has clicked on the following menu item fly-out: 
 `System > Settings > Adaptive` and has now arrived at the "Adaptive Designer" menu item that will navigate them to a different page.
 
-![An example of opening multiple menu flyouts. The items that the user has clicked are described in the paragraph before this image. The user's cursor now hovers over the item "Adaptive Designer" on the far right.](<Menus Open Multiple.png>)
+![An example of opening multiple menu fly-outs. The items that the user has clicked are described in the paragraph before this image. The user's cursor now hovers over the item "Adaptive Designer" on the far right.](<Menus Open Multiple.png>)
 
 - [More information about **Menus in the Sidebar**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/1-Setting up your sidebar/1-Setting up your sidebar.md>)
 - [More information about **Menus Opening Flyouts**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-in-flyout/open-in-flyout.md>) 
@@ -39,7 +39,7 @@ In the example below, the user has clicked on the following menu item flyout:
 
 A menu item can also open a hyperlink to an external website. This is useful if your company has another site it wants to link to. In this case, the menu button operates like a hyperlink or URL.
 
-Note that Rapid Platform also provides an [External Page Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/External Page Component/External Page Component.md>) for viewing webpages within your site if there is a particular website that is used frequently by employees.
+Note that Rapid Platform also provides an [External Page Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/External Page/External Page.md>) for viewing webpages within your site if there is a particular website that is used frequently by employees.
 
 - [More information about **Menus Opening Hyperlinks**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-hyperlink/open-hyperlink.md>)
 
