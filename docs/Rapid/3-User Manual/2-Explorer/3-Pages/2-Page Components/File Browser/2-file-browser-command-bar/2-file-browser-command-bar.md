@@ -122,7 +122,7 @@ Deleting files using the **Files Browser** component will delete them from *Shar
 
 ## Creating A Task with Attachments
 
-Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that once a file or files are selected, a task can be generated with the selected file(s) attached to it.
+Sometimes you may wish to create a new [Task](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>) that is connected to a file in your *Sharepoint* directory. The **File Browser** includes a button so that, once a file or files are selected, a task can be generated with the selected file(s) attached to it.
 
 1. Select the file(s) you wish to link to a new **Task**
 
@@ -230,6 +230,6 @@ At the time of writing, the **Share** button performs identically to the **Email
 
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
 
-- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview Component/File Preview Component.md>)
+- [File Preview](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview/File Preview.md>)
 - [Attachments](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Attachments/Attachments.md>)
 - [Embedded Files](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Files/Embedded Files.md>)

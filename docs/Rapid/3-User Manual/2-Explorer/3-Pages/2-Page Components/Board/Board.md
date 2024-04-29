@@ -1,4 +1,4 @@
-# The Board Component
+# Board
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked. 
 

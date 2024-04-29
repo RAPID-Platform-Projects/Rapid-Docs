@@ -2,7 +2,7 @@
 
 Items can be linked to other items. This allows additional functionality for tracking connections between items, and can be automated by a system administrator.
 
-When an **Item** is loaded in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>), it also fetches all of the [Linked Items](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>) connected to it. To view the items that are linked to the current item, open the **Links** dropdown menu in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
+When an **Item** is loaded in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>), it also fetches all of the [Linked Items](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Linked Items/Linked Items.md>) connected to it. To view the items that are linked to the current item, open the **Links** dropdown menu in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
 
 ![A screenshot that shows Linked Items button location in the Command Bar when viewing an Item Page. The button has an icon of two chain links. The screenshot has been annotated with a red box to highlight the button's location.](<Items Linked Items.png>)
 
@@ -24,6 +24,6 @@ Below is a list of the attributes and features of the **Linked Items Panel**.
 ### Linked Items and Page Components
 Note that there are several other methods for viewing linked items. The following page components will also display items that are linked to the current item:
 
-- [Linked Items Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>)
-- [Data Table Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table Component/Data Table Component.md>)
-- [User Fields, Lookup Fields, and Multi-lookup Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form Component/Form Component.md#user-fields-and-lookup-fields>)
+- [Linked Items Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Linked Items/Linked Items.md>)
+- [Data Table Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>)
+- [User Fields, Lookup Fields, and Multi-lookup Fields](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Form/Form.md#user-fields-and-lookup-fields>)

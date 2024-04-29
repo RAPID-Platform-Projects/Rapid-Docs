@@ -1,4 +1,4 @@
-# Form Component
+# Form
 
 The **Form Component** is used to store the fields of an item on the item page. We often use forms in the physical world. For example, we need to fill out a form when we visit a dentist for the first time. We need to complete a form to start studying at an educational institution, or to complete our tax returns at the end of the financial year.
 

@@ -1,4 +1,4 @@
-# Introduction to Pages in Explorer
+# Pages
 
 Pages is a fundamental concept in Rapid Platform. A Page in Explorer hosts components and displays information as configured in Designer. Whether it is a Gantt Chart, Counter component, Data Table, Board, or Report etc., every component needs a Page on which it can be hosted. Page enables adding, editing and viewing capabilities based on the nature of components hosted on it.​
 ​
@@ -175,4 +175,4 @@ To refresh a Single Page:
 
 1. In the Explorer Experience, navigate to an entity's list page that you wish to refresh.
 2. Select and click on an item.
-3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/linked-items/linked-items.md>) button, click the **Refresh** button.
+3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Linked Items/Linked Items.md>) button, click the **Refresh** button.

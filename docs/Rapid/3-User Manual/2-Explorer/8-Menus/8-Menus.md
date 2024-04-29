@@ -39,7 +39,7 @@ In the example below, the user has clicked on the following menu item fly-out:
 
 A menu item can also open a hyperlink to an external website. This is useful if your company has another site it wants to link to. In this case, the menu button operates like a hyperlink or URL.
 
-Note that Rapid Platform also provides an [External Page Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/External Page Component/External Page Component.md>) for viewing webpages within your site if there is a particular website that is used frequently by employees.
+Note that Rapid Platform also provides an [External Page Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/External Page/External Page.md>) for viewing webpages within your site if there is a particular website that is used frequently by employees.
 
 - [More information about **Menus Opening Hyperlinks**](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/open-hyperlink/open-hyperlink.md>)
 
