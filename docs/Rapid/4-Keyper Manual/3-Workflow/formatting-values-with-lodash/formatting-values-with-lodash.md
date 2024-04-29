@@ -1,4 +1,4 @@
-# Formatting Values with LODASH
+# Formatting Values with Lodash
 
 Sometimes when filling a document, a user may want to fill with a number. However, as default, the rapid system returns numbers unformatted (see img below). Sometimes this can be formatted by adding an additional column using SQL but if the number is only used once or twice it is often not worthwhile creating a whole additional column putting additional load on the database.
 

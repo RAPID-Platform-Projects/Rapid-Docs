@@ -127,6 +127,7 @@ To add a title to an element:
 ### Adding Titles When an Element is Placed
 
 After an element is placed, Workflow's UI immediately will prompt you to give the element a title.
+
 ![A screenshot demonstrating the appearance of an element once it has been placed on the canvas. The element now has a black rectangle outline, rather than an orange one. Further out from the element's edge, a dotted rectangle surrounds the element, indicating that it has been selected. Inside the task element, a vertical line cursor is blinking, indicating that text can be typed here. To the right of the task element is a series of button represented by icons. These will be described in more detail later in the article.](<Workflow Placed Element.png>)
 
 1. Type the desired title into the element
