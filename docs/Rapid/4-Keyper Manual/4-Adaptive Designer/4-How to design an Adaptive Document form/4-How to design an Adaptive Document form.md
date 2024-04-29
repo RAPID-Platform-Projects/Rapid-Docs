@@ -16,5 +16,41 @@ Before we get into constructing our first form by adding and configuring element
 
 To learn how to configure attributes of root section <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20Attributes%20of%20Root%20Section/" target="_blank">**click here**</a>.
 
-You can also establish a connection of the root section with data table. To learn how to configure connection of root section with data table, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20of%20root%20section%20with%20data%20table/" target="_blank">**click here**</a>.
+You can also establish a connection of the root section with data table. Connection with a data table means that the system can fetch or feed data directly from the form to the data table.   
 
+To learn how to configure connection of root section with data table, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20of%20root%20section%20with%20data%20table/" target="_blank">**click here**</a>.
+
+## Adding elements to the root section
+
+Although you can have <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20Attributes%20of%20Root%20Section/" target="_blank">**label heading**</a> set up in the root section, for the sake of simplicity, we consider a blank <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**composition area**</a> without displaying any heading or description. The composition area will show only a white rectangle. 
+
+Refer to the image below.
+
+![Image showing icons to add elements when section is selected](<Adaptive design 2.png>)
+
+Observe the rectangle shows 2 "+" icons, one each at the top and at the bottom of the rectangle.   
+
+:::tip[Please note]
+In the above image, the root section has been selected and therefore, the rectangle in the composition area appears highlighted with blue and the two "+" icons are visible.  
+
+However, if the root section is not selected, then hover your cursor over the rectangle and the two "+" icons will appear
+
+![Image showing icons to add elements when section is not selected](<Adaptive design 3.png>)
+
+:::
+
+The "+" sign represents that a form element can be added either above or below the highlighted section.
+
+Let us assume that we click the "+" sign at the lower part of the rectangle.
+
+On clicking the "+" sign the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-picker" target="_blank">**element picker**</a>  section opens.
+
+![Image showing element picker](<Adaptive design 4.png>)
+
+  The element picker allows you to select elements that you want to put on your document. There are 51 different elements in the element picker. Each element has its own properties and can be configured accordingly in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a>
+
+  To learn more about element picker features, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**click here**</a>
+
+  :::note[Please note]
+  You can add, delete multiple elements and also modify their sequence/ position / appearance on the composition area.  
+  :::

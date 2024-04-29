@@ -2,11 +2,11 @@
 
 To configure the Root section properties, please consider the below points:
 
-1.  Click on "Layout.Section root" in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements-adaptive-documents" target="_blank">**Document Structure panel**</a>.
+1.  Click on "Layout.Section root" in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure panel**</a>.
 
 ![Image showing configuration panel for root section](<Attributes of Root 1.png>)
 
-2. Observe the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-adaptive-documents" target="_blank">**configuration panel**</a> opens. It has "root" written above it.
+2. Observe the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**configuration panel**</a> opens. It has "root" written above it.
 
 Also observe there are three categories:
 - Attributes

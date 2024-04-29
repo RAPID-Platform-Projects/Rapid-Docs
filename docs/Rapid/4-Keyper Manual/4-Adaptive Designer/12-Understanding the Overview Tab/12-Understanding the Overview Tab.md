@@ -6,7 +6,7 @@ The Overview tab allows you to view, update and configure information about the 
 
 ![Image showing Elements Tab active](<Overview Tab 1.png>)
 
-The Overview tab sits next to the Elements Tab. By default, the Elements Tab is active and displays the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements-adaptive-documents" target="_blank">**Document Structure Panel**</a>
+The Overview tab sits next to the Elements Tab. By default, the Elements Tab is active and displays the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a>
 
 Click on "Overview" to see its fields.
 
