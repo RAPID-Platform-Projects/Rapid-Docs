@@ -99,6 +99,8 @@ To use a **Gateway**, use to the **toolbar** to place a [Gateway](</docs/Rapid/4
 
 Flows (or Links), control the direction of tokens across the process diagram. Flows will move any token in the direction of the arrow, and act as bridges between other elements.
 
+Selecting this element by clicking on it will allow you to configure conditions that determine when a token is permitted to travel along this element.
+
 To add a **Flow** to your diagram, you can either use to the **toolbar** to place a [Flow](</docs/Rapid/4-Keyper Manual/3-Workflow/10-gateways/10-gateways.md>) on the **Canvas**, or select an element and then select the **Global Link** button that appears in the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>), or by selecting another element from the same panel.
 
 ![A "Flow" or "Link" as it appears on the canvas. It resembles a black arrow with a triangular point.](<Flow Example.png>)
