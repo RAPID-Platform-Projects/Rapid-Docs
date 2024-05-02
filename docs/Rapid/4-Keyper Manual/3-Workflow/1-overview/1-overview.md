@@ -71,3 +71,8 @@ You should **avoid creating a single, complex diagram that achieves multiple goa
 
 Instead, two *separate processes* should be generated: this will make each diagram easier to read, easier to name (as they are only achieving one goal each), and easier to troubleshoot if problems arise.
 :::
+
+## Executing Workflows
+
+There are several methods of executing Rapid **Workflows**, which are outlined here:
+- [Executing Rapid Workflows](</docs/Rapid/4-Keyper Manual/3-Workflow/13-executing-workflows/13-executing-workflows.md>)
