@@ -30,3 +30,6 @@ Process runs can also be triggered to begin by configuring a menu button on a ta
 
 - You can learn about [how to configure menu buttons to launch workflow processes](</docs/Rapid/4-Keyper Manual/2-Designer/3-Menus/Menu Actions/execute-workflow-process/execute-workflow-process.md>).
 
+## Signal Start Events
+
+Another method for executing a **Workflow** process is to begin with a [Signal Start Event](</docs/Rapid/4-Keyper Manual/3-Workflow/5-start-events/5-start-events.md>). These **Signal** events can detect when an item is **created** or **updated** on a particular table. This then causes the **Workflow** process diagram to begin automatically.

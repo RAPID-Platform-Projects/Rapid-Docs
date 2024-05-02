@@ -22,7 +22,7 @@ You can tell whether an element is being configured, or the process diagram itse
 
 2. In the **Properties Panel**, click the **Process Inputs** chevron to expand it.
 
-![A screenshot of the Properties Panel in the Workflow experience, when the user is not selecting any element and is instead configuring the properties of the entire process itself. The screenshot is annotated with a red box at the top of the panel, which reads "Process_1 (Process)". Underneath is a field for naming the process diagram called "Title". In this example the process diagram is titled "Manufacture Erasers". Underneath this is the "Process Inputs" section. A button allows the user to "+ Add new Input". When a new input is added, it has three fields: "Title", "ColumnName" and "Field Type". In this example, the user has entered the following data: Title = "Quantity", ColumnName = "Quantity" and Field Type = "Number". This input section of the screenshot is also annotated with a red box to draw attention to this section.](<Process Input Setup.png>)
+![A screenshot of the Properties Panel in the Workflow experience, when the user is not selecting any element and is instead configuring the properties of the entire process itself. The screenshot is annotated with a red box at the top of the panel, which reads "Process_1 (Process)". Underneath is a field for naming the process diagram called "Title". In this example the process diagram is titled "Manufacture Erasers". Underneath this is the "Process Inputs" section. A button allows the user to "+ Add new Input". When a new input is added, it has three fields: "Title", "ColumnName" and "Field Type". In this example, the user has entered the following data: `Title = "Quantity"`, `ColumnName = "Quantity"` and `Field Type = "Number"`. This input section of the screenshot is also annotated with a red box to draw attention to this section.](<Process Input Setup.png>)
 
 Each input that is added to this properties panel, will appear as a field that can have data entered once the process diagram is executed. Below is an explanation of what of the above configuration fields affects.
 
@@ -38,7 +38,7 @@ Each input that is added to this properties panel, will appear as a field that c
 
 In the example scenario above, we are manufacturing erasers and launching a different task depending on the quantity of erasers being created. Once our inputs are set up, we must configure elements on the page to read these input values.
 
-![A screenshot of a diagram that will do the following: take a "Quantity" input from the user, and then choose a task to execute depending on the value provided. The process has a default start event, with a label that reads: "Workflow is triggered with quantity = ?" The start event flows into an "Exclusive Gateway". The gateway has two outputs: an upper and lower one. The upper output sequence flow has a label that reads "if quantity > 100" and then flows into a task "Large-batch manufacturing" before flowing into the end event. The lower output sequence flow has a label that reads "if quantity <= 100" and then flows into a task "Small-batch manufacturing" before flowing into the end event.](<Process Input Setup 2.png>)
+![A screenshot of a diagram that will do the following: take a "Quantity" input from the user, and then choose a task to execute depending on the value provided. The process has a default start event, with a label that reads: "Workflow is triggered with `quantity = ?`" The start event flows into an "Exclusive Gateway". The gateway has two outputs: an upper and lower one. The upper output sequence flow has a label that reads `if quantity > 100` and then flows into a task "Large-batch manufacturing" before flowing into the end event. The lower output sequence flow has a label that reads `if quantity <= 100` and then flows into a task "Small-batch manufacturing" before flowing into the end event.](<Process Input Setup 2.png>)
 
 > **Above**: A **Gateway** being configured to take the input value from the user, and selects a path depending on the value.
 
@@ -60,7 +60,7 @@ To configure this element, we select the **Exclusive Gateway** and add a **Rule*
 
 To enter inputs during a manual start:
 
-1. Press the **Launch** button in the **Workflow** experience
+1. Press the [Launch button](</docs/Rapid/4-Keyper Manual/3-Workflow/13-executing-workflows/13-executing-workflows.md#manual-starts>) in the **Workflow** experience
 
 2. A sidebar will open with the **Process Inputs**. Enter the values and press **OK**
 
