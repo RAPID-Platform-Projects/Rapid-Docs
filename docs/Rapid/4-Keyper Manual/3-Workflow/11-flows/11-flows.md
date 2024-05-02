@@ -39,4 +39,3 @@ To create a **Conditional Flow**:
 3. In the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>), select the configuration rules for the element.
 
 ![A screenshot demonstrating how to apply conditional logic to a flow connection or link. The screenshot is annotated with a red box to show the location of the Properties Panel, and how selecting a flow connection will change what is displayed in this panel.](<Setting Condition.png>)
-
