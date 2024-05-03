@@ -4,15 +4,15 @@ This is configurable on both the [Command Bar](</docs/Rapid/3-User Manual/glossa
 
 ## Overview
 
-A **Signal Start Event** can be triggered manually via a menu button, to activate any **Workflows** with **Signal Start Events** that are listening for when an item on a specific table is created.
+A **Signal Start Event** can be triggered manually via a menu button, to activate any **Workflows** with **Signal Start Events** that are listening for when an item is created on a specific table.
 
 This is because it is sometimes desirable to trigger a "created" **Signal Start Event** on an item that has been created previously.
 
 :::note[Example]
-When a new invoice item is created for a company, the invoice is sent to the customer. However, a customer contacts the company and requests the invoice be sent again to a different email address. This requires the workflow be triggered on the invoice item again, as though the item had just been created.
+When a new invoice item is created, a workflow is triggered that automatically sends the invoice to the customer. However, what is a customer requests the invoice be sent again? This requires the workflow to be triggered on the invoice item again, as though the item had just been created.
 :::
 
-A **Raise Workflow Created Signal** menu button triggers a **Workflow**, a confirmation box will appear in the bottom-right corner of the site.
+When a **Raise Workflow Created Signal** menu button triggers a **Workflow**, a confirmation box will appear in the bottom-right corner of the site.
 
 ![A screenshot of the confirmation box that appears when a workflow is successfully started. The confirmation box is green with white text and a white x in the corner to dismiss the box. The white text in this example reads: "Workflow signal raised successfully".](<Workflow Confirmation.png>)
 
