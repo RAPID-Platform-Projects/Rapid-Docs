@@ -10,6 +10,10 @@ A manager requires a quote to be generated, but the payment due date for the quo
 A manager wants to schedule a task such as "Manufacture X Erasers", and wants a specific task to be generated, depending on the quantity of erasers being manufactured. (i.e. A small-batch task vs a large-batch task).
 :::
 
+Process inputs can be configured to support most field types within RAPID. These inputs can then be referenced within the process to alter it's flow and make process 'regard' its invoked context.
+
+When a process is executing inputs are regarded the same whether they are started manually or from a Call Activity.
+
 ## Adding Inputs to a Process Diagram
 
 Inputs can be configured by:
@@ -26,13 +30,40 @@ You can tell whether an element is being configured, or the process diagram itse
 
 Each input that is added to this properties panel, will appear as a field that can have data entered once the process diagram is executed. Below is an explanation of what of the above configuration fields affects.
 
+
+
+## Configuring Call Activity Inputs
+
+Adding an input to a diagram requires three pieces of information:
+
 | Field | Explanation |
 | --- | --- |
-| **Title** | This is the name that will appear above the field where the user can input data. |
-| **ColumnName** | This is the internal variable name that **Workflow** will use to describe this field. There is a distinction here so that the title can be longer and contain an explanation for the user, if required. |
+| **Title** | This is the user-friendly name that will appear above the field where the user can input data. |
+| **ColumnName** | This is the internal variable name that **Workflow** will use to describe this field. These should be all lowercase, with no spaces. |
 | **Field Type** | Here is where you set the expected input from the user. As this process diagram will accept a "Quantity of Erasers", it is set to anticipate the "Number" type of data. |
 
-3. Configure **Gateways** or other elements to read the input value.
+## Types of Inputs
+
+You can use the following field types as inputs:
+
+| Type | Primitive | Description |
+| --- | --- | --- |
+| Single Line of Text | String | |
+| Email | String | |
+| Multiple lines of Text | String | |
+| Date and Time | Date |
+| Choice | String | These cannot be configured to present choices | 
+| Lookup | Integer | Can be configured to regard a list. Will be automatically populated when manually triggered from an item of the related type |
+| Boolean | Boolean | |
+| Number | Number | |
+| Percentage | Number | |
+| Currency | Number | Cannot configure the currency type |
+| User | Integer | |
+| JSON | String | |
+| Whole number | Integer | |
+| Globally Unique Identifier | String | |
+| XML Data | String | |
+| PowerBI Report | String | |
 
 ## Reading Inputs from a Process Diagram
 
@@ -91,3 +122,9 @@ When a [menu button is configured](</docs/Rapid/4-Keyper Manual/2-Designer/3-Men
 ![The same process diagram explained earlier: it contains a start event, an exclusive gateway, and two tasks: one for large-batch processing and the other for small-batch processing. The purpose of the image is to show how the diagram executed. The following sections are highlighted green, indicating that they were executed without error: start event, gateway, LARGE-batch manufacturing, end event, and the flow elements between these elements.](<Process Run Feedback 2.png>)
 
 > **Above:** The user entered "500" as the quantity of erasers in this example, so the gateway resolved this during the process run and sent the token up to the "Large-batch manufacturing" task.
+
+## Referencing inputs with an expression
+
+Inputs are placed on an input's key within the process run. They can be referenced via:
+
+`<%= Process_1.inputs.{input column} %>`
