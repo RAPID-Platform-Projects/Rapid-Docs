@@ -1,8 +1,8 @@
-# Understanding the Element Picker features
+# Understanding the Element Picker
 
 The element picker allows you to add elements to your Adaptive Document. 
 
-## How does the Element Picker work? (Control vs Element)
+## How does the Element Picker Work? (Control vs Element)
 
 Using the Element Picker, you can select <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**control(s)**</a>. These controls can then be configured as <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**element(s)**</a> as they are added to your Adaptive Document. 
 
@@ -14,7 +14,7 @@ For example - imagine you are creating an Adaptive Document to capture details o
 These two fields are two different elements on the Adaptive Document, but correspond to the same type of control (Single Line). So from the Element Picker you will add the control - Single Line twice and configure them as different elements. 
 
 
-## What appears on Element Picker?
+## What Appears on Element Picker?
 
 ![Image showing Element Picker map](<Element Picker 1.png>)
 
@@ -31,7 +31,7 @@ There are two tabs (labelled in the above as 1 and 2). Selecting each tab will d
 
 3. **Controls Categories** - Categories are the collection of controls (or templates) grouped together according on their nature. Based on the tab selected, the categories of controls are visible. To select a category, just click on the title. The selected category appears highlighted in blue.
 
-### Categories in Controls Tab
+### Categories in the Controls Tab
 
 When the **Controls Tab** is active, then you will see six categories of controls:
 
@@ -65,7 +65,7 @@ When the **Controls Tab** is active, then you will see six categories of control
 
    ![Image showing templates in the Simpli category](<Element Picker 8.png>)
 
-### Categories in Connections Tab
+### Categories in the Connections Tab
 
 When **Connections Tab** is active, the list of categories displayed are changed.
 
@@ -137,11 +137,13 @@ The total number of controls changes based on the connections created with the d
 The Add button also displays the number of controls selected.
 
 
-## How to add controls to the Adaptive Document from Element Picker
+## Adding controls to the Adaptive Document from Element Picker
 
-To add controls to the Adaptive Document, just select control(s) by clicking on it. The selected control will be highlighted in blue.
+To add controls to the Adaptive Document:
 
-Then press the "Add" button. 
+1. Select the control(s) by clicking on them. (The selected control will be highlighted in blue).
+
+2. Then press the "Add" button. 
 
 :::tip[Please note]
 You can select multiple unique controls from the Element Picker. 

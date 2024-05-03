@@ -2,11 +2,11 @@
 
 The Overview tab allows you to view, update and configure information about the Adaptive Document.
 
-## Where is Overview tab located?
+## Overview Tab Location
 
 ![Image showing Elements Tab active](<Overview Tab 1.png>)
 
-The Overview tab sits next to the Elements Tab. By default, the Elements Tab is active and displays the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a>
+The Overview tab sits next to the Elements Tab. By default, the Elements Tab is active and displays the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a>.
 
 Click on "Overview" to see its fields.
 
@@ -24,4 +24,4 @@ You can enter or edit the text here to set the title.
 
 4. The Overview tab allows you to display custom messages for success and error post submission of the Adaptive Document. You can create static form (Adaptive Document form with only static text message) and select them here. 
 
-NOTE - CONNECTIONS, VALIDATIONS NOT DISCUSSED HERE
+<!-- NOTE - CONNECTIONS, VALIDATIONS NOT DISCUSSED HERE -->
