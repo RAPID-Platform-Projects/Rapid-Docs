@@ -46,24 +46,24 @@ Adding an input to a diagram requires three pieces of information:
 
 You can use the following field types as inputs:
 
-| Type | Primitive | Description |
+| Type | Primitive | Additional Information |
 | --- | --- | --- |
-| Single Line of Text | String | |
-| Email | String | |
-| Multiple lines of Text | String | |
-| Date and Time | Date |
-| Choice | String | These cannot be configured to present choices | 
-| Lookup | Integer | Can be configured to regard a list. Will be automatically populated when manually triggered from an item of the related type |
-| Boolean | Boolean | |
-| Number | Number | |
-| Percentage | Number | |
-| Currency | Number | Cannot configure the currency type |
-| User | Integer | |
-| JSON | String | |
-| Whole number | Integer | |
-| Globally Unique Identifier | String | |
-| XML Data | String | |
-| PowerBI Report | String | |
+| **Single Line of Text** | String | |
+| **Email** | String | |
+| **Multiple Lines of Text** | String | |
+| **Date and Time** | Date |
+| **Choice** | String | These cannot be configured to present choices | 
+| **Lookup** | Integer | Can be configured to regard a list. Will be automatically populated when manually triggered from an item of the related type |
+| **Boolean** | Boolean | |
+| **Number** | Number | |
+| **Percentage** | Number | |
+| **Currency** | Number | Cannot configure the currency type |
+| **User** | Integer | |
+| **JSON** | String | |
+| **Whole number** | Integer | |
+| **Globally Unique Identifier** | String | |
+| **XML Data** | String | |
+| **PowerBI Report** | String | |
 
 ## Reading Inputs from a Process Diagram
 
