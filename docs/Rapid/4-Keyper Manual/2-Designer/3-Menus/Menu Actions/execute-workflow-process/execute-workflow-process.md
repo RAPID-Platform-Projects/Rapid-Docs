@@ -44,14 +44,14 @@ Once the inputs are entered and the user presses **OK**, the **Workflow Process*
 
 ![A screenshot of the "On-Click Action" choice field. In this example, it contains the value "Workflow - Execute Process".](OnClick.png)
 
-8. Scroll down to the **Workflow - Execute Process** section
+9. Scroll down to the **Workflow - Execute Process** section
 
-9. Select the **Process Diagram ID** to assign to the menu button
+10. Select the **Process Diagram ID** to assign to the menu button
 
-10. Set whether the menu button will trigger a save interaction
+11. Set whether the menu button will trigger a save interaction
 
 ![A screenshot of the "Workflow - Execute Process" section. The section contains an info box with "Executes a process diagram." Underneath the info box are the following choice fields and descriptive text: "Process Diagram ID":"Manufacture Erasers", "Save Intention": "Save on Action". Beneath these fields are the following check fields: "Single Request", and "Request Items".](<Workflow Setup.png>)
 
-11. **Save** the menu hierarchy
+12. **Save** the menu hierarchy
 
 Now, when the menu button is pressed, it will trigger the configured **Workflow Process**
