@@ -109,3 +109,11 @@ If the data within in a page is updated (e.g. by another user, or by an automate
 Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 
 ![A screenshot that shows the appearance of the inline refresh button. The screenshot is annotated with a red box. The inline refresh button has an icon that resembles a clockwise arrow.](<Page Refresh.png>)
+
+## Page Permissions
+
+The permissions for a page can be set. This will authorise or prevent access to a specific page. The access permissions can be set for either users or user groups. The *Permissions* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a house key.
+
+![A screenshot that shows the appearance of the inline refresh button. The screenshot is annotated with a red box. The inline refresh button has an icon that resembles a clockwise arrow.](<Page Permissions Button.png>)
+
+You can read about [Item Permissions](<docs/Rapid/3-User Manual/2-Explorer/2-Items/5-item-permissions/5-item-permissions.md>) and how to set *Read*, *Write* and *Delete* permissions.
