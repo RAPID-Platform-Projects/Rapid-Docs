@@ -2,19 +2,16 @@
 
 In Designer, you can configure a [**page to host components**](</docs/Rapid/3-User Manual/glossary/glossary.md#page> "Page and component"). Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
 
-1. via the Design Tab of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
-2. via the Pages option in [Designer Sidebar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar"). This is also called the Pages Manager.
+1. Via the **Pages** menu button in [Designer Sidebar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar"). This is also called the Pages Manager.
+    -  When you create a page in the **Pages** options in the **Designer Sidebar**, then that page is created independent of any table in the system.
+    - If the table is deleted, the page will remain as an item in the **Pages** table of **Designer**.
+2. Via the **Design Tab** of a [Table in Designer](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
+    - When you create a page in the **Design Tab** of **Designer**, then the page references that table.
+    - If the referenced table is deleted, the page will also be deleted.
 
 ![Navigate to page design tab](<Navigate to Page design tab.png>)
 
-When you create / update a page from the Design Tab of a Table in Designer, then that page is with reference to that table. However, when a page is created / updated via Pages options in Designer Sidebar, then that page is created independent of any table in the system.
-
-To better understand, if a table is deleted then:
-
-- The page is deleted if created via option 1. above (subject table).
-- The page remains present in the system if created via option 2. above.
-
-## Pages in Designer Sidebar (Pages Manager)
+## Pages Manager in the Designer Sidebar
 
 ![Pages page layout](<Pages page layout.png>)
 
@@ -24,7 +21,7 @@ This window enables you with the following information / options
 2. **List of all pages in the system** - This section displays the list of all the pages in the system whether created from within Table in Designer or independently. The list is arranged in alphabetical order.
 3. **Find a page** - This field allows you to enter a keyword (or a part of it) to filter the list of pages. It helps you easily find your desired page from the list.
 
-## Design Tab of Table in Designer
+## Design Tab of a Table in Designer
 
 ![Design tab page layout](<Table Design tab layout.png>)
 

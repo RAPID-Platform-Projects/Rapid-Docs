@@ -1,178 +1,111 @@
 # Pages
 
-Pages is a fundamental concept in Rapid Platform. A Page in Explorer hosts components and displays information as configured in Designer. Whether it is a Gantt Chart, Counter component, Data Table, Board, or Report etc., every component needs a Page on which it can be hosted. Page enables adding, editing and viewing capabilities based on the nature of components hosted on it.​
-​
-Arguably, among the most important applications of Explorer, is data management through tables (item list) and individual items. An average system user will most likely interact with Explorer for referring to information in tables.​
+**Pages** are a fundamental concept in Rapid Platform. A **Page** in Explorer hosts components and displays information as configured in **Designer**. Every component needs a Page on which it can be hosted. **Pages** enable adding, editing, and viewing data based on the nature of the components hosted on it.​
 
-Therefore, in this article, we discuss Pages for tables in Explorer.​
+Pages can host groups of items, or display information regarding a single item.
 
-​With reference to Pages for tables, there can be two types:​
+- **List page** – This is a page that hosts the information about a list of items from a table.  
+- **Single item page** – These pages host information about unique items in the Rapid database. These types of pages may include an item *Details* page, *Activity* page, *Files* page, *Tasks* page, or other custom pages.
 
-**List page** – This is the page which hosts the information about the item lists or group of items as configured in Designer.  
-  
-  ​
-**Single item page** – This can be a group of pages which hosts different types of information with reference to a single item of the table, as configured in Designer. The collection of pages may include item details page, activity page, files page, tasks page and other custom created pages.
+## Accessing a List Page​ in Explorer
 
-## How to access a List Page​ in Explorer?
+1. Click on the **Explorer** button in the bottom left corner of the site.
 
-Please consider below steps to navigate to the table list page 
+![A screenshot that shows the appearance and location of the Explorer button in the Sidebar. The screenshot is annotated with a red box and arrow to highlight the location of the Explorer button. The Explorer button is at the bottom of the sidebar: a navy-coloured rectangle that contains the Rapid logo at the top, then a list of tables and folders in the middle, and finally the navigation buttons at the bottom. The Explorer button has an icon that resembles a house.](<Explorer Sidebar Context.png>)
 
-1. Click on Explorer button at the bottom left corner of the screen.
-2. Select the table title from the Explorer Sidebar menu.​
+:::note[Selected Experience]
+The background of the button will turn white to indicate which experience is currently selected (in this case, Explorer).
+:::
 
-​![Image showing List page in Explorer](<Explorer Page 1.png>)
+2. Select the table title from the **Sidebar** menu.​ *(In this example, we will navigate to the **Service Logs** table, underneath the **Assets** folder).*
 
-The above image displays the List page for a table titled "Quotes". Observe the marked "PAGE AREA". This is the boundary of the Page and it is hosting the Data Table component. 
+![A screenshot of the user navigating to a list page using the sidebar. In this example, the user has selected the "Assets" folder and then the "Service Logs" page. Both menu items that have been selected contain a white background. The Assets folder contains an icon of a box with confetti coming out of it. This folder opens a sidepanel that contains several page items. The user's mouse is hovering over the "Service Logs" page, which has an icon of a wrench and a screwdriver.](<Explorer Sidebar Selection.png>)
 
-To learn more about the Data Table component <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Data%20Table%20Component/" target="_blank">**click here**</a>.
+3. Once a table has been selected from the **Sidebar**, Rapid will display a List page to present the table's items.
+
+![A screenshot that shows the appearance and location of a list page in Explorer. The screenshot is annotated with a red box to highlight its location. There is a sidebar on the lefthand side, and the title of the page reads "Service Logs". Underneath is a page that contains the Data Table component.](<Explorer Page Area.png>)
 
 :::note [Please note]
-You may see the List Page showing other components as well. The Explorer Page will display information based on the component's hosted and configured in Designer.
+The area marked in red denotes a page. This page is hosting a [Data Table](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>) component, which displays all of the items contained in a specific table. In this example, the data table is displaying all of the Service Logs. The **List Page** can be configured via **Designer** to host other page components as well.
 :::
 
-Most likely you will see the Data Table component on the List Page. Following is a brief introduction to various features that you will see on the List Page (because of Data Table component)
+![An example Data Table titled "Service Logs". This is a zoomed-in view of the previous image, focusing on the Data Table element. The Data Table component contains a Command Strip where buttons are located, such as the "New Service Log", "Generate CSV", "Select View Filter" drop down menu, as well as the "Edit View Headers" button, "Inline Refresh" button, and "Edit View" button. The page component also contains a search filter, for filtering the items displayed. Below this is the headers for each column in the database, and then a list of several service log items.](<Data Table Example.png>)
 
-Please refer to the image below image and corresponding descriptions:
+- You can read more about the [**Data Table** component here](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>)
+- You can also learn more about [how to view data within **Data Tables**](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md>)
 
-![Image showing features on List Page](<Explorer Page 2.png>)
+## Accessing a Single Item Page
 
-:::info[Please note]
-The buttons labelled from "a" to "g" in the above image, are the default feature buttons present on the List Page (Data Table component). You may see other menu buttons as configured in Designer for specific actions.
+Pages can also display data for a single Rapid database item. To navigate to a single item page from the list page by clicking on either the title of the item, its icon, or double-clicking anywhere on the row of the item.
+
+![A screenshot of a single item in a Rapid Data Table. The screenshot is annotated with a red box to highlight the appearance of a single item.](<Data Table Item Example.png>)
+
+> **Above:** A single item in a **Data Table**
+
+:::note[Page Tabs]
+Rapid items can contain a multiple pages. If several pages are connected to a Rapid item, they will appear in the Tab Strip. Here, you can switch between multiple *Single Item Pages*, which contain data about the current item selected.
+- [Pages can be configured in **Designer**](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>).
 :::
 
-a. New item button (New Quote) - this button allows user to add item to the table.​  
-  
+There are four default pages in an item. These are:
 
-
-b. Search item button (Search Quotes) - this field allows users to search the items list based on the entered keyword.  
-  
-
-
-c. Views selection / creation - this allows user to select an existing View to filter the items list. There is also an option to create new Views for the table here.  
-  
-
-
-d. Edit View button (pencil icon) - this is for editing the appearance of the items list as it is displayed on the List Page. This allows users to resize the column width, move column header from left to right or vice versa.​  
-  
-
-e. Refresh button - This button is for refreshing the data in the List page.​  
-  
-
-
-f. Edit View button - This button allows users to modify the parameters of the selected View. ​One can also delete the selected View here.  
-  
-
-
-g. Export selected view as CSV version – by clicking on this button users can export the table list as a .CSV file. This file is downloaded to the local system.  
-  
-
-
-Next let us look at the Single Item Page.
-
-## How to access a Single Item Page​ in Explorer?
-
-![Image showing how to access single item page](<Explorer Page 3.png>)
-
-​You can navigate to single item page from the list page by clicking on either the title of the item or the icon of the item. 
-
-This is how a Single Item Page for a Table item may appear (see image below)
-
-![Image showing Single Item Page](<Explorer Page 4.png>)
-
-:::note[Please Note]
-A Single Item Page may have a collection of Pages as seen above. Each Page serves a specific purpose. There are some default pages, which can be configured in Designer.
-:::
-
-There are four default pages in the Single Items Page. These are:
-
-1. Item Details Page
-2. Activity Page
-3. Files Page
-4. Tasks Page
-
-![Image showing Single Item Page with labelling to other pages within](<Explorer Page 5.png>)
-
-The above image shows how Single Item Page can host a collection of Pages. Observe that we have the following on the tab strip:
-
-a. Details  
-b. Activity  
-c. Files  
-e. Invoices  
+1. Details Page
+2. Activity
+3. Files
+4. Tasks
 
 :::note[Please note]
-While a, b and c (above) are default pages in the Single Item Page, Tasks does not appear in the list. This is because, in Designer, this default page has been configured as inactive. Therefore, based on need, your system builder can enable / disable default pages in Designer. 
+The **Tasks** item page may not appear on certain items' tab strips. This is because the **Tasks** page is set to inactive by default. Your system builder can enable the Tasks page for items **Designer**.
 
-Further, e. is a custom page created and linked to this table. 
-Hence, pages can display linked items to the selected item from other tables.
+- [Custom pages can be created in Designer](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>) and linked to items.
 :::
 
-What you see on the Single Item Page is completely configurable in Designer, and can adapt to your business needs.
+## Details Page
 
-Here we shall take a brief introduction to the three default pages visible in the above image.
+The **Details** page can be configured to display information about the database item. In the example below, the page renders data regarding a **Service Log's**: *Asset*, *Service Date* and who the asset was *Serviced By*.
 
-## Details Page (also known as Item Details Page)
+![A screenshot that shows an example details page. The screenshot is annotated with a red box to highlight that the "Details" tab of the page has been selected. Underneath the Details tab is a page layout that contains a typical command bar, and the "Service Details" for a Service Log. The fields underneath the "Service Details" label are: "Asset", "Service Date", and "Serviced By".](<Details Page.png>)
 
-This page can be configured to display the information about the item. 
+Usually, the **Details** page will host a [Form Component](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/3-Components/form/form.md>). However, other components may be placed on a page as well. The [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>) on an item contains several useful buttons such as **Save**, **Save and Close**, **Delete**, etc.
 
-![Image showing Item Details Page](<Explorer Page 6.png>)
-
-Most likely, the Item Details page will host a Form Component. To learn more about the Form Component <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Form%20Component/" target="_blank">**click here**</a>.
-
-Please note this page may host other components as well. For example the above image shows a Data Table component hosted on this page.  
-
-The Details Page has some default buttons. Let us discuss them (please refer to the image above)
-
-i. Save – this allows user to save the added/edited information.​
-
-ii. Save and Close – this allows user to save and close the Details tab. The user will be redirected to the List page.​
-
-iii. Delete – allows the user to delete the subject item . 
-
-iv. Item history – Here the user can view the history of the previous version of the items. One can revert to an older version and reverse the changes made by selecting the previous versions of the item. To learn more about Item history <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Items/item-history/" target="_blank">**click here**</a>.
-
-v. Refresh button - allows the user to refresh the data on page.​ To learn more about refresh feature <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Items/item-history/" target="_blank">**click here**</a>.
-
-vi. Permissions (key icon) - a user can configure access permissions for other users to this item. For further information on item level permissions, please refer <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Items/permissions/" target="_blank">**this link**</a>.
-
-vii. Link - a user can create links to items of other tables using this button. To learn more about link feature <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/linked-items/" target="_blank">**click here**</a>.​  
-
-Apart from the above buttons, you can also observe other buttons on the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#command-bar" target="_blank">**command bar**</a>.​  These are the menu buttons configured in Designer and are not the part of  default buttons​. For example - viii. Generate Invoice From Quote and ix. Generate Quote PDF (as seen in the image).
+You can learn more about the functionality of the **Details** page, and:
+- [The Command Bar](</docs/Rapid/3-User Manual/2-Explorer/2-Items/2-items-editing/2-items-editing.md#saving-changes>)
+- [Item History](</docs/Rapid/3-User Manual/2-Explorer/2-Items/4-item-history/4-item-history.md>)
+- [Item Permissions](</docs/Rapid/3-User Manual/2-Explorer/2-Items/5-item-permissions/5-item-permissions.md>)
+- [Linked Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/6-items-linked/6-items-linked.md>)
+- [Deleting Items](</docs/Rapid/3-User Manual/2-Explorer/2-Items/7-items-deleting/7-items-deleting.md>)
 
 ## Activity Page
 
-Activity page hosts activity feed component. This page displays the ledger of creation and all the changes that the item has gone through, with respective timestamps and other details. To learn more about activity feed component, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Activity%20Feed%20Component/" target="_blank">**click here**</a>.
+The **Activity** page hosts the [Activity Feed Component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Activity Feed/Activity Feed.md>). This page displays the ledger of item creation and lists all the changes that the item has gone through, with respective timestamps and other details.
 
-![Image showing Activity Page](<Explorer Page 7.png>)
+![A screenshot of the Activities page for an item. The screenshot is annotated with a red box to highlight that the "Activity" tab is currently selected. Underneath the tab strip is the label "Service Log Timeline". In this example, there is only one entry in the timeline which reads "Admin created this Service Log" and an example date and time that this occurred. At the bottom of the "Activity" page is a textbox where the user can type a message or reminder.](<Activity Page.png>)
 
 ## Files Page
 
-Files page allows a user to attach relevant folder(s)/file(s)  to the subject item. 
+Files page allows a user to attach relevant folder(s) and/or file(s) to an item. 
+
+![A screenshot of the "Files" item page as it appears in Explorer. The screenshot is annotated with two red boxes to assist the viewer in locating the location of the file browser page. In the upper portion of the screen, the user has selected the "Files" tab of an item. In this example, the item is a Project titled "Office Building Construction". Underneath is the Command Bar, and below it is the File Browser component. The Browser component is similar to how files appear in Windows File Explorer: each file is placed in a row. In the "Name" column, the projects are labelled as: "Project Scope - 26-03-2024.docx" "Project Scope - 26-03-2024.pdf" and "Project Scope.docx". The next column has a "download" button for each file. The icon of the download button is a cloud, with an arrow pointing downwards. The next column states when files were modified. The column afterwards states who modified the file. The final column lists the size of the files.](<File Browser Example.png>)
 
 By default, this page hosts two components:
-1. The File Browser component. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Browser%20Component/" target="_blank">**Click here to learn more**</a>.
-2. The File Preview component. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component/" target="_blank">**Click here to learn more**</a>.
+1. [The **File Browser** component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Browser/1-File-Browser/1-File-Browser.md>)
+2. [The **File Preview** component](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/File Preview/File Preview.md>)
 
-![Image showing Files Page](<Explorer Page 8.png>)  
+The **Files** page allows you to:
 
-Some prominent features of this Page includes the ability to:
+- Add a new Folder​  
+- Upload files​ to the existing folder  
+- Download files​  
+- Preview the selected files​
+- Renaming files
+- Emailing selected files
+- Deleting files
+- Opening files in Sharepoint
 
-a. Add a new Folder​  
-b. Upload files​ to the existing folder  
-c. Download files​  
-d. Preview the selected files​  
-​
-Other features include
-Rename (selected) file, E-mail (selected) file, Delete file, open in SharePoint window, change folder, share the selected file, and expand preview.
+## Pages can be Refreshed
 
+If the data within in a page is updated (e.g. by another user, or by an automated process), the page will need to be refreshed for that data to become visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
 
-:::note[Please note]
-The above description of the Pages is what you will see in most likely situation. However, Rapid Platform​ allows for full customisation of the Pages and hence it is possible that can see other components hosted on Pages.
-:::
+Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 
-​## Refreshing a Single Page
-
-To refresh a Single Page:
-
-1. In the Explorer Experience, navigate to an entity's list page that you wish to refresh.
-2. Select and click on an item.
-3. In the command bar, next to the [**Linked Items**](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Linked Items/Linked Items.md>) button, click the **Refresh** button.
+![A screenshot that shows the appearance of the inline refresh button. The screenshot is annotated with a red box. The inline refresh button has an icon that resembles a clockwise arrow.](<Page Refresh.png>)
