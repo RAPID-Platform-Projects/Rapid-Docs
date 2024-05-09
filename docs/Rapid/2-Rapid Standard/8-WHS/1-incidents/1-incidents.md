@@ -34,6 +34,23 @@ To access the **Incidents** table:
 
 ![A screenshot of the menu buttons that must be pressed in order to access the "Incidents" table. The first button is a folder in the sidebar titled "WHS" and has an icon of a heart with an ECG line through its centre. The link to the form reads "Incidents" and has the alert symbol: a triangle with an exclamation mark in its centre. Both items that have been pressed have a white background with blue text (as opposed to the unpressed menu items, which have a blue background and white text).](<Incident Table Menu.png>)
 
+## Creating a New Incident
+
+A new incident will be created when the **Public Incident Form** is completed and submitted. Alternatively, new **Incidents** can be recorded just like any other item.
+
+To create an new **Incident** report:
+
+1. Navigate to the **Incidents** data table (*this process is outlined above*)
+2. Press the **New Incident** button in the table's [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)
+
+![A screenshot showing the location and appearance of the "New Incident" button in the Incident table's Command Bar. The button reads "New Incident" and has an alert icon: a triangle with an exclamation mark at its centre. The screenshot is annotated with a red box to highlight the location of the button.](<New Incident.png>)
+
+3. The **New Incident** create screen will open in a side panel
+4. Enter the details of the **Incident**
+5. Press **+ Create** at the top of the side panel
+
+![A screenshot of the "New Incident" create screen. At the top is a large navy header that reads "New Incident". There is also a cross in the upper left corner for closing the side panel. Underneath is the usual command strip buttons which read: "+ Create", "Create and Open", and "Undo Changes". Beneath this are the fields for the incident report.](<New Incident Create.png>)
+
 ## Viewing Incidents
 
 By default, the **Incidents** table contains the following columns for displaying incident items:
@@ -92,7 +109,7 @@ The "Archived" status has been disabled on the incident report **Pipeline**. If 
 
 ![A screenshot of the incident pipeline and its attached status field. At the top is the incident pipeline which is currently set to "New". This is indicated by the arrow that reads "New", which is coloured with blue, and the other stages of the pipeline being coloured with grey. Below the pipeline component is a "Status" choice field. The "Status" field currently has the word "New" inside it. The drop-down menu from the status choice field is visible, and the user's cursor is hovering over the "New" choice. Other choices that are visible include: "Open", "Closed" and "Archived".](<Pipeline and Status Choice.png>)
 
-### Incident Statuses
+### Incident Status
 
 The following table describes each incident status, and its meaning:
 
@@ -101,4 +118,8 @@ The following table describes each incident status, and its meaning:
 | **New** | The incident report has been created, but no action has been taken to resolve or correct it. |
 | **Open** | The incident report is under review. |
 | **Closed** | The incident report is closed. No further actions will be taken regarding the incident report. |
-| **Archived** | Useful for old incident reports that the user no longer wishes to see in the **Incidents** table's main view. |
+| **Archived** | Useful for old incident reports that the user no longer wishes to see in the **Incidents** table's "All" view. |
+
+:::info[Archiving]
+It is always preferable to "Archive" an incident report, rather than deleting it. This is because they are legal documents which may need to be produced in the case of worker's compensation or lawsuits. By "Archiving" an old incident report, it is still accessible but will not appear in the Data Table's "All" view.
+:::
