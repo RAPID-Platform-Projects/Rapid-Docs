@@ -1,6 +1,6 @@
 # Pipeline
 
-## Pipeline component overview
+## Pipeline Component Overview
 
 Imagine you are a Sales Manager. You work with the Sales Leads Table.
 
