@@ -55,7 +55,7 @@ There are four default pages in an item. These are:
 4. Tasks
 
 :::note[Please note]
-The **Tasks** item page may not appear on certain items' tab strips. This is because the **Tasks** page is set to inactive by default. Your system builder can enable the Tasks page for items **Designer**.
+The **Tasks** item page may not appear on certain items' tab strips. This is because the **Tasks** page is set to inactive by default. Your system builder can enable the Tasks page for items in **Designer**.
 
 - [Custom pages can be created in Designer](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>) and linked to items.
 :::
