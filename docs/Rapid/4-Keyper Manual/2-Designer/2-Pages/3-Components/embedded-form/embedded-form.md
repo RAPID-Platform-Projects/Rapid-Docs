@@ -30,24 +30,24 @@ An embedded form can be only used for Tasks Table and Sub-type of Tasks Table(s)
 
 - You can set the **[visibility of Embedded Form on the Details breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?").   
 
-    ![Visibility toggle](<../Visiblity toggle.png>)
+![Visibility toggle](<../Visiblity toggle.png>)
+
 - You can set the **[visibility of Embedded Form on the Create Screen breakpoint](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-hide-components-on-breakpoints/how-to-hide-components-on-breakpoints.md "How to set a component to be visible / hidden on 'Item Details' and 'Create' breakpoints?"). 
 
-    ![Display toggle](<../Display toggle.png>)
+![Display toggle](<../Display toggle.png>)
 
 :::note[Please note:]
 
-- In Rapid Platform, you can configure the Embedded Form via a Workflow Diagram. A workflow diagram has a specific section under User Task titled - "Form Details". You can learn more about it here. **&lt;&lt;PROVIDE LINK TO WORKFLOW PAGE&gt;&gt; 
+- In Rapid Platform, you can configure the Embedded Form [via a Workflow Diagram](</docs/Rapid/4-Keyper Manual/3-Workflow/1-overview/1-overview.md>). A workflow diagram has a specific section under User Task titled - "Form Details".
 :::
 
-    ![Embedded form in workflow configuration](<Embedded form in workflow configuration.png>)
+![Embedded form in workflow configuration](<Embedded form in workflow configuration.png>)
 
-- Embedded Form, although can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).
+- **Embedded Form**, although can be added to an Items List Level (Plural), however, it is meaningful only at the Item Details level (Singular).
 
-- The Embedded Form component is functional when added to a Tasks Table or a sub-type of Tasks Table, but it can create / update items on any table. This means, you can meaningfully add Embedded Form component to a Table which is Tasks / its sub-type, but you can configure it (in workflow diagram) to create / update any table item.
+- The **Embedded Form** component is functional when added to a Tasks Table or a sub-type of Tasks Table, but it can create / update items on any table. This means, you can meaningfully add **Embedded Form** component to a Table which is Tasks / its sub-type, but you can configure it (in workflow diagram) to create / update any table item.
 
 ## Related articles
 
-[**Form component**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")
-
-[**Linked Items component**](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/linked-items/linked-items.md "What is a Linked Items component on a Layout / Page?")
+- [Form component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/form/form.md "What is a Form Component on a Layout / Page?")
+- [Linked Items component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/linked-items/linked-items.md "What is a Linked Items component on a Layout / Page?")

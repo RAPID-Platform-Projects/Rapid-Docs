@@ -35,7 +35,14 @@ To create a new **Corrective Action**:
 
 ![A screenshot of the Adaptive form that is generated for users, if required. The form does not contain a summary of the incident, but instead provides a solution field, and then requires notes to be supplied from the user and the Completed status of the form to be set to the date that the solution was implemented.](<Corrective Action Form.png>)
 
-- When the task's status has been set to *Completed*, a confirmation task will be sent to the WHS team top check that the **Corrective Action** has been completed correctly.
+- When the task's status has been set to *Completed*, a confirmation task will be sent to the WHS team to check that the **Corrective Action** has been completed correctly.
+
+The confirmation task will contain an [Embedded Form](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Embedded Forms/Embedded Forms.md>) to assist the WHS team in confirming the **Corrective Action**.
+
+![A screenshot of a user task titled "Check that corrective action #0000032 has been implemented." The layout of the task is identical to a regular task, however, there is an embedded form included on the right of the Task Details. The form is titled "Corrective Actions Details" and has the following fields and values: "Corrective Action Code":"#000032", "Completed":"Thu May 30 2024", "Incident":"INCIDENT - 00000034", "Solution":"Provide adequate lighting in the stairwell."](<Example Confirmation Task.png>)
+
+> An example confirmation task for a **Corrective Action**. The title of the confirmation task will read:
+> *"Check that corrective action #000000 has been implemented."*
 
 ## Viewing a Corrective Action
 
