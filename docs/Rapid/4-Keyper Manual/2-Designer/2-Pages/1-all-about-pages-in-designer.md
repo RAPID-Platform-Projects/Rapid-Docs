@@ -1,6 +1,6 @@
 # All about Pages in Designer
 
-In Designer, you can configure a [**page to host components**](</docs/Rapid/3-User Manual/glossary/glossary.md#page> "Page and component"). Rapid Platform provides you with a set of 19 components. You can create or update pages in two ways:
+In Designer, you can configure a [**page to host components**](</docs/Rapid/3-User Manual/glossary/glossary.md#page> "Page and component"). You can create or update pages in two ways:
 
 1. Via the **Pages** menu button in [Designer Sidebar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar> "Sidebar"). This is also called the Pages Manager.
     -  When you create a page in the **Pages** options in the **Designer Sidebar**, then that page is created independent of any table in the system.
