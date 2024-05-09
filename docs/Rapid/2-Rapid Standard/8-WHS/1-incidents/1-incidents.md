@@ -47,7 +47,7 @@ To create an new **Incident** report:
 
 3. The **New Incident** create screen will open in a side panel
 4. Enter the details of the **Incident**
-5. Press **+ Create** at the top of the side panel
+5. Press **+ Create** or **Create and Open** at the top of the side panel
 
 ![A screenshot of the "New Incident" create screen. At the top is a large navy header that reads "New Incident". There is also a cross in the upper left corner for closing the side panel. Underneath is the usual command strip buttons which read: "+ Create", "Create and Open", and "Undo Changes". Beneath this are the fields for the incident report.](<New Incident Create.png>)
 
@@ -123,3 +123,19 @@ The following table describes each incident status, and its meaning:
 :::info[Archiving]
 It is always preferable to "Archive" an incident report, rather than deleting it. This is because they are legal documents which may need to be produced in the case of worker's compensation or lawsuits. By "Archiving" an old incident report, it is still accessible but will not appear in the Data Table's "All" view.
 :::
+
+## Incident Process
+
+- When a new incident is created, it will trigger a **Workflow Process** that will automatically assign the incident as a task to the "WHS Team". The task item will then appear as a notification for all members of this team.
+
+- The incident task will be assigned the title: `NEW INCIDENT -  and Validate INCIDENT - 00000000`. In the title, `00000000` will be replaced with the incident's ID number.
+
+![A screenshot of the task generated automatically by a new incident item being lodged. The task contains the typical "Task Details" section, but also includes an embedded form under the "Form Details" section. This section contains a form titled "Incidents Details" and has the following fields: "Date and Time", "Employees Impacted", "Location", and "What happened?".](<Incident Form Task.png>)
+
+- The WHS can navigate to the incident item using the "go to incident" button on the **Embedded Form**.
+
+![A screenshot of the Incident Details embedded form. The screenshot is annotated with a red box to highlight the location and appearance of the "go to incident" button in the upper-right corner of the embedded form. The button is an icon of a sidepanel, with an arrow pointing to the right.](<Go to incident.png>)
+
+- The WHS team can then create [Corrective Actions](</docs/Rapid/2-Rapid Standard/8-WHS/2-corrective-actions/2-corrective-actions.md>), which will also generate tasks for users who are required to perform a corrective action to fix the issue.
+
+- Once the **NEW INCIDENT** task is resolved, the system will automatically change the incident item's *Status* to *Open*.
