@@ -34,7 +34,7 @@ To access the **Incidents** table:
 
 ![A screenshot of the menu buttons that must be pressed in order to access the "Incidents" table. The first button is a folder in the sidebar titled "WHS" and has an icon of a heart with an ECG line through its centre. The link to the form reads "Incidents" and has the alert symbol: a triangle with an exclamation mark in its centre. Both items that have been pressed have a white background with blue text (as opposed to the unpressed menu items, which have a blue background and white text).](<Incident Table Menu.png>)
 
-### Viewing Incidents
+## Viewing Incidents
 
 By default, the **Incidents** table contains the following columns for displaying incident items:
 - *Incident Code* (the title field)
@@ -46,6 +46,17 @@ By default, the **Incidents** table contains the following columns for displayin
 
 ![A screenshot of the "Incidents" table. The purpose of this image is to communicate to the reader the appearance of the table. The table is a standard Data Table, and contains the column headings listed above. There is some example data in the table, one item reads for example... Incident Code: "Incident - 000000334", Date and Time: "05/04/2024", Location: "Brisbane", Who is filling out this form?: "Joel Data", Status: "New", Employees Impacted: "Tom King, Jordan King".](<Incident Table.png>)
 
+### Incident Table Views
+
+There are two [views](</docs/Rapid/3-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>) created for the **Incidents** table:
+
+| View | Description |
+| --- | --- |
+| **All** | This displays all of the incident reports *except* for incident reports that have had their *Status* set to *Archived*. |
+| **Archived** | This displays all of the *archived* incident reports. |
+
+### Accessing Incident Reports
+
 You can access, view, or edit individual incident items by [opening them from the **Incidents** table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md#item-icons>). When an **Incident Report** is opened, the page is structured as illustrated below:
 
 ![A screenshot of an example incident item in a Rapid site. The title of the incident is "INCIDENT - 000000034" and its layout is a standard Rapid item. The item has a pipeline that progressed from "New" to "Open", and finally "Closed". There are three main sections of the item: "General Details", "Description", and "Factors". These sections all contain information collected from the digital incident form (described above). At the bottom of the form is the "Corrective Action" data table, where a user can record items of corrective action that will be linked to the incident. The "Corrective Actions" table has the following headings: "Corrective Action Code", "Solution", "Who", "Incident Factors", and "Status".](<Incident Form Digital.png>)
@@ -54,8 +65,40 @@ There are four main sections of an **Incident Report** details page:
 
 | Section | Purpose |
 | --- | --- |
-| **Incident Pipeline** | |
+| **Incident Pipeline** | This [Pipeline](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Pipeline Choice/pipeline-choice.md>) component illustrates whether an incident is "New", "Open" or "Closed". |
 | **General Details** | For recording crucial data such as who the incident affected, where it happened, and when it happened. |
 | **Description** | For recording what happened and what task was being performed when the incident occurred. |
 | **Factors** | For recording the *Environmental Factors*, *Equipment/Materials*, *Work systems*, or *People* that caused the incident. |
 | **Corrective Actions** | This is another Data table where the **Corrective Actions** implemented by the **WHS** team can be recorded. |
+
+## Incident Report Pipeline
+
+The **Incident Pipeline** is a [Pipeline](</docs/Rapid/3-User Manual/2-Explorer/3-Pages/2-Page Components/Pipeline Choice/pipeline-choice.md>) component that visually communicates the status of the **Incident Report**.
+
+To change the **Status** of an incident report:
+
+1. Click a stage of the Incident Report **Pipeline**
+2. Press **Save**
+
+Alternatively:
+
+1. Click the **Status** choice field. A drop-down menu will appear.
+2. Select a status from the choices.
+3. Press **Save**
+
+:::note[Archived]
+The "Archived" status has been disabled on the incident report **Pipeline**. If this status is selected, every stage of the **Pipeline** will turn grey.
+:::
+
+![A screenshot of the incident pipeline and its attached status field. At the top is the incident pipeline which is currently set to "New". This is indicated by the arrow that reads "New", which is coloured with blue, and the other stages of the pipeline being coloured with grey. Below the pipeline component is a "Status" choice field. The "Status" field currently has the word "New" inside it. The drop-down menu from the status choice field is visible, and the user's cursor is hovering over the "New" choice. Other choices that are visible include: "Open", "Closed" and "Archived".](<Pipeline and Status Choice.png>)
+
+### Incident Statuses
+
+The following table describes each incident status, and its meaning:
+
+| Status | Meaning |
+| --- | --- |
+| **New** | The incident report has been created, but no action has been taken to resolve or correct it. |
+| **Open** | The incident report is under review. |
+| **Closed** | The incident report is closed. No further actions will be taken regarding the incident report. |
+| **Archived** | Useful for old incident reports that the user no longer wishes to see in the **Incidents** table's main view. |

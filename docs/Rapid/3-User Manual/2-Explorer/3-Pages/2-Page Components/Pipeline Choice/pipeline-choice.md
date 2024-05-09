@@ -1,6 +1,14 @@
-# Pipeline Choice
+# Pipeline
 
-The **Pipeline Choice** component allows a user to quickly and visually assess the status of an item. For example, a **Pipeline Choice** could be used to indicate the location of a client within a sales funnel, or the corrective stage of an incident report.
+The **Pipeline** component allows a user to quickly and visually assess the status of an item. For example, a **Pipeline** could be used to indicate the location of a client within a sales funnel, or the corrective stage of an incident report.
+
+![A screenshot of an example pipeline component. The pipeline consists of three large and stylised arrows that flow into each other. Each arrow has a word on it: "New", "Open", and "Closed". In this example, the "New" arrow is coloured with blue, whereas the "Open" and "Closed" arrows in the pipeline are grey. This indicates that the pipeline is at the first "New" step.](<Pipeline Example 1.png>)
+
+> A **Pipeline** component set to the "New" choice.
+
+![A screenshot of an example pipeline component. The pipeline consists of three large and stylised arrows that flow into each other. Each arrow has a word on it: "New", "Open", and "Closed". In this example, the "New" arrow is coloured with blue, the "Open" arrow is coloured with yellow, and the "Closed" arrow is coloured with green. This indicates that the pipeline has reached the end, as "Closed" is coloured.](<Pipeline Example 2.png>)
+
+> A **Pipeline** component set to the "Closed" choice.
 
 ## Pipelines Inherit from a Choice Column
 
