@@ -23,7 +23,7 @@ A normal connection becomes a parent connection when a child connection is defin
 :::
 
 :::tip[Please note]
-There can be a nested relationship among table connections ie. a child connection can have further children defined based on its value. 
+There can be a nested relationship among table connections ie. a child connection can have further children defined. 
 
 ![Image showing different types of connections](<Connection 1.png>)
 :::
@@ -40,11 +40,11 @@ To create a normal or parent type of connection to a data table consider the fol
 
 2. Click on "+" icon of the "Connections". This will open a connections panel in the middle of the screen.
 
-3. Select "RAPID Platform" in the first field as source.
+3. Select "RAPID Platform" in the first field as ***source***.
 
 ![Image showing steps to connect root section to a table](<Root Connection 1.png>)
 
-4. A new field appears. Select the nature of connection here. There are two options:  
+4. A new field appears. Select the ***method*** here. This defines the nature of connection. There are two options:  
     a. ***View*** - allows the system to fetch / feed an array of items.  
     b. ***Single Item*** - allows the system to fetch / feed one single item.  
 
@@ -96,7 +96,7 @@ This will open a section in the middle of the canvas.
 3. Fill-out the details which will define the behaviour of the child connection. consider the following:
 
    a. **Source** - The source will be pre-selected here based on the parent.  
-   b. **Nature of connection** - Select View (if you want an array of items) or Single Item.  
+   b. **Method** -  This _method_ field defines the nature of connection. Select View (if you want an array of items) or Single Item. 
    c. **Select List** - Select the table that you wish to connect as child. This is a dropdown field with titles of all the lists in the source selected.  
    d. **Fetch item on load** - Select the value on the toggle field. To learn more about Fetch on Load field, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**click here**</a>.  
    e. **Relationship with parent** - This is a dropdown field with three options.    
@@ -127,6 +127,110 @@ The child connection when created successfully will feature below the parent wit
 
 ![Image showing child connection below parent connection](<Child connection 4.png>)
 
+:::tip[Please note]  
+The Parent-child connections established in Adaptive Document can be different from the relationship existing between tables in Designer.  
+
+For example - In Designer, a Table Employee Contacts may be a child of Business Contacts table. However, in Adaptive Document you can make a relationship where Employee Contacts is the parent and Business Contacts is a child.  
+
+You need to be careful on selecting the column that establishes the connection and it should logical correct.  
+:::
+
+## Connections at the Adaptive Document's element level
+
+The objective of establishing connections between an Adaptive Document and a Table is to ultimately be able to connect a table item's field to an Adaptive Document's element.
+
+While establishing Document level connection is the first step towards it, the objective is achieved when the element is connected.
+
+### Where to locate connection information for the element?
+
+The connection attributes of the element can be accessed in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**connection category**</a>  of the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> .
+
+![Image showing connection category in the element configuration panel](<Element connection 1.png>)
+
+Please note, the connection category in the element configuration panel is associated to the element selected on the canvas.
+
+### What information / features are available in the connection section for the element?
+
+![image showing fields in the connection category](<Element connection 2.png>)
+
+The connection category in the Element configuration panel displays information / provides features to edit connection attributes for the selected element.
+
+Below is the description in order of labels as displayed in the above image:
+
+1. This is the title of the table to which the connection belongs.  
+
+If you click on this area, the panel of properties of the connected table will open in the middles of the canvas. 
+
+![Image showing Table properties panel](<Element connection 3.png>)
+
+:::note[Please note]  
+This is the same panel of table properties which opens from the document level connection of the Overview Tab. Therefore, any change made here can change the properties of the connection at the document level. 
+
+This panel of table properties provides the name of the parent (if the subject table is a child table), list of child connections (if the subject table has any children) and a list of all the elements associated to the subject table.
+
+This panel helps to review all information about the table and associated elements at a single location.   
+:::
+
+2. This is the element associated to the connected table.
+
+If you click on this field, a dropdown will open. This dropdown list contains all the columns associated to the connected table. You can select the column of your choice and it replaces the element on the canvas in a click. The selected control becomes the new element connected to the table.
+
+![Image showing how the connected element can be replaced from the connection category](<Element connection 4.png>)
+
+:::warning[Please note]  
+Changing the element like this will not change the type of the element.   
+
+For example - if the initially connected element was Id (type number) and it is changed to Title (type text). The element will get connected to the Title column of the table, however, its type in the Adaptive Document will remain Number.   
+
+This can create a potential mismatch, if not configured thoughtfully.   
+:::
 
 
+3. Delete the connection.
 
+Please note, clicking the bin icon only deletes the connection between the table and the element. The table remains connected at the document level and the element continues to exist on the canvas, however, the element is no more connected to the table.
+
+
+### Associating element connections to the table
+
+There are two ways to associate an element to a connected table:
+
+1. Method 1 - via adding an element directly through the connected table by using the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#categories-in-connections-tab" target="_blank">**Element Picker's Connection tab**</a> .
+
+The element added via this method is born associated to the connected table. The element is of the same type as the selected table column. 
+
+For example - if Id is selected from the Element Picker's Connections tab's Businesses table, then the new element will be of Number type and connected to the Businesses Table's Id column.
+
+2. Method 2 - Add an element to the composition area from the Element Picker and then associate it with the connected table.
+
+In this method, the element is not born as connected. 
+
+Please follow the below steps:
+
+1. Add an element of the input control type of your choice from the Element Picker. For example - Single line of Text.
+
+![Image showing selection of text type input control from element picker](<Element connection 5.png>)  
+
+2. Select the element on the composition area. Observe that the Connection category in the Element configuration panel does not show anything. 
+
+![Image showing element added to composition area without connection](<Element connection 6.png>)
+
+3. Click on the SELECT CONNECTION field. This is a dropdown showing a list of all the tables connected at the document level.  
+Click and select the table of your choice here.
+
+![Image showing list of connected tables in connection category](<Element connection 7.png>)
+
+4. The title of the selected table will appear now and a new field - SELECT CONNECTED COLUMN appears. Click on it to reveal a dropdown list of all the columns associated with the selected table.  
+Select the desired column from the dropdown. 
+
+![Image showing list of columns of selected table](<Element connection 8.png>)
+
+5. The element is now connected to the table. 
+
+![Image showing connected element](<Element connection 9.png>)
+
+Please note, the type of the element does not change with the selected column. For example - if you had initially added a text type of element and connected the Id column (type - number), the element on the canvas will be Id (type - text).
+
+:::danger[Please note]  
+Be very careful while changing the table properties whether from Overview Tab or Element Configuration Panel. If the table is a parent, it can break the connection relationships, impacting  all associated element connections as well.
+:::
