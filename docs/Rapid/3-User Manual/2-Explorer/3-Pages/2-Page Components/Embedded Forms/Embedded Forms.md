@@ -1,11 +1,11 @@
 # Embedded Forms
 
-When an item is usually accessed from a Rapid table, you are only able to edit data associated with that item. However, **Embedded Forms** enable us to access, add, or edit data from other tables.
+When an item is usually accessed from a Rapid table, you are only able to edit data associated with that item. However, **Embedded Forms** enable us to edit or create items in another table.
 
 :::note[Example]
-A user is sent a **Task** item requesting that data be entered into an item. An **Embedded Form** allows the user to submit the data without having to leave the current **Task** item.
+The WHS team receives a **Task** where they must enter data into a **Corrective Action** item. This **Corrective Action** item contains a field named *Solution*, where the team must record what they will do to prevent a WHS incident from occurring again.
 
-This allows the user to quickly add the data and tick the *Complete* button.
+By using an **Embedded Form**, the WHS team can create a new **Corrective Action** item, or edit the data of an existing item. This can be accomplished via the **Task** item they were assigned.
 :::
 
 ![A screenshot of an embedded form and its appearance. The screenshot is annotated with a red box to highlight the boundaries of the embedded form. The embedded form also has a faint blue-grey background. Its title reads "Corrective Actions Details", and has some fields such as: "Corrective Action Code":"#000032", "Completed":"Thu May 30 2024", "Incident":"INCIDENT - 00000034", "Solution":"Provide adequate lighting in the stairwell."](<Embedded Form Example.png>)

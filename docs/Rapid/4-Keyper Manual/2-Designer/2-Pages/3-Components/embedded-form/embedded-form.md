@@ -1,14 +1,18 @@
 # Embedded Form
 
-## Embedded Form component overview
+## Embedded Forms Overview
 
-**Case 1:**
+**Embedded Forms** allow the user to create a new item in another table.
 
-Imagine a Project Manager is going through a Project Task Item in the Tasks Table. On the subject item, he/she feels the need to add a Phase to the Project Task in the Phases Table. Therefore, the ability to **create a new item in another table from within the subject table item.**
+:::note[Example 1]
+A project manager wishes to add a **Contact** item. This item will contain the contact details for the project's client. Using an **Embedded Form**, a new **Contact** item can be created from within the **Project** item page.
+:::
 
-**Case 2:**
+**Embedded Forms** allow you to update fields in another table's item.
 
-Imagine a Sales executive is working with a Leads Table. Leads is a [Sub-type of Tasks](</docs/Rapid/3-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of") table. Now the job of the Sales Executive is to call the lead, tell them about the offering, and collect their email id. Email id is a field in the Contacts Table. Therefore, the ability to **update an existing item in another table from within the subject table item.**
+:::note[Example 2]
+The job of a salesperson is to call a **Lead**, tell them an offering, and collect their email address. *Email Address* is a field in the **Contacts** Table. Using an **Embedded Form**, the *Email Address* field can be updated from a **Lead** item.
+:::
 
 In both the above cases, Embedded Form component can be used.
 
@@ -24,7 +28,7 @@ An embedded form can be only used for Tasks Table and Sub-type of Tasks Table(s)
 
 - You can [add the Embedded Form component on to the Layout / Page](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-add-a-component/how-to-add-a-component.md "How to add a component to a Layout / Page?"). The Embedded Form component is not present anywhere by default. 
 
-    ![Components list](<Components list.png>)
+![Components list](<Components list.png>)
 
 - If the Embedded Form component is on a Grid Layout, you can [resize and move the component over the layout](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/5-how-to-guides/how-to-arrange-a-component-on-a-grid/how-to-arrange-a-component-on-a-grid.md "How to arrange a component on Grid layout?").
 
