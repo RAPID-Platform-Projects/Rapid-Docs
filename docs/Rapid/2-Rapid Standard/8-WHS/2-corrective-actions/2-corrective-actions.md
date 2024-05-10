@@ -1,6 +1,6 @@
 # Corrective Actions
 
-When an [Incident Report](</docs/Rapid/2-Rapid Standard/8-WHS/1-incidents/1-incidents.md>) has been submitted, the WHS may wish to record corrective actions that were applied to remedy the incident or prevent it from occurring again.
+When an [Incident Report](</docs/Rapid/2-Rapid Standard/8-WHS/1-incidents/1-incidents.md>) has been submitted, the WHS team may wish to record corrective actions that were applied.
 
 ![A screenshot of the Incident Report item page. The screenshot is annotated with a red box to highlight the location of the "Corrective Actions" data table component, at the bottom of the Incidents item details page.](<Corrective Actions Table Highlighted.png>)
 
