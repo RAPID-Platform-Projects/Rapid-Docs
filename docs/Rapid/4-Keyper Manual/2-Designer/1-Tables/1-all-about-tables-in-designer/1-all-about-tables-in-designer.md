@@ -24,6 +24,8 @@ This window provides the following information and features. Please follow the n
 
 **1. The Designer Button** - Clicking on this button brings you to the Designer window.
 
+![A screenshot of the sidebar navigation buttons. The screenshot is annotated with a red box to highlight the location of the Designer button. The Designer button has an icon of three flowcart nodes in an L shape.](<Designer Button.png>)
+
 **2. List of existing tables** - The default Designer window will show the list of all tables created by different users as per their business needs. These are called custom tables. The tables are arranged as per the alphabetical order of Table Names.
 
 **3. Create Table button** - This button enables you to create a new custom table based on your business needs. To learn how to create a new custom table, [click here](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new table in Designer?").
@@ -43,7 +45,7 @@ This window provides the following information and features. Please follow the n
 
 **7. Table Name** - This column shows the title of the table as provided by the user at the time of table creation. Please note, the table titles are always plural.
 
-**8. Table slug** - This column shows the table identifier as created by the system based on the Table Name. This identifier is used by the system to refer to the table throughout Rapid Platform.
+**8. Table Slug** - This column shows the table identifier as created by the system based on the Table Name. This identifier is used by the system to refer to the table throughout Rapid Platform.
 
 **9. Title Column** - The title column displays the principle column of the table. It is a good practice to have a title column or a unique key identifier for each row of the table. However, it is optional to mark a column as title column, while creating / updating a table.
 
