@@ -72,38 +72,22 @@ It is not recommended to delete a Task if it has been abandoned; instead, change
 However, if you need to delete a task due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple Tasks at once.
  
 ### Deleting a Task from the Tasks List
-1. On the sidebar select **Tasks** > **Task Portal**
 
-![A screenshot that shows how to navigate the sidebar to get to the Task Portal. The user has clicked "Tasks" and then "Task Portal" The screenshot is annotated with a red box to highlight the location the required menu buttons.](<Task portal sidebar.png>)
-
-2. Select the **Task List** tab
-
-![A screenshot to demonstrate the location and appearance of the "Task List" tab at the top of the Task Portal. The screenshot is annotated with a red box to highlight the location the tab.](<Select task list tab.png>)
-
-3. Select the tasks you wish to delete
+1. From the **Task List**, select the tasks you wish to delete
 
 ![A screenshot that demonstrates how to select multiple tasks that you wish to delete. The screenshot is annotated with a red box to highlight the location the items' selection circles. When a circle is checked, it will turn from white to black, and a white checkmark will appear at its centre. In this example, two items have been checked, and the user's mouse is hovering over the third time but has not selected it.](<Task select multiple.png>)
 
-4. Click the **Delete** button
+2. Click the **Delete** button
 
 ![A screenshot that demonstrates the location and appearance of the "Delete" button on the Command Strip of a task item. The screenshot is annotated with a red box to highlight the location the button. The button is red and has an icon of a trash can. The text on the button reads: "Delete 2 items".](<Task list delete multiple.png>)
 
 ### Deleting a Task from the Task Page
-1. On the sidebar select **Tasks** > **Task Portal**
 
-![A screenshot that shows how to navigate the sidebar to get to the Task Portal. The user has clicked "Tasks" and then "Task Portal" The screenshot is annotated with a red box to highlight the location the required menu buttons.](<Task portal sidebar.png>)
-
-
-2. Select the **Task List** tab
-
-![A screenshot to demonstrate the location and appearance of the "Task List" tab at the top of the Task Portal. The screenshot is annotated with a red box to highlight the location the tab.](<Select task list tab.png>)
-
-
-3. Click on the title of the task you wish to delete
+1. From the **Tasks Page**, click on the title of the task you wish to delete
 
 ![A screenshot that demonstrates how to click the title of a task that you wish to delete. The screenshot is annotated with a red box to highlight the location an item's title. The item's title is written in bold text.](<Clicking task title.png>)
 
 
-4. Click the **Delete** button
+2. Click the **Delete** button
 
 ![A screenshot that demonstrates the location and appearance of the "Delete" button on the Command Strip of a task item. The screenshot is annotated with a red box to highlight the location the button. The button is red and has an icon of a trash can. The text on the button reads: "Delete".](<Task item delete button.png>)
