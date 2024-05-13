@@ -48,7 +48,7 @@
 
 Each task in Rapid contains a Choice field labelled *Status*. To complete a task:
 
-1. Open a **Task** in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>)
+1. Open a **Task** in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>). *(This process is explain in the previous section).*
 
 2. Click on the **Status** field to open its dropdown menu.
 
