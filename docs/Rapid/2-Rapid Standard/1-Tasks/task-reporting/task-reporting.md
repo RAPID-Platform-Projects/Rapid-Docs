@@ -12,7 +12,7 @@ The **Task Dashboard** is divided into four sections: slicers, cards, and the Ta
 ### Slicers
 Slicers provides the user with the ability to filter all of the visuals on the page by a specific attribute and can be found at the top of the page.
 
-The Tasks Dashboard can be “sliced” based on no attributes, one attribute, or multiple attributes. The attributes available to “slice” by are Status and Assigned To.
+The **Tasks Dashboard** can be “sliced” based on no attributes, one attribute, or multiple attributes. The attributes available to “slice” by are Status and Assigned To.
 
 For example, you could use the slicers to filter down the visuals to Tasks that are assigned to “John Doe” with a status of “Not Started”.
 
@@ -33,4 +33,4 @@ The Task Table displays the *Task, Assigned To, Start Date , Due date, Status, O
 
 It is an interactive visual, allowing users to click any row. When an element has been selected, the report visuals will highlight or filter based on the selected row.
 
-![PowerBi Task Table](<PowerBi Task Table.png>)
+![A screenshot showing the location and appearance of the PowerBI Task table. This is a data table that contains a list of all active tasks in the Rapid site. The data table has the following headings: Task, Assigned To, Start Date, Due Date, Status, Overdue, Days Over, and Link. The screenshot is annotated with a red box to highlight the table's location.](<PowerBi Task Table.png>)
