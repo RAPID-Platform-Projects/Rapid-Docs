@@ -2,6 +2,9 @@
 
 ## Creating a Task
 1. On the sidebar select **Tasks** > **Task Portal**
+
+![A screenshot that shows how to navigate the sidebar to get to the Task Portal. The user has clicked "Tasks" and then "Task Portal" The screenshot is annotated with a red box to highlight the location the required menu buttons.](<Task portal sidebar.png>)
+
 2. Select the **Task Board** or **Task List** tab
 
 ![A screenshot that demonstrates the location and appearance of the Task Board tab. The screenshot is annotated with a red box to highlight the location the tab.](<Task board button.png>)
