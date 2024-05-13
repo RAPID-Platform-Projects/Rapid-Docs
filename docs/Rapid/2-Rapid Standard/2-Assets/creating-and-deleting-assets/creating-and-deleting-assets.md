@@ -2,7 +2,7 @@
 
 Creating, editing, or deleting assets is the same process for each of the three table types.
 
-## How to create an Asset (Asset, IT Asset, Vehicle)
+## Creating an Asset
 
 1. On the Explorer sidebar, click **Assets** &gt; **Assets**
 
@@ -28,7 +28,7 @@ Creating, editing, or deleting assets is the same process for each of the three 
 
     ![Press create button](<Press create button.png>)
 
-## How to Edit and Asset (Asset, IT Asset, Vehicle)
+## Editing Assets
 
 1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
 
@@ -50,13 +50,13 @@ Creating, editing, or deleting assets is the same process for each of the three 
 
     ![Save the changes](<Save the changes.png>)
 
-### How to Delete an Asset (Asset, IT Asset, Vehicle)
+## Deleting Assets
 
 It is not recommended to delete an asset if it is no longer in use; instead, change its status to "inactive." This way, you can maintain a list of all your current and past assets.
 
 However, if you need to delete an asset due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple assets at once.
 
-**Deleting from the list:**
+### Deleting Assets via a Data Table
 
 1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
 
