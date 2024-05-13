@@ -16,7 +16,7 @@ The **Tasks Dashboard** can be “sliced” based on no attributes, one attribut
 
 For example, you could use the slicers to filter down the visuals to Tasks that are assigned to “John Doe” with a status of “Not Started”.
 
-![PowerBI Slicer](<PowerBI Slicer.png>)
+![A screenshot depicting the location and appearance of slicers. These are drop-down menus in the upper-right corner of the screen that allow the user to filter all the other data in the report. The screenshot is annotated with a red box to highlight the location of the slicers.](<PowerBI Slicer.png>)
 
 ### Cards
 The Cards section within the Tasks Dashboard offers concise reference statistics. The values of these cards will change based on the slicers or if selections are made on tables or charts.
@@ -26,7 +26,7 @@ The provided cards are as follows:
 - **Outstanding Tasks** – Displays the number of tasks that are “Not Started” or “In Progress”
 - **Overdue Tasks** – Displays the number of tasks that are “Not Started” or “In Progress” and have passed their “Due Date”
 
-![PowerBi Cards](<PowerBi Cards.png>)
+![A screenshot depicting the location and appearance of Cards on the Tasks Dashboard. One task card is blue and reads "Outstanding Tasks", and the other is red and reads "Overdue Tasks". The screenshot is annotated with a red box to highlight the location of the cards.](<PowerBi Cards.png>)
 
 ### Task Table
 The Task Table displays the *Task, Assigned To, Start Date , Due date, Status, Overdue* (Red Flag = Overdue, Green Flag = On Track), *Days Over*, and *Link* to the Rapid item.
