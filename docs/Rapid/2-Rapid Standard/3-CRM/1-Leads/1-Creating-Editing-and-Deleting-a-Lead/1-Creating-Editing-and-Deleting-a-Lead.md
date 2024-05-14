@@ -1,89 +1,73 @@
 # Creating, Editing, and Deleting a Lead
 
-### Overview
+## Overview
 
-In Customer Relationship Management (CRM), a "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
+In the **Customer Relationship Management** module (**CRM**), a "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
 
-### How to create a New Lead
+## Creating a New Lead
 
-1. In Explorer select CRM &gt; Leads  
+1. In Explorer select **CRM** &gt; **Leads**
 
-    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
+![A screenshot depicting how the user can navigate to the "Leads" table using the sidebar. In this example, the user has pressed the "CRM" folder, which has icon of a person. The user has then pressed the "Leads" table button, which has an icon of two people and a plus symbol. The menu buttons that the user has pressed have a white background with blue text, whereas the menu items when have not been selected are the opposite.](<Lead Navigating Sidebar.png>)
 
 2. Select either the **Board** or **List** tabs, then click **New Lead**  
 
-    ![Select New Lead](<Screenshot 2024-03-12 at 2.33.52 pm.png>)
+![A screenshot of the "New Lead" button as it appears in the Command Bar of a the Leads board or Leads list. The screenshot is annotated with a red box that highlights the location of the "New Lead" button. The button has an icon of two people and a plus symbol.](<Lead New Button.png>)
 
 3. Enter all relevant details  
     
-    1. For all reporting features to work the following fields are required: **First Name**, **Lead Manager**, **Estimated Value**, **Probability of Success** and **Estimated Close Date**.
+:::note[Note]
+For all reporting features to work the following fields are required: *First Name*, *Lead Manager*, *Estimated Value*, *Probability of Success* and *Estimated Close Date*.
+:::
 
-        ![New Lead Details](<Screenshot 2024-03-12 at 2.37.38 pm.png>)
+![A screenshot of the "New Lead" create screen. The create screen appears on the right of the site, and the background of the site is blurred out by the system to draw focus towards the create screen.](<Lead New Create.png>)
 
 4. Click on **Create** or **Create and Open**. 
 
-    ![image-1702447679226.png](./downloaded_image_1705285408836.png)
+![A screenshot that focuses on the zoomed-in view of the "New Lead" create screen. The screenshot is annotated with a red box to highlight the "Create" and "Create and Open" buttons at the top of the page. The Lead Create Screen contains the following fields and example data: "First Name: Bob", "Last Name: Smith", "Email: Bob@Smith.com", "Mobile Phone: 0401 000 000", "Role: Manager", "Lead Source: Advertisement", "Lead Manager: Sales Team".](<Lead New Create Button.png>)
 
-### How to edit a Lead
+## Editing a Lead
 
-1. In Explorer select CRM &gt; Leads  
+1. Locate the **Lead** you wish to edit by either scrolling through the list or using the search bar. 
 
-    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
+2. Open the **Lead** you wish to edit. This can be achieved by:
+    - Clicking once on the title field of the item. *(The title field will appear in **bold** text).*
+    - Double-clicking anywhere on the item's row
 
-2. Click on the **List** tab  
+![A screenshot demonstrating how the user can open a Lead item. The screenshot depicts the Leads data table. The screenshot is annotated with two red boxes: the first one indicates that the user has searched for the phrase "car yard", to filter the table results to only show items that contain this phrase in their searchable columns. The second red box highlights an item row that the user is hovering over.](<Lead Selecting Individual.png>)
 
-    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
+2. Edit any relevant fields on the **Lead Details** page as needed.  
 
-3. Open the **Lead** you wish to edit. (Locate the **Lead** either by scrolling through the list or using the search bar). 
+![A screenshot of the details tab of a leads item page. The page contains the following: a tab strip, and command bar, a sales pipeline, and the leads details section.](<Leads Details.png>)
 
-    ![Select a Lead](<Select a Lead.png>)
+3. Once you have finished editing, click on **Save** or **Save and Close**.  
 
-4. Edit any relevant fields on the **Lead Details** page as needed.  
+![A screenshot depicting the location and appearance of the "Save" and "Save and Close" buttons. These buttons appear in the Command Bar at the top of the page. The screenshot is annotated with a red box to highlight the location of these buttons.](<Leads Save.png>)
 
-    ![image-1702448037058.png](./downloaded_image_1705285412904.png)
-
-5. Once you have finished editing, click on **Save** or **Save and Close**.  
-
-    ![image-1702448062768.png](./downloaded_image_1705285413916.png)
-
-### Deleting Leads
+## Deleting Leads
 
 It is not recommended to delete a lead if it is lost; instead, change its status to **Lost**. This way, you can maintain a list of all your leads and determine a conversion rate.
 
 However, if you need to delete a lead due to incorrect data entry or a duplicate entry, you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple leads at once.
 
-#### How to delete multiple Leads at once
+### Deleting Multiple Leads via the Leads Table
 
-1. In Explorer select CRM &gt; Leads  
+1. Select the Lead(s) you wish to delete by pressing their selection circles
 
-    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
+![A screenshot demonstrating that multiple lead items can be selected via the selection circles on the far left of the item row.](<Leads Select Multiple.png>)
 
-2. Click on the **List** tab  
+2. Click on the **Delete X Leads** button. 
 
-    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
+![A screenshot of the "Delete" button that appears when multiple items are selected on the leads list table. The button has a red icon of a trash can and a red label that reads: "Delete 2 Leads" because there are two items selected. The screenshot is annotated with a red box that highlights the location of the "Delete" button.](<Delete X Leads.png>)
 
-3. Select the Leads you want to delete  
+### Deleting a Single Lead via an Item Page
 
-    ![image-1702450036101.png](./downloaded_image_1705285416971.png)
+1. Find the **Lead** item you wish to delete by either scrolling through the list or using the search bar
 
-4. Click on the **Delete X Leads** button. 
+2. Open the **Lead** item
 
-    ![image-1702450051600.png](./downloaded_image_1705285417985.png)
-
-#### How to delete a single Lead from the Leads page
-
-1. In Explorer select CRM &gt; Leads  
-
-    ![Select Leads](<Screenshot 2024-03-12 at 2.31.01 pm.png>)
-
-2. Click on the **List** tab  
-
-    ![Click on the 'leads list' tab](<Click on the leads list tab.png>)
-
-3. Open the Lead you wish to delete (Find the lead either by scrolling through the list or using the search bar)  
-
-    ![Select a Lead](<Select a Lead.png>)
+![A screenshot demonstrating how the user can open a lead item. The screenshot depicts the Leads data table. The screenshot is annotated with a red box which highlights an item row that the user is hovering over.](<Select a Lead.png>)
 
 4. Press **Delete** 
 
-    ![image-1702450224332.png](./downloaded_image_1705285422059.png)
+![A screenshot of the "Delete" button that appears on a lead item page. The button has a red icon of a trash can and a red label that reads: "Delete". The screenshot is annotated with a red box that highlights the location of the "Delete" button.](<Delete a Lead.png>)
