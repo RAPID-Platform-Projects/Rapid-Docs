@@ -1,7 +1,5 @@
 # Creating, Editing, and Deleting a Lead
 
-## Overview
-
 In the **Customer Relationship Management** module (**CRM**), a "lead" refers to a person or entity that has shown interest in a company's products or services but has not yet progressed to become a customer.
 
 ## Creating a New Lead
