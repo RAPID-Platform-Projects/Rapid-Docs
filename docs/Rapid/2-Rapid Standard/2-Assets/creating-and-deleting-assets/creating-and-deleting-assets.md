@@ -6,49 +6,41 @@ Creating, editing, or deleting assets is the same process for each of the three 
 
 1. On the Explorer sidebar, click **Assets** &gt; **Assets**
 
-    ![Navigating to assets](<Navigating to Assets.png>)
+![A screenshot depicting how the user can navigate to the "Assets" table using the sidebar. In this example, the user has pressed the "Assets" folder, which has icon of a box with confetti inside. The user has then pressed the "Assets" table button, which has an icon of three list items.](<Navigating to Assets.png>)
 
 2. Navigate to the desired table using the tabs (Assets, IT Assets, or Vehicles) 
 
-    ![Navigate to asset type](<Navigate to asset type.png>)
+![A screenshot of the Tab Strip at the top of the Assets page. The screenshot is annotated with a red box to highlight the location of the tabs: "All Assets", "IT Assets" and "Vehicles".](<Navigate to asset type.png>)
 
 3. Click on **New Asset** (or **New IT Asset** or **New Vehicle**)
 
-    ![Click on new asset](<Click on new asset.png>)
+![A screenshot of the "New X" buttons in the Command Bar at the top of the Assets page. The screenshot is annotated with a red box to highlight the location of the buttons: "New IT Asset" (which has an icon of a robot arm), "New Vehicle" (which has an icon of a car), and "New Asset" (which has an icon of a box with confetti inside).](<New asset creation menu.png>)
 
-4. Enter all relevant details (To maintain good bookkeeping practices, it is recommended to enter as much information as possible)  
+4. Enter all relevant details. (To maintain good bookkeeping practices, it is recommended to enter as much information as possible).
     
-    1. For **Vehicle Assets**: *Registration Expiry* and *Next Service Date* are required fields if you wish to receive Registration and Service reminders
+    - For **Vehicle Assets**: *Registration Expiry* and *Next Service Date* are required fields if you wish to receive Registration and Service reminders
 
-    2. For **IT Assets**: *Next Service Date* is a required field if you want to receive service reminders  
-
-    ![New asset creation menu](<New asset creation menu.png>)
+    - For **IT Assets**: *Next Service Date* is a required field if you want to receive service reminders  
 
 5. Click on **Create** or **Create and Open**
 
-    ![Press create button](<Press create button.png>)
+![A screenshot demonstrating the appearance of the "New Asset" create screen. The title of this section reads: "New Asset". The following fields are visible: Name, Employee, Make, Model, Serial Number, Condition, Manufactured Date, and Status. The screenshot is annotated with a red box to highlight the "Create" and "Create and Open" buttons at the top of the create screen.](<New Asset Details.png>)
 
 ## Editing Assets
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
+1. Find the **Asset Item** you wish to edit (you can locate an asset either by scrolling through the list, or using the search bar)
 
-    ![Navigating to assets](<Navigating to Assets.png>)
+![A screenshot demonstrating how the user can open an asset item. The screenshot depicts the Assets data table. The screenshot is annotated with two red boxes: the first one indicates that the user has searched for the phrase "standing", to filter the table results to only show items that contain this word in their searchable columns. The second red box highlights an item row that the user is hovering over.](<Open the asset.png>)
 
-2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles)
+2. Open the **Asset Item** by:
+    - Clicking once on the title field of the item (this is the column with **bold** text)
+    - Double-clicking on the item row
 
-    ![Navigate to asset type](<Navigate to asset type.png>)
+3. Edit any relevant fields on the **Asset Page** as needed
 
-3. Open the asset you wish to edit (you can locate an asset either by scrolling through the list, or using the search bar)  
+4. Click on **Save** or **Save and Close**  
 
-    ![Open the asset](<Open the asset.png>)
-
-4. Edit any relevant fields on the asset page as needed
-
-    ![Alt text](<Updating the asset information on the details page.png>)
-
-5. Once you have finished editing, click on **Save** or **Save and Close**  
-
-    ![Save the changes](<Save the changes.png>)
+![A screenshot demonstrating the item page for an Asset, and how to save the asset. The screenshot is annotated with a red box to highlight the "Save" and "Save and Close" buttons at the top of the Asset item page.](<Save the changes.png>)
 
 ## Deleting Assets
 
@@ -58,39 +50,27 @@ However, if you need to delete an asset due to incorrect data entry or a duplica
 
 ### Deleting Assets via a Data Table
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**  
+1. Select the asset(s) you wish to delete by pressing their selection circles. 
 
-    ![Navigating to assets](<Navigating to Assets.png>)
+![A screenshot demonstrating that multiple asset items can be selected via the selection circles on the far left of the item row.](<Selecting multiple assets.png>)
 
-2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles)  
+:::note[Selection Circles]
+The selection circles do not appear until the mouse cursor overs over the space that they occupy.
+:::
 
-    ![Navigate to asset type](<Navigate to asset type.png>)
+2. Press the **Delete** button 
 
-3. Select the asset(s) you wish to delete
+![A screenshot demonstrating the appearance and location of the Delete button when selecting multiple assets. The delete button is in the Command Bar, is coloured red, and has an icon of a trash can. The button's text reads: "Delete 2 Assets", because two assets have been selected in the data table below. The screenshot is annotated with a red box to highlight the location of the delete button.](<Delete the selected assets.png>)
 
-    ![Selecting multiple assets](<Selecting multiple assets.png>)
+### Deleting Assets via an Item Page
 
-4. Press the **Delete** button 
+1. Open the asset you wish to edit (you can locate an asset either by scrolling through the list, or using the search bar)  
 
-    ![Delete the selected assets](<Delete the selected assets.png>)
+![A screenshot demonstrating how the user can open an asset item. The screenshot depicts the Assets data table. The screenshot is annotated with two red boxes: the first one indicates that the user has searched for the phrase "standing", to filter the table results to only show items that contain this word in their searchable columns. The second red box highlights an item row that the user is hovering over.](<Open the asset.png>)
 
-**Deleting from the asset page:**
+2. Click on the **Delete** button  
 
-1. On the Explorer sidebar, click **Assets** &gt; **Assets**
+![A screenshot of an assets page that shows the location and appearance of the Delete button. The Delete button is in the Command Bar. It has a red icon of a trash can, and a red label that reads: "Delete". The screenshot is annotated with a red box to highlight the location of the delete button.](<Delete Individual Asset.png>)
 
-    ![Navigating to assets](<Navigating to Assets.png>)
-
-2. Navigate to the desired table using the tabs (Assets, IT Assets, Vehicles)
-
-    ![Navigate to asset type](<Navigate to asset type.png>)
-
-3. Open the asset you wish to edit (you can locate an asset either by scrolling through the list, or using the search bar)  
-
-    ![Open the asset](<Open the asset.png>)
-
-4. Click on the **Delete** button  
-
-    ![Delete the asset from the details page](<Delete the asset from the details page.png>)
-
-:::[Note:] When deleting assets from the base *Assets List*, their entries on the subtype tables (i.e., *IT Assets* or *Vehicles*) will also be deleted, and vice versa.
+:::note[Note] When deleting assets from the base *Assets List*, their entries on the subtype tables (i.e., *IT Assets* or *Vehicles*) will also be deleted, and vice versa.
 :::
