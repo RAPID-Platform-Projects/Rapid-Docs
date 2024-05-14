@@ -8,28 +8,27 @@ Accounts can be created via two methods. The first is through the [Lead conversi
 
 1. In Explorer select **CRM** &gt; **Accounts**  
 
-![Alt text](<Account Sidebar.png>)
+![A screenshot that shows how the user can navigate to the "Accounts" page. The user has clicked the "CRM" folder which has an icon of a person, and then the "Accounts" menu button, which has an icon of a person with a briefcase in the corner. The items that have been clicked are white with navy text. Items that have not been selected are the inverse.](<Account Sidebar.png>)
 
 2. Select **New Account** 
 
-![Create new Account](<Create new Account.png>)
+![A screenshot to show the location and appearance of the "New Account" button. The button is annotated with a red box to highlight the location of the button in the Command Bar. The button has an icon of a person with a briefcase.](<Create new Account.png>)
 
 3. Enter all of the relevant details  
 
-![Fill out create Account form](<Fill out create Account form.png>)
+![A screenshot of the New Account create screen. The screen has a navy header that reads "New Account, with the following fields: Account Name, Account Manager, Customer, Supplier, Phone Number, Website, Industry, ABN, ACN. No sample data is entered into these fields.](<Fill out create Account form.png>)
 
 4. Press **Create** or **Create and Open** 
-
 
 ## Editing an Account 
 
 1. Edit any relevant fields on the **Account** page as needed  
 
-![image-1702937446040.png](<New Account Details.png>)
+![A sample Account item page. This the details that have been entered in tis example are: "Account Name: Benq", "Customer: Yes", "Supplier: No", "Status: Active", "Industry: Education".](<New Account Details.png>)
 
 2. Once you have finished editing, click on **Save** or **Save and Close**.  
 
-![Alt text](<Save Details.png>)
+![A screenshot to demonstrate the location and appearance of the "Save" and "Save and Close" buttons in the Command Bar of an account item page. The screenshot is annotated with a red box that is used to highlight the location of these buttons.](<Save Details.png>)
 
 ## Deleting Accounts
 
@@ -43,14 +42,12 @@ However, if you need to delete an **Account** due to incorrect data entry or a d
 
 2. Click on the **Delete X Accounts** button  
 
-![Alt text](<Select Accounts Multiple.png>)
+![A screenshot to demonstrate a user selecting multiple items. The screenshot is annotated with two red boxes. The first box highlights the "Delete 2 Accounts" button, which states this because two items have been selected. The second red box highlights that two items have been selected by the user, and a third item is about to be selected.](<Delete Account Multiple.png>)
 
 ### Deleting a Single Account
 
 1. Open the **Account** item you wish to delete. (Locate the **Account** either by scrolling through the list or using the search bar).  
 
-![Alt text](<Accounts Select Item.png>)
-
 2. Press **Delete** 
 
-![Alt text](<Delete Account Item.png>)
+![A screenshot of the "Delete" button on an item page. The button has an icon of a red trash can, and a red label that reads "Delete". The screenshot is annotated with a red box that highlights the location of the Delete button in the item page Command Bar.](<Delete Account Item.png>)
