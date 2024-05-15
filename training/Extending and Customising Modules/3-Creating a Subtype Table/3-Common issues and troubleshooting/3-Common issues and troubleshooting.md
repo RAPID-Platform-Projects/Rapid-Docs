@@ -26,7 +26,7 @@ In this section, we will build a way to create new **Coffee Machine Asset** item
 
     - <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Pages/all-about-pages-in-designer#design-tab-of-table-in-designer" target="_blank">How to create pages in **Designer**</a>
 
-3. Add the columns to the form that you believe are relevant for tracking a Coffee Machine. Once you are satifisied with the columns selected, click **Add to Form**.
+3. Add the columns to the form that you believe are relevant for tracking a Coffee Machine. Once you are satisfied with the columns selected, click **Add to Form**.
 
 4. Make sure you save your changes.
 
