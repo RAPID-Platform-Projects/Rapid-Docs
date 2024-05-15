@@ -1,4 +1,4 @@
-# How to access Adaptive Designer
+# Accessing Adaptive Designer
 
 You can access Adaptive Designer using the below link:
 

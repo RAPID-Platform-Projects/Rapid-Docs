@@ -1,4 +1,4 @@
-# How to create a new Adaptive Document Form
+# Creating a New Adaptive Document Form
 
 To create a new Adaptive Document Form, consider the following steps:
 

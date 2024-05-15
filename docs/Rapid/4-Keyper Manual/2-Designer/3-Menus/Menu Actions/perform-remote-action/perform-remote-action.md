@@ -1,4 +1,4 @@
-# Perform remote action
+# Perform Remote Action
 
 This is configurable on both the **[Side Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#sidebar>)** and **[Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>)** menu types.
 
@@ -12,7 +12,7 @@ These external to Rapid actions (like trigger to an external APIs) can be easily
 
 The Perform Remote Action makes a post request to the specified address.
 
-## How to configure a menu button to Perform a remote action
+## Configuring a Menu Button to Perform a Remote Action
 
 1. Navigate to Designer &gt; Tables &gt; All Tables  
 

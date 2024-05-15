@@ -2,7 +2,7 @@
 
 Menus are among the fundamental options in Rapid Platform. A menu, most fundamentally, can be understood as a list of buttons. It allows users to easily navigate across information pages or assist in triggering specific actions.
 
-The Menu options can be seen in the Designer Sidebar.
+The menu options can be seen in the **Designer Sidebar**.
 
 ![Designer Menus menu](<Create a Menu.png>)
 
