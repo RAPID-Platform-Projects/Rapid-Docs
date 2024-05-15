@@ -31,8 +31,6 @@ Presently, there are three principle apps in RAPID:
 2. Designer
 3. Workflow
 
-There is another application - Forms, but it is being replaced by Adaptive Documents now.
-
 The below table provides the keyword that needs to be entered in the App field to call respective RAPID applications
 
 | Application to call | Keyword to write in App field |
@@ -40,6 +38,7 @@ The below table provides the keyword that needs to be entered in the App field t
 | Explorer | Explorer |
 | Designer | Designer |
 | Workflow | Workflow |
+<!-- Matt: Can adaptive forms be called now via open app menu option? -->
 
 *Please note that you need to enter the Keywords exactly as matching here. However, these keywords are not case sensitive.*
 

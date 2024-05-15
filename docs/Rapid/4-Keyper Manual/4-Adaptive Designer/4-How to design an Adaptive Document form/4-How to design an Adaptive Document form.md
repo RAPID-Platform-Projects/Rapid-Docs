@@ -1,4 +1,4 @@
-# Designing an Adaptive Document form
+# Designing an Adaptive Document Form
 
 This article introduces the various options that will assist you in designing a basic Adaptive Form.
 
