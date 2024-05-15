@@ -1,6 +1,6 @@
 # Component Classes
 
-## How to apply classes to adaptive components
+## Applying Classes to Adaptive Components
 
 The purpose of this page is to provide a succinct list of useful classes that can be applied to components in adaptive designer. To apply a class.
 
@@ -12,7 +12,7 @@ To apply a class simply:
 
 ![image-1693977274533.png](./downloaded_image_1705285196560.png)
 
-### Useful Classes
+## Useful Classes
 
 |\**Class**|\**Component type**|\**Description**|
 |:----|:----|:----|

@@ -23,14 +23,13 @@ Status : null,
 Start Date : 2020-01-01
 ```
 
-Rule 1 would validate
+Rule 1 would validate as:
 - Title : True
 - Status : False, non-blocking
 - Total : False, non-blocking
 
-Rule 2 would validate as
+Rule 2 would validate as:
 - Start Date : True
 - Total : True
-
 
 The form would flag Status as required, go red and then submit

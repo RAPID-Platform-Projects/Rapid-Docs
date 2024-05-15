@@ -1,8 +1,8 @@
-# How to configure connection of root section with data table?
+# Connecting to a Data Table
 
-Establishing a connection of a section with a data table enables the system to fetch and / or feed data to the data table from the form.   
+Adaptive forms can fetch data from a **Data Table**, or feed data to a **Data Table**. To do this, you must configure the form and connect it to a specific table. This will add the table's fields to the root section of the Adaptive form.
   
-To create a connection to a table so you can add its fields to the root section:
+To create a connection to a table:
 
 1. Select the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20the%20Overview%20Tab/" target="_blank">**Overview tab**</a> for the desired Adaptive Document. 
 

@@ -28,3 +28,4 @@ You, as a system builder, can create Adaptive Documents in an experience called 
 
 # Designing an Adaptive Document Form
 
+<a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20design%20an%20Adaptive%20Document%20form/" target="_blank">**Click here**</a> to learn how to design an Adaptive Document.
