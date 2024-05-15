@@ -1,5 +1,9 @@
-# What is a Policy Acknowledgement
+# Policies Module
 
-When an employee is assigned a task to acknowledge, for example, the “Anti-Bullying” and “Data Privacy” policies, this will create two “Policy Acknowledgement” items in the system. As the task automatically sends them an email to complete the initial status of the policy acknowledgement is “Sent”.
+Welcome to our **Policies** module, the hub for managing and distributing policies throughout your organisation.
 
-Once the employee acknowledges the policy the status of the Policy Acknowledgement item will change to “acknowledged”. This means that we can track exactly which employees have been set a task to acknowledge a specific policy, and on top of that, if they have or have not acknowledged the policy.
+Rapid Standard's **Policies** module allows a company to:
+
+1. [Create, edit, and delete policies](</docs/Rapid/2-Rapid Standard/7-Policies/1-Creating-editing-and-deleting-policies/1-Creating-editing-and-deleting-policies.md>)
+2. [Request policy acknowledgement and acceptance from employees](</docs/Rapid/2-Rapid Standard/7-Policies/2-Assigning-an-employee-employees-to-complete-a-policy/2-Assigning-an-employee-employees-to-complete-a-policy.md>)
+3. [Assign onboarding tasks to employees](</docs/Rapid/2-Rapid Standard/7-Policies/3-Assigning-via-onboarding/3-Assigning-via-onboarding.md>)
