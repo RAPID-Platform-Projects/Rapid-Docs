@@ -4,6 +4,6 @@ Welcome to our **Tasks** module, the heartbeat of streamlined productivity. We u
 
 Our **Tasks** module empowers you to:
 
-1. [Create, edit, and manage user tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>)
-2. [Track tasks across an organisation with interactive reporting](</docs/Rapid/2-Rapid Standard/1-Tasks/task-reporting.md>)
-3. [Use a kanban-style board for task prioritisation](</docs/Rapid/2-Rapid Standard/1-Tasks/using-the-tasks-board.md>)
+1. [Create, edit, and manage user tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>)
+2. [Track tasks across an organisation with interactive reporting](</docs/Rapid/2-Rapid Standard/1-Tasks/task-reporting/task-reporting.md>)
+3. [Use a kanban-style board for task prioritisation](</docs/Rapid/2-Rapid Standard/1-Tasks/using-the-tasks-board/using-the-tasks-board.md>)
