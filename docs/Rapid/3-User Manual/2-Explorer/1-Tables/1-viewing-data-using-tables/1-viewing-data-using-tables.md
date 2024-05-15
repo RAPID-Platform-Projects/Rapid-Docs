@@ -68,7 +68,7 @@ If you would like to undo a quick filter and view all of the items again, there 
 . Note, however, that this may require you to log in again, so it is not a recommended approach.
 
 ## Data Tables can be Refreshed
-If the data within in a table is updated, the table will need to be refreshed in order for that data to be visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
+If the data within in a table is updated (e.g. by another user, or by an automated process), the table will need to be refreshed for that data to become visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
 
 Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a data table, without leaving the page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 
