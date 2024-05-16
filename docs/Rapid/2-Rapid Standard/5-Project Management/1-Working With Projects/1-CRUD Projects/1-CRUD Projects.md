@@ -1,7 +1,5 @@
 # Creating, Editing, and Deleting Projects
 
-## Overview
-
 Projects, unlike most other lists, contain subitems. This means when creating, editing and deleting you will also need to create, edit, and delete these subitems. This page will show you how to do so.
 
 ## How to Create a Project (along with Objectives, Deliverables, Risks, Exclusions, and Budgets)
