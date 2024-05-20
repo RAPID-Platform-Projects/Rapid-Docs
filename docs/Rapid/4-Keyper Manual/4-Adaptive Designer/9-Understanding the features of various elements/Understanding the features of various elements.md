@@ -6,11 +6,16 @@ To add an element to your Adaptive Document's <a href="https://rapiddocs.z8.web.
 
 The element picker presents a list of <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**controls**</a> grouped across various categories. 
 
-Below is the list of controls grouped under categories. 
+:::info[Please note]
+This article discusses the controls that are present in an element picker by default. The controls that become available for selection in an element picker based on the connections to a data table are a subset of the Input category of controls (discussed below).  
+:::
 
 :::info[Please note]  
 A control may be present in two or more categories. However, the nature and features of the control does not change based on the category it is grouped in.   
 :::
+
+## Features common to all 
+Below is the list of controls grouped under categories. 
 
 ## Input category
 This category includes all the controls that accept input from a user. For example - Single line, Number etc. There are 18 controls in this category.
