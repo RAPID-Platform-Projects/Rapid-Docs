@@ -10,7 +10,7 @@ It is hard to argue in favour of one component when it comes to vitality of syst
 
 Hence, every good system should provide features for collecting input in a meaningful and quality manner.
 
-In RAPID Platform, Explorer is the application where users can input and view information. Adaptive Documents is also an interface in Rapid Platform, but different from Explorer. It serve the same purpose - provide an interface to the user to input data into the system and view information from the system - but in a more guided manner. A system builder will have more flexibility to create data input forms in Adaptive Documents (when compared with Explorer).
+In RAPID Platform, Explorer is the application where users can input and view information. Adaptive Documents is also an interface in Rapid Platform, but different from Explorer. It serves the same purpose - provide an interface to the user to input data into the system and view information from the system - but in a more guided manner. A system builder will have more flexibility to create data input forms in Adaptive Documents (when compared with Explorer).
 
 You, as a system builder, can create Adaptive Documents in an experience called Adaptive Designer.
 

@@ -16,9 +16,11 @@ Before we get into constructing our first form by adding and configuring element
 
 To learn how to configure attributes of root section <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20Attributes%20of%20Root%20Section/" target="_blank">**click here**</a>.
 
-You can also establish a connection of the root section with data table. Connection with a data table means that the system can fetch or feed data directly from the form to the data table.   
+## Configuring _Connection_ of Adaptive Document with Data Table(s)
 
-To learn how to configure connection of root section with data table, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20of%20root%20section%20with%20data%20table/" target="_blank">**click here**</a>.
+You can establish a connection of the Adaptive Document with data table. Connection with a data table means that the system can fetch or feed data directly from the form to the data table.   
+
+To learn how to configure connection with data table, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**click here**</a>.
 
 ## Adding elements to the root section
 
@@ -47,7 +49,7 @@ On clicking the "+" sign the <a href="https://rapiddocs.z8.web.core.windows.net/
 
 ![Image showing element picker](<Adaptive design 4.png>)
 
-  The element picker allows you to select elements that you want to put on your document. There are 51 different elements in the element picker. Each element has its own properties and can be configured accordingly in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a>
+  The element picker allows you to select elements that you want to put on your document. There are 51 different elements in the element picker (at the time of writing this article) that are available by default. Each element has its own properties and can be configured accordingly in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a>. However, the number of elements available in the element picker vary based on the connections.  
 
   To learn more about element picker features, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**click here**</a>
 
