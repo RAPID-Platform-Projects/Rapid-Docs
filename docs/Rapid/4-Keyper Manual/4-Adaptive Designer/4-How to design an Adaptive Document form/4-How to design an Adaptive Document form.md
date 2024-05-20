@@ -53,6 +53,20 @@ On clicking the "+" sign the <a href="https://rapiddocs.z8.web.core.windows.net/
 
   To learn more about element picker features, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**click here**</a>
 
+:::info[Please note]
+This article shows how to access element picker from root section. Most likely, this is useful when designing the Adaptive Document from scratch. 
+
+However, the element picker can be called by clicking on the "+" icon when new elements need to be added to the form. You may require to add new elements to another section, or adding more elements when other elements are already present etc. 
+
+Just summon the element picker by clicking on the "+" icon. The "+" icon always appears at the top and bottom of the section.  
+:::
+
+## Understanding the various elements.
+
+The element picker will allow you to add elements to your Adaptive Document, however, you still need to make the decision of selecting the right element that suits your requirement. 
+
+To learn more about each element's features, click here.
+
   :::note[Please note]
   You can add, delete multiple elements and also modify their sequence/ position / appearance on the composition area.  
   :::

@@ -443,6 +443,8 @@ Based on the nature of the elements selected, configuration categories will appe
 The Element Picker enables you to add <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
 ![Image of an element picker](<Element picker.png>)
 
+To learn about the various features of the element picker, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**click here**</a>.
+
 ### Fetch on load
 
 The Fetch on Load flag for a connection controls if data is updated from the site. This ensures that data presented is always up to date for the User.
