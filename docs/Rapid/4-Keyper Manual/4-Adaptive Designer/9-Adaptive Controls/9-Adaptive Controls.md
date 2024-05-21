@@ -58,8 +58,8 @@ You can set the Element Title in two ways:
 
 Apart from these characteristics, all the elements can be configured for 
 
-a. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**Conditions**</a>  
-b. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**Validations**</a>  
+a. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**Conditions**</a>  
+b. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20setup%20element%20level%20validations/" target="_blank">**Validations**</a>  
 c. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**Connections**</a>
 
 ## Individual element features
