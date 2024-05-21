@@ -10,7 +10,7 @@ There can be other types of events - like "mouseover", "mouseout" etc.
 
 ## Element configuration panel for a button control
 
-INSERT 1
+![Image showing three configuration sections](<buttons 1.png>)
 
 The sections available in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a> corresponds to the nature of the button control. 
 
@@ -24,9 +24,15 @@ There are sections:
 
 In this article, we will discuss the fields of the Attributes section and the Events section. You can learn about the Conditions section <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**here**</a>.  
 
+:::note[Please note]  
+Buttons do not have a validation or connections section, which is logical with the nature of the button control.  
+:::
+
 ## Attributes section
 
-INSERT 2
+![Image showing fields in attributes section](<buttons 2.png>)
+
+**a. Label - ** - This field allows you to type the label text, which will appear on the button.
 
 
 
