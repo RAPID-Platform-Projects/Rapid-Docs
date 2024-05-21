@@ -1,4 +1,4 @@
-# Single line control
+# Single line
 
 ## What is a Single line input control?
 
@@ -57,7 +57,7 @@ Consider the following image and corresponding list sequentially explaining the 
 
    Following are the symbols you can enter, along with their meaning:
 
-   x or X - for alphabet input (a to z or A to Z).
+   x or X - for alphanumeric input (a to z, A to Z and 0 to 9).
 
    0 - for numerical input (0 to 9).
 
