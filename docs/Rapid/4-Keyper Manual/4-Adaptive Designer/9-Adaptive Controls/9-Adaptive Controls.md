@@ -1,4 +1,4 @@
-# Adaptive Controls Overview
+# Adaptive Controls
 
 To design your desired Adaptive Document, it is important that you select the right <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
 
