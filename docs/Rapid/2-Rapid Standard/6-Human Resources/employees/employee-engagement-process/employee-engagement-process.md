@@ -1,10 +1,10 @@
 # Employee Engagement Process (eNPS Questionnaire)
 
-Rapid Standard is packaged with a questionnaire process that enables regular feedback from employees, and calculates an employee Net Promoter Score (eNPS).
+Rapid Standard is packaged with a questionnaire process that enables regular feedback from employees, and calculates an employee **Net Promoter Score** (**eNPS**).
 
-This is a method of quantifying employee loyalty and satisfaction, and is gathered by asking one simple question: “On a scale of 0 to 10, how likely are you to recommend this company as a good place to work to your friends or families?” From this question, the percentage of “detractors” (those who answer 0 to 6), “neutrals” (those who answer 7 or 8), and “promoters” (those who answer 9 or 10) are calculated.
+This is a method of quantifying employee loyalty and satisfaction, and is gathered by asking one simple question: “On a scale of 0 to 10, how likely are you to recommend this company as a good place to work to your friends or families?” From this question, the percentage of “detractors” (those who answer 0 to 6), *Neutrals* (those who answer 7 or 8), and “promoters” (those who answer 9 or 10) are calculated.
 
-Finally, the eNPS is calculated by subtracting the percentage of detracts from promoters. This results in a score between -100 and 100. A good eNPS score depends on the industry and the context, but generally, scores between 10 and 30 are considered good, while scores between 50 and 70 are considered excellent.
+Finally, the **eNPS** is calculated by subtracting the percentage of detracts from promoters. This results in a score between -100 and 100. A good eNPS score depends on the industry and the context, but generally, scores between 10 and 30 are considered good, while scores between 50 and 70 are considered excellent.
 
 ## Distributing the eNPS Questionnaires
 
@@ -29,4 +29,4 @@ This will send an email with a link to a questionnaire, for each selected employ
 1. "Select your department." (Employees are required to select which department they are from this helps to produce a eNPS score by department and the organisation as a whole).
 2. "On a scale of 0 to 10, how likely are you to recommend this company as a good place to work to your friends or family." (This is used to calculate the eNPS score).
 
-Visit <a href="http://docs.rapidplatform.com/docs/Rapid/Rapid%20Standard/Human%20Resources/HR%20Reporting/Using%20the%20Employee%20Engagement%20Dashboard">Using the Employee Engagement Dashboard</a> for an explanation on how to view the aggregated results of the questionnaires.
+Visit these docs: <a href="http://docs.rapidplatform.com/docs/Rapid/Rapid%20Standard/Human%20Resources/HR%20Reporting/Using%20the%20Employee%20Engagement%20Dashboard">Using the Employee Engagement Dashboard</a>, for an explanation on how to view the aggregated results of the questionnaires.
