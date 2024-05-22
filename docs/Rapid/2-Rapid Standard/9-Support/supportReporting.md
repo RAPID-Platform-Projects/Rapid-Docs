@@ -1,6 +1,8 @@
 # Support Reporting
-The support module includes a Support Dashboard to provide visibility of all requests. This dashboard also provides key insights such as the average time to close a request, and the total number of requests by department.
+The support module includes a Support Dashboard to provide visibility of all requests. This dashboard also provides key insights such as the average time to close a request, and the total number of requests by department
+
 ## Support Dashboard
+
 ### Accessing the Incidents Report
 1.	On the Explorer sidebar click **Support** > **Support Dashboard** 
 
@@ -27,18 +29,17 @@ The Incident Report cards are as follows:
 
 ![An image that depicts the location of the Indicent Report's cards. The image is annotated with a red arrow pointing to a red box. The red box indicates the location of the Incident Report's cards.](<Support Cards.png>)
 
-### Charts
-#### Number of Requests Created and Closed
-The Number of Requests Created and Closed visual shows the number of requests created and closed through time.
+### Number of Requests Created and Closed
+The *Number of Requests Created and Closed* visual shows the number of requests created and closed through time.
 
 It is an interactive visual, allowing users to slice the rest of the report by the selected month.
 
-#### Requests by Department
+### Requests by Department
 This is a doughnut chart showing the number of requests by department.
 
 It is an interactive visual, allowing users to slice the rest of the report by the selected department.
 
-#### Number of Requests by Status
+### Number of Requests by Status
 This Column Chart shows the number of requests by status.
 
 It is an interactive visual, allowing users to slice the rest of the report by the selected status.
