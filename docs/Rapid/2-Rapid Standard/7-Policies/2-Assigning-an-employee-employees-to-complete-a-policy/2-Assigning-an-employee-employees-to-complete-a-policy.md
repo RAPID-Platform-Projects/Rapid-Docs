@@ -1,17 +1,27 @@
 # Requesting Policy Acceptance
 
-### Overview
+An employee can easily be assigned a task to read and acknowledge company policies.
 
-An employee can easily be assigned a task to complete policies.
+## Assigning Employees to Acknowledge a Policy
 
-### How to assign employees to acknowledge a policy
+1. Navigate to **Human Resources** &gt; **Employees**  
 
-1. Navigate to HR &gt; Employees  
-
-    ![Navigate to Employees](<../3-Assigning-via-onboarding/Step 1.png>)
+![A screenshot of the user clicking on the "Human Resources" menu folder, and then the "Employees" menu item.](<Employees Sidebar.png>)
     
-2. Select the Employees you wish to assign the policy to  
-    *Select employees image
-3. Click on the menu button in the top right corner saying Assign Policy, select the policy you want to assign through the dropdown and press **OK** 
-    *Assign item menu button image
+2. Select the Employees you wish to assign the policy to.  
+
+![A screenshot of the Employees data table. The user has selected three employees, who now have a black selection circle with a white checkmark in its centre. The screenshot is annotated with a red box to highlight the location of the selection circles.](<Employees Select Multiple.png>)
+
+3. Click on the **Policy Management** drop-down menu button in the top right corner
+
+4. Click the **Assign Policies** button.
+
+![A screenshot of the user clicking "Policy Management" and then "Assign Policies". The screenshot is annotated with a red box to highlight the location of these menu items.](<Employees Policies Button.png>)
+
+5. Select the policy you want to assign
+
+6. Press **OK** 
+
+![A screenshot of the dialogue box that opens after clicking the "Assign Policies" button. The user in this example has selected to send the employees the "Desk Setup Policy". The screenshot is annotated with a red box to highlight this field.](<Employees Assign Policy.png>)
+
 4. Doing so will automatically send an email to the selected employees with the a link to the selected policy and form to submit stating which ones they have read and acknowledged.

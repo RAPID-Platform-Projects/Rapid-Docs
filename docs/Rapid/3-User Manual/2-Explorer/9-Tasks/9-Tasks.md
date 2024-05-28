@@ -44,7 +44,7 @@ For example:
 
 As mentioned in the introduction of this article, **Tasks** are a unique type of item, in that they can be "Completed". This enables you to track all outstanding tasks, as well as the tasks you have completed.
 
-- You can also read about the different methods of [Completing a Task via **Explorer**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md#completing-a-task>).
+- You can also read about the different methods of [Completing a Task via **Explorer**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>).
 
 ### Further Reading
 

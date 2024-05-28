@@ -8,50 +8,49 @@ The task board is a great way to visualise the status of each of the project’s
 
 1. Navigate to **Projects** &gt; **Projects**  
 
-    ![Navigate to Projects](<Navigate to Projects.png>)
+![Navigate to Projects](<Navigate to Projects.png>)
 
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar) 
 
-    ![Open the project](<Open the project.png>)
+![Open the project](<Open the project.png>)
 
 3. Click on the **Project Management** tab  
 
-    ![Select Project Managment](<Select Project Managment.png>)
+![Select Project Management](<Select Project Management.png>)
 
 4. Click on **Tasks Board** 
 
-    ![Select the Tasks Board](<Select the Tasks Board.png>)
+![Select the Tasks Board](<Select the Tasks Board.png>)
 
 ## How to change the status of a task using the tasks board
 
 1. Navigate to **Projects** &gt; **Projects**  
 
-    ![Navigate to Projects](<Navigate to Projects.png>)
+![Navigate to Projects](<Navigate to Projects.png>)
 
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar)
 
-    ![Open the project](<Open the project.png>)
+![Open the project](<Open the project.png>)
 
 3. Click on the **Project Management** tab  
 
-    ![Select Project Managment](<Select Project Managment.png>)
+![Select Project Management](<Select Project Management.png>)
 
 4. Click on **Tasks Board** 
 
-    ![Select the Tasks Board](<Select the Tasks Board.png>)
+![Select the Tasks Board](<Select the Tasks Board.png>)
 
 5. Locate the task you wish to move between status columns by using the search bar or manually finding it on the board
 
-    ![Select the task](<Select the task.png>)
+![Select the task](<Select the task.png>)
 
 6. Click and drag the task between the columns (this will update the status of the task from the column it started on to the column you "drop" it in)  
 
-    ![Drag the Task](<Drag the Task.png>)
+![Drag the Task](<Drag the Task.png>)
 
 7. Press **Save X items** 
 
-    ![Save the Task](<Save the Task.png>)
-
+![Save the Task](<Save the Task.png>)
 
 ## How to change the view on a Project Task Board
 
@@ -59,27 +58,27 @@ The default view on the Task Board is the **My Tasks – All** view which shows 
 
 1. Navigate to **Projects** &gt; **Projects**  
 
-    ![Navigate to Projects](<Navigate to Projects.png>)
+![Navigate to Projects](<Navigate to Projects.png>)
 
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar)  
 
-    ![Open the project](<Open the project.png>)
+![Open the project](<Open the project.png>)
 
 3. Click on the **Project Management** tab  
 
-    ![Select Project Managment](<Select Project Managment.png>)
+![Select Project Management](<Select Project Management.png>)
 
 4. Click on **Tasks Board** 
 
-    ![Select the Tasks Board](<Select the Tasks Board.png>)
+![Select the Tasks Board](<Select the Tasks Board.png>)
 
 5. Click on the dropdown in the upper right corner above the task board which says **My Tasks – All**. 
 
-    ![Select the view chooser](<Selec the view chooser.png>)
+![Select the view chooser](<Selec the view chooser.png>)
 
 6. From the list of view select the **All** view  
 
-    ![Choose the All View](<Choose the All View.png>)
+![Choose the All View](<Choose the All View.png>)
 
 7. The tasks board now shows all tasks in the project. The same steps can be used to revert the view back to the **My Tasks – All** view
 
@@ -87,28 +86,28 @@ The default view on the Task Board is the **My Tasks – All** view which shows 
 
 1. Navigate to **Projects** &gt; **Projects**  
 
-    ![Navigate to Projects](<Navigate to Projects.png>)
+![Navigate to Projects](<Navigate to Projects.png>)
 
 2. Open the Project you wish to create child tasks in. (Find the project by scrolling through the list or using the search bar) 
 
-    ![Open the project](<Open the project.png>)
+![Open the project](<Open the project.png>)
 
 3. Click on the **Project Management** tab  
 
-    ![Select Project Managment](<Select Project Managment.png>)
+![Select Project Management](<Select Project Management.png>)
 
 4. Click on **Tasks Board** 
 
-    ![Select the Tasks Board](<Select the Tasks Board.png>)
+![Select the Tasks Board](<Select the Tasks Board.png>)
 
 5. Double-click on the Task Card OR Click on the Task Title you wish to edit to open it  
 
-    ![Double click the task](<Double click the task.png>)
+![Double click the task](<Double click the task.png>)
 
 6. Edit any relevant fields on the sub item page as needed. 
 
-    ![Edit the task](<Edit the task.png>)
+![Edit the task](<Edit the task.png>)
 
 7. Once you have finished editing, click **Save** or **Save and Close** 
 
-    ![Save the Task singular](<Save the Task singular.png>)
+![Save the Task singular](<Save the Task singular.png>)

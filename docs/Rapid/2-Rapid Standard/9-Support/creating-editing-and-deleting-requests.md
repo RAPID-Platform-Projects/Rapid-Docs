@@ -38,14 +38,12 @@ It is not recommended to delete a request. Instead, change its status to "Cancel
 
 ![An image depicting how to change the status of a support request. Under "Request Management Details", there is a choice field titled "Status". The status of "Cancelled" can be selected from this field. Changing the status of a support request is usually preferable to deleting a support request.](changing_status_support_request.png)
 
-Please note that changing the status will send an email to the original requestor.
+Please note that changing the status will send an email to the original requester.
 
 If you need to delete a request (due to incorrect data entry or a duplicate entry), you can do so in two ways: from the list or from the item page. Deleting from the list allows you to delete multiple assets at once.
 
-### Deleting from the list
+### Deleting Multiple Items from the Request List
 1.	Navigate to **Support** > **Requests**
-
-![An image depicting how to navigate to Support Home. You must press "Support" on the Explorer sidebar, and then press "Requests".](Navigating_to_support.png)
 
 2.	Select the requests you wish to delete.
 
@@ -55,10 +53,8 @@ If you need to delete a request (due to incorrect data entry or a duplicate entr
 
 ![An image depicting how to delete multiple support items. After you have selected multiple items, the delete button will appear. The delete button is red, and has an icon of a trash can. If you have selected X requests to delete, the delete button will display the following text: "Delete X Requests".](delete_multiple_support_items.png)
 
-### Deleting from the request page
+### Deleting a Single from the Request Item Page
 1.	Navigate to **Support** > **Requests**
-
-![An image depicting how to navigate to Support Home. You must press "Support" on the Explorer sidebar, and then press "Requests".](Navigating_to_support.png)
 
 2.	Open the individual request you wish to delete.
 

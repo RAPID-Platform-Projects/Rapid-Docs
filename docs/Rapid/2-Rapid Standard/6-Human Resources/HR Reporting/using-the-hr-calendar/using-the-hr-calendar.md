@@ -1,30 +1,26 @@
 # Using the HR Calendar
 
-### Overview
-
-The HR Calendar provides the HR team with a dynamic calendar of employee's birthdays, work anniversaries, probation review dates, and performance review dates. The report is comprised of two sections, the *Slicers*, and *Calendar Sections*.
+The **HR Calendar** provides the HR team with a dynamic calendar of employee's birthdays, work anniversaries, probation review dates, and performance review dates. The report is comprised of two sections, the *Slicers*, and *Calendar Sections*.
 
 Did you want to customise the calendar to show other important dates? This is possible with Rapid's flexibility. Contact a Rapid representative to find out more details.
 
-### How to Access the HR Calendar
+## Accessing the HR Calendar
 
 1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting**  
 
-    ![Side menu Explorer how to navigate to HR report](<Side menu navigate to HR report.png>)
+![Side menu Explorer how to navigate to HR report](<../Side menu navigate to HR report.png>)
 
 2. Click on the **HR Calendar** tab  
 
-    ![Tab strip navigate to HR calendar](<HR calendar tab location.png>)
+![Tab strip navigate to HR calendar](<HR calendar tab location.png>)
 
-### Using the HR Calendar
-
-#### Slicers
+### Slicers
 
 Slicers provides the user with the ability to filter the calendar by: **Department**, **Employee**, or **Type**. This means that if you only want to see birthdays for the “Sales Department” you can set the “Department” slicer to “Sales”, and the “Type” slicer to “Birthday”.
 
 ![HR calendar slicers highlighted](<HR calendar slicers highlighted.png>)
 
-#### Calendar
+### Calendar
 
 The calendar section of the report is comprised of a simple calendar that displays the current month.
 
