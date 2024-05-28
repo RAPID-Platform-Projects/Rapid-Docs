@@ -24,7 +24,7 @@
 
 6. Press **Save** or **Save and Close**
 
-![A screenshot of the "Save" and "Save and Close" buttons on the item page. The screenshot is annotated with a red box to highlight the location of the buttons.](<Policies Save - Save and Close.png>)
+![A screenshot of the "Save" and "Save and Close" buttons on the item page. The screenshot is annotated with a red box to highlight the location of the buttons.](<Policies Save.png>)
 
 ## Editing a Policy
 

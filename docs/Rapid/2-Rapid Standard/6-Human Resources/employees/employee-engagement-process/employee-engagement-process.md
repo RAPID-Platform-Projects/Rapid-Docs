@@ -10,7 +10,7 @@ Finally, the **eNPS** is calculated by subtracting the percentage of detracts fr
 
 1. Navigate to **Human Resources** &gt; **Employees**  
 
-![A screenshot that depicts how to navigate to the Employees page in Rapid Standard.](</docs/Rapid/2-Rapid Standard/6-Human Resources/Employees/Employee Menu Location.png>)
+![A screenshot that depicts how to navigate to the Employees page in Rapid Standard.](<../Employee Menu Location.png>)
 
 2. Select the employees you wish for the questionnaire to be sent to
 
@@ -29,4 +29,4 @@ This will send an email with a link to a questionnaire, for each selected employ
 1. "Select your department." (Employees are required to select which department they are from this helps to produce a eNPS score by department and the organisation as a whole).
 2. "On a scale of 0 to 10, how likely are you to recommend this company as a good place to work to your friends or family." (This is used to calculate the eNPS score).
 
-Visit these docs: <a href="http://docs.rapidplatform.com/docs/Rapid/Rapid%20Standard/Human%20Resources/HR%20Reporting/Using%20the%20Employee%20Engagement%20Dashboard">Using the Employee Engagement Dashboard</a>, for an explanation on how to view the aggregated results of the questionnaires.
+Visit these docs: [Using the Employee Engagement Dashboard](</docs/Rapid/2-Rapid Standard/6-Human Resources/HR Reporting/Using the Employee Engagement Dashboard/Using the Employee Engagement Dashboard.md>), for an explanation on how to view the aggregated results of the questionnaires.

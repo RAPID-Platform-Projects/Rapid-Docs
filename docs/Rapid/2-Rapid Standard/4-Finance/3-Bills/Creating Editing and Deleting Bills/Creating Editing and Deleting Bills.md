@@ -6,7 +6,7 @@ The **Finance** module includes the ability to create and manage bills. Along wi
 
 1. Navigate to the **Finance** &gt; **Bills**  
 
-![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](navigate-to-bills.png)
+![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](../navigate-to-bills.png)
 
 2. Click on **New Bill**.  
 
@@ -48,11 +48,11 @@ The following fields are required: *Date*, *Customer*, *Include Tax on Bill Line
 
 1. Navigate to the **Finance** &gt; **Bills**  
 
-![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](navigate-to-bills.png)
+![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](../navigate-to-bills.png)
 
 2. Open the bill you wish to edit either by scrolling through the list or using the search bar.  
 
-![A screenshot of the user searching for a particular bill. In the screenshot, the user has searched for "18" in the search filter, and this has produced an item at the top of the list that reads: "BILL - 00000018". Both the search filter and the title of the bill that has been found are annotated with a red box to draw the reader's attention to them.](navigate-to-desired-bill.png)
+![A screenshot of the user searching for a particular bill. In the screenshot, the user has searched for "18" in the search filter, and this has produced an item at the top of the list that reads: "BILL - 00000018". Both the search filter and the title of the bill that has been found are annotated with a red box to draw the reader's attention to them.](../navigate-to-desired-bill.png)
 
 3. Edit any relevant fields on the bill page as needed. 
 
@@ -74,7 +74,7 @@ However, if you need to delete a Bill due to incorrect data entry or a duplicate
 
 1. Navigate to the **Finance** &gt; **Bills**  
 
-![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](navigate-to-bills.png)
+![A screenshot of the user navigating to the "Bills" table in Rapid Standard. The user has pressed the "Finance" folder, which has an icon of a stack of cash. They have then pressed the "Bills" table menu button, which has an icon of a long slip of paper with a checkmark in the lower-right corner. The screenshot is annotated with red boxes to highlight where the user has clicked.](../navigate-to-bills.png)
 
 2. Select the bills you wish to delete by pressing their selection circles, or clicking and dragging across multiple rows
 

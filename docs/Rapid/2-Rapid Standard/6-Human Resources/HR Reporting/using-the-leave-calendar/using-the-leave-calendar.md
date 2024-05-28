@@ -8,7 +8,7 @@ If you want to customise the calendar to show other important dates, this is pos
 
 1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting**  
 
-![A screenshot that depicts how to use Explorer's side bar to navigate to the HR Leave Calendar](</docs/Rapid/2-Rapid Standard/6-Human Resources/HR Reporting/Side menu navigate to HR report.png>)
+![A screenshot that depicts how to use Explorer's side bar to navigate to the HR Leave Calendar](<../Side menu navigate to HR report.png>)
 
 2. Click on the **Leave Calendar** tab  
 

@@ -6,7 +6,7 @@ The **HR Dashboard** offers valuable employee-related statistics, such as turnov
 
 1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting** 
 
-![Side bar navigate to HR report page](</docs/Rapid/2-Rapid Standard/6-Human Resources/HR Reporting/Side menu navigate to HR report.png>)
+![Side bar navigate to HR report page](<../Side menu navigate to HR report.png>)
 
 2. Click on the **HR Dashboard** tab  
 

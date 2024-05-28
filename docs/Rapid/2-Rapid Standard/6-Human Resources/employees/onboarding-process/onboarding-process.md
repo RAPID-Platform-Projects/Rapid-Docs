@@ -1,6 +1,6 @@
 # Onboarding Process
 
-The Rapid **HR** module includes an onboarding process to help streamline the collection and validation of new employee information, and provide an opportunity to send them policy documents. (See [Assigning an employee a policy through the onboarding process](<docs/Rapid/2-Rapid Standard/7-Policies/3-Assigning-via-onboarding/3-Assigning-via-onboarding.md>)).
+The Rapid **HR** module includes an onboarding process to help streamline the collection and validation of new employee information, and provide an opportunity to send them policy documents. (See [Assigning an employee a policy through the onboarding process](</docs/Rapid/2-Rapid Standard/7-Policies/2-Assigning-an-employee-employees-to-complete-a-policy/2-Assigning-an-employee-employees-to-complete-a-policy.md>)).
 
 This process also provides a great opportunity to customise the system to your business needs. Do you want to add an IT onboarding item to the process, or a Workplace Health and Safety process? Contact your Rapid representative to explore the customisability options.
 

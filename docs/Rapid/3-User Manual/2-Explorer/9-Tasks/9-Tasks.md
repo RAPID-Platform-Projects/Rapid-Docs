@@ -6,7 +6,7 @@ There is a unique category of item in Rapid called a **Task**. This is a special
 
 **Tasks** can also be "Completed", unlike regular items. Completing an item means that it will cease to appear in most Tables and Views. You can learn more about **Task** items by visiting the link below.
 
-- [Creating, Editing, and Deleting Tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md>)
+- [Creating, Editing, and Deleting Tasks](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>)
 
 There are two main methods of viewing your Rapid **Tasks**. The first method (using **Explorer**) will be explained in detail within this article. You can also read about an alternative method in the following article: [Tasks as a Standalone Experience](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md>)
 
@@ -44,7 +44,7 @@ For example:
 
 As mentioned in the introduction of this article, **Tasks** are a unique type of item, in that they can be "Completed". This enables you to track all outstanding tasks, as well as the tasks you have completed.
 
-- You can also read about the different methods of [Completing a Task via **Explorer**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks.md#completing-a-task>).
+- You can also read about the different methods of [Completing a Task via **Explorer**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>).
 
 ### Further Reading
 

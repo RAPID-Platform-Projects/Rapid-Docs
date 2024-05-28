@@ -6,7 +6,7 @@ As part of the **HR** module, you are provided with an Out-Of-The-Box Employee E
 
 1. Navigate to **Human Resources** &gt; **HR Reporting**  
 
-![Sidebar menu location of HR Reporting dashboard](</docs/Rapid/2-Rapid Standard/6-Human Resources/HR Reporting/Side menu navigate to HR report.png>)
+![Sidebar menu location of HR Reporting dashboard](<../Side menu navigate to HR report.png>)
 
 2. Select the **Employee Engagement** tab  
 

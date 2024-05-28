@@ -8,7 +8,7 @@ Did you want to customise the calendar to show other important dates? This is po
 
 1. On the Explorer sidebar click **Human Resources** &gt; **HR Reporting**  
 
-![Side menu Explorer how to navigate to HR report](</docs/Rapid/2-Rapid Standard/6-Human Resources/HR Reporting/Side menu navigate to HR report.png>)
+![Side menu Explorer how to navigate to HR report](<../Side menu navigate to HR report.png>)
 
 2. Click on the **HR Calendar** tab  
 

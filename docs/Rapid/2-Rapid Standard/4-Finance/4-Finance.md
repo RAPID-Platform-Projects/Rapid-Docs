@@ -8,9 +8,9 @@ The **Finance** module also boasts the following useful features:
 
 2. [Generating line-by-line invoices from quotes](</docs/Rapid/2-Rapid Standard/4-Finance/1-Quotes/Generating an Invoice from a Quote/Generating an Invoice from a Quote.md>)
 
-3. [Tracking invoice payments](</docs/Rapid/2-Rapid Standard/4-Finance/2-Invoices/Invoice Payments/Invoice Payments.md>)
+3. [Tracking invoice payments](</docs/Rapid/2-Rapid Standard/4-Finance/2-Invoices/Invoice Payments/Invoices Payments.md>)
 
-4. [Managing payment records against bills](</docs/Rapid/2-Rapid Standard/4-Finance/3-Bills/Creating Editing and Deleting a Payment Record Against a Bill/Creating Editing and Deleting a Payment Record Against a Bill.md>)
+4. [Managing payment records against bills](</docs/Rapid/2-Rapid Standard/4-Finance/3-Bills/Creating Editing and Deleting Payment Records/Creating Editing and Deleting Payment Records.md>)
 
 5. [Analysing financial data via the bills and invoices report](</docs/Rapid/2-Rapid Standard/4-Finance/4-Finance Reporting/Bills and Invoices Report/Bills and Invoices Report.md>)
 

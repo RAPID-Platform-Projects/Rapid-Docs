@@ -10,7 +10,7 @@ On the **Employees** list there is a feature that allows you to generate a PDF l
 
 2. Select the employees you wish to be included in the report. If you want to include all of them press the select all Tick icon at the top of the tick column  
 
-![A screenshot that depicts how to select multiple employees](</docs/Rapid/2-Rapid Standard/6-Human Resources/Employees/generating-an-employees-list-pdf-report/Selecting employees.png>)
+![A screenshot that depicts how to select multiple employees](<./Selecting employees.png>)
 
 3. Press **Generate Employees PDF**, enter an email you want the PDF to be sent to and press **OK** 
 

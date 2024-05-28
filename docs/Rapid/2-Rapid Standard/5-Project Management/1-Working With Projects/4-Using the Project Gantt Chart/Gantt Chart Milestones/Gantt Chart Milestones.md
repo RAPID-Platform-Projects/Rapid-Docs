@@ -14,10 +14,6 @@ It is important to note that while tasks cover a date range, milestones represen
     - Click on the **Project Management** tab  
     - Click on the **Gantt** tab  
 
-:::info[Detailed Steps]
-The above steps are discussed in more detail here: [Accessing a Project's Gantt Chart](<#accessing-a-projects-gantt-chart>)
-:::
-
 2. Click **New Milestone** in the top left corner  
 
 ![iA screenshot showing the location of the "New Milestone" button, indicating to user to click this to add a milestone to the Project / Gantt](<Milestone New.png>)
@@ -47,10 +43,6 @@ The above steps are discussed in more detail here: [Accessing a Project's Gantt 
     - Click on the **Project Management** tab  
     - Click on the **Gantt** tab  
 
-:::info[Detailed Steps]
-The above steps are discussed in more detail here: [Accessing a Project's Gantt Chart](<#accessing-a-projects-gantt-chart>)
-:::
-
 2. Identify the milestone that you wish to alter
 
 3. Click and drag the Milestone Marker task to shift Milestone date.
@@ -60,5 +52,5 @@ The above steps are discussed in more detail here: [Accessing a Project's Gantt 
 4. Press **Save X Items**  
 
 :::note[Milestone Dependencies]
-Dependencies can be created on Milestones in the same way as in tasks. See the tasks [Creating Finish-to-Start Dependencies](</docs/Rapid/2-Rapid Standard/5-Project Management/1-Working With Projects/4-Using the Project Gantt Chart/4-Using the Project Gantt Chart.md#creating-finish-to-start-dependencies-on-a-projects-gantt-chart>) documentation.
+Dependencies can be created on Milestones in the same way as in tasks. See the tasks [Creating Finish-to-Start Dependencies](<../4-Using the Project Gantt Chart.md#creating-finish-to-start-dependencies-on-a-projects-gantt-chart>) documentation.
 :::
