@@ -136,7 +136,6 @@ The total number of controls changes based on the connections created with the d
 11. **Add button** - This button adds the selected controls from the Element Picker to the Adaptive Document. The button is grey (disabled) when no control is selected. It turns blue when at least one control is selected.   
 The Add button also displays the number of controls selected.
 
-
 ## Adding controls to the Adaptive Document from Element Picker
 
 To add controls to the Adaptive Document:
@@ -150,3 +149,45 @@ You can select multiple unique controls from the Element Picker.
 
 ![Image showing multiple ](<Element Picker 13.png>)
 :::
+
+## Special note - Repeating Section from Element Picker
+While creating the connection you have two options for the method:  
+
+    a. View
+    b. Single item
+
+Based on the method selected for the connection, its features differ slightly in the Element Picker.
+
+If the connection with method View is selected in Connections Tab, then first only one option will appear. For example, in the image below, Tasks is a connection created with a _View_ Method.
+
+![Image showing Repeating context in Element picker for connection](<EP Repeating 1.png>)
+
+Please note the green highlight. This visually indicates the Repeating Context. 
+
+Adding a Repeating Context, basically adds a layout section. However, it has a special feature (_see_ - ***How is the repeating section special***).
+
+![Image showing a Repeating layout](<EP Repeating 2.png>)
+
+The added section appears with a green highlight, indicating it is a repeating section. You can add controls to the repeating section, just like any regular section, as discussed above. However, they appear in green colour.
+
+![Image showing controls in Repeating section ](<EP Repeating 3.png>)
+
+**How is the repeating section special**
+Once you have added a set of controls, the repeating section has the ability to repeat the same multiple times. This can be achieved with the help of a  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/Control-category-overview/Buttons/#events-section" target="_blank">**button action - Add repeat **</a>.
+
+For example:
+
+Imagine the user needs to enter the details for 10 employees using the Employee Registration form. For each employee the following need to be filled:
+
+* Employee Id  
+* First name  
+* Last name  
+* Contact address  
+* Date of Joining  
+* Reporting manager
+
+If the Adaptive Document does not use a repeating section, then the user will have to open the Registration Form 10 times and submit the same 10 times. 
+
+However, if the repeating section is used, the user will access the Adaptive Document once, can dynamically choose how many records of employees need to be entered (10 in our example) and submit the form only once.
+
+As the method of connection is View, the system can hit multiple items of the connected table.
