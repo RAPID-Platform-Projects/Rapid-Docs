@@ -1,6 +1,6 @@
 # Birthday and Work Anniversary Reminders
 
-Within the **HR** module, we have incorporated two methods to stay informed about upcoming employee birthdays and work anniversaries. The first method involves email reminders, which are detailed on this page. The second option is the birthday and work anniversary calendar, which are elaborated upon [here](<docs\Rapid\2-Rapid Standard\6-Human Resources\HR Reporting\using-the-hr-calendar\using-the-hr-calendar.md>).
+Within the **HR** module, we have incorporated two methods to stay informed about upcoming employee birthdays and work anniversaries. The first method involves email reminders, which are detailed on this page. The second option is the birthday and work anniversary calendar, which are elaborated upon [here](<docs\Rapid\2-Rapid Modules\6-Human Resources\HR Reporting\using-the-hr-calendar\using-the-hr-calendar.md>).
 
 Email reminders are a convenient way to automatically be reminded of any upcoming employee birthdays or work anniversaries. This feature serves as a valuable tool for managers, enabling them to recognise and celebrate their employees. The reminder email is sent to the employee’s direct manager.
 

@@ -78,9 +78,9 @@ const config: Config = {
           label: "Getting Started"
         },
         {
-          to: "docs/Rapid/Rapid Standard/rapidStandardHomePage",
+          to: "docs/Rapid/Rapid Standard/rapidModulesHomepage",
           position: "left",
-          label: "Base Rapid"
+          label: "Rapid Modules"
         },
         {
           type: "dropdown",
