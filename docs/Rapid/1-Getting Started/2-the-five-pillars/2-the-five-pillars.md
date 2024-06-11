@@ -8,9 +8,9 @@ Rapid Platform is build on a suite of five core applications. These applications
 
 Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We understand that managing tasks efficiently is crucial for the success of any business. Tasks is designed to empower your team, enhance collaboration, and ensure nothing falls through the cracks.
 
-The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](</docs/Rapid/2-Rapid Standard/0-rapid-standard-home.md>).
+The video below shows what is possible with Rapid **Tasks**, and outlines the features that come packaged with [Rapid Standard's Tasks Module](</docs/Rapid/2-Rapid Modules/0-rapid-standard-home.md>).
 
-- Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Standard/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>).
+- Find out more about [Tasks in **Rapid Standard**](</docs/Rapid/2-Rapid Modules/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>).
 - Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/9-Tasks.md>).
 
 ## Explorer
