@@ -78,7 +78,7 @@ const config: Config = {
           label: "Getting Started"
         },
         {
-          to: "docs/Rapid/Rapid Standard/rapidModulesHomepage",
+          to: "docs/Rapid/Rapid Modules/rapidModulesHomepage",
           position: "left",
           label: "Rapid Modules"
         },
@@ -105,7 +105,7 @@ const config: Config = {
             {
               type: "docSidebar",
               sidebarId: "rapid_standard",
-              label: "Base Rapid Manual"
+              label: "Rapid Modules Manual"
             },
             {
               type: "docSidebar",
