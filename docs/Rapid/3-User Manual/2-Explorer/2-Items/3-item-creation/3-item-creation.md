@@ -17,7 +17,7 @@ The **+ Create** button will create the **Item** and return you to the **Table**
 If you are viewing a table that has subtypes, your system administrator may have created additional buttons to create items. For example, in the Rapid Standard Assets Module, there are several "New X Asset"
  buttons that will each create a different subtype of item on the same table. To learn more about this, visit the following link: 
 
-- [Creating and Deleting Assets in Rapid Standard](</docs/Rapid/2-Rapid Standard/2-Assets/creating-and-deleting-assets/creating-and-deleting-assets.md>)
+- [Creating and Deleting Assets in Rapid Standard](</docs/Rapid/2-Rapid Modules/2-Assets/creating-and-deleting-assets/creating-and-deleting-assets.md>)
 
 ## Cloning an Item
 
