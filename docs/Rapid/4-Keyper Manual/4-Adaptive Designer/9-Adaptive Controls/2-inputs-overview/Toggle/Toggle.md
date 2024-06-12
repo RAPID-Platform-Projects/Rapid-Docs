@@ -39,7 +39,7 @@ The element will mount with the default value on the Adaptive document.
 :::  
 
    :::tip[Please note]
-   A default value may be useful when you feel most users will fill out the same value, however, you still want to give them a flexibility to change the value of the element. For example - you are seeking user's medical history and there is a question - "Do you have diabetes?" If you feel most users will answer it as "No", then you can set this as default value.  However, the user has teh flexibility to input "Yes", and change it from default value.
+   A default value may be useful when you feel most users will fill out the same value, however, you still want to give them a flexibility to change the value of the element. For example - you are seeking user's medical history and there is a question - "Do you have diabetes?" If you feel most users will answer it as "No", then you can set this as default value.  However, the user has the flexibility to input "Yes", and change it from default value.
    :::
 
    ![Image showing label and default value for element](<toggle 4.png>)
