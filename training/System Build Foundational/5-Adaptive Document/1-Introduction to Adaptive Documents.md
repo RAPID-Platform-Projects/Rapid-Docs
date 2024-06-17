@@ -16,15 +16,15 @@ You, as a system builder, can create Adaptive Documents in an experience called 
 
 # Accessing Adaptive Designer
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/" target="_blank">**Click here**</a> to learn about how to access Adaptive Designer.
+<a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/" target="_blank">**Click here**</a> to learn about how to access Adaptive Designer.
 
 # Creating an Adaptive Document
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20create%20a%20new%20Adaptive%20Document%20Form/" target="_blank">**Click here**</a> to learn about how to create a new Adaptive Document Form.
+<a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20create%20a%20new%20Adaptive%20Document%20Form/" target="_blank">**Click here**</a> to learn about how to create a new Adaptive Document Form.
 
 # Understanding Adaptive Document design canvas
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20Adaptive%20Document%20Canvas/" target="_blank">**Click here**</a> to gain an understanding of what are the various components of the Adaptive Document Canvas.
+<a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20Adaptive%20Document%20Canvas/" target="_blank">**Click here**</a> to gain an understanding of what are the various components of the Adaptive Document Canvas.
 
 # Designing an Adaptive Document Form
 

@@ -12,17 +12,17 @@ Create a Table titled - **Lead Details**
 
 Add the following columns:  
 
-Column Title   :         Column Type       
-
-Company Name : Single line of Text
-First Name     :         Single line of Text  
-Last Name       :       Single line of Text  
-Email               :       Email  
-Phone Number :      Single line of Text  
-Lead Status     :       Choice   (Provide 5 options - Prospect, Opportunity, Nurture, Client and Lost)  
-Estimated Value :    Currency (Select AUD)  
-Lead Manager    :   User  
-Interests       : Multiline of Text  
+| Column Title | Column Type |       
+|------|------|
+| Company Name | Single line of Text |
+| First Name | Single line of Text |
+| Last Name | Single line of Text |
+| Email | Email | 
+| Phone Number | Single line of Text |
+| Lead Status | Choice   (Provide 5 options - Prospect, Opportunity, Nurture, Client and Lost) |
+| Estimated Value | Currency (Select AUD) |
+| Lead Manager | User |
+| Interests | Multiline of Text |
 
 
 To create your Lead Details Table, use the test environment here:

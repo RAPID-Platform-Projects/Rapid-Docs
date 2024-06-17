@@ -2,7 +2,7 @@
 
 When you need to present static text on a page, you make use of the Documentation Component.
 
-For example, Stationary Inc has set up a leave request form and found many people would ask the same questions about how to fill it in. To help users understand exactly what to do, a small explainer was written adjacent to the form that covered most of the basic concerns.
+For example, Stationery Inc has set up a leave request form and found many people would ask the same questions about how to fill it in. To help users understand exactly what to do, a small explainer was written adjacent to the form that covered most of the basic concerns.
 
 ![Documentation component example against a form](<Documentation Example.png>)
 

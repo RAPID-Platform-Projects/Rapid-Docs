@@ -39,10 +39,10 @@ __________________________
 
 The below scenario will set the context for all the task activities that you will receive in across the various learning modules. The activities will have a business context based on the below scenario:
 
-Imagine you are the system builder for a manufacturing company called Stationary Inc. Stationary Inc. is into production of writing material, school supplies and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
+Imagine you are the system builder for a manufacturing company called Stationery Inc. Stationery Inc. is into production of writing material, school supplies and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
 
-The clients for Stationary Inc. are segmented into three groups - primary and secondary education institutions, small businesses and corporations.
+The clients for Stationery Inc. are segmented into three groups - primary and secondary education institutions, small businesses and corporations.
 
-Stationary Inc. has also recently forayed into Publishing.
+Stationery Inc. has also recently forayed into Publishing.
 
 
