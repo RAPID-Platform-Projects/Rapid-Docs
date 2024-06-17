@@ -17,14 +17,14 @@ Although mathematically a percentage can be depicted as a decimal number, it is 
 
 Mathematically 27.34% can be represented as a number 0.2734. However, it is meaningful when we 27.34% of budget was spent on marketing; rather than saying 0.2734 of budget was spent on marketing.  
 
-The percentage control is built over the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. This article will discuss only the aspects that are different from the Number control. 
+The percentage control is built over the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. This article will discuss only the aspects that are different from the Number control. 
 
-Hence, to gain a comprehensive understanding of percentage control, it is recommended that you refer the article on <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a> .  
+Hence, to gain a comprehensive understanding of percentage control, it is recommended that you refer the article on <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a> .  
 :::
 
 ## What are the attributes for Percentage control?
 
-Consider the following image depicting the fields of the attributes section for percentage control. Please note, there is only one field which is different from the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>  attributes. We shall discuss the same here.
+Consider the following image depicting the fields of the attributes section for percentage control. Please note, there is only one field which is different from the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>  attributes. We shall discuss the same here.
 
 ![Image showing attributes to percentage input](<percentage 2.png>)
 
@@ -39,5 +39,5 @@ Consider the following image depicting the fields of the attributes section for 
 ![Image showing how percentage sign changes when field selected](<Percentage 3.png>)
    :::
 
-As indicated earlier, the rest of the behaviour of percentage control is identical to the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. Please visit the same for detailed explanation of each of the attributes.
+As indicated earlier, the rest of the behaviour of percentage control is identical to the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. Please visit the same for detailed explanation of each of the attributes.
 
