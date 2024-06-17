@@ -4,7 +4,7 @@ The element picker allows you to add elements to your Adaptive Document.
 
 ## How does the Element Picker Work? (Control vs Element)
 
-Using the Element Picker, you can select <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**control(s)**</a>. These controls can then be configured as <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**element(s)**</a> as they are added to your Adaptive Document. 
+Using the Element Picker, you can select <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**control(s)**</a>. These controls can then be configured as <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**element(s)**</a> as they are added to your Adaptive Document. 
 
 For example - imagine you are creating an Adaptive Document to capture details of the leads who visit your organisation's website.  You want to have two fields on the document :
 
@@ -61,7 +61,7 @@ When the **Controls Tab** is active, then you will see six categories of control
 
    ![Image showing controls in the Content category](<Element Picker 6.png>)
 
-   f. **Simpli** - This is a special category and does not contain any controls, as such. However, it contains templates of layouts (controls arranged in predefined layouts) available for quick design. For example - Single Page Layout, Accordion Layout. You can select the template that most closes matches with your needs and then add or delete controls on the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**composition area**</a>. This category has five layout templates.
+   f. **Simpli** - This is a special category and does not contain any controls, as such. However, it contains templates of layouts (controls arranged in predefined layouts) available for quick design. For example - Single Page Layout, Accordion Layout. You can select the template that most closes matches with your needs and then add or delete controls on the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**composition area**</a>. This category has five layout templates.
 
    ![Image showing templates in the Simpli category](<Element Picker 8.png>)
 
@@ -173,7 +173,7 @@ The added section appears with a green highlight, indicating it is a repeating s
 ![Image showing controls in Repeating section ](<EP Repeating 3.png>)
 
 **How is the repeating section special**
-Once you have added a set of controls, the repeating section has the ability to repeat the same multiple times. This can be achieved with the help of a  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/Control-category-overview/Buttons/#events-section" target="_blank">**button action - Add repeat **</a>.
+Once you have added a set of controls, the repeating section has the ability to repeat the same multiple times. This can be achieved with the help of a  <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/Control-category-overview/Buttons/#events-section" target="_blank">**button action - Add repeat **</a>.
 
 For example:
 

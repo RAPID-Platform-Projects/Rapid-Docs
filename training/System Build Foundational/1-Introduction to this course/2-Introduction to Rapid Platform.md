@@ -1,14 +1,14 @@
 # Introduction to Rapid Platform
 
-One can argue that a large part of business management is data management. It allows for efficient storage, organisation, and analysis of data, which can lead to better decision-making, improved productivity, and increased profitability.
+One can argue that a large part of business management is ***data management***. It allows for efficient storage, organisation, and analysis of data, which can lead to better decision-making, improved productivity, and increased profitability.
 
-Rapid Platform enables organisations to manage their data more efficiently. Using Rapid infrastructure businesses can create their own custom database tables for storage and maintenance of business data. Further, it can integrate with Microsoft Power BI and allow users to create their own reports. These reports help business users to slice, dice and interpret information in a more meaningful manner. So whether a user wants to view sales charts by geography, an employee workload report or project status report with reference to schedule, everything easily possible via Rapid Platform.
+Rapid Platform enables organisations to manage their data more efficiently. Using Rapid infrastructure, businesses can create their own custom database tables for storage and maintenance of business data. Further, it can integrate with Microsoft Power BI and allow users to create their own reports. These reports help business users to slice, dice and interpret information in a more meaningful manner. So whether a user wants to view sales charts by geography, an employee workload report or project status report with reference to schedule, everything easily possible via Rapid Platform.
 
-Further, one cannot deny that processes are an integral part of every business. Business operations management is synonymous with business process management in many ways. Moreover, business processes are unique to every business, hence a its not a one-size-fits-all solution. 
+Further, one cannot deny that processes are an integral part of every business. Business ***operations management*** is synonymous with business process management in many ways. Moreover, business processes are unique to every business, hence a its not a one-size-fits-all solution. 
 
-Rapid Platform provides businesses with the flexibility to easily draw their own business process diagrams which automate business operations. Rapid Platform provides a BPMN 2.0 based business process automation engine which is capable of fetching data from the databases and perform defined actions automatically. 
+Rapid Platform provides businesses with the flexibility to easily draw their own business process diagrams which automate business operations. Rapid Platform provides a BPMN 2.0 based business process automation engine which is capable of fetching data from the databases and perform defined actions automatically. The best part is - its a ZERO CODE environment.
 
-Finally, how much of business is about team management or people management! One can say a large part of business management is about delegating tasks to team members and monitoring outcomes effectively. 
+Finally, how much of business is about ***team management*** or people management! One can say a large part of business management is about delegating tasks to team members and monitoring outcomes effectively. 
 
 Rapid Platform offers a Task Experience which allows business managers to assign tasks to their teams and notify team members. Team members can easily manage their tasks and update status, log effort etc. using the Task Experience in Rapid Platform. 
 
@@ -31,7 +31,7 @@ Rapid Platform is lifesaver if the below points resonate to your routine problem
 - Every business is different and special, does no software solve what you really do?  
 - Got different solutions around the place to try and jury-rig your own?  
 
-Rapid Platform is a strong information and automation system which helps you combat these grass-roots level problems nad help build efficiencies throughout the DNA of the organisation. 
+Rapid Platform is a strong information and automation system which helps you combat these grass-roots level problems and help build efficiencies throughout the DNA of the organisation. 
 
 ## Key Pillars to Rapid Platform
 
@@ -46,5 +46,3 @@ Rapid Platform stands on certain fundamental applications. These can be consider
 **4. Workflow** - This is the application where system builders can design business process diagrams. When the workflow diagrams are properly designed and executed, the workflow process engine will perform the defined actions. Hence, workflow is the process automation application.
 
 **5. Tasks Experience** -  This is an experience where individual team members can view the tasks assigned to them. They can update subject task activities and modify the status of them. This allows for easy task management, communication and monitoring.
-
-## Key terms for this course

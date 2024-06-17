@@ -30,13 +30,13 @@ There can be a nested relationship among table connections ie. a child connectio
 
 ### What happens when a connection is successfully created at the document level?
 
-When a connection (whether normal or child) is successfully created at the document level, then all the columns of the table(s) are available in the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**Element Picker**</a>. You can then add these input elements from connections to the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**composition area**</a> and configure your Adaptive Document to interact with connected data tables.
+When a connection (whether normal or child) is successfully created at the document level, then all the columns of the table(s) are available in the  <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/" target="_blank">**Element Picker**</a>. You can then add these input elements from connections to the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**composition area**</a> and configure your Adaptive Document to interact with connected data tables.
 
 ### How to create a normal / parent connection?
 
 To create a normal or parent type of connection to a data table consider the following steps:
 
-1. Select the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20the%20Overview%20Tab/" target="_blank">**Overview tab**</a> for the desired Adaptive Document. 
+1. Select the  <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Understanding%20the%20Overview%20Tab/" target="_blank">**Overview tab**</a> for the desired Adaptive Document. 
 
 2. Click on "+" icon of the "Connections". This will open a connections panel in the middle of the screen.
 
@@ -52,7 +52,7 @@ To create a normal or parent type of connection to a data table consider the fol
 
 5. A section on arguments appear. This has two fields:  
    a. ***Select list*** - here you can select the relevant table / list to establish the connection.  
-   b. ***Fetch on Load*** - this is a toggle field. To learn more about Fetch on Load field, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**click here**</a>.
+   b. ***Fetch on Load*** - this is a toggle field. To learn more about Fetch on Load field, <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**click here**</a>.
 
 ![Image showing arguments for connection](<Root Connection 3.png>)
 
@@ -60,7 +60,7 @@ To create a normal or parent type of connection to a data table consider the fol
 
 ![Image showing Create button](<Root Connection 4.png>)
 
-You now have a connection for the chosen table and will be able to pick its columns as elements from the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-picker" target="_blank">**element picker**</a>.
+You now have a connection for the chosen table and will be able to pick its columns as elements from the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-picker" target="_blank">**element picker**</a>.
 
 The connection will be visible in the Overview tab's Connections section.  The title of the connection is the title of the Data Table.
 
@@ -98,7 +98,7 @@ This will open a section in the middle of the canvas.
    a. **Source** - The source will be pre-selected here based on the parent.  
    b. **Method** -  This _method_ field defines the nature of connection. Select View (if you want an array of items) or Single Item. 
    c. **Select List** - Select the table that you wish to connect as child. This is a dropdown field with titles of all the lists in the source selected.  
-   d. **Fetch item on load** - Select the value on the toggle field. To learn more about Fetch on Load field, <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**click here**</a>.  
+   d. **Fetch item on load** - Select the value on the toggle field. To learn more about Fetch on Load field, <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**click here**</a>.  
    e. **Relationship with parent** - This is a dropdown field with three options.    
      1. Universal link   
      2. MultiLookup and   
@@ -143,7 +143,7 @@ While establishing Document level connection is the first step towards it, the o
 
 ### Where to locate connection information for the element?
 
-The connection attributes of the element can be accessed in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**connection category**</a>  of the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> .
+The connection attributes of the element can be accessed in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-configuration-panel-categories" target="_blank">**connection category**</a>  of the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> .
 
 ![Image showing connection category in the element configuration panel](<Element connection 1.png>)
 
@@ -195,7 +195,7 @@ Please note, clicking the bin icon only deletes the connection between the table
 
 There are two ways to associate an element to a connected table:
 
-1. Method 1 - via adding an element directly through the connected table by using the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#categories-in-connections-tab" target="_blank">**Element Picker's Connection tab**</a> .
+1. Method 1 - via adding an element directly through the connected table by using the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#categories-in-connections-tab" target="_blank">**Element Picker's Connection tab**</a> .
 
 The element added via this method is born associated to the connected table. The element is of the same type as the selected table column. 
 

@@ -9,9 +9,9 @@ Rapid Platform provides you with the flexibility to create custom infrastructure
 
 # How to create a new table in Designer?
 
-To create a new custom table in Rapid Platform <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#page-layout-and-component" target="_blank">click here</a> to follow a step-by-step guide.
+To create a new custom table in Rapid Platform <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/creating-tables/" target="_blank">click here</a> to follow a step-by-step guide.
 
 
 # How to add columns to a table?
 
-Adding the right columns gives the table its true meaning. To learn how to add columns to a table <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a>.
+Adding the right columns gives the table its true meaning. To learn how to add columns to a table <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a>.

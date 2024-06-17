@@ -3,7 +3,7 @@
 ## Asking about existing requests
 
 
-Users can enquire about any pre-existing <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#support-request" target="_blank">support request</a> , from the Rapid chatbot. 
+Users can enquire about any pre-existing <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#support-request" target="_blank">support request</a> , from the Rapid chatbot. 
 
 The chatbot will respond with the status of the request.
 

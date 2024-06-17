@@ -12,7 +12,7 @@ There can be other types of events - like "mouseover", "mouseout" etc.
 
 ![Image showing three configuration sections](<buttons 1.png>)
 
-The sections available in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a> corresponds to the nature of the button control. 
+The sections available in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**element configuration panel**</a> corresponds to the nature of the button control. 
 
 There are sections:
 
@@ -22,7 +22,7 @@ There are sections:
 
 3. Events - to define the action on the event of click of the button.
 
-In this article, we will discuss the fields of the Attributes section and the Events section. You can learn about the Conditions section <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**here**</a>.  
+In this article, we will discuss the fields of the Attributes section and the Events section. You can learn about the Conditions section <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**here**</a>.  
 
 :::note[Please note]  
 Buttons do not have a validation or connections section, which is logical with the nature of the button control.  
@@ -194,7 +194,7 @@ Let us discuss each of these actions.
 
 #### Configuring in Element Configuration Panel
 
-In the Events section, as you select **Next Page** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of titles all the multi-page layouts present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>.
+In the Events section, as you select **Next Page** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of titles all the multi-page layouts present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>.
 
 You can select the relevant multi-page layout. 
 
@@ -206,7 +206,7 @@ Continuing from previous example - if the user is on page #4, clicking on the bu
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Previous Page** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the multi-page layouts present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Previous Page** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the multi-page layouts present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant multi-page layout. 
 
@@ -229,7 +229,7 @@ When a button is configured to Open dialog action, the system opens the dialog l
 
 #### Configuring in Element Configuration Panel
 
-In the Events section, as you select **Open dialog** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the dialog layouts present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section, as you select **Open dialog** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the dialog layouts present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 There can be multiple dialog layouts in your document, you can select the relevant dialog layout. 
 
@@ -239,7 +239,7 @@ There can be multiple dialog layouts in your document, you can select the releva
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Close dialog** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the dialog layouts present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Close dialog** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of  titles of all the dialog layouts present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant dialog layout. 
 
@@ -249,12 +249,12 @@ You can select the relevant dialog layout.
 
 In simpler terms, this is like a pull request for the data of the connected table. 
 
-Consider the option of setting <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**Fetch item on Load**</a> as YES while creating a connection.
+Consider the option of setting <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#fetch-on-load-adaptive-documents" target="_blank">**Fetch item on Load**</a> as YES while creating a connection.
 This "pulls" the item's data at the loading of the document. Similarly, this action "pulls" the item's data at the click of the button.
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Load Connection** as the action, a new field - **Select connection** appears. This is a dropdown field and will provide a list of all connections present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Load Connection** as the action, a new field - **Select connection** appears. This is a dropdown field and will provide a list of all connections present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant connection. 
 
@@ -264,17 +264,17 @@ You can select the relevant connection.
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Save Connection** as the action, a new field - **Select connection** appears. This is a dropdown field and will provide a list of all connections present in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Save Connection** as the action, a new field - **Select connection** appears. This is a dropdown field and will provide a list of all connections present in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant connection. 
 
 ![Image showing save connection action settings](<buttons 25.png>)  
 
-7. **Add Repeat** - This action enables the user to repeat a section with a defined set of controls. With one click, the section is repeated once. To have this button perform meaningfully, you must have added the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#adding-controls-to-the-adaptive-document-from-element-picker" target="_blank">**repeating section using the Element picker**</a>. 
+7. **Add Repeat** - This action enables the user to repeat a section with a defined set of controls. With one click, the section is repeated once. To have this button perform meaningfully, you must have added the  <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#adding-controls-to-the-adaptive-document-from-element-picker" target="_blank">**repeating section using the Element picker**</a>. 
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Add Repeat** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of all sections that are repeating in nature in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Add Repeat** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of all sections that are repeating in nature in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant repeating section. 
 
@@ -294,11 +294,11 @@ While the Add Repeat button can be placed anywhere in the document, it is necess
 This is logical because, an Add Repeat button adds a blank iteration of repeating section, however, a Remove Repeat button can help remove a specific iteration from the stack created. For example - remove second iteration from the ten added. 
 :::
 
-To have this button perform meaningfully, you must have added the  <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#adding-controls-to-the-adaptive-document-from-element-picker" target="_blank">**repeating section using the Element picker**</a> and placed the subject button in the repeating section.
+To have this button perform meaningfully, you must have added the  <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Element%20picker%20features/#adding-controls-to-the-adaptive-document-from-element-picker" target="_blank">**repeating section using the Element picker**</a> and placed the subject button in the repeating section.
 
 #### Configuring in Element Configuration Panel
 
-In the Events section,  as you select **Remove Repeat** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of all sections that are repeating in nature in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
+In the Events section,  as you select **Remove Repeat** as the action, a new field - **Select element** appears. This is a dropdown field and will provide a list of all sections that are repeating in nature in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>. 
 
 You can select the relevant repeating section. 
 

@@ -8,7 +8,7 @@ Files may be attached to any item in Rapid, using the Attachments page component
 
 Rapid enables you to upload external documentation, so it is accessible from within the system.
 
-<a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Designer/Pages/Components/attachments/" target="_blank">**Click here**</a> to learn about adding the **Attachments** component to your site.
+<a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Pages/Components/attachments/" target="_blank">**Click here**</a> to learn about adding the **Attachments** component to your site.
 
 ## Using the Attachments Component
 When viewing the **Attachments** component in **Explorer**, it will appear as a dotted grey box surrounding the word "Attachments".
@@ -70,6 +70,6 @@ You can open the "Attachments" folder, to view the attachment files inside. Addi
 
 ## Additional File Components
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files">Embedded Files</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>

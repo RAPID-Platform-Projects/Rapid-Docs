@@ -10,7 +10,7 @@ For example: Imagine you are creating an order details form which the users can 
 
 Wherever there is a requirement for the user to input strictly an integer value, the Whole Number control can be used.
 
-Whole number control is very similar to <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>.  The fundamental difference being that Whole number control accepts integers, while number control can accept whole numbers along with decimals.
+Whole number control is very similar to <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>.  The fundamental difference being that Whole number control accepts integers, while number control can accept whole numbers along with decimals.
 
 ## What are the attributes for Whole number?
 

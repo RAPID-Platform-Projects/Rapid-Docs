@@ -6,10 +6,10 @@ While *Embedded Files* will appear as files in the default **Files** tab of an i
 
 ![A screenshot that demonstrates how embedded files appear as rows in a table. Each embedded file is added to a progress bar, to represent how many expected files have been uploaded to their respective containers in the embedded files tabstrip component.](<Embedded Files Table View.png>)
 
-You can visit the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Tables%20and%20items/data-tables/viewing-dates-and-files-using-tables#viewing-file-data" target="_blank">Viewing Files Using Tables</a> section to learn more about how *Embedded Files* are displayed in a Table.
+You can visit the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Tables%20and%20items/data-tables/viewing-dates-and-files-using-tables#viewing-file-data" target="_blank">Viewing Files Using Tables</a> section to learn more about how *Embedded Files* are displayed in a Table.
 
 ### Viewing Embedded Files in the Files Preview Component
-If an item's page is also configured with the *File Preview Component*, then a preview of the *Embedded File* will appear in the preview pane. This is will be most apparent when visiting the **Files** Tab when inspecting an item. You can learn more by visiting the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">Files Preview Component</a> page.
+If an item's page is also configured with the *File Preview Component*, then a preview of the *Embedded File* will appear in the preview pane. This is will be most apparent when visiting the **Files** Tab when inspecting an item. You can learn more by visiting the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">Files Preview Component</a> page.
 
 ![A screenshot that describes](<Embedded Files Preview.png>)
 
@@ -57,7 +57,7 @@ Note the component will now have the following attributes and functionality:
 ### Overwriting Files
 When the *Embedded Files* component is configured to only allow one file to be uploaded, uploading any additional files to a component will "overwrite" the file that is currently stored in the *Embedded Files* component. This means the original file will be deleted, and the new file will replace it.
 
-However, if the *Embedded Files* component has <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files#Mutli-Mode%20Embedded%20Files">Multi-Mode enabled</a>, then multiple documents can be uploaded to the same component.
+However, if the *Embedded Files* component has <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files#Mutli-Mode%20Embedded%20Files">Multi-Mode enabled</a>, then multiple documents can be uploaded to the same component.
 
 Files that will be renamed of overwritten will have the following message appear in the *Embedded Files* component, before you press **Save**. Note that you will need to save the item for the overwrite to take effect. The change can be undone by clicking the cancel **X** button on the far right of the alert.
 
@@ -94,7 +94,7 @@ Note the component now has a drop-down menu, which is indicated by the chevron (
 ### Overwriting Files
 When the *Embedded Files* component is configured to only allow one file to be uploaded, uploading any additional files to a component will "overwrite" the file that is currently stored in the *Embedded Files* component. This means the original file will be deleted, and the new file will replace it.
 
-However, if the *Embedded Files* component has <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files#Mutli-Mode%20Embedded%20Files">Multi-Mode enabled</a>, then multiple documents can be uploaded to the same component.
+However, if the *Embedded Files* component has <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/Embedded%20Files#Mutli-Mode%20Embedded%20Files">Multi-Mode enabled</a>, then multiple documents can be uploaded to the same component.
 
 :::danger Warning:
 Unlike the *Embedded Files* page component, the tabstrip component will not display a message when a file is being overwritten.  
@@ -106,6 +106,6 @@ The also enables you to download, view, or remove each file separately. Instead 
 
 ## Additional File Components
 Rapid Platform has several additional components that are useful for storing and manipulating files. Other useful components include:
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
-- <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/File%20Preview%20Component" target="_blank">File Preview</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/Attachments">Attachments</a>
+- <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Page%20Components/file-browser">File Browser</a>

@@ -1,10 +1,10 @@
 # Adaptive Controls
 
-To design your desired Adaptive Document, it is important that you select the right <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
+To design your desired Adaptive Document, it is important that you select the right <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
 
-To add an element to your Adaptive Document's <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, use the element picker.
+To add an element to your Adaptive Document's <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, use the element picker.
 
-The element picker presents a list of <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**controls**</a> grouped across various categories. 
+The element picker presents a list of <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**controls**</a> grouped across various categories. 
 
 :::info[Please note]
 This article discusses the controls that are present in an element picker by default. The controls that become available for selection in an element picker based on the connections to a data table are a subset of the Input category of controls (discussed below).  
@@ -29,18 +29,18 @@ Every element has a title. If you have not manually set the title, the default t
 :::tip[Please note]
 You can set the Element Title in two ways:
 
-1. From the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> :
+1. From the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> :
 
    a. Double Click on the title. This will make the Element title field editable.  
    b. Type in the desired title.  
    c. Press Enter.  
    The Element Title will now be updated with your typed text.  
 
-   Please note, the Element Title gets updated in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a> as well. 
+   Please note, the Element Title gets updated in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a> as well. 
 
    ![Image showing setting Element title from element configuration panel](<Set Element Title 1.png>)  
 
-2. From the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a>:  
+2. From the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#document-structure-panel--tree-of-elements" target="_blank">**Document Structure Panel**</a>:  
 
    a. Right click on the element. This will open the options for the element in Document Structure Panel.  
    b. Select Rename option. The field to type Element title will appear.  
@@ -48,7 +48,7 @@ You can set the Element Title in two ways:
    d. Press Enter.  
    The Element Title will now be updated with your typed text.  
 
-   Please note, the Element Title gets updated in the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> as well.    
+   Please note, the Element Title gets updated in the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element-configuration-panel" target="_blank">**Element configuration panel**</a> as well.    
 
    ![Image showing setting element title from document structure panel](<Set Element Title 2.png>)
 
@@ -58,9 +58,9 @@ You can set the Element Title in two ways:
 
 Apart from these characteristics, all the elements can be configured for 
 
-a. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**Conditions**</a>  
-b. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20setup%20element%20level%20validations/" target="_blank">**Validations**</a>  
-c. <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**Connections**</a>
+a. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20element%20level%20conditions/" target="_blank">**Conditions**</a>  
+b. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20setup%20element%20level%20validations/" target="_blank">**Validations**</a>  
+c. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20connection%20with%20data%20table/" target="_blank">**Connections**</a>
 
 ## Individual element features
 

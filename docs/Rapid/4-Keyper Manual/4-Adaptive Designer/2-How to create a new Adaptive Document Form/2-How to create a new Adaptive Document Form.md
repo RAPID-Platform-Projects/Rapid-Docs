@@ -2,7 +2,7 @@
 
 To create a new Adaptive Document Form, consider the following steps:
 
-1. Log into Adaptive Designer (tenant, site and environment). <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/" target="_blank">**Click here**</a> to learn how to log into the Adaptive Designer.
+1. Log into Adaptive Designer (tenant, site and environment). <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/" target="_blank">**Click here**</a> to learn how to log into the Adaptive Designer.
 
 2. Click on the File menu.
 3. Select "New".

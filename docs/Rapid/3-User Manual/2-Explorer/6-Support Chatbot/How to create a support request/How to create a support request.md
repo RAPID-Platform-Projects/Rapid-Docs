@@ -1,6 +1,6 @@
 # Creating a support requests
 
-To create a <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/User%20Manual/glossary/#support-request" target="_blank">support request</a> consider the following points:
+To create a <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#support-request" target="_blank">support request</a> consider the following points:
 
 1. In Explorer, click the chatbot icon.
 
