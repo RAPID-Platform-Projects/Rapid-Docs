@@ -1,4 +1,4 @@
-# Number OR Decimal
+# Number and Decimal
 
 ## What is a Number input control?
 
