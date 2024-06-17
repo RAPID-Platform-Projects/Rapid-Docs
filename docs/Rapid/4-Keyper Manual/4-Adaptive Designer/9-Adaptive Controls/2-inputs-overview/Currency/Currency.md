@@ -11,14 +11,14 @@ For example: Imagine you are creating a quote for a client. You want to display 
 :::info[Please note]  
 The currency control serves the specific requirement for entering monetary figures. A number 100.50 is ambiguous when it comes to representing monetary figures. AU$ 100.50 is accurate and is distinctly different from £ 100.50. Hence, the currency control is used specifically where user inputs monetary figures.
 
-The currency control is built over the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. This article will discuss only the aspects that are different from the Number control. 
+The currency control is built over the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. This article will discuss only the aspects that are different from the Number control. 
 
-Hence, to gain a comprehensive understanding of currency control, it is recommended that you refer the article on <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a> .  
+Hence, to gain a comprehensive understanding of currency control, it is recommended that you refer the article on <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a> .  
 :::
 
 ## What are the attributes for Currency control?
 
-Consider the following image depicting the fields of the attributes section for currency control. Please note, there is only one field which is different from the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>  attributes. We shall discuss the same here.
+Consider the following image depicting the fields of the attributes section for currency control. Please note, there is only one field which is different from the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>  attributes. We shall discuss the same here.
 
 ![Image showing attributes of currency input](<Currency 2.png>)
 
@@ -48,5 +48,5 @@ Consider the following image depicting the fields of the attributes section for 
 
  :::
 
-As indicated earlier, the rest of the behaviour of currency control is identical to the <a href="https://rapiddocs.z8.web.core.windows.net/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. Please visit the same for detailed explanation of each of the attributes.
+As indicated earlier, the rest of the behaviour of currency control is identical to the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>. Please visit the same for detailed explanation of each of the attributes.
 
