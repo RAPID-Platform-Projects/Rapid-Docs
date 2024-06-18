@@ -20,4 +20,4 @@ You are tasked with designing such a form for your organisation.
 
 Below is a sample for Adaptive Document form.
 
-![Image showing a sample lead details capture form](<Adaptive activity.png>)
+![Image showing a sample lead details capture form](<./image Adaptive activity.png>)
