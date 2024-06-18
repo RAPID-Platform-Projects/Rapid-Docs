@@ -65,7 +65,7 @@ Just summon the element picker by clicking on the "+" icon. The "+" icon always 
 
 The element picker will allow you to add elements to your Adaptive Document, however, you still need to make the decision of selecting the right element that suits your requirement. 
 
-To learn more about each element's features, click here.
+To learn more about each element's features, <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/" target="_blank">**click here**</a>.
 
   :::note[Please note]
   You can add, delete multiple elements and also modify their sequence/ position / appearance on the composition area.  

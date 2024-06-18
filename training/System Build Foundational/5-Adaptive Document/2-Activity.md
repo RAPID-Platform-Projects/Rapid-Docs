@@ -15,5 +15,9 @@ You are tasked with designing such a form for your organisation.
 
 1. Create an Adaptive Document form 
 2. Create connection of the form with the data table (Lead Details)
-3. Add elements to design the Adaptive Document. Add proper headings, text, input fields from connected table etc.
-4. Add a submit button and configure it to the action of submitting form data to the system.
+3. Add elements to design the Adaptive Document. Add proper static text, input fields from connected table etc.
+4. Add a submit button and configure it to the action of submitting form data to the system.  
+
+Below is a sample for Adaptive Document form.
+
+![Image showing a sample lead details capture form](<Adaptive activity.png>)
