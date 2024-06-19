@@ -26,11 +26,11 @@ The provided cards are as follows:
 - **Outstanding Tasks** – Displays the number of tasks that are *Not Started* or *In Progress*
 - **Overdue Tasks** – Displays the number of tasks that are *Not Started* or *In Progress* and have passed their *Due Date*
 
-![A screenshot depicting the location and appearance of Cards on the Tasks Dashboard. One task card is blue and reads "Outstanding Tasks", and the other is red and reads "Overdue Tasks". The screenshot is annotated with a red box to highlight the location of the cards.](<PowerBi Cards.png>)
+![A screenshot depicting the location and appearance of Cards on the Tasks Dashboard. One task card is blue and reads "Outstanding Tasks", and the other is red and reads "Overdue Tasks". The screenshot is annotated with a red box to highlight the location of the cards.](<PowerBI Cards.png>)
 
 ### Task Table
 The Task Table displays the *Task, Assigned To, Start Date , Due date, Status, Overdue* (Red Flag = Overdue, Green Flag = On Track), *Days Over*, and *Link* to the Rapid item.
 
 It is an interactive visual, allowing users to click any row. When an element has been selected, the report visuals will highlight or filter based on the selected row.
 
-![A screenshot showing the location and appearance of the PowerBI Task table. This is a data table that contains a list of all active tasks in the Rapid site. The data table has the following headings: Task, Assigned To, Start Date, Due Date, Status, Overdue, Days Over, and Link. The screenshot is annotated with a red box to highlight the table's location.](<PowerBi Task Table.png>)
+![A screenshot showing the location and appearance of the PowerBI Task table. This is a data table that contains a list of all active tasks in the Rapid site. The data table has the following headings: Task, Assigned To, Start Date, Due Date, Status, Overdue, Days Over, and Link. The screenshot is annotated with a red box to highlight the table's location.](<PowerBI Task Table.png>)

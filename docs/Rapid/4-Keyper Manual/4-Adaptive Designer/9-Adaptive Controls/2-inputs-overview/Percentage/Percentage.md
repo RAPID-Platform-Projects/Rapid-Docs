@@ -26,7 +26,7 @@ Hence, to gain a comprehensive understanding of percentage control, it is recomm
 
 Consider the following image depicting the fields of the attributes section for percentage control. Please note, there is only one field which is different from the <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Number%20OR%20Decimal/" target="_blank">**Number control**</a>  attributes. We shall discuss the same here.
 
-![Image showing attributes to percentage input](<percentage 2.png>)
+![Image showing attributes to percentage input](<Percentage 2.png>)
 
 
    **Default value** - The number typed in this field becomes the default value for the element. If the user inputs a value to the element, then the default value will be replaced by the user entered value. If the user leaves the element blank, then the default value will be submitted as element value. 

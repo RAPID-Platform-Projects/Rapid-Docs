@@ -6,13 +6,13 @@ A toggle input (also known as the boolean input) is a type of input control that
 
 For example: Imagine you are creating a form which the users can use to fill in their medical history information. You want to provide a control where the users can input whether they have diabetes or not.
 
-![Image showing toggle input](<toggle 1.png>)
+![Image showing toggle input](<Toggle 1.png>)
 
 ## What are the attributes for toggle control?
 
 Consider the following image and corresponding list sequentially explaining the fields of the attributes section for toggle control.
 
-![Image showing various fields to configure toggle attributes](<toggle 2.png>)
+![Image showing various fields to configure toggle attributes](<Toggle 2.png>)
 
    **a. Label** - This field allows you to type the label to the toggle control. The label shall appear above the element in the Adaptive Document and is used to provide context for the user.
 
@@ -42,7 +42,7 @@ The element will mount with the default value on the Adaptive document.
    A default value may be useful when you feel most users will fill out the same value, however, you still want to give them a flexibility to change the value of the element. For example - you are seeking user's medical history and there is a question - "Do you have diabetes?" If you feel most users will answer it as "No", then you can set this as default value.  However, the user has the flexibility to input "Yes", and change it from default value.
    :::
 
-   ![Image showing label and default value for element](<toggle 4.png>)
+   ![Image showing label and default value for element](<Toggle 4.png>)
 
    **d. Force disable** - If this field is clicked ON, then it will supersede all enable conditions and the element will always remain in disabled mode.
 
@@ -78,7 +78,7 @@ The element will mount with the default value on the Adaptive document.
 
    **3. Checkbox** - As the name suggests, the appearance of this toggle type is different from that of Boolean type. This one appears like a Checkbox. However, just like Boolean type, the element may load with a blank (Not sure - third value), but once the user interacts with it, the system will force the user to select one of two values only.
  
-   ![Image showing comparison between three display types](<toggle 6.png>)
+   ![Image showing comparison between three display types](<Toggle 6.png>)
    
    The next three fields help define the option's appearance.
 
@@ -109,11 +109,11 @@ You can display an icon on the option. This icon appears next to the text in Boo
 1. Click on this field.
 2. The icon picker will open.  The icon picker has a list of 1389 icons. 
 
-![Image showing icon picker for button](<toggle 10.png>)  
+![Image showing icon picker for button](<Toggle 10.png>)  
 
 Each cell represents an icon with the icon image displayed on top and its title display below it. 
 
-![Image showing a cell in icon picker](<toggle 11.png>)  
+![Image showing a cell in icon picker](<Toggle 11.png>)  
 
 3. You can search for the icon from the search icons bar. The system matches the typed keyword with the icon title and displays all the icon cells that match. 
 
