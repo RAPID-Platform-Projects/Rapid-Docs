@@ -8,7 +8,7 @@ There is a unique category of item in Rapid called a **Task**. This is a special
 
 - [Creating, Editing, and Deleting Tasks](</docs/Rapid/2-Rapid Modules/1-Tasks/creating-editing-and-deleting-tasks/creating-editing-and-deleting-tasks.md>)
 
-There are two main methods of viewing your Rapid **Tasks**. The first method (using **Explorer**) will be explained in detail within this article. You can also read about an alternative method in the following article: [Tasks as a Standalone Experience](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md>)
+There are two main methods of viewing your Rapid **Tasks**. The first method (using **Explorer**) will be explained in detail within this article. You can also read about an alternative method in the following article: [Tasks as a Standalone Experience](</docs/Rapid/3-User Manual/5-Tasks Experience/5-Tasks Experience.md>)
 
 ### Benefits
 
