@@ -20,7 +20,7 @@ Wherever there is a requirement for the user to input a decimal value, the Numbe
 
 Consider the following image and corresponding list, sequentially explaining the fields of the attributes section for Number control.
 
-![Image showing attributes field for number control](<number 2.png>)
+![Image showing attributes field for number control](<Number 2.png>)
 
 
    **a. Label** - This field allows you to type the label to the Number control. The label shall appear above the element in the Adaptive Document and is used to provide context for the user.  
@@ -51,14 +51,14 @@ Consider the following image and corresponding list, sequentially explaining the
 
    You can type in any positive value using the keyboard. However, to enter a negative value you will have to use the down-arrow (decrement) from 0 value. For instance: if you want to set default value as -3.08, set the value as 0, then hit the decrement button 3 times, the field will show -3. You can now append .08 to set the default value as -3.08.
 
-   ![Image showing change in default value using buttons](<number 3.png>)
+   ![Image showing change in default value using buttons](<Number 3.png>)
    :::
 
    :::tip[Please note]
    A default value may be useful when you feel most users will fill out the same value, however, you still want to give them a flexibility to change the value of the element. For example - most people would want an office table of standard dimensions, however, someone may want to order a custom sized one.
    :::
 
-  ![Image showing label and default value](<number 4.png>)
+  ![Image showing label and default value](<Number 4.png>)
 
    **e. Force disable** - If this field is clicked ON, then it will supersede all enable conditions and the element will always remain in disabled mode.
 
@@ -82,7 +82,7 @@ Consider the following image and corresponding list, sequentially explaining the
 
    Further, with each click on the decrement button, the value will be reduced by 0.5 ie. 6, 5.5, 5 and so on.
 
-   ![Image showing increment and decrement in value using step size](<number 5.png>)
+   ![Image showing increment and decrement in value using step size](<Number 5.png>)
 
    :::tip[Please note]  
    You can increment and decrement values using the arrow keys of your keyboard as well.  
