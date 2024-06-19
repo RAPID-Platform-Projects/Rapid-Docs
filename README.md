@@ -107,3 +107,14 @@ To run the script:
 
 1) Install ts-node: `npm i -g ts-node`
 2) then run the script with ts-node: `npx ts-node ./generate-ai-indexs.ts`
+
+## Page self references
+
+To create an anchor link that references the current page you can use
+
+```MD
+[Link Text]: #AnchorName
+[Link Text]
+```
+
+This is part of the [Commonmark](https://spec.commonmark.org/0.31.2/#link-reference-definitions) specification

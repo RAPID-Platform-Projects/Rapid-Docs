@@ -4,19 +4,22 @@ import styles from "./styles.module.css";
 
 const features: any[] = [
   {
-    title: "Looking to get started?",
-    Svg: require("@site/static/img/RPD_logo_STK_2D.svg").default,
-    description: "Rapid Platform helps you manage your business. Check out our user manual to help you get the most out of your site."
+    title: "Wanting to get more from Rapid?",
+    Svg: require("@site/static/img/dashboard/Construction Logo.svg").default,
+    description: "Take control of your data and your business by shaping your Rapid site.",
+    link: "https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Introduction/"
   },
   {
-    title: "Start customizing your site",
-    Svg: require("@site/static/img/RPD_logo_STK_2D.svg").default,
-    description: "Take control of your data and your business by shaping your Rapid site."
+    title: "Developing something new?",
+    Svg: require("@site/static/img/dashboard/Spanner Logo.svg").default,
+    description: "Check out our developer docs for everything from API integration to full app development.",
+    link: "https://docs.rapidplatform.com/docs/Rapid/Developer%20Manual/API%20Concepts/"
   },
   {
     title: "Keep up to date",
-    Svg: require("@site/static/img/RPD_logo_STK_2D.svg").default,
-    description: "Stay up to date with the latest changes and new features coming to Rapid Platform."
+    Svg: require("@site/static/img/dashboard/Calendar Logo.svg").default,
+    description: "Stay up to date with the latest changes and new features coming to Rapid Platform.",
+    link: "https://docs.rapidplatform.com/changelog"
   }
 ];
 
@@ -25,7 +28,7 @@ function FeatureList() {
     <section className={styles.container}>
       <div className="row">
         {features.map((feature, i) => (
-          <FeatureCard Svg={feature.Svg} description={feature.description} title={feature.title} key={i} />
+          <FeatureCard Svg={feature.Svg} description={feature.description} title={feature.title} key={i} link={feature.link} />
         ))}
       </div>
     </section>

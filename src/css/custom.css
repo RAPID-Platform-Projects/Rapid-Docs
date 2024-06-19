@@ -60,6 +60,15 @@
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+.featureList .featureListDescription {
+  color: var(--ifm-color-primary-darkest);
+  text-decoration: none;
+}
+
+.link-no-hover:hover {
+  text-decoration: none;
+}
+
 .footer {
   background-color: var(--ifm-footer-background-color);
 }
