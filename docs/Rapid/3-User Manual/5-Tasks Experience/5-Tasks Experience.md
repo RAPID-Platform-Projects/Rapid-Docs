@@ -1,6 +1,6 @@
-# Tasks as a Standalone Experience
+# Tasks
 
-This is an alternative method of engaging with **Tasks**. 
+The Tasks experience provides a focused way to engage with task items.
 
 ### Benefits
 
@@ -48,7 +48,7 @@ To do this, navigate to `https://tasks.rapidplatform.com` and then enter your `t
 
 - You can find your login credentials by reading the [Accessing Your Site](</docs/Rapid/1-Getting Started/accessing-your-site/accessing-your-site.md>) article.
 
-It is preferable to navigate to your tasks experience [using direct URL](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md#via-direct-url>), to avoid needing to use the wizard each time you wish to access your tasks.
+It is preferable to navigate to your tasks experience **using direct URL**, to avoid needing to use the wizard each time you wish to access your tasks.
 
 ## Tasks Experience Layout
 
@@ -59,7 +59,7 @@ When you first open the Tasks Experience, it will look like the example below:
 What follows is an explanation of the labels that annotate the screenshot:
 
 1. **Menu Bar**
-    > Clicking on the **Tasks Logo** or **Arrow** beside it will return you to the [Login Wizard](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md#via-login-wizard>). This **Menu Bar** has additional functionality when an item is opened.
+    > Clicking on the **Tasks Logo** or **Arrow** beside it will return you to the **Login Wizard**. This **Menu Bar** has additional functionality when an item is opened.
 2. **List Toolbar**
     > This allows you to search for tasks, change your view, refresh the list of tasks, and navigate through the tasks you are permitted to see.
 3. **Tasks Form Area**
@@ -130,14 +130,14 @@ There are two methods for completing a task via the **Tasks Experience**.
 
 ### Pressing the Complete Button
 
-1. Go to the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md#menu-bar>) of the **Tasks Experience**
+1. Go to the *Menu Bar* of the **Tasks Experience**
 2. Press the **✓ Complete** button.
 
 ![A screenshot showing what the complete button looks like. The complete button is rendered with a checkmark. When the user's mouse hovers over the button, the button's background turns light green, and the word "Complete" turns dark green, along with the checkmark icon.](<Tasks XP Complete.png>)
 
 ### Changing the Status to "Completed"
 
-1. Go to the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md#menu-bar>) of the **Tasks Experience**
+1. Go to the *Menu Bar* of the **Tasks Experience**
 2. Press the **Status** drop down menu.
 
 ![A screenshot of the Status menu button. It is grey and reads "Not Started" in grey text. The user's pointer is hovering over the button.](<Tasks XP Status.png>)
@@ -150,4 +150,4 @@ There are two methods for completing a task via the **Tasks Experience**.
 
 ![A screenshot of the Status menu button, now changed to the "Completed" option. The button background has turned to green, and the text "Completed" appears in white text.](<Tasks XP Status Completed Finished.png>)
 
-5. Save the Task using the **Save** button in the [Menu Bar](</docs/Rapid/3-User Manual/2-Explorer/9-Tasks/Tasks-Experience.md#menu-bar>).
+5. Save the Task using the **Save** button in the *Menu Bar*.
