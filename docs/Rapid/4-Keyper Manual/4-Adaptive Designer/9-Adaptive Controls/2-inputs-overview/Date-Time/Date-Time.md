@@ -4,7 +4,7 @@
 
 A Date-Time control, in its most fundamental form, allows the user to input a timestamp accurate to the minute. The user can input a date, and a time reference in hours and minutes for that date.
 
-For example: Imagine you a scheduler application. Using this application, the users can schedule a meeting with the company representatives. In the application, the user will fill out a form giving out their details and convenient time slot. The users will need to pick a relevant date and time for the meeting. In such scenarios, you would want to include a Date-Time type input control.
+For example: Imagine you are creating a scheduler application. Using this application, the users can schedule a meeting with the company representatives. In the application, the user will fill out a form giving out their details and convenient time slot. The users will need to pick a relevant date and time for the meeting. In such scenarios, you would want to include a Date-Time type input control.
 
 ![Image showing Date and time input](<Date-Time1.png>)
 
