@@ -1,6 +1,6 @@
 # Challenge 1 Answers and Implementation
 
-The best option for *Stationery Inc.* would be a *Choice* column. The *Choice* datatype lets us create multiple options that someone can choose from. This means that the data won’t be mistyped, and it will be very easy to build views that can filter all the assets that have a certain choice selected.
+The best option for *Stationary Inc.* would be a *Choice* column. The *Choice* datatype lets us create multiple options that someone can choose from. This means that the data won’t be mistyped, and it will be very easy to build views that can filter all the assets that have a certain choice selected.
 
 ### 1. Name the choice column
 Title the column "Audit Action".

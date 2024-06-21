@@ -1,8 +1,8 @@
 # Understanding Tables via the Assets Module
 
 To demonstrate how to extend and customise a Rapid Standard module, consider the following scenario:
-1. The company *Stationery Inc.* has requested that you create a new table, that includes additional columns, and add it to the Assets module.
-2. This is because the company wishes to create a new category of asset. *Stationery Inc.* owns several very expensive coffee machines at their different offices, which often require maintenance, an employee responsible for cleaning the machine, and an employee responsible for buying the coffee beans.
+1. The company *Stationary Inc.* has requested that you create a new table, that includes additional columns, and add it to the Assets module.
+2. This is because the company wishes to create a new category of asset. *Stationary Inc.* owns several very expensive coffee machines at their different offices, which often require maintenance, an employee responsible for cleaning the machine, and an employee responsible for buying the coffee beans.
 
 ## Viewing and Editing Tables
 ### 1. Go to Designer	

@@ -3,8 +3,8 @@ Eventually, you will want to extend your Rapid site by adding new tables beyond 
 
 Read the scenario below for context.
 
-### *Stationery Inc.* Coffee Machines Scenario
-> The company *Stationery Inc.* owns several commercial-grade coffee machines at their various offices and warehouses. However, the company wishes to track additional information for their coffee machines, and so the general Assets table is no longer suitable.
+### *Stationary Inc.* Coffee Machines Scenario
+> The company *Stationary Inc.* owns several commercial-grade coffee machines at their various offices and warehouses. However, the company wishes to track additional information for their coffee machines, and so the general Assets table is no longer suitable.
 >
 > Our task is to create a table that will track the company's coffee machines, as well as: 
 > - The employee responsible for cleaning the machine at the end of each day

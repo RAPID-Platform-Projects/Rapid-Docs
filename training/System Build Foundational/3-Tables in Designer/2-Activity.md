@@ -1,6 +1,6 @@
 # Activity - Create table
 
-Put on the hat of the system builder of Stationery Inc. 
+Put on the hat of the system builder of Stationary Inc. 
 
 The Sales Manager of your organisation has requested for some infrastructure to record the details of the Sales Leads his team has been following up on.
 

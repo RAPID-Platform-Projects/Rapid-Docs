@@ -18,8 +18,8 @@ To access test environment use the following : **TBA**
 
 ## Scenario
 
-Imagine you are the system builder for a manufacturing company called *Stationery Inc.* This company produces writing materials, school supplies, and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
+Imagine you are the system builder for a manufacturing company called *Stationary Inc.* This company produces writing materials, school supplies, and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
 
-The clients for *Stationery Inc.* are segmented into three groups - primary and secondary education institutions, small businesses, and corporations. *Stationery Inc.* has also recently forayed into Publishing.
+The clients for *Stationary Inc.* are segmented into three groups - primary and secondary education institutions, small businesses, and corporations. *Stationary Inc.* has also recently forayed into Publishing.
 
 Keep this scenario in your mind moving forward, as the modules are based on this context.

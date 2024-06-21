@@ -1,6 +1,6 @@
 # Creating a New View
 
-We now have a way for *Stationery Inc.* to go through their company assets, and then note down what should happen for each asset. However, the company will quickly have a problem if they need to open every single asset to find out whether it needs to be sold, repaired, disposed of, etc.
+We now have a way for *Stationary Inc.* to go through their company assets, and then note down what should happen for each asset. However, the company will quickly have a problem if they need to open every single asset to find out whether it needs to be sold, repaired, disposed of, etc.
 
 Let’s create a new view, which will allow the company's auditors to quickly see all assets and their *Audit Action*. First, make sure you are on the main **Assets** table in **Explorer**. Now, press the view button, and select **Create View**.
 

@@ -1,6 +1,6 @@
 # Activity - Configure Item Details and Create Screen
 
-In the previous activity you had created a Table for the Sales Manager of your organisation - Stationery Inc.
+In the previous activity you had created a Table for the Sales Manager of your organisation - Stationary Inc.
 
 Now it is time to create the infrastructure to help Sales Team to record and view data into the Data Table. You need to:
 

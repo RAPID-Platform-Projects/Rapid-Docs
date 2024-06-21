@@ -2,7 +2,7 @@
 
 Let’s examine how to extend the **Assets** table, by adding a new column.
 
-*Stationery Inc.* have an annual audit of all their assets, and they want to track what should happen to each asset at this review. For instance, the IT Director may decide they want to remove a laptop from circulation because it is getting too old. 
+*Stationary Inc.* have an annual audit of all their assets, and they want to track what should happen to each asset at this review. For instance, the IT Director may decide they want to remove a laptop from circulation because it is getting too old. 
 
 The issue with the current **Asset** table is that it only tracks the current *Status* of an item. The IT Director could leave a note on the item, which states whether an asset should be sold, or recycled. However, the note would not allow us to filter a table and find all the assets that should be sold or recycled.
 
