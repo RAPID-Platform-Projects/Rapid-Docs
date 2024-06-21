@@ -35,6 +35,6 @@ Note that the following links will navigate you away from the **User Manual** an
 :::
 
 - [Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md "All about Tables in Designer")
-- [Features](/docs/Rapid/4-Keyper%20Manual/2-Designer/Permissions/feature-access-control/feature-access-control.md "All about Feature Control in Designer")
+- [Features](/docs/Rapid/4-Keyper%20Manual/2-Designer/8-Administration/feature-access-control/feature-access-control.md "All about Feature Control in Designer")
 - [Menus](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/3-Menus.md "All about Menus in Designer")
 - [Pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md "All about Pages in Designer")

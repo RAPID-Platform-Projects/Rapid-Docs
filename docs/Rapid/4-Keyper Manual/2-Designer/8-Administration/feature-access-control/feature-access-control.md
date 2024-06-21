@@ -24,7 +24,7 @@ Then, navigate to the *Permissions* tab.
 
 To enable *Access Control* press the **Enable** button. This will bring up the list of all Users and Groups that are currently enabled for this feature.
 
-![The enable access control button and adding users via search](<Adding a user permission.png>)
+![The enable access control button and adding users via search](<Adding a user permission.png>)  
 
 You can add more Users and Groups by searching for them and selecting them.
 
