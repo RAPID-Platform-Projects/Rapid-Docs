@@ -14,19 +14,17 @@ It is possible to enable *Access Control* on Explorer, Designer &amp; Workflow (
 
 Enabling *Access Control* on an experience is a simple process. First, navigate to any experience through the *Designer* navigation bar. *Rapid Experiences* will be listed under the sub-heading called *Features*.
 
-![Designer Features.png
+![Feature menu in Designer showing each experience](<Feature List.png>)
 
 Press one of these *Experiences* to open *Access Control*.
 
-![Designer Features - Permissions.png
-
 Then, navigate to the *Permissions* tab.
 
-![Designer Features - Access.png
+![Second tab on the experience page showing the permission tab](<Feature Permission Tab.png>)
 
 To enable *Access Control* press the **Enable** button. This will bring up the list of all Users and Groups that are currently enabled for this feature.
 
-![Designer Features - Adding User.png
+![The enable access control button and adding users via search](<Adding a user permission.png>)
 
 You can add more Users and Groups by searching for them and selecting them.
 
