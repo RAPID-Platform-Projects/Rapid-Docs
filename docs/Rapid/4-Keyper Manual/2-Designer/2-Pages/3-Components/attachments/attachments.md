@@ -22,16 +22,29 @@ Attachments are visible in the [Tasks experience](</docs/Rapid/3-User Manual/glo
 
     ![Display toggle](<../Display toggle.png>)
 
-:::note[Please note:]
+:::info[Note]
+The Attachments component displays the list of attached files in Explorer. This will not be visible to users in Explorer if there are no files attached.
 
-- The option to Edit preferences (pencil icon) is not present in this component.
-- The files uploaded in the Attachments component can be previewed using the [File Preview component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-preview/file-preview.md "What is a File Preview component on a Layout / Page?").
-- To effectively upload files in the Attachments component, it is important to have the [Document Storage (SharePoint Folder) configured in the Options Tab of the Table in Designer.](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md)
-- The Attachments component, although can be added to both Individual Item Level and Group Item List Level, logically it is meaningful to have it at the Individual Item Level.
+![A screenshot of how the attachments component is visible in Designer, but will become invisible in Explorer if no files are attached to the component. The screenshot is a comparison, with Designer on top and Explorer's view underneath.](<Attachments Designer.png>)
 :::
+
+## Enabling the Attachment File bar
+
+To provide the ability to upload files in Explorer, you need to enable the **Attachment File** bar from Tab Strip.
+
+1. Navigate to **Designer** of your desired Table.
+2. Go to the **Design Tab** and select **Singular** (Item level) set of pages
+3. On the **Tab Strip**, click the **Edit** icon.
+
+![A screenshot demonstrating the location and appearance of the "Edit" icon for the Tab Strip. The user has selected the pencil icon in the upper right corner. The screenshot is annotated with a red box to highlight the location of the button and is also annotated with text that reads "Click Edit icon".](<Designer Tab Strip Edit.png>)
+
+4. The **Tab Strip Edit Panel** will open showing the list of all the tabs
+5. Toggle the **Show Attachment File Bar** button for the tabs where you want to provide the users with ability to access Attachments.
+5. Click **Save**
+
+![A screenshot that demonstrates how to set the "Show Attachments" toggle so that users can see attachments on different tab strips of an item page.](<Show Attachments.png>)
 
 ## Related articles
 
-[**File Browser component**](../file-browser/file-browser.md "What is a File Browser component on a Layout / Page?")
-
-[**Embedded Files component**](../embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?")
+- [**File Preview** component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-preview/file-preview.md "What is a File Preview component on a Layout / Page?")
+- [**File Browser** component](../file-browser/file-browser.md "What is a File Browser component on a Layout / Page?")

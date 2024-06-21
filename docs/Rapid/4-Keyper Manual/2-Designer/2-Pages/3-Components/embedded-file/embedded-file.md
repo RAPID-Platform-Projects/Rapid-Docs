@@ -2,6 +2,9 @@
 
 ## Embedded Files component overview
 
+:::danger[Warning]
+This component is no longer supported following <a href="https://docs.rapidplatform.com/changelog/2024/05/05/2024-05-05-1.40.0%20-%20Rapid%20Platform/1.40.0%20-%20Rapid%20Platform" target="_blank">Update 1.40.0</a>
+
 Embedded files are a [pigeon hole](https://en.wikipedia.org/wiki/Pigeon-hole_messagebox) for files. They are useful as a clue for your users to upload, include or view a file in a page context. As embedded files are aware of any files uploaded within them, they also provide a mechanical way to determine if a file is uploaded.
 
 Each description for an embedded file (the embedded file definition) can contain a location within SharePoint to place the file. Due to this you can also think of embedded files as a window to a particular file (or files) somewhere in your system, allowing you to uplift a file from SharePoint to the interface.
