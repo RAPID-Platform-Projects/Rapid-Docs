@@ -2,7 +2,7 @@
 
 A board (also known as Kanban Board) is a visual tool that gives an overview of the current status of entities being tracked. 
 
-Imagine a Project Manager of a Stationary manufacturing company wants to have a snapshot of current status of various projects tasks in the organisation. These tasks should display information on the names of the Task Principal (person responsible for completing the subject Task) and respective Due Dates. Moreover, as needed, the Project Manager should be able to drag and drop tasks across categories to update status. This can be achieved using the Board Component.
+Imagine a Project Manager of a stationery manufacturing company wants to have a snapshot of current status of various projects tasks in the organisation. These tasks should display information on the names of the Task Principal (person responsible for completing the subject Task) and respective Due Dates. Moreover, as needed, the Project Manager should be able to drag and drop tasks across categories to update status. This can be achieved using the Board Component.
 
 The board component can provide a convenient view of a project's tasks organized across a choice field. In the below image _Not started_, _In progress_, _Completed_, _Aborted_ and _Failed_ are the Task's 'Status' column on which Task cards are categorized. 
 

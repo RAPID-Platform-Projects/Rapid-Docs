@@ -65,7 +65,7 @@ The first step in creating a **Process** is drawing the process diagram. This in
 Then, these processes can be drawn into an organisational flowchart using Rapid's **Workflow** [BPMN 2.0](https://www.bpmn.org/)-compliant drawing tool. It is a good idea to "segment" your process diagrams. That means to break each diagram up into as small a section as necessary.
 
 :::note[Example]
-Let's say your company sells Stationary, and you have been tasked with creating a diagram that creates two documents: one is a "daily summary of all sales", and the other is a summary of "leave requests for the day".
+Let's say your company sells stationery, and you have been tasked with creating a diagram that creates two documents: one is a "daily summary of all sales", and the other is a summary of "leave requests for the day".
 
 You should **avoid creating a single, complex diagram that achieves multiple goals**. Why? Having a process diagram that achieves multiple goals will become infinitely more complex: it will need to access more tables, more items, and the diagram itself will become more difficult to read and understand. Giving the diagram a title would become trickier. Additionally, it will become more difficult to "de-bug" or fix issues with the process if it is more complex.
 
