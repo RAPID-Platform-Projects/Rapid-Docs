@@ -54,8 +54,5 @@ Rapid Platform allows you to set up SharePoint folders for each item. The File B
 
 ## Related articles
 
-[File Preview component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-preview/file-preview.md "What is a File Preview component on a Layout / Page?")
-
-[Attachments component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?")
-
-[Embedded Files component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?")
+- [**File Preview** component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/file-preview/file-preview.md "What is a File Preview component on a Layout / Page?")
+- [**Attachments** component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?")

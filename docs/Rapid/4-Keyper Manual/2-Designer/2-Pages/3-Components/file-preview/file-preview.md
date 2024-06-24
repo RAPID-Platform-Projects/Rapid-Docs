@@ -8,7 +8,7 @@ While the [File Browser component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pa
 
 ## Important note:
 
-If there are no files to preview, a logical message is displayed (in Explorer) as below:
+If there are no files to preview, a message is displayed (in Explorer) as below:
 
 ![Blank file preview](<Blank file preview.png>)
 
@@ -39,8 +39,5 @@ The above message will appear if:
 
 ## Related articles
 
-[Image component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/image/image.md "What is an Image component on a Layout / Page?")
-
-[Attachments component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?")
-
-[Embedded Files component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/embedded-file/embedded-file.md "What is an Embedded Files component on a Layout / Page?")
+- [**File Browser** component](../file-browser/file-browser.md "What is a File Browser component on a Layout / Page?")
+- [**Attachments** component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/attachments/attachments.md "What is an Attachments component on a Layout / Page?")

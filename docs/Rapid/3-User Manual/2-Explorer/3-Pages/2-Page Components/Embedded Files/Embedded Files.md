@@ -1,6 +1,12 @@
 # Embedded Files
 The *Embedded Files* component allows you to attach files to an item in Rapid so that they are more visible, and have additional functionality.
 
+:::danger[Warning]
+This component is no longer supported following <a href="https://docs.rapidplatform.com/changelog/2024/05/05/2024-05-05-1.40.0%20-%20Rapid%20Platform/1.40.0%20-%20Rapid%20Platform" target="_blank">Update 1.40.0</a>
+
+Please use the <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Attachments/" target="_blank">Attachments</a> component to display files or attach them to items.
+:::
+
 ### Viewing Embedded Files in a Table
 While *Embedded Files* will appear as files in the default **Files** tab of an item's page, they are also visible when viewing an item in a Table. 
 
