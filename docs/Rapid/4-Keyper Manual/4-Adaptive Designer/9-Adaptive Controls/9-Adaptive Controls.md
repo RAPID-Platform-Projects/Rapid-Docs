@@ -74,8 +74,8 @@ This category includes all the controls that accept input from a user. For examp
 1. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Single%20line/" target="_blank">**Single line**</a>
 2. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Choice/" target="_blank">**Choice**</a>
 3. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Currency/" target="_blank">**Currency**</a>
-4. Date Time
-5. Date
+4. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Date-Time/" target="_blank">**Date-Time**</a>
+5. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Date/" target="_blank">**Date**</a>
 6. Email
 7. Multiple lines
 8. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Numbers/" target="_blank">**Number**</a>
@@ -83,7 +83,7 @@ This category includes all the controls that accept input from a user. For examp
 10. Radio
 11. Rating
 12. Slider
-13. Time
+13. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Time/" target="_blank">**Time**</a>
 14. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Toggle/" target="_blank">**Toggle**</a>
 15. <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/Adaptive%20Controls/inputs-overview/Whole%20Number/" target="_blank">**Whole Number**</a>
 16. Lookup
