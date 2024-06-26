@@ -2,11 +2,11 @@
 
 Welcome to Rapid Platform. This documentation site is structured to support users of various abilities and expertise.
 
-## Rapid Standard Docs
+## Rapid Business
 
-This section is useful for users who have purchased **Rapid Standard**, and are eager to learn about each of its modules and how they operate. **Rapid Standard** is a pre-built system suitable for a variety of companies. This documentation will provide a solid basis for companies who want to start using with Rapid without having to build their own system from scratch.
+This section is useful for users who have purchased **Business**, and are eager to learn about each of its modules and how they operate. **Business** is a pre-built system suitable for a variety of companies. This documentation will provide a solid basis for companies who want to start using with Rapid without having to build their own system from scratch.
 
-- [Visit the **Rapid Standard** documentation](</docs/Rapid/2-Rapid Modules/0-rapid-standard-home.md>)
+- [Visit the **Business** documentation](</docs/Rapid/2-Rapid Modules/0-rapid-standard-home.md>)
 
 ## User Manual Docs
 
