@@ -1,11 +1,11 @@
 ---
 id: rapidModulesHomepage
 ---
-# Rapid Modules Manual
+# Business Modules Manual
 
-Welcome to the **Rapid Modules** Manual.
+Welcome to the **Rapid Business Modules** Manual.
 
-**Rapid Modules** are tailored for businesses that seek a robust system without the complexities of extensive configuration. Whether you’re a growing enterprise or an established organisation.
+**Business Modules** are tailored for businesses that seek a robust system without the complexities of extensive configuration. Whether you’re a growing enterprise or an established organisation.
 
 The purpose of this documentation is to explain the modules themselves and how to use them.
 
