@@ -15,7 +15,8 @@
 
 4. Enter the relevant details. 
 
-:::[Note:] The “Assigned To” column will determine whose task list this will appear in. You can assign a task to a “Role” such as “WHS Team” and any members of that team will see the task in their task list on the “My Tasks” view.
+:::note
+The “Assigned To” column will determine whose task list this will appear in. You can assign a task to a “Role” such as “WHS Team” and any members of that team will see the task in their task list on the “My Tasks” view.
 :::
 
 ![A screenshot that shows the location and appearance of the New Task create screen. The screenshot is annotated with a red box to highlight the location the relevant fields for creating a new task.](<Task create panel.png>)

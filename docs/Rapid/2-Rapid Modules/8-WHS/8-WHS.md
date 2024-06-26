@@ -9,7 +9,3 @@ The **WHS** module contains the following features:
 2. [Automated notification for corrective actions](</docs/Rapid/2-Rapid Modules/8-WHS/2-corrective-actions/2-corrective-actions.md>)
 
 3. [License management and tracking](</docs/Rapid/2-Rapid Modules/8-WHS/3-licenses/3-licenses.md>)
-
-4. [Interactive reports and data visualisation](</docs/Rapid/2-Rapid Modules/8-WHS/4-WHS-reporting/4-WHS-reporting.md>)
-
-5. [Survey construction and distribution](</docs/Rapid/2-Rapid Modules/8-WHS/5-WHS-surveys/5-WHS-surveys.md>)
