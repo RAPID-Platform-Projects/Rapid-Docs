@@ -6,7 +6,7 @@ Requests can be created using the adaptive form. This form can be distributed th
 2.	Fill in the details as described in the form
 3.	Press **Submit**
 
-## Creating a Request via Explorer (Not Recommended)
+## Creating a Request via Explorer
 Alternatively, you may want to create a request using Explorer. This could be a more useful way for internal employees with access to the Rapid system to create requests. 
 1.	Navigate to **Support** > **Requests**
 

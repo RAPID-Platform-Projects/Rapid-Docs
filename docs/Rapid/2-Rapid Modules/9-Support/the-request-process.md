@@ -11,7 +11,8 @@ The Request Process is triggered from the creation of a request through the Adap
     - Resolve the task (and document the resolution in Rapid)
     - Leave comments and images (if applicable), that will automatically be sent to the requester  
 
-:::note[Note] In the case that this department was incorrectly chosen to resolve the request, they can reassign the request to another department who will then receive a task.
+:::note
+In the case that this department was incorrectly chosen to resolve the request, they can reassign the request to another department who will then receive a task.
 :::
 
 4. **Update Email:** The requester will receive an email once the status of the request is updated to “Cancelled” or “Resolved”. The email will be automatically generated, and include the *Comments to Send to Requester* details, as well as the *Requester Uploaded Files*.

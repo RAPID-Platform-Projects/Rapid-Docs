@@ -80,7 +80,7 @@ const config: Config = {
         {
           to: "docs/Rapid/Rapid Modules/rapidModulesHomepage",
           position: "left",
-          label: "Rapid Modules"
+          label: "Business Modules"
         },
         {
           type: "dropdown",
@@ -105,7 +105,7 @@ const config: Config = {
             {
               type: "docSidebar",
               sidebarId: "rapid_standard",
-              label: "Rapid Modules Manual"
+              label: "Business Modules Manual"
             },
             {
               type: "docSidebar",

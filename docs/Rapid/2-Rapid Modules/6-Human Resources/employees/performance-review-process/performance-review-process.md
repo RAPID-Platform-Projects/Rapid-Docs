@@ -28,7 +28,8 @@ The second way to trigger the process is by creating a “Performance Review” 
 
 Once triggered, the performance review process follows these stages:
 
-:::[Note:] All stages of this process can be customised to align with your specific business needs. Whether you want to modify email content sent to employees, or adjust the questions on the form, Rapid offers flexibility. Please reach out to a Rapid Consultant for assistance.
+:::note
+All stages of this process can be customised to align with your specific business needs. Whether you want to modify email content sent to employees, or adjust the questions on the form, Rapid offers flexibility. Please reach out to a Rapid Consultant for assistance.
 :::
 
 1. **Manager Meeting Confirmation:**
