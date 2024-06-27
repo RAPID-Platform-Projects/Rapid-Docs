@@ -54,7 +54,7 @@ Syncing is easy. With the the data prepared we press the Sync button in the bott
 
 ![Sync button location bottom left of screen](<Sync button location.png>)
 
-This brings up the syncing modal where we can choose if importing items triggers webhooks in the site. For our site it dosen't matter if webhooks are triggered so we will leave that unchecked. 
+This brings up the syncing modal where we can choose if importing items triggers webhooks in the site. For our site it doesn't matter if webhooks are triggered so we will leave that unchecked. 
 
 ![Sync modal with Trigger Webhooks checkbox and OK button](<Sync Modal.png>)
 
