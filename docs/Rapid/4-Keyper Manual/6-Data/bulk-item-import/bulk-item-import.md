@@ -40,7 +40,7 @@ Currently our data is in Excel.
 
 ![Screenshot of 340 rows of Excel leads data](<Example Data in Spreadsheet.png>)
 
-By copying and pasting, we can apply the content we want to upload to the site to the appropriate columns. Our source data does need a few tweaks, here we will change the date to be in `YYYY-MM-DD` format (for example, `2022-04-03`) and update the industry and lead source to match their ID's in our Rapid site. 
+By copying and pasting, we can apply the content we want to upload to the site to the appropriate columns. Our source data does need a few tweaks, here we will change the date to be in `YYYY-MM-DD` format (for example, `2022-04-03`), update the industry match their ID's in our Rapid site and update the Lead Status to match the choice field configuration. 
 
 ![Data sheet filled in with example data from Excel](<Leads Data input to the worksheet.png>)
 
