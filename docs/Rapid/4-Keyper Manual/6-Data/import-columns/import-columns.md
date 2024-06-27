@@ -1,4 +1,4 @@
-# Column importing examples
+# Column importing tips
 
 There are 13 different input column types and two presentation only column types. Here we will cover importing each type.
 
@@ -61,6 +61,20 @@ Multi-line columns store large amounts of formatted text. They otherwise behave 
 ### Lookups
 
 Lookup columns are stored as IDs. When importing data against a lookup column it needs to be provided the ID value of the item being targeted.
+
+Data supports Excel like formulas so you can reference ID fields across worksheets
+
+For example, here is a 'working' sheet set up with data from the site.
+![Worksheet with some example data](<Working Out Sheet.png>)
+
+From this sheet, we can reference the Industries and Businesses associated with the lead. 
+![Formula field referencing another cell in a worksheet](<Formula referencing another sheet.png>)
+
+:::tip
+Data is based off DHX Spreadsheet technology. You can find a list of supported functions [here](https://docs.dhtmlx.com/spreadsheet/functions/)
+:::
+
+Using this you can create an automatically updating system of IDs by reference.
 
 ### Users
 
