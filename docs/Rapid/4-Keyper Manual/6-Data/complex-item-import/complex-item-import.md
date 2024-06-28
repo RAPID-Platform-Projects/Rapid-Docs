@@ -1,6 +1,6 @@
 # Walkthrough : Importing complex items
 
-Building off [Importing Items](../bulk-item-import/bulk-item-import.md), adding a load of items into a site is fairly straight forward. Sometimes your data is a bit more complex and items depend on each other. In this walkthrough Stationary Inc. have a pair of Invoices they want to load into the system, but Invoices come with Invoice lines as well. We will cover creating both sets of items while also setting up the links between them using formulas.
+Building off [Importing Items](../bulk-item-import/bulk-item-import.md), adding a load of items into a site is fairly straight forward. Sometimes though, your data is a bit more complex and items depend on each other. In this walkthrough Stationary Inc. have a pair of Invoices they want to load into the system, but Invoices come with Invoice lines as well. We will cover creating both sets of items while also setting up the links between them using formulas.
 
 ## Initial setup
 
@@ -28,11 +28,13 @@ First lets load the bulk of the content into the Data sheet like normal. Note he
 
 ![Each sheet in data with the content loaded in columns](<Data loaded into sheets.png>)
 
-Now we need to populate the `invoice_id` column on Invoice lines. The problem we face is as the Invoices haven't been created yet, we don't know what ID to put in there.
+Now we need to populate the `invoice_id` column on Invoice lines. The problem we face is, as the Invoices haven't been created yet, we don't know what ID to use.
 
 There are a multitude of ways to approach this problem. You could create the invoices first, then copy the IDs over as appropriate. You could configure a formula in each cell to copy the ID value across the worksheet, essentially setting up the copy before uploading the Invoices. This second approach minimises the amount of time you have 'incomplete' data in your site.
 
-While both would be appropriate in this simple example, instead lets use a `XLOOKUP()` formula to determine the ID based on some known value in the Invoices. This approach works very well in realistic large scale scenarios where your source data isn't quite so pristine. To start, lets add the Invoice Reference against the appropriate Invoice Lines in the sheet on a blank column. You can add additional content like this in worksheets and Data will not attempt to sync them across, rather useful for cases like this.
+While both would be appropriate in this simple example, instead lets use a `XLOOKUP()` formula to determine the ID based on some known value in the Invoices. This approach works very well in realistic large scale scenarios where your source data isn't quite so pristine. 
+
+To start, lets add the Invoice Reference against the appropriate Invoice Lines in the sheet on a blank column. You can add additional content like this in worksheets and Data will not attempt to sync them across; rather useful for cases like this.
 
 ![Data invoice line sheet with Invoice References in a column with no heading](<Invoice references added to the sheet.png>)
 
