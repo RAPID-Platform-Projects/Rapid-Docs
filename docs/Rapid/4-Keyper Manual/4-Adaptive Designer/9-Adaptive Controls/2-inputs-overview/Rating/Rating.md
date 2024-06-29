@@ -12,6 +12,10 @@ In a rating element a set icon appears for a defined whole number count. This fo
 
 ![Image showing rating input](<Rating 4.png>)
 
+:::info[Please note]  
+Selecting a value in the Rating element is like typing that value in a whole number element. For instance, if the user selects 3 stars out of 5, the rating element will store the value as 3.  
+:::
+
 ## What are the attributes for rating control?
 
 Consider the following image and corresponding list sequentially explaining the fields of the attributes section for rating control.
