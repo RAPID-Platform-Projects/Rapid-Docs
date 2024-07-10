@@ -131,7 +131,8 @@ Currently supported OData syntax
 
 | Syntax | Purpose | Example |
 | --- | --- | --- |
-| eq | Equals - exact comparison between two values | title eq 'My Title' |
+| eq | Equals (exact comparison) | title eq 'My Title' |
+| ne | Not Equals (exact comparison) | status ne 'Active' |
 | lt | Less Than | due_date lt '2020-12-31T00:00:000Z' |
 | le | Less Than or Equal To | priority le 3 |
 | gt | Greater Than | cost gt 5000 |
@@ -142,7 +143,6 @@ Currently supported OData syntax
 | in() | At least one given value is a match | in('parent_id', 1,2,3) |
 | inUniversal() | At least one universal link is a match | inUniversal('Projects', 1, 2, 3) |
 | inScoped() | At least one given scoped link is a match | inScoped('Tasks', 'contributors', 8, 11, 31) |
-
 
 #### OData Function Reference
 
