@@ -1,4 +1,4 @@
-# Validation
+# Form Validation
 
 1) You have to have all the validation rules be true to submit
 2) Rule components that do not have a message are not blocking

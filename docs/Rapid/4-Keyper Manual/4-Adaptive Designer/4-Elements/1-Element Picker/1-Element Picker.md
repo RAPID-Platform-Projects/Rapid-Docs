@@ -1,6 +1,18 @@
 # Element Picker
 
-The element picker allows you to add elements to your Adaptive Document. 
+To design your desired Adaptive Document, it is important that you select the right <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**elements**</a> to your document.
+
+To add an element to your Adaptive Document's <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#composition-area" target="_blank">**Composition area**</a>, use the element picker.
+
+The element picker presents a list of <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**controls**</a> grouped across various categories. 
+
+:::info[Please note]
+This article discusses the controls that are present in an element picker by default. The controls that become available for selection in an element picker based on the connections to a data table are a subset of the Input category of controls (discussed below).  
+:::
+
+:::info[Please note]  
+A control may be present in two or more categories. However, the nature and features of the control does not change based on the category it is grouped in.   
+:::
 
 ## How does the Element Picker Work? (Controls vs. Elements)
 
