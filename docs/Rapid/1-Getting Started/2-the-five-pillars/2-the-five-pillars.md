@@ -63,5 +63,5 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 You can quickly build forms using the powerful **Elements Hierarchy**, and connect your form natively to the columns of your Rapid site. With **Adaptive Documents**, you can generate new items, create QR codes or shareable links to your form, generate personalised forms depending on the recipient, or even build forms that will generate repeating sections for multiple item-generation.
 
-- [**Keyper Manual:**](</docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-How to access Adaptive Designer/1-How to access Adaptive Designer.md>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
+- [**Keyper Manual:**](</docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-Adaptive Overview/1-Adaptive Overview.md>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
 - <a href ="https://docs.rapidplatform.com/training/System%20Build%20Foundational/Adaptive%20Document/Introduction%20to%20Adaptive%20Documents">**Adaptive Document Training:**</a> You can become an Adaptive Documents master using this training module package.

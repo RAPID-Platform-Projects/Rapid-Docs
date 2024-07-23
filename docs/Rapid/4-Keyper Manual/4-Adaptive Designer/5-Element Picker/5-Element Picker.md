@@ -1,8 +1,8 @@
-# Understanding the Element Picker
+# Element Picker
 
 The element picker allows you to add elements to your Adaptive Document. 
 
-## How does the Element Picker Work? (Control vs Element)
+## How does the Element Picker Work? (Controls vs. Elements)
 
 Using the Element Picker, you can select <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#control" target="_blank">**control(s)**</a>. These controls can then be configured as <a href="https://docs.rapidplatform.com/docs/Rapid/User%20Manual/glossary/#element" target="_blank">**element(s)**</a> as they are added to your Adaptive Document. 
 

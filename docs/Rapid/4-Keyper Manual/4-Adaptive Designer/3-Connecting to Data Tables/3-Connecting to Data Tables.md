@@ -1,4 +1,4 @@
-# How to configure connection with data table?
+# Connecting to Data Tables
 
 Establishing a connection with a data table enables the system to fetch and / or feed data to the data table from the form.   
 

@@ -1,4 +1,4 @@
-# Understanding the Overview Tab
+# Overview Tab
 
 The Overview tab allows you to view, update and configure information about the Adaptive Document.
 
