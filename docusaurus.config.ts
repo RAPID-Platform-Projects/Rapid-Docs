@@ -65,7 +65,7 @@ const config: Config = {
   //themes:['@docusaurus/theme-search-algolia'],
   themeConfig: {
     // Replace with your project's social card
-    image: "img/RPD_logo_STK_2D.png",
+    image: "img/PRO_logo_2D.png",
     navbar: {
       title: "Rapid Docs",
 
