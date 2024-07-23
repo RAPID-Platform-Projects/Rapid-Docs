@@ -1,4 +1,4 @@
-# Understanding Adaptive Document Canvas
+# Canvas
 
 Let us take a quick overview of the various elements of the Adaptive Document Canvas. Before we describe the same, it is important to note that Adaptive Documents provides the feature to open more than one forms simultaneously. However, only one of these open forms remain active with its components visible on the canvas.  
   

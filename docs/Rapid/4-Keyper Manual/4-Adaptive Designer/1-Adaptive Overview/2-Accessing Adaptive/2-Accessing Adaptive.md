@@ -1,4 +1,4 @@
-# Accessing Adaptive Designer
+# Accessing Adaptive
 
 You can access Adaptive Designer using this link: <a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
 

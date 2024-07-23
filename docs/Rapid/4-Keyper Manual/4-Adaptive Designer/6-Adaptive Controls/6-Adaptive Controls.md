@@ -14,7 +14,7 @@ This article discusses the controls that are present in an element picker by def
 A control may be present in two or more categories. However, the nature and features of the control does not change based on the category it is grouped in.   
 :::
 
-## Features common to all 
+## Common Features 
 
 Although every control has its own unique features, there are certain characteristics shared by all controls. These are:
 

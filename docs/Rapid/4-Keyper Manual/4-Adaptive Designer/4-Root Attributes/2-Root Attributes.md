@@ -1,4 +1,4 @@
-# Configuring Root Attributes
+# Root Attributes
 
 To configure the Root section properties, please consider the below points:
 
@@ -62,7 +62,7 @@ It is worth observing that both Justify children and Align children have the sam
    | | Option Definition | Vertical | Horizontal |
   | ------ | ------ | ------ | ------ | 
   | **Start** | Items are packed toward the start of the layout direction. Top for vertical, Left for horizontal | ![Image showing start justify vertical](vertical-start.png) | ![Image showing start justify horizontal](horizontal-start.png) | 
-  | **Center** | Items are centered along / across the line | ![Image showing center justify vertical](vertical-center.png) | ![Image showing center justify horizontal](horizontal-center.png) | 
+  | **Center** | Items are centred along / across the line | ![Image showing center justify vertical](vertical-center.png) | ![Image showing center justify horizontal](horizontal-center.png) | 
   | **End** | Items are packed toward the end of the layout direction. Bottom for vertical, Right for horizontal | ![Image showing end justify vertical](vertical-end.png) | ![Image showing end justify horizontal](horizontal-end.png) | 
   | **Stretch** | Item fills the container along the layout direction. Height for vertical, Width for horizontal | ![Image showing stretch justify vertical](vertical-stretch.png) | ![Image showing stretch justify horizontal](horizontal-stretch.png) | 
   | **Around** | Items are evenly distributed along the line with equal space around them. Note that visually the spaces aren’t equal, since all the items have equal space on both sides. The first item will have one unit of space against the container edge, but two units of space between the next item because that next item has its own spacing that applies. | ![Image showing around justify vertical](vertical-around.png) | ![Image showing around justify horizontal](horizontal-around.png) | 

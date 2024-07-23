@@ -1,4 +1,4 @@
-# Adaptive Overview
+# Introduction
 
 Introduction to what Adaptive Designer is:
 - What is it?

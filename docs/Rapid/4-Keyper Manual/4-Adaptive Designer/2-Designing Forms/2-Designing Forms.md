@@ -1,4 +1,4 @@
-# Designing an Adaptive Document Form
+# Designing Forms
 
 This article introduces the various options that will assist you in designing a basic Adaptive Form.
 
@@ -10,13 +10,13 @@ As you successfully create a form with a title, you will see a white rectangle i
 
 The white rectangle corresponds to the root section of the layout. As we will discuss now, all the elements and sections are added under this root section. 
 
-## Configuring the Root Section properties in Configuration Panel
+## Configuring the Root Section
 
 Before we get into constructing our first form by adding and configuring elements, the first step is to be aware of the Root Section properties.
 
 To learn how to configure attributes of root section <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20configure%20Attributes%20of%20Root%20Section/" target="_blank">**click here**</a>.
 
-## Configuring _Connection_ of Adaptive Document with Data Table(s)
+## Connecting Adaptive to Data Tables
 
 You can establish a connection of the Adaptive Document with data table. Connection with a data table means that the system can fetch or feed data directly from the form to the data table.   
 
@@ -61,7 +61,7 @@ However, the element picker can be called by clicking on the "+" icon when new e
 Just summon the element picker by clicking on the "+" icon. The "+" icon always appears at the top and bottom of the section.  
 :::
 
-## Understanding the various elements.
+## The Element Picker
 
 The element picker will allow you to add elements to your Adaptive Document, however, you still need to make the decision of selecting the right element that suits your requirement. 
 
