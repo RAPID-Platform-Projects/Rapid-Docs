@@ -1,18 +1,16 @@
 # Accessing Adaptive Designer
 
-You can access Adaptive Designer using the below link:
+You can access Adaptive Designer using this link: <a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
 
-<a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
-
-As you navigate to the above link, you will see a landing page as below:
+After clicking on the link, you will be directed to a landing page, as seen below:
 
 ![Image showing Landing Page for Adaptive Designer](<Adaptive Designer 1.png>)
 
 The landing page provides the option to login to the tenant, site and environment of your choice. The three fields are:
 
-1. Tenant - You can enter the tenant name here. 
-2. Site - Enter the site name here.
-3. Environment - Mark the checkbox to select whether you want to login to Test environment or Production environment.
+1. **Tenant** - You can enter the tenant name here. 
+2. **Site** - Enter the site name here.
+3. **Environment** - Mark the checkbox to select whether you want to login to Test environment or Production environment.
 
 You can then Sign into the site.
 
