@@ -13,11 +13,11 @@ To use Adaptive Documents, you will need to visit a URL separate from your Rapid
     - **Site** - Enter the site name here
     - **Environment** - Mark the checkbox to select whether you want to login to your *Test* environment or *Production* environment
 
-3. Press **Sign in with Microsoft 365** to log into the site
-
-:::tip[Please note]
+:::note[Note]
 The system will display the list of previously entered tenant and site names in respective fields.
 :::
+
+3. Press **Sign in with Microsoft 365** to log into the site
 
 Once you successfully log into **Adaptive Designer**, the screen below will appear:
 
