@@ -2,5 +2,5 @@
   "description": "A guide to using the CRM module of Rapid Standard",
   "overview": "Rapid Standard comes with a Customer Relationship Management (CRM) module to help you keep who you're working with organised. This tutorial will walk you through how to use this module and how to build and extend your own.",
   "icon": "fa-pen-ruler",
-  "reading_time": 12
+  "reading_time": 3
 }

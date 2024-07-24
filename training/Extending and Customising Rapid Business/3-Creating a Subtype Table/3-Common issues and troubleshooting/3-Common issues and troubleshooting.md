@@ -1,4 +1,4 @@
-# Common issues and troubleshooting
+# Common Issues and Troubleshooting
 
 ### Editing the Sidebar
 1.	Although the Coffee Machine appears in the sidebar, this does not match the other asset tables. It looks strange where it currently sits, at the bottom of the sidebar. Since we’re going to redesign the sidebar, we’ll need to go back into **Designer**.

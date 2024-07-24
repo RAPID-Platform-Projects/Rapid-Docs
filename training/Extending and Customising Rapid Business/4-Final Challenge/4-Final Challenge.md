@@ -1,6 +1,8 @@
-# Challenge 3: Extend the Assets Table with an assets subtype called "Real Estate"
+# Final Challenge
+Extend the Assets Table with an subtype table called **Real Estate**
+
 ## Scenario:
-> *Stationary Inc.* also has several stores around the country, and they would like to track these in their internal database.
+*Stationary Inc.* also has several stores around the country, and they would like to track these in their internal database.
 
 ## Instructions
 Below are the steps required to complete this task. Each step also contains a link back to different sections of the training to help you. However, try to  build the new table below from memory.

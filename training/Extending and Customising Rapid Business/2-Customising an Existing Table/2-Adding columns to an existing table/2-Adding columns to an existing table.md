@@ -33,7 +33,42 @@ So, which type of data is best for us? We *could* type our information into a si
     - A human can intuit that these are the same thing, but a computer cannot
 - It would make it extremely difficult to build a filter or view to see "all the assets that need to go into storage".
 
-## Challenge 1:** Decide on which datatype is most suitable
+## **Challenge 1:** Decide on which data type is most suitable
 Using the scenario described above, and decide which type of data should be selected for this column. When you are ready, progress to the next page to check your answer.
 
 > You can <a href="http://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/" target="_blank">click here</a> for an explanation of the different types of columns you can create in Designer.
+
+<details>
+<summary>Give me a hint</summary>
+<p>A <b>Single Line</b> text field and <b>Multiline</b> text field won't help us here.</p>
+<p><i>What if the data is mistyped?</i></p><p>If anything can be entered into a field, it will also make it more difficult to build a view to filter our assets. We need a type of field that restricts the data that can be entered.</p>
+</details>
+
+<details>
+<summary>Challenge 1 Solution</summary>
+<p>The best option for <i>Stationary Inc.</i> would be a <b>Choice</b> column. The <b>Choice</b> data type lets us create multiple options that someone can choose from. This means that the data won’t be mistyped, and it will be very easy to build views that can filter all the assets that have a certain choice selected.</p>
+
+<h3>1. Name the choice column</h3>
+<p>Title the column <b>Audit Action</b>.</p>
+
+<h3>2. Add the following options to the choice column</h3>
+<p>Once you have entered an option, press the <b>Enter</b> or <b>Return</b> key to add it. Alternatively, you can press the checkmark.</p>
+
+| Choices to Enter | Reasoning / Description |
+| --- | --- |
+| *No Action* | In case the asset has no problems. |
+| *Return* | For items under warranty. |
+| *Repair* | For assets that can be repaired. |
+| *Sell* | For assets that might be outdated or superseded. |
+| *Dispose* | For assets that cannot be repaired or sold. |
+
+<p><b>Note:</b> If needed, we can change the order that these options will appear in the dropdown menu, by clicking on a choice, dragging it to a new position, and then releasing it.</p>
+
+<h3>3. Enter a default value</h3>
+<p>For this example, <b>No Action</b> is the best default, because we can expect that the majority of Assets won’t require action.</p>
+<p>Your new field should look like the following:</p>
+![An example for Challenge 1 of the "Extending and Customising Modules" training package.](<Designer Audit Action Example.png>)
+
+<h3>4. Press Save</h3>
+<p>Scroll to the top of the Create New Asset sidebar, and press **Save**.</p>
+</details>
