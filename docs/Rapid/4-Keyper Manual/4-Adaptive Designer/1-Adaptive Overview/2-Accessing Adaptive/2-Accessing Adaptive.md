@@ -1,23 +1,24 @@
 # Accessing Adaptive
 
-You can access Adaptive Designer using this link: <a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
+To use Adaptive Documents, you will need to visit a URL separate from your Rapid site.
 
-After clicking on the link, you will be directed to a landing page, as seen below:
+1. Use this link: <a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
 
-![Image showing Landing Page for Adaptive Designer](<Adaptive Designer 1.png>)
+    After clicking on the link, you will be directed to a landing page, as seen below:
 
-The landing page provides the option to login to the tenant, site and environment of your choice. The three fields are:
+    ![Image showing Landing Page for Adaptive Designer](<Adaptive Designer 1.png>)
 
-1. **Tenant** - You can enter the tenant name here. 
-2. **Site** - Enter the site name here.
-3. **Environment** - Mark the checkbox to select whether you want to login to Test environment or Production environment.
+2. The landing page will request the tenant, site and environment of your choice:
+    - **Tenant** - You can enter the tenant name here 
+    - **Site** - Enter the site name here
+    - **Environment** - Mark the checkbox to select whether you want to login to your *Test* environment or *Production* environment
 
-You can then Sign into the site.
+3. Press **Sign in with Microsoft 365** to log into the site
 
 :::tip[Please note]
 The system will display the list of previously entered tenant and site names in respective fields.
 :::
 
-As you successfully login to the Adaptive Designer, a screen as shown below will appear:
+Once you successfully log into **Adaptive Designer**, the screen below will appear:
 
 ![Image showing Adaptive Designer screen](<Adaptive Designer 2.png>)
