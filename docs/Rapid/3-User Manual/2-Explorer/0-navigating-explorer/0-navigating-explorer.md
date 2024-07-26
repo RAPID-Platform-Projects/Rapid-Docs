@@ -52,7 +52,7 @@ By default, all **Tables** created in your Rapid site will be added to the **Exp
 
 ![A screenshot of a sidebar from Rapid Standard as an example. The sidebar is dark blue and has the Rapid name and logo at the top. Underneath are a list of menu items that will navigate the user. The menu items from top to bottom are: Organisation, Tasks, Assets, CRM, Finance, Projects, Human Resources, WHS, Policies, Support, and System. At the very bottom of the sidebar are buttons to navigate between core applications. This is explained further below.](<Explorer sidebar.png>)
 
-### Application Buttons
+### Experience Buttons
 
 #### Explorer
 
