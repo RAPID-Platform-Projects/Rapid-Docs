@@ -1,26 +1,19 @@
 # The Sidebar
 
-<div class="row">
-  <div class="col-md-4" markdown="1">
-  Some text. asdfa sdf asdf asdf asdf 
-  </div>
-  <div class="col-md-4" markdown="1">
-  Other text. asdf asdf asdf asdf asd 
-  </div>
-</div>
+<table>
+<tr>
+<td>
+<img src="Explorer sidebar.png" alt="A screenshot of a sidebar from Rapid Standard as an example. The sidebar is dark blue and has the Rapid name and logo at the top. Underneath are a list of menu items that will navigate the user. The menu items from top to bottom are: Organisation, Tasks, Assets, CRM, Finance, Projects, Human Resources, WHS, Policies, Support, and System. At the very bottom of the sidebar are buttons to navigate between core applications. This is explained further below."></img>
+</td>
+<td>
+<ul>The <b>sidebar</b> is the main method for navigating around your site.</ul>
 
-The **sidebar** is the main method for navigating around your site.
+<ul>You can minimise or expand the sidebar by clicking the arrow at the top.</ul>
 
-You can minimise or expand the sidebar by clicking the arrow at the top.
-
-Clicking on the **Rapid** logo in the upper left will return you to the site dashboard.
-
-![A screenshot of a sidebar from Rapid Standard as an example. The sidebar is dark blue and has the Rapid name and logo at the top. Underneath are a list of menu items that will navigate the user. The menu items from top to bottom are: Organisation, Tasks, Assets, CRM, Finance, Projects, Human Resources, WHS, Policies, Support, and System. At the very bottom of the sidebar are buttons to navigate between core applications. This is explained further below.](<Explorer sidebar.png>)
-
-
-
-
-
+<ul>Clicking on the <b>Rapid</b> logo in the upper left will return you to the site dashboard.</ul>
+</td>
+</tr>
+</table>
 
 Along the sidebar are menu buttons. There are several things that a menu button can do:
 
