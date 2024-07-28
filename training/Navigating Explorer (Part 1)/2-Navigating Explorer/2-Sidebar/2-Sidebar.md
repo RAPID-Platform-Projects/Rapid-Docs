@@ -40,6 +40,6 @@ As discussed, in this workshop we will be focused on understanding **Explorer**.
 
 ## Further Reading
 
-- [Explorer User Manual](/docs/Rapid/3-User%20Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md)
-- [Workflow User Manual](/docs/Rapid/3-User%20Manual/4-Workflow/4-Workflow.md)
-- [Designer User Manual](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md)
+- [Explorer User Manual](/docs/Rapid/3-User%20Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer)
+- [Workflow User Manual](/docs/Rapid/3-User%20Manual/4-Workflow/4-Workflow)
+- [Designer User Manual](/docs/Rapid/3-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer)
