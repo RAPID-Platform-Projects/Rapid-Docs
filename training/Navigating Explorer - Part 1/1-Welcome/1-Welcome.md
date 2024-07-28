@@ -20,6 +20,4 @@ In this training package, we will learn about the following key concepts:
 
 ## Further Documentation
 
-Each of these topics above are also covered in our **User Manual** documentation. However, this training package will aim to introduce each of these topics clearly and quickly.
-
-At the bottom of each lesson, several links to the **User Manual** will be provided if you would like additional information.
+Each of these topics above are also covered in our **User Manual** documentation. However, this training package will aim to introduce each of these topics clearly and quickly. At the bottom of each lesson, several links to the User Manual will be provided if you would like additional information.
