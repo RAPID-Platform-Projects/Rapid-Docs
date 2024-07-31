@@ -1,19 +1,27 @@
-# Pages
+# Pages and Tabs
 
-## What is a page?
+## What is a Page?
 
+A page is a container. We use pages to display tables in Explorer, as well as items and their information. Pages can also be used to hold visuals such as PowerBI reports or other data visualisations.
 
+## Why are Pages Useful?
 
-## Why are pages useful?
+- Pages can be edited, and their contents rearranged or changed completely
+- In the context of items, a page allows us to display or edit the data inside an item as though we were viewing a web form.
+- Item pages allow us to hone our focus onto just one row or item in the database and change any of the columns on that item.
 
-•	Later, we will learn that the components on both the item Details page, and the Create screen can be altered and arranged so that data entry becomes seamless for the user.
-•	Item pages allow us to hone our focus onto just one row or item in the database and change any of the columns on that item.
+## What is a Tab?
+
+Tabs allow us to quickly switch between pages. They sit below the *Command Bar* where we can 
+
+## Why are Tabs Useful?
+
 
 
 
 •	Return to the item, and discuss what is on the page
 o	Return to the Details page and discuss the other buttons in the Command Bar: save, save and close, delete, undo changes (when changes have been made), item history (and rollback), item refresh, permissions, and other linked items
-o	The webform, where the columns of the item can be edited
+o	The web form, where the columns of the item can be edited
 o	The asset ID number, which is displayed in the bottom-left corner of the page, and it is also displayed in the URL of the page
 o	The date the item was created and updated, and who it was created by and updated by
 
