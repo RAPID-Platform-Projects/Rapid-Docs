@@ -17,4 +17,4 @@ Most tasks within a business follow on from each other in broader processes. [Wo
 
 ## Collecting Information
 
-Sometimes you need to gather data from outside the business. [Public Forms](/docs/Rapid/4-Keyper%20Manual/4-Adaptive%20Designer/2-How%20to%20create%20a%20new%20Adaptive%20Document%20Form/2-How%20to%20create%20a%20new%20Adaptive%20Document%20Form.md) let you write custom forms that can be sent to individuals, or hosted more publicly to collect information from 3rd parties.
+Sometimes you need to gather data from outside the business. [Adaptive](/docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-Adaptive Overview/1-Adaptive Overview.md) let you write custom forms that can be sent to individuals, or hosted more publicly to collect information from 3rd parties.
