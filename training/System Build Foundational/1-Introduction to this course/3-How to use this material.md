@@ -1,6 +1,6 @@
 # How to use this training course material?
 
-The learning objective of this Foundational Training course is to instill confidence among System Builders with reference to Rapid Platform features.
+The learning objective of this Foundational Training course is to instil confidence among System Builders with reference to Rapid Platform features.
 
 This course is structured across the following modules:
 
@@ -30,7 +30,7 @@ This training course is not just about lessons, rather also activities. Across t
 _________________________
 ___________TBD - some sort of pointer to learners to access environment____________  
 
-We have provided a test environment for you to carryout these tasks and actually get a feel of how system elements are built in Rapid Platform. 
+We have provided a test environment for you to carry out these tasks and actually get a feel of how system elements are built in Rapid Platform. 
 
 To access test environment use the following :
 __________________________

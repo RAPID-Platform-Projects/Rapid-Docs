@@ -52,19 +52,19 @@ By default, all **Tables** created in your Rapid site will be added to the **Exp
 
 ![A screenshot of a sidebar from Rapid Standard as an example. The sidebar is dark blue and has the Rapid name and logo at the top. Underneath are a list of menu items that will navigate the user. The menu items from top to bottom are: Organisation, Tasks, Assets, CRM, Finance, Projects, Human Resources, WHS, Policies, Support, and System. At the very bottom of the sidebar are buttons to navigate between core applications. This is explained further below.](<Explorer sidebar.png>)
 
-### Application Buttons
+### Experience Buttons
 
 #### Explorer
 
 At the base of the **Sidebar** are several buttons used for navigating to other applications. When you are using **Explorer**, you will note that the **Explorer** button, which has an icon of a house, is highlighted.
 
-![Alt text](<Explorer Nav.png>)
+![A screenshot of the Explorer experience button at the bottom of the Sidebar. The screenshot is annotated with a red box to indicate the location and appearance of the button. The button contains an icon of a house.](<Explorer Nav.png>)
 
 #### Workflow
 
 You can navigate to **Workflow** using the centre button, which has an icon of a flow chart.
 
-![Alt text](<Workflow Nav.png>)
+![A screenshot of the Workflow experience button at the bottom of the Sidebar. The screenshot is annotated with a red box to indicate the location and appearance of the button. The button contains an icon of a flowchart.](<Workflow Nav.png>)
 
 - [Learn more about **Workflow** here](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>).
 
@@ -72,7 +72,7 @@ You can navigate to **Workflow** using the centre button, which has an icon of a
 
 You can also navigate to **Designer** using the button on the right. This button's icon resembles a ruler and a set square.
 
-![Alt text](<Designer Nav.png>)
+![A screenshot of the Designer experience button at the bottom of the Sidebar. The screenshot is annotated with a red box to indicate the location and appearance of the button. The button contains an icon of a ruler and set-square.](<Designer Nav.png>)
 
 - [Learn more about **Designer** here](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>).
 
