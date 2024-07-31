@@ -4,12 +4,6 @@
 
 Welcome to the first workshop in the Rapid Training Package. This workshop is aimed to be our most foundational session and will teach the beginner-friendly basics of working within the Rapid Explorer experience.
 
-In this course, we will begin with the basics of using Rapid. We will discuss:
-
-- Navigating around your site
-- Creating, editing, and deleting data
-- Useful terminology
-
 ## Topics Covered
 
 In this training package, we will learn about the following key concepts:
