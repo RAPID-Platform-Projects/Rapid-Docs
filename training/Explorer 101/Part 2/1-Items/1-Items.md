@@ -41,7 +41,7 @@ You will notice that the Columns we created (*Name*, *DOB*, and *Email*) have ch
 This is also where any fields that may have been hidden from view in the table can be viewed and edited.
 
 ## Saving Changes
-Any changes made to an item will need to be saved before they will take effect. To save the changes to an item, press the **Save** button, or the **Save and Close** button in the [Command Bar](</docs/Rapid/3-User Manual/glossary/glossary.md#command-bar>).
+Any changes made to an item will need to be saved before they will take effect. To save the changes to an item, press the **Save** button, or the **Save and Close** button in the [Command Bar](</docs/Rapid/User%20Manual/glossary/#command-bar>).
 
 ![A screenshot that shows the location of the "Save" and "Save and Close" buttons in the Command Bar. The buttons are annotated with a red box to show their location more clearly. The "Save" button has an icon of a Floppy Disk, and the "Save and Close" icon is stylised as a Floppy Disc, with an arrow pointing into a folder.](<Items Save.png>)
 
@@ -60,7 +60,7 @@ Instead of deleting an item, you could ask your System Administrator to ensure t
 
 ### Deleting Items via Tables
 
-1. Open a [Table](</docs/Rapid/3-User Manual/2-Explorer/1-Tables/1-viewing-data-using-tables/1-viewing-data-using-tables.md>) in [Explorer](</docs/Rapid/3-User Manual/2-Explorer/0-navigating-explorer/0-navigating-explorer.md>).
+1. Open a [Table](</docs/Rapid/User%20Manual/Explorer/Tables/viewing-data-using-tables/>) in [Explorer](</docs/Rapid/User%20Manual/Explorer/navigating-explorer/>).
 2. Select the item or items that you wish to delete
 3. In the *Command Bar*, note that the red button labelled **Delete X** has appeared.
 4. Press **Delete**.
@@ -103,4 +103,4 @@ Finally, I can also click this “go to” button, which will take me to the ite
 ![This is the same field as before. The screenshot is now annotated with ar ed box to highlight the location of the "go to" button on the lookup field.](<User Field Goto.png>)
 
 ## Further Reading
-- There is exhaustive documentation on items and how they work in the [User Manual](<./docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview>)
+- There is exhaustive documentation on items and how they work in the [User Manual](</docs/Rapid/User%20Manual/Explorer/Items/items-overview/>)

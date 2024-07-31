@@ -8,7 +8,7 @@ When a **view** is a filter on a table. **Views** allow you to:
 - Change which columns are displayed on the table
 - Limit which rows appear on the table (even when searched)
 
-:::Example[note]
+:::note[Example]
 Here is a table that is currently showing all of the **sales leads** that a company has. This table and its views comes packaged with Rapid Business.
 
 ![A screenshot of a data table that contains all of the leads a company has. The table has the following columns: Full Name, Company Name, Industry, No. of Employees, Annual Revenue, and Status. The list contains several example leads. Their statuses contain values such as: New, Nurture, Unresponsive, Contacted, and Converted.](<all leads.png>)
@@ -26,7 +26,7 @@ When a view is applied, it will display the data according to a set of rules tha
 
 You can also see that different columns are displayed. This new view chooses to hide the *No. of Employees* and *Status* columns. Instead, this view displays a new column of data called *Lead Manager*.
 
-:::Search[info]
+:::info[Search]
 You can also use the **Search Bar** on a table to quickly search a table's **view** for specific **items** or rows.
 
 ![A screenshot of a user who has searched the leads table for "Lakshmi". The data table now presents only one item in the table: a lead whose full name is "Lakshmi Patel". The screenshot is annotated with two red boxes. The first annotation indicates the location of the search bar and the fact that the user has typed the word "Lakshmi" into the search bar. The second red box annotation indicates which column produced a result "Full Name" and indicates that the item row was returned because this column contained the name "Lakshmi".](search.png)
