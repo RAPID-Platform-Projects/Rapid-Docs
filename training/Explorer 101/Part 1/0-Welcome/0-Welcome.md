@@ -1,7 +1,5 @@
 # Welcome
 
-![A banner image that describes the heading for this training course. It reads: "Navigating Explorer" and has an icon of a compass. The subheading reads: "Sidebar, Tables, and Views".](NavExplorer1Banner.png)
-
 Welcome to the first workshop in the Rapid Training Package. This workshop is aimed to be our most foundational session and will teach the beginner-friendly basics of working within the Rapid Explorer experience.
 
 ## Topics Covered

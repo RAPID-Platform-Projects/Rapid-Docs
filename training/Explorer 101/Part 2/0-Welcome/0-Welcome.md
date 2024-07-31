@@ -1,7 +1,5 @@
 # Welcome
 
-![A banner image that describes the heading for this training course. It reads: "Navigating Explorer" and has an icon of a compass. The subheading reads: "Items, Pages, Tabs, and Breadcrumbs".](NavExplorer2Banner.png)
-
 Welcome to the second workshop in the Rapid Training Package. This workshop is aimed to teach the beginner-friendly basics of working within the Rapid Explorer experience.
 
 ## Recap
