@@ -18,7 +18,7 @@ In this training package, we will learn about the following key concepts:
 - How items can be **linked** together to build connections between tables
 - How to **create** new items, or **edit** and **delete** existing items in your Rapid site
 
-:::Note[note]
+:::note[Note]
 This demonstration uses the **Employees** table from our Rapid Business product, as this is a simple table for demonstration purposes.
 
 If you haven't purchased Rapid Business, you can still benefit from this training, but won't be able to follow the process we use here exactly.

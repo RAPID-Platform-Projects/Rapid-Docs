@@ -1,6 +1,6 @@
 # Summary
 
-Today, we have completed the first workshop in the Rapid Training Package. This workshop explained the basics of working within the Rapid Explorer experience.
+Today, we have completed the second workshop in the **Explorer 101** training package. This workshop explained the basics of working within the Rapid Explorer experience.
 
 Specifically, in today’s session, we have learned the following key concepts:
 - How to navigate **Explorer** (using the Sidebar and its menus)

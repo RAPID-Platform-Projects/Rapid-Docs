@@ -74,5 +74,33 @@ Instead of deleting an item, you could ask your System Administrator to ensure t
 
     ![A screenshot showing how the Delete button appears on a page view of an item. The screenshot has been annotated with a red box to highlight the button's location. The delete button has red text that reads "Delete" and a red icon of a trash can. The rest of the screenshot is an example Employee page.](<Items Deleting Page.png>)
 
+## Linking Items Together
+
+It is possible to link an item to other items. For example, instead of typing in the name of our employee's manager, it would be better if we could link this employee item to another employee who is their direct manager.
+
+There are several methods for doing this, but for today we will just look at one method: the lookup field.
+
+![A screenshot that shows the location of the field and chevron button. This screenshot is annotated with a red box to indicate the location of the button. The chevron indicates that this field will open a drop-down panel.](<User Field Click.png>)
+
+We can click on the *Direct Manager* lookup field to change this employee's manager, or we can delete any data in this field, so this employee no longer has a manager.
+
+![A screenshot that demonstrates the appearance of the drop-down panel from a User Field or Lookup Field. There is a search bar at the top of the component. Below it is a list of employees. At the bottom is a "+ New Employee" button and a "X Clear" button. The right-hand side of the component is titled "Employee Views". It contains three views such as: "All", "Archived" and "Main".](<User Field Dropdown.png>)
+
+Notice that this lookup panel which opens is just a simplified way of displaying the employee table? I can search for an employee, select them, and then the field will display that employee's name here.
+
+![A screenshot of the "Direct Manager" field, now with data entered. The field now has the name "Stacey Queen" inside the field. Beside the name is an x for removing the data, a box with an arrow for "going to" the linked item, and a downwards chevron for opening the menu again.](<User Field Filled.png>)
+
+On the right-hand side, you can see the table views which allow us to filter our data, and the search bar to search for a particular employee.
+
+So, the lookup component is like a tunnel or a portal into another table, and we can connect two items on different tables using this component.
+
+What if I haven’t created the Employee yet, and I need to link to them? Well, the lookup field allows us to create new items by clicking on the field, and then pressing “New Employee”.
+
+![A screenshot of a portion of the lookup field. The screenshot is annotated with a red box to highlight the location and appearance of the "+ New Employee" button.](<User Field New Employee.png>)
+
+Finally, I can also click this “go to” button, which will take me to the item page for the manager.
+
+![This is the same field as before. The screenshot is now annotated with ar ed box to highlight the location of the "go to" button on the lookup field.](<User Field Goto.png>)
+
 ## Further Reading
 - There is exhaustive documentation on items and how they work in the [User Manual](<./docs/Rapid/3-User Manual/2-Explorer/2-Items/1-items-overview>)
