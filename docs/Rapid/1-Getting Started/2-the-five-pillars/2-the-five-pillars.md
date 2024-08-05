@@ -37,7 +37,7 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 - [**Craft Tailored Tables:**](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md>) Design tables that match your unique needs. Whether it’s organising complex data structures or creating a sleek, minimalist layout, Designer empowers you to craft tables that suit your vision.
 
-- <!-- Link to the intro to designer "**Customise Screens with Ease:**" --> Bring your data to life by customising screens effortlessly. From color schemes to layout intricacies, Designer puts the creative control in your hands, ensuring your interface reflects your brand and workflow.
+- <a href="https://docs.rapidplatform.com/training/System%20Build%20Foundational/Pages%20in%20Designer/Introduction%20to%20Pages">**Customise Screens with Ease:**</a> Bring your data to life by customising screens effortlessly. From color schemes to layout intricacies, Designer puts the creative control in your hands, ensuring your interface reflects your brand and workflow.
 
 - [**Refine Item Pages:**](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>) Elevate user experience by tailoring item pages to perfection. Edit, organise, and present information in a way that makes sense for your audience, all within the intuitive interface of Designer.
 
@@ -64,4 +64,4 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 You can quickly build forms using the powerful **Elements Hierarchy**, and connect your form natively to the columns of your Rapid site. With **Adaptive Documents**, you can generate new items, create QR codes or shareable links to your form, generate personalised forms depending on the recipient, or even build forms that will generate repeating sections for multiple item-generation.
 
 - [**Keyper Manual:**](</docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-How to access Adaptive Designer/1-How to access Adaptive Designer.md>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
-- <!-- #REE Link to intro to adaptive docs" **Adaptive Document Training:**" --> You can become an Adaptive Documents master using this training module package.
+- <a href="https://docs.rapidplatform.com/training/System%20Build%20Foundational/Adaptive%20Document/Introduction%20to%20Adaptive%20Documents">**Adaptive Document Training:**</a> You can become an Adaptive Documents master using this training module package.
