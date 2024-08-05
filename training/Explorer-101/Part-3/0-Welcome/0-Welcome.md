@@ -4,7 +4,7 @@ Welcome to the third workshop in this Rapid Training Package. This workshop is a
 
 ## Recap
 
-In the [previous training package](</training/Explorer 101/Part 2/0-Welcome/0-Welcome.md>), we discussed the following:
+In the [previous training package](</training/Explorer-101/Part-2/0-Welcome/0-Welcome.md>), we discussed the following:
 - How to **navigate inside** items on a table
 - How to see the **files** and **activity history** that is contained within each item
 - How items can be **linked** together to build connections between tables
