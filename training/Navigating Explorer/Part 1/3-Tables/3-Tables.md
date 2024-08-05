@@ -47,5 +47,5 @@ In the **sidebar** you will find most of the tables that are packaged with Rapid
 You can also use **views** to help you find the relevant information on a table. We will discuss **views** on the next page.
 
 ## Further Reading
-- A [one-page summary](<./docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Data%20Table>) that explains table functionality further
-- [The complete documentation on tables](<./docs/Rapid/User%20Manual/Explorer/Tables/viewing-data-using-tables>)
+- A [one-page summary](</docs/Rapid/User%20Manual/Explorer/Pages/Page%20Components/Data%20Table>) that explains table functionality further
+- [The complete documentation on tables](</docs/Rapid/User%20Manual/Explorer/Tables/viewing-data-using-tables>)

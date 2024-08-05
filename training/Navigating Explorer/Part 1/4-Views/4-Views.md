@@ -95,4 +95,4 @@ Using this option, we can also choose to **delete** a view, as long as it isn't 
 
 ## Further Reading
 
-- The [User Manual](<./docs/Rapid/User%20Manual/Explorer/Views/Views-Overview>) goes into extensive detail about how to configure views and gives more examples of how views work
+- The [User Manual](</docs/Rapid/User%20Manual/Explorer/Views/Views-Overview>) goes into extensive detail about how to configure views and gives more examples of how views work
