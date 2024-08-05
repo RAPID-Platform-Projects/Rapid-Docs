@@ -63,4 +63,4 @@ The default task details page contains:
 After making changes, ensure you press the **Save** or **Save and Close** buttons in the *Command Bar*.
 
 ## Further Reading
-- 
+- You can read more thorough documentation about tasks in the [User Manual](</docs/Rapid/3-User%20Manual/2-Explorer/9-Tasks/>)
