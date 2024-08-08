@@ -82,7 +82,7 @@ An example would be `2024-08-01T02:00:00.000Z`, which can be broken up into the 
 SQL Server provides the `format(value, format, [culture])` function to help us format this data.
 
 :::warning[Performance]
-In SQL Server, the `FORMAT()` function is 17-27 times slower than using `CONVERT()`. The only benefit of `FORMAT()` is that it is easier to use.
+In SQL Server, the `FORMAT()` function is <a href="https://www.sqlservercentral.com/articles/how-to-format-dates-in-sql-server-hint-dont-use-format">very slow</a>. Using this function on a will impact the performance of a table loading. It recommended instead to use `CONVERT()`, which will be outlined later in this article.
 :::
 
 It is the combination of letters (**glyphs**) that represent the relevant date or time data. 
@@ -90,27 +90,33 @@ It is the combination of letters (**glyphs**) that represent the relevant date o
 A table of potential display formats is below:
 
 ### Dates
-| Glyph | Result | Type |
+|  | Result | Type |
 | --- | --- | --- |
+| **Days** |
 | `d` | `1` to `31` | *Days* |
 | `dd` | `01` to `31` | *Days, with single digits formatted as 01, 02, 03, etc.* |
 | `ddd` | `Mon` to `Sun` | *Day names, abbreviated* |
 | `dddd` | `Monday` to `Sunday` | *Day names, full* |
+| **Months** |
 | `m` | `1` to `12` | *Months* |
-| `d` | `1` to `31` | *Days* |
 | `mm` | `01` to `12` | *Months, with single digits formatted as 01, 02, 03, etc.* |
 | `mmm` | `Jan` to `Dec` | *Month names, abbreviated* |
 | `mmmm` | `January` to `December` | *Month names, full* |
+| **Years** |
 | `y` or `yy` | e.g. `24` | *The current year, abbreviated* |
+| `yyyy` | e.g. `2024` | *The current year, full* |
 
 ### Times
-| Glyph | Result | Type |
+|  | Result | Type |
 | --- | --- | --- |
-| `tt` | `AM` or `PM` | *Meridiem* |
-| `t` | `A or P` | *Meridiem* |
+| **Meridiem** |
+| `tt` | `AM` or `PM` | *Time of day, full* |
+| `t` | `A or P` | *Time of day, abbreviated* |
+| **Hours** |
 | `H` or `HH` | `00` to `24` | *Military Hours* |
 | `h` | `1` to `12` | *Standard Hours* |
 | `hh` | `01` to `12` | *Standard Hours with 01, 02, 03, etc.* |
+| **Minutes** |
 | `mm` | `00` to `59` | *Minutes* |
 
 :::info[Capitalisation]
@@ -129,7 +135,7 @@ FORMAT(t.[start_date], 'dd/MM/yyyy')
 FORMAT(t.[start_date], 'HH:mm on dd/MM/yy')
 -- 02:00 on 01/08/24
 
-FORMAT(t.[start_date], 'Htt on dd/MM/yy')
+FORMAT(t.[start_date], 'htt on dd/MM/yy')
 -- 2AM on 01/08/24
 
 FORMAT(t.[start_date], 'ddd, d MMM `yy')
@@ -138,6 +144,22 @@ FORMAT(t.[start_date], 'ddd, d MMM `yy')
 FORMAT(t.[start_date], 'dddd, dd MMMM')
 -- Thursday, 01 August
 ```
+
+## CONVERT( )
+
+This is a much faster alternative to `FORMAT()`. It can be more difficult to produce the exact data desired, but not impossible. The general structure of this function is:
+
+`CONVERT(data_type(length), expression[, style])`
+
+So, when converting a **Date and Time** column's data, we could use the following query:
+
+```sql
+CONVERT(varchar(512), t.[start_date], 103)
+```
+
+`varchar(512)` declares the **type of data** we want to convert our result into, `t.[start_date]` is the **data** we want to convert, and `103` is the standard British/French date **style**.
+
+You can read <a href="https://learn.microsoft.com/en-us/sql/t-sql/functions/cast-and-convert-transact-sql?view=sql-server-ver16#date-and-time-styles">about all of the different date-time formats</a> that available using `CONVERT()`.
 
 ## Further Reading
 

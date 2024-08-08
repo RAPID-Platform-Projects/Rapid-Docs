@@ -36,7 +36,12 @@ We should keep this context in mind when examining the following common issues a
 ## Common Errors
 
 - [Invalid object name](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/invalid-object-name>)
+- [Invalid column name](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/invalid-column-name>)
+- [Incorrect syntax near](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/incorrect-syntax-near>)
 - [Subquery returned more than 1 value](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/subquery-returned>)
+- My query displays an error, but the [test field doesn't work](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/test-does-not-work>)
+- [My query displays an empty error message](</docs/Rapid/Keyper%20Manual/Designer/SQL/Errors/empty-error-message>)
+
 
 ## Further Reading
 

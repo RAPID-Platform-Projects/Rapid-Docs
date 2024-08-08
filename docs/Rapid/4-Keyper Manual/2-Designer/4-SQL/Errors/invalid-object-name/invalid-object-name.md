@@ -1,5 +1,8 @@
 # Error: "Invalid object name"
 
+### Issue:
+Your **computed** or **subquery** column returned an error stating that your code contains an "invalid object name".
+
 ### Cause:
 The table being referenced does not exist, or is misspelled.
 
@@ -29,7 +32,7 @@ You can check the database name of your tables by:
 
 ![A screenshot of the Designer > Tables page. The screenshot is annotated with a red box to denote the location and appearance of the tables' SQL or database names. For example, Accounts = account, Answers = answer, Assets = asset, Bill Lines = bill_line, Bills = bill.](table_name.png)
 
-Note that built-in tables may be turned hidden from this list (e.g. the **Principal** table).
+Note that built-in tables may be hidden from this list (e.g. the **Principal** table).
 
 You can reveal these by choosing the "Show Built-in Tables" checkbox at the top of the page.
 
