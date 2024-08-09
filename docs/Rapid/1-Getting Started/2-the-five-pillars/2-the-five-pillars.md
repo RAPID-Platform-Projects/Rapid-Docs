@@ -35,25 +35,25 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 **Designer** allows you to create a user-experience tailored to your company and its needs. Utilising a low-code environment, **Designer** is both quick to learn, while remaining powerful and flexible.
 
-- [**Craft Tailored Tables:**](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md>) Design tables that match your unique needs. Whether it’s organising complex data structures or creating a sleek, minimalist layout, Designer empowers you to craft tables that suit your vision.
+- [**Craft Tailored Tables:**](</docs/Rapid/Keyper%20Manual/Designer/Tables/all-about-tables-in-designer/>) Design tables that match your unique needs. Whether it’s organising complex data structures or creating a sleek, minimalist layout, Designer empowers you to craft tables that suit your vision.
 
 - <a href="https://docs.rapidplatform.com/training/Extending%20and%20Customising%20Modules/Introduction%20to%20this%20Course/Welcome%20note">**Customise Screens with Ease:**</a> Bring your data to life by customising screens effortlessly. From color schemes to layout intricacies, Designer puts the creative control in your hands, ensuring your interface reflects your brand and workflow.
 
-- [**Refine Item Pages:**](</docs/Rapid/4-Keyper Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md>) Elevate user experience by tailoring item pages to perfection. Edit, organise, and present information in a way that makes sense for your audience, all within the intuitive interface of Designer.
+- [**Refine Item Pages:**](</docs/Rapid/Keyper%20Manual/Designer/Pages/all-about-pages-in-designer>) Elevate user experience by tailoring item pages to perfection. Edit, organise, and present information in a way that makes sense for your audience, all within the intuitive interface of Designer.
 
-- [**Create and Modify Columns:**](</docs/Rapid/4-Keyper Manual/2-Designer/1-Tables/5-Table Configuration Guides/how-to-add-columns-to-a-data-table/how-to-add-columns-to-a-data-table.md>) Define your data with precision. Whether you’re creating new columns or modifying existing ones, Designer offers the tools you need to shape your data architecture with finesse.
+- [**Create and Modify Columns:**](</docs/Rapid/Keyper%20Manual/Designer/Tables/Table%20Configuration%20Guides/how-to-add-columns-to-a-data-table/>) Define your data with precision. Whether you’re creating new columns or modifying existing ones, Designer offers the tools you need to shape your data architecture with finesse.
 
-- [**Advanced Editing Tools:**](</docs/Rapid/3-User Manual/3-Designer/1-what-is-designer/1-what-is-designer.md>) Dive deep into the details with advanced editing tools designed for the seasoned user. From complex data relationships to nuanced design elements, Designer ensures you have the tools necessary for intricate customisation.
+- [**Advanced Editing Tools:**](</docs/Rapid/User%20Manual/Designer/what-is-designer/>) Dive deep into the details with advanced editing tools designed for the seasoned user. From complex data relationships to nuanced design elements, Designer ensures you have the tools necessary for intricate customisation.
 
 ## Workflow
 
 ![A screenshot that demonstrates the appearance of a Workflow webpage. The screenshot has a the side panel in dark blue on the left-hand side. On the right-hand side of the image, on a white and grey background, is the area for editing workflows and building automated processes. This process has been run successfully. The diagram is highlighted in green to show the route that the workflow took in order to complete the process run.](<Workflow Example.png>)
 
-- [**Automate with Precision:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Say goodbye to manual tasks and hello to automation excellence. Design workflow diagrams effortlessly using **BPMN**, ensuring your processes run smoothly and without a hitch.
+- [**Automate with Precision:**](</docs/Rapid/User%20Manual/Workflow/>) Say goodbye to manual tasks and hello to automation excellence. Design workflow diagrams effortlessly using **BPMN**, ensuring your processes run smoothly and without a hitch.
 
-- [**Execute Complex Tasks:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Streamline your operations by creating workflows that execute complex tasks seamlessly. From task creation to intricate item management, **Workflow** puts you in control.
+- [**Execute Complex Tasks:**](</docs/Rapid/User%20Manual/Workflow/>) Streamline your operations by creating workflows that execute complex tasks seamlessly. From task creation to intricate item management, **Workflow** puts you in control.
 
-- [**Trigger Dynamic Processes:**](</docs/Rapid/3-User Manual/4-Workflow/4-Workflow.md>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
+- [**Trigger Dynamic Processes:**](</docs/Rapid/User%20Manual/Workflow/>) Set triggers that kickstart dynamic processes automatically. Whether it’s sending notifications, updating data, or initiating multi-step procedures, **Workflow** ensures your processes are triggered precisely when needed.
 
 ## Adaptive Documents
 
@@ -63,5 +63,5 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 You can quickly build forms using the powerful **Elements Hierarchy**, and connect your form natively to the columns of your Rapid site. With **Adaptive Documents**, you can generate new items, create QR codes or shareable links to your form, generate personalised forms depending on the recipient, or even build forms that will generate repeating sections for multiple item-generation.
 
-- [**Keyper Manual:**](</docs/Rapid/4-Keyper Manual/4-Adaptive Designer/1-How to access Adaptive Designer/1-How to access Adaptive Designer.md>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
-- <a href ="https://docs.rapidplatform.com/training/System%20Build%20Foundational/Adaptive%20Document/Introduction%20to%20Adaptive%20Documents">**Adaptive Document Training:**</a> You can become an Adaptive Documents master using this training module package.
+- [**Keyper Manual:**](</docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/>) Our manual for key personnel will explain the fundamentals of using Adaptive Documents.
+- [**Adaptive Document Training:**](/training/System%20Build%20Foundational/Adaptive%20Document/Introduction%20to%20Adaptive%20Documents) You can become an Adaptive Documents master using this training module package. 

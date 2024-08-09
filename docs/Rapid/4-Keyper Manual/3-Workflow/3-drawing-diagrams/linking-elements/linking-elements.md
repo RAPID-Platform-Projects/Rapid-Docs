@@ -48,7 +48,7 @@ Selecting an item, and then selecting an element from the [Configuration Panel](
 
 ## Linking Elements via Drag-and-Drop
 
-An element can be linked to other elements by dragging and dropping it onto a [sequence flow](</docs/Rapid/4-Keyper Manual/3-Workflow/11-flows/11-flows.md>).
+An element can be linked to other elements by dragging and dropping it onto a [sequence flow](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/11-flows/11-flows.md>).
 
 1. Select an element to be added to the flow
 

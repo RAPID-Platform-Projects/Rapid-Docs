@@ -5,7 +5,7 @@ The **Data Store Reference** or "Data Can" is used for both retrieving items fro
 | Element Type | Symbol | Function |
 | --- | --- | --- |
 | **Get Item** | ![The "Data Store Reference: Get Item" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. ](<Workflow Data Can.png>) |  Fetches a single item from a Rapid Table using an item *id*. |
-| **Get Items** | ![The "Data Store Reference: Get Items" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. Note that this is the same icon as the previous one.](<Workflow Data Can.png>) | Fetches multiple items from a Rapid Table using: a selected table view, a [lodash array expression for *selection*](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-arrays-with-lodash/formatting-arrays-with-lodash.md>) and a [lodash expression for *filtering*](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>). |
+| **Get Items** | ![The "Data Store Reference: Get Items" icon. This icon resembles a database can, or database stack: a cylinder that is bisected at its top. Note that this is the same icon as the previous one.](<Workflow Data Can.png>) | Fetches multiple items from a Rapid Table using: a selected table view, a [lodash array expression for *selection*](</docs/Rapid/Keyper%20Manual/Workflow/lodash/formatting-arrays-with-lodash/>) and a [lodash expression for *filtering*](</docs/Rapid/Keyper%20Manual/Workflow/lodash/filtering-values-with-lodash/>). |
 
 ## Data Associations
 
@@ -18,5 +18,5 @@ Doing this will allow you to update the data that was retrieved
 When you click on a **Data Association**, it enables you to set up the specific data that the **Data Association** will modify, as well as the new values that will be assigned to this data.
 
 :::info[Tokens]
-Tokens will not travel down a **Data Association**. The diagram should use [Sequence Flows](</docs/Rapid/4-Keyper Manual/3-Workflow/11-flows/11-flows.md#sequence-flow>) or [Default Flows](</docs/Rapid/4-Keyper Manual/3-Workflow/11-flows/11-flows.md#default-flow>) to control the direction of tokens.
+Tokens will not travel down a **Data Association**. The diagram should use [Sequence Flows](</docs/Rapid/Keyper%20Manual/Workflow/element-types/flows/#sequence-flow>) or [Default Flows](</docs/Rapid/Keyper%20Manual/Workflow/element-types/flows/#default-flow>) to control the direction of tokens.
 :::

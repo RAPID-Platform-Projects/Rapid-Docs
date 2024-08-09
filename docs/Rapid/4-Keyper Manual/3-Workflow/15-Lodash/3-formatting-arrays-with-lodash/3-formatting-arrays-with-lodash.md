@@ -1,4 +1,4 @@
-# Formatting Arrays with Lodash
+# Formatting Arrays
 
 A get all items service task will return an array of item profiles. In this case, to format the values as you want is different to if you are returning a single item. In order to do this the .map method must be used.
 
@@ -31,8 +31,6 @@ In the case above, because we only want to format the 'amount' property that is 
 
 ## Related articles
 
-- [How to **filter values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/filtering-values-with-lodash/filtering-values-with-lodash.md>)
-
-- [How to **format values** in a lodash expression](</docs/Rapid/4-Keyper Manual/3-Workflow/formatting-values-with-lodash/formatting-values-with-lodash.md>)
-
-- [How to **fill document** using a service task](</docs/Rapid/4-Keyper Manual/3-Workflow/8-tasks/service-task/fill-document/fill-document.md>)
+- [How to **filter values** in a lodash expression](</docs/Rapid/Keyper%20Manual/Workflow/Lodash/filtering-values-with-lodash/>)
+- [How to **format values** in a lodash expression](</docs/Rapid/Keyper%20Manual/Workflow/Lodash/formatting-values-with-lodash/>)
+- [How to **fill document** using a service task](</docs/Rapid/Keyper%20Manual/Workflow/element-types/tasks/service-task/fill-document/>)
