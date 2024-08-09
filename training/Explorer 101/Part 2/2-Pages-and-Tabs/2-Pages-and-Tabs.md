@@ -43,5 +43,4 @@ The *Activity Tab* is another good example. It contains a timeline and version h
 ![A screenshot of the activity feed as it appears in a tab. It has a heading that reads "Employee Timeline". There is a timeline of events with most recent events at the top and oldest events at the bottom. There is also a textbox where notes and discussions can be made.](<activity feed.png>)
 
 ## Further Reading
-- You can learn more about **Pages** in the [User Manual](<./docs/Rapid/3-User%20Manual/2-Explorer/3-Pages>)
-- There is also exhaustive documentation on all the [Page Components](<./docs/Rapid/3-User%20Manual/2-Explorer/3-Pages/2-Page%20Components>) that were not discussed in this lesson
+- You can learn more about **Pages** in the [User Manual](</docs/Rapid/User%20Manual/Explorer/Pages>)

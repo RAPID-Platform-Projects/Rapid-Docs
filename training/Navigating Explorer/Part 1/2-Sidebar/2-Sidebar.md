@@ -24,7 +24,7 @@ At the bottom of the sidebar are three **experience buttons**. These buttons all
 - Allows you to view the data in your site
 - Allows you to edit, add, or delete data
 - Has an icon of a **house** to represent "home". This is because it is the experience you will use the most.
-- You can read detailed documentation for **Explorer** in the [Explorer User Manual](<./docs/Rapid/User%20Manual/Explorer/navigating-explorer>)
+- You can read detailed documentation for **Explorer** in the [Explorer User Manual](</docs/Rapid/User%20Manual/Explorer/navigating-explorer>)
 
 ### Workflow
 
@@ -32,7 +32,7 @@ At the bottom of the sidebar are three **experience buttons**. These buttons all
 
 - An advanced experience, that allows you to automate processes for your business
 - An icon of a **flowchart** is used to represent the programming interface that Workflow uses.
-- You can read the introductory documentation for **Workflow** in the [Workflow User Manual](<./docs/Rapid/User%20Manual/Workflow>)
+- You can read the introductory documentation for **Workflow** in the [Workflow User Manual](</docs/Rapid/User%20Manual/Workflow>)
 
 ### Designer
 
@@ -40,7 +40,7 @@ At the bottom of the sidebar are three **experience buttons**. These buttons all
 
 - Allows you to build the site that is visible in Explorer (e.g. new pages, new tables, new menu buttons, etc.)
 - Has an icon of a **ruler and a set square** because it is used to design new data structures and interfaces for your site.
-- You can read the introductory documentation for **Designer** in the [Designer User Manual](<./docs/Rapid/User%20Manual/Designer/what-is-designer>)
+- You can read the introductory documentation for **Designer** in the [Designer User Manual](</docs/Rapid/User%20Manual/Designer/what-is-designer>)
 
 :::note[Returning to the Dashboard]
 If you ever become lost while navigating through your site, you can click on the **Rapid logo** in the sidebar to return to the **Explorer** experience, and its **Dashboard** page.

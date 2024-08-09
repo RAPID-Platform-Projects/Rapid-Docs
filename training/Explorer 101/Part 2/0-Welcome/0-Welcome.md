@@ -4,7 +4,7 @@ Welcome to the second workshop in the Rapid Training Package. This workshop is a
 
 ## Recap
 
-In the [previous training package](<./docs/training/Navigating%20Explorer%20-%20Part%201/0-Welcome>), we discussed the following:
+In the [previous training package](</training/Explorer%20101/Part%201/Welcome/>), we discussed the following:
 - How to navigate **Explorer** (using the Sidebar and its menus)
 - What **Tables** and **Views** are, and why are they important
 - **How to find data** using tables and views
