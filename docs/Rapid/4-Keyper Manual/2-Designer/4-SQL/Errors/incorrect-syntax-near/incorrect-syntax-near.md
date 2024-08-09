@@ -19,7 +19,7 @@ SELECT t.[start_date]
 
 ### Solution 2: Check all functions are compatible with SQL Server
 
-Not all SQL functions or commands are compatible with the version of SQL Server that runs Rapid. For example, if we run the following depreciated code, it will result in a syntax error.
+Not all SQL functions or commands are compatible with the version of SQL Server that runs Rapid. For example, if we run the following depreciated code, it will result in a syntax error. For full documentation on valid SQL syntax, check out the [T-SQL docs](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16).
 
 ```sql
 RAISERROR 5005 'Raise Custom Error Message'

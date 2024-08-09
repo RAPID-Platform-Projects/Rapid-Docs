@@ -42,7 +42,7 @@ Both **Computed** and **Subquery** fields can be created and edited like a usual
 
 ### Query Code
 
-Below the warning to the user, there is a text field with a green outline for entering your SQL code. In the upper right corner, a status message indicates that the query is working correctly.
+Below the warning to the user, there is a text field with a green outline for entering your SQL code. Rapid Platform uses [T-SQL from Microsoft](https://learn.microsoft.com/en-us/sql/t-sql/language-reference?view=sql-server-ver16). In the upper right corner, a status message indicates that the query is working correctly.
 
 ![A closer-up screenshot of the Query Code field. It contains a green outline and a message that the code is working correctly, with the display "Query OK" and a checkmark in green.](query_code.png)
 
