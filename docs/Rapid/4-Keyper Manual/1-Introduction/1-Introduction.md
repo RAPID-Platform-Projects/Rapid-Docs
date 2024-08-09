@@ -9,7 +9,7 @@ The Rapid Platform is a highly customisable solution for managing business data.
 - [Pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md) that present and collect data
 - [Views](/docs/Rapid/3-User%20Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md) that filter and sort data into logical chunks
 
-For a more in-depth set of examples check out our <a href="https://docs.rapidplatform.com/training">Training</a> modules, especially <a href="https://docs.rapidplatform.com/training/Extending%20and%20Customising%20Modules">Extending and Customising Modules</a>.
+For a more in-depth set of examples check out our <a href="https://docs.rapidplatform.com/training">Training</a> modules, especially <a href="https://docs.rapidplatform.com/training/Making%20Rapid%20Business%20Your%20Own/Part%201/Welcome">Extending and Customising Modules</a>.
 
 ## Managing Processes
 
