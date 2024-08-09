@@ -38,7 +38,6 @@ The below table provides the keyword that needs to be entered in the App field t
 | Explorer | Explorer |
 | Designer | Designer |
 | Workflow | Workflow |
-<!-- Matt: Can adaptive forms be called now via open app menu option? -->
 
 *Please note that you need to enter the Keywords exactly as matching here. However, these keywords are not case sensitive.*
 
