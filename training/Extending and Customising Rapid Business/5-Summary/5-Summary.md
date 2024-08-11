@@ -1,6 +1,6 @@
 # Summary
 
-Congratulations on completing the "Extending and Customising Modules" training. You should now be confident with:
+Congratulations on completing the **Extending and Customising Rapid Business** training. You should now be confident with:
 
 1. Adding tables and table subtypes, and building UI components so that data can be added into these tables.
 

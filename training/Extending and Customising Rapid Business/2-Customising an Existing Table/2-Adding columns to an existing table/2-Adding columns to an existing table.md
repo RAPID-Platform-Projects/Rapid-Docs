@@ -67,8 +67,7 @@ Using the scenario described above, and decide which type of data should be sele
 <h3>3. Enter a default value</h3>
 <p>For this example, <b>No Action</b> is the best default, because we can expect that the majority of Assets won’t require action.</p>
 <p>Your new field should look like the following:</p>
-![An example for Challenge 1 of the "Extending and Customising Modules" training package.](<Designer Audit Action Example.png>)
-
+<img src="Designer Audit Action Example.png" alt="An example for Challenge 1 of the 'Extending and Customising Modules' training package." />
 <h3>4. Press Save</h3>
 <p>Scroll to the top of the Create New Asset sidebar, and press **Save**.</p>
 </details>
