@@ -66,6 +66,7 @@ In the above image, the active form ("Marketing Request") is in Edit mode (becau
 
 12. These are the configuration categories, which include:
     a. **Attributes** - allows the user to define how the element appears
+    
     ![A zoomed-in view of the larger screenshot earlier. This is a screenshot of the "attributes" section in the "element configuration panel". In this example, the only option that is current set is the "Label", which is set to "Title".](12a.png)
     
     b. **Conditions** - defines logic which governs when the element can be enabled, or appear, etc.
