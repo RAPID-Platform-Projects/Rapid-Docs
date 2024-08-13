@@ -1,1 +1,0 @@
-# Element level conditions
