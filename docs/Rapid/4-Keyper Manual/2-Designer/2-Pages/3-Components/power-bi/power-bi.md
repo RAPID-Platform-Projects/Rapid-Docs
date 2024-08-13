@@ -62,7 +62,3 @@ To display a report that only displays items (instead of entire views or tables)
 The user can select an existing report from the Power BI workspace OR can upload a new report. This is very similar to the [PowerBI Report component](</docs/Rapid/Keyper%20Manual/Designer/Pages/Components/power-bi/>).
 
 ![Configuring item level component in Explorer](<Configuring item level component in Explorer.png>)
-
-## Related articles
-
-[External Page component](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/3-Components/external-page/external-page.md "What is an External Page component on a Layout / Page?")
