@@ -4,7 +4,7 @@ One can argue that a large part of business management is ***data management***.
 
 Rapid Platform enables organisations to manage their data more efficiently. Using Rapid infrastructure, businesses can create their own custom database tables for storage and maintenance of business data. Further, it can integrate with Microsoft Power BI and allow users to create their own reports. These reports help business users to slice, dice and interpret information in a more meaningful manner. So whether a user wants to view sales charts by geography, an employee workload report or project status report with reference to schedule, everything easily possible via Rapid Platform.
 
-Further, one cannot deny that processes are an integral part of every business. Business ***operations management*** is synonymous with business process management in many ways. Moreover, business processes are unique to every business, hence a its not a one-size-fits-all solution. 
+Further, one cannot deny that processes are an integral part of every business. Business ***operations management*** is synonymous with business process management in many ways. Moreover, business processes are unique to every business, hence a its not a one-size-fits-all solution.
 
 Rapid Platform provides businesses with the flexibility to easily draw their own business process diagrams which automate business operations. Rapid Platform provides a BPMN 2.0 based business process automation engine which is capable of fetching data from the databases and perform defined actions automatically. The best part is - its a ZERO CODE environment.
 
