@@ -2,9 +2,9 @@
 
 The learning objective of this Foundational Training course is to instil confidence in System Builders, and teach the core features of Rapid Platform.
 
-This course is structured across the following modules:
+This course is structured across the following lessons:
 
-| Course | Content |
+| Lesson | Content |
 | --- | --- |
 | [Introduction to Designer](</training/System%20Build%20Foundational/Introduction%20to%20Designer/>) | Understanding the experience where you will build your data structure, and design the UI for your system. |
 | [Tables in Designer](</training/System%20Build%20Foundational/Tables%20in%20Designer/Introduction%20and%20Creation%20of%20Tables>) | How to create a new database table and add columns to a table. |
@@ -17,7 +17,7 @@ We recommend using a [test environment](</docs/Rapid/Getting%20Started/accessing
 
 ## Scenario for learning activities
 
-The below scenario will set the context for all the task activities that you will receive in across the various learning modules. The activities will have a business context based on the below scenario:
+The activities in this training package are based on the following scenario:
 
 :::note[Scenario]
 Imagine you are the system builder for a manufacturing company called Stationary Inc. Stationary Inc. is into production of writing material, school supplies and office supplies. Its product line includes envelops, writing notepads, pens, pencils, erasers, letterheads, etc. 
