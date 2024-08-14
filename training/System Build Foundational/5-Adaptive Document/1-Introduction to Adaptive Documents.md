@@ -1,4 +1,4 @@
-# Introduction to Adaptive Documents
+# Adaptive Documents
 
 Every system, in general, and every information system, in particular, have three components:
 
