@@ -6,7 +6,7 @@ It's with great pleasure and excitement that we welcome you to this Rapid Platfo
 
 As a system builder, you will be crafting the infrastructure to capture, present, and orchestrate data across the Rapid Platform environment for your organisation's stakeholders. 
 
-This course intends to give you basics to get started in Rapid Platform and create a fundamental, yet functional system. At the end of this course, you will feel confident in using Rapid Platform and be able to create simple applications that can transform your business operations. 
+This course intends to give you basics to get started in Rapid Platform. It will also help you to create a simple, yet functional system. At the end of this course, you will feel confident in using Rapid Platform and be able to create simple experiences that can transform your business operations. 
 
 We understand that learning a new platform can be challenging, but we assure you that this course is designed to be engaging, informative, and fun.
 

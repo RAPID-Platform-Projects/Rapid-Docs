@@ -1,4 +1,4 @@
-# How to use this training course material?
+# How to Use This Training Material
 
 The learning objective of this Foundational Training course is to instil confidence among System Builders with reference to Rapid Platform features.
 
