@@ -4,7 +4,7 @@ The Rapid Platform is a highly customisable solution for managing business data.
 
 ## Managing Items
 
-[Items](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md) are the foundational unit of data throughout Rapid. They represent the data you want to collect, like a spreadsheet. Creating a good item ecosystem helps your Users to manage business data and keep things organised. Parts of a good item ecosystem include:
+[Items](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md) are the foundational unit of data throughout Rapid. They represent the data you want to collect, like a spreadsheet. Creating a good item ecosystem helps your Users to manage business data and keep things organised. Parts of a good item ecosystem includes:
 - [Tables](/docs/Rapid/4-Keyper%20Manual/2-Designer/1-Tables/1-all-about-tables-in-designer/1-all-about-tables-in-designer.md) that represent the data for your business
 - [Pages](/docs/Rapid/4-Keyper%20Manual/2-Designer/2-Pages/1-all-about-pages-in-designer.md) that present and collect data
 - [Views](/docs/Rapid/3-User%20Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md) that filter and sort data into logical chunks
