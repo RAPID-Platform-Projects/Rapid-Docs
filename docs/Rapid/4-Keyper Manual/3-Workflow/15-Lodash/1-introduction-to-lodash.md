@@ -21,7 +21,3 @@ For example, we could have a **Service Task** that **Triggers a Webhook** with a
 ```
 
 In the example above, we can see `<%= StartEvent_1.properties.full_name %>` can be concatenated into the message string to dynamically add a name, and `<%= StartEvent_1.properties.mobile_phone %>` allows a mobile number to be dynamically added as well.
-
-## Workflow Labels
-
-We can also call elements in our workflow using Lodash. For example, if we have a **Get All Items** data can reference on our 
