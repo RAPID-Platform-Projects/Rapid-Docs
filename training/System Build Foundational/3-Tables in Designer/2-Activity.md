@@ -21,8 +21,6 @@ Make sure you choose the correct column type for each of these columns (e.g. Sin
 
 <details>
 <summary><b>Hint</b></summary>
-<br>
-
 | Column Title | Column Type |       
 |------|------|
 | Company Name | Single line of Text |
@@ -35,6 +33,5 @@ Make sure you choose the correct column type for each of these columns (e.g. Sin
 | Lead Manager | User |
 | Interests | Multiline of Text |
 </details>
-<br>
 
 Once you have successfully completed this activity, please proceed to the next lesson.

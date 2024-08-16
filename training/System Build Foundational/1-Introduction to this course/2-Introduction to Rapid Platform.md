@@ -34,4 +34,4 @@ Rapid Platform combats these grass-roots level problems, and helps build efficie
 
 ## Key Pillars to Rapid Platform
 
-Rapid Platform stands on certain fundamental experiences. These can be considered as the ***Pillars to Rapid Platform***. You can read about these experiences in [Docs &gt; Getting Started &gt; The Five Pillars](</docs/Rapid/Getting%20Started/the-five-pillars/>).
+Rapid Platform stands on certain fundamental experiences. These can be considered as the ***Pillars to Rapid Platform***. You can read about these experiences in <a href="https://docs.rapidplatform.com/docs/Rapid/Getting%20Started/the-five-pillars/" target="_blank">Docs &gt; Getting Started &gt; The Five Pillars</a>.

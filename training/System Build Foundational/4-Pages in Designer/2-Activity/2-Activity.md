@@ -19,18 +19,18 @@ Provide a form which the Sales Team can use to record Lead's information.
 
 ![Image showing sample of Create Screen](<Create Screen.png>)
 </details>
-<br>
+<br></br>
 <details>
 <summary><b>Activity Solution</b></summary>
-<br>
-
-1) Go to **Leads** table, which as created in Designer during the previous activity
-2) Go to **Details** tab
-3) Navigate to the **Singular** set, using the dropdown menu
-4) In the **Details** tab, add required fields to the form component
-5) Add a **Label** to the form component
-6) Resize and reposition the fields as needed
-7) Click **Save**
-8) Go to the **Create Screen** to resize and reposition fields as needed
-9) Click **Save**
+   <ol>
+   <li>Go to **Leads** table, which as created in Designer during the previous activity</li>
+   <li>Go to **Details** tab</li>
+   <li>Navigate to the **Singular** set, using the dropdown menu</li>
+   <li>In the **Details** tab, add required fields to the form component</li>
+   <li>Add a **Label** to the form component</li>
+   <li>Resize and reposition the fields as needed</li>
+   <li>Click **Save**</li>
+   <li>Go to the **Create Screen** to resize and reposition fields as needed</li>
+   <li>Click **Save**</li>
+   </ol>
 </details>
