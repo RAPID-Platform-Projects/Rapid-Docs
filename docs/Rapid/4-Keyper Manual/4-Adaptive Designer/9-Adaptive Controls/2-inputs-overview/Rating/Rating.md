@@ -75,7 +75,7 @@ Consider the following image and corresponding list sequentially explaining the 
 
    In case you set the default value > the Count value, then the element will display the count as default value.  
    
-   ![Image showing hte case of default value greater than count](<rating 7.png>)
+   ![Image showing hte case of default value greater than count](<Rating 7.png>)
    :::
    
    **h. Class names** - In this field, you can type the name of the CSS class and the element will be styled as per the CSS class definition.
