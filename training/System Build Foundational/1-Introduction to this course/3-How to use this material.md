@@ -6,8 +6,8 @@ This course is structured across the following lessons:
 
 | Lesson | Content |
 | --- | --- |
-| **Introduction to Designer**) | Understanding the experience where you will build your data structure, and design the UI for your system. |
-| **Tables in Designer**) | How to create a new database table and add columns to a table. |
+| **Introduction to Designer** | Understanding the experience where you will build your data structure, and design the UI for your system. |
+| **Tables in Designer** | How to create a new database table and add columns to a table. |
 | **Pages in Designer** | An introduction to Pages, Layouts and Components in Rapid Platform's UI. |
 | **Adaptive Documents** | An introduction to the Adaptive Designer Experience, and its power to create digital forms. |
 
