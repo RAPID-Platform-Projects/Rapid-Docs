@@ -1,17 +1,26 @@
-# Activity - Create table
+# Activity - Create a Table
 
-Put on the hat of the system builder of Stationary Inc. 
+:::warning[Practice in a Test Environment]
+When learning, ensure you are using a test environment when completing activities, so that you do not adversely affect your production environment.
+:::
 
-The Sales Manager of your organisation has requested for some infrastructure to record the details of the Sales Leads his team has been following up on.
+The Sales Manager of Stationary Inc. has requested that you build infrastructure for recording the details of the **Sales Leads** his team has been following up on.
 
-He needs to capture details like lead's name, email, Phone number, status of the lead (to track whether the lead is a prospect / opportunity/ requires nurturing/ has become a client/ lost ), estimated value of business, Lead manager, Interests of lead.
+You are asked to build the following table titled **Lead Details**, which includes the following columns:
 
-**HINT**
+- Company Name
+- First Name
+- Email
+- Phone Number
+- Lead Status
+- Estimated Value
+- Lead Manager (an employee within your company)
+- Interests
 
-Create a Table titled - **Lead Details**
+Make sure you choose the correct column type for each of these columns (e.g. Single Line of Text, or Choice, or Email, etc.)
 
-Add the following columns:  
-
+<details>
+<summary><b>Hint</b></summary>
 | Column Title | Column Type |       
 |------|------|
 | Company Name | Single line of Text |
@@ -23,8 +32,6 @@ Add the following columns:
 | Estimated Value | Currency (Select AUD) |
 | Lead Manager | User |
 | Interests | Multiline of Text |
+</details>
 
-
-To create your Lead Details Table, use the test environment here:
-
-Once you have successfully completed this activity, please proceed to the next module.
+Once you have successfully completed this activity, please proceed to the next lesson.

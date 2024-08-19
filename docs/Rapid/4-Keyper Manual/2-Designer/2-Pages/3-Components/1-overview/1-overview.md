@@ -23,7 +23,7 @@ In Rapid Platform you can work with a set of components:
 15. [Linked Items](../linked-items/linked-items.md "What is a Linked Items component on a Layout / Page?")
 16. [Pipeline](../pipeline/pipeline.md "What is a Pipeline component on a Layout / Page?")
 17. [PowerBI Report](../power-bi/power-bi.md "What is a PowerBi Report component on a Layout / Page?")
-18. [PowerBI Report - Item Level](../power-bi-item/power-bi-item.md "What is a PowerBI Report - Item Level component on a Layout / Page?")
+18. [PowerBI Report - Item Level](</docs/Rapid/Keyper%20Manual/Designer/Pages/Components/power-bi/#powerbi-reports-on-the-item-level>)
 19. [Process Diagram](../process-diagram/process-diagram.md "What is a Process Diagram component on a Layout / Page?")
 
 ## Related articles
