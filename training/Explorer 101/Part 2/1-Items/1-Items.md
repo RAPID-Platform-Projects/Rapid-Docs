@@ -1,6 +1,8 @@
 # Items
 
-First, let's navigate to the **Employees** table in Rapid Business. 
+
+
+An alternate approach to the video above, let's navigate to the **Employees** table in Rapid Business. 
 
 1. Navigate to the Assets page by clicking on **Human Resources** &gt; **Employees** in the *Explorer* side bar. Alternatively, your site may contain an **Organisation** folder at the top of the *Sidebar* that also contains a link to the **Employees** page.
 
