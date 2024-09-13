@@ -1,6 +1,6 @@
 # Forms and Processes
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=T8iFlrw80ig&list=PLE-vqQfUUbCKxRPhe5ZHAkgD9qlZhIpUJ&index=5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T8iFlrw80ig?si=oPFTQaDFaEROzLYC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Let's take a closer look at how a form can be embedded in a task item. In *Rapid Business*, the **Assets** module allows us to track our company's assets and create **Service Logs** for these assets.
 
