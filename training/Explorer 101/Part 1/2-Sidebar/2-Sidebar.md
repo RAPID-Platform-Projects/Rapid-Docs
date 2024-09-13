@@ -1,5 +1,7 @@
 # The Sidebar
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=xGhKa2IV5Mw&list=PLE-vqQfUUbCKxRPhe5ZHAkgD9qlZhIpUJ&index=3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 The **sidebar** is the main method for navigating around your site.
 
 You can **minimise** or **expand** the sidebar by clicking the chevron in the upper right.
