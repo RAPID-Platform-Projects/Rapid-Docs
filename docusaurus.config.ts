@@ -165,6 +165,10 @@ const config: Config = {
             {
               label: "Github",
               href: "https://github.com/rapid-platform/public-docs"
+            },
+            {
+              label: "Feedback",
+              href: "https://rpform.io/grxAZ"
             }
           ]
         }
