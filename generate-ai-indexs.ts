@@ -112,7 +112,7 @@ function generateIndexDocuments() {
     });
   }
 
-  traverseFileTree("./docs");
+  traverseFileTree("./docs/Rapid");
 
   function getFirstHashTag(strArr) {
     for (const a of strArr) {
