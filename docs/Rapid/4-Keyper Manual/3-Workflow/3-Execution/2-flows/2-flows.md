@@ -32,10 +32,10 @@ A **Conditional Flow** is created when conditional logic is applied to **Sequenc
 
 To create a **Conditional Flow**:
 
-1. Create a flow or link between items using the **Global Connect** tool in the [Toolbar](</docs/Rapid/4-Keyper Manual/3-Workflow/2-drawing-tools/2-drawing-tools.md>), or via the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/4-element-types/4-element-types.md#configuring-an-elements-type>).
+1. Create a flow or link between items using the **Global Connect** tool in the [Toolbar](</docs/Rapid/4-Keyper Manual/3-Workflow/2-Drawing/1-drawing-tools/1-drawing-tools.md>), or via the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-Execution/1-element-types/1-element-types.md#configuring-an-elements-type>).
 
 2. Select the flow connection by clicking it on the **Canvas**
 
-3. In the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md>), select the configuration rules for the element.
+3. In the [Properties Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/2-Drawing/2-drawing-diagrams/2-drawing-diagrams.md>), select the configuration rules for the element.
 
 ![A screenshot demonstrating how to apply conditional logic to a flow connection or link. The screenshot is annotated with a red box to show the location of the Properties Panel, and how selecting a flow connection will change what is displayed in this panel.](<Setting Condition.png>)
