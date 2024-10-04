@@ -42,13 +42,13 @@ Once a link has been created, the green highlighting will disappear, and the *do
 
 ## Linking Elements Using the Configuration Panel
 
-Selecting an item, and then selecting an element from the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/3-drawing-diagrams/3-drawing-diagrams.md#adding-elements-via-the-configuration-panel>), will cause the two elements to become linked automatically.
+Selecting an item, and then selecting an element from the [Configuration Panel](</docs/Rapid/4-Keyper Manual/3-Workflow/2-Drawing/2-drawing-diagrams/2-drawing-diagrams.md#adding-elements-via-the-configuration-panel>), will cause the two elements to become linked automatically.
 
 ![A screenshot that shows the appearance of the new element buttons within the configuration panel. The screenshot is annotated with a red box to highlight the location of the buttons.](<Workflow Configuration Panel Add.png>)
 
 ## Linking Elements via Drag-and-Drop
 
-An element can be linked to other elements by dragging and dropping it onto a [sequence flow](</docs/Rapid/4-Keyper Manual/3-Workflow/11-flows/11-flows.md>).
+An element can be linked to other elements by dragging and dropping it onto a [sequence flow](</docs/Rapid/4-Keyper Manual/3-Workflow/3-Execution/2-flows/2-flows.md>).
 
 1. Select an element to be added to the flow
 

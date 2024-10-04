@@ -1,6 +1,6 @@
 # Creating a SendGrid integration
 
-Rapid natively supports SendGrid for bulk email sending in both the [Workflow engine](/docs/Rapid/4-Keyper%20Manual/3-Workflow/8-tasks/service-task/email-service-task/email-service-task.md) and via [menu action buttons](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/Menu%20Actions/sendgrid-email/sendgrid-email.md). To use these features your site will need a SendGrid integration item that stores a link to the credentials needed to access their service.
+Rapid natively supports SendGrid for bulk email sending in both the [Workflow engine](/docs/Rapid/4-Keyper%20Manual/3-Workflow/3-Execution/5-Activities/service-task/email-service-task/email-service-task.md) and via [menu action buttons](/docs/Rapid/4-Keyper%20Manual/2-Designer/3-Menus/Menu%20Actions/sendgrid-email/sendgrid-email.md). To use these features your site will need a SendGrid integration item that stores a link to the credentials needed to access their service.
 
 ## Connecting SendGrid to your site
 

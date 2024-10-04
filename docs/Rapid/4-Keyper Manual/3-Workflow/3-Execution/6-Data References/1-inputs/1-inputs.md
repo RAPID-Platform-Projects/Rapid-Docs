@@ -91,7 +91,7 @@ To configure this element, we select the **Exclusive Gateway** and add a **Rule*
 
 To enter inputs during a manual start:
 
-1. Press the [Launch button](</docs/Rapid/4-Keyper Manual/3-Workflow/13-executing-workflows/13-executing-workflows.md#manual-starts>) in the **Workflow** experience
+1. Press the [Launch button](</docs/Rapid/4-Keyper Manual/3-Workflow/3-Execution/3-Execution.md#manual-starts>) in the **Workflow** experience
 
 2. A sidebar will open with the **Process Inputs**. Enter the values and press **OK**
 
