@@ -5,6 +5,13 @@ matt:
   image_url: https://github.com/MattFranklin-Rapid.png
   email: matthew@rapidplatform.com
 
+danny:
+  name: Danny Rattu
+  title: Documents
+  url: https://github.com/DannyRattu
+  image_url: https://github.com/DannyRattu.png
+  email: danny.rattu@rapidplatform.com
+
 
 # Example author for reference
 #jmarcey:
