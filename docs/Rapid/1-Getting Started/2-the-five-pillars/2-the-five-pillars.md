@@ -4,7 +4,7 @@ Rapid Platform is build on a suite of five core applications. These applications
 
 ## Tasks
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/herZLtwGYx4?si=XTua-6r4PvNstCU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8XxvxhNn6F4?si=KOcoBsJr9zTN9QpP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We understand that managing tasks efficiently is crucial for the success of any business. Tasks is designed to empower your team, enhance collaboration, and ensure nothing falls through the cracks.
 
