@@ -24,6 +24,7 @@ To submit a support request, follow these steps:
 
 ### Email Confirmation
 Once your request is submitted, it will be sent to the Rapid support team for triage. You will receive a confirmation email containing:
+
 - The ticket subject.
 - A **Go-to Chat** button for easy communication.
 
@@ -32,13 +33,17 @@ Once your request is submitted, it will be sent to the Rapid support team for tr
 ![Example email showing ticket subject and go-to chat button](<Example Email.png>)
 
 ### Teams Chat Support
-The confirmation email includes a link to a dedicated Teams chat where you can:
+The confirmation email includes a link to a dedicated Teams chat where your support team will communicate with you. Feel free to also:
 - Communicate directly with the support team.
-- Get real-time updates on your issue.
 - Add additional people if needed to help resolve the case.
 - To ensure faster resolution, regularly update the Teams chat with any new information, screenshots, progress updates, or additional details that might assist the support team in troubleshooting.
 
 For urgent issues, feel free to engage in the Teams chat immediately to expedite resolution.
+
+### Response Times
+Generally, you should expect a response within **3-4 hours**, but in some cases, it could extend up to **24 hours** depending on the complexity and priority of the issue. 
+
+Critical issues that significantly impact business operations will be prioritized and handled as quickly as possible.
 
 ---
 
