@@ -1,28 +1,50 @@
 # Rapid Platform Support
 
-## The Assistance panel
+## The Assistance Panel
 
-When you need help in Explorer, reach for the Assistance panel.
+When you need help navigating or using Rapid Platform, use the Assistance panel for quick answers and support.
 
 ![Assistance Panel at the top right of Explorer](<Assistance Panel.png>)
 
-Here you can ask general questions as well as make support requests for tougher problems.
+The Assistance panel allows you to:
+- Ask general questions for quick guidance.
+- Submit support requests for more complex issues.
 
-## Making support requests
+## Making Support Requests
 
-To make a support request, open the Assistance panel and switch it to support mode.
-Here you can send in your request or ask about existing requests.
+To submit a support request, follow these steps:
+1. Open the Assistance panel.
+2. Switch to **Ask about Support**.
+3. Fill out the request form with details about your query.
+4. Click **Submit** to send your request to the Rapid Support Team.
 
 ![Example support request form](<Support Request Panel.png>)
 
-## What to expect
+## What to Expect
 
-**Email**
+### Email Confirmation
+Once your request is submitted, it will be sent to the Rapid support team for triage. You will receive a confirmation email containing:
 
-After making a request it will be sent to the Rapid support team for Triage and you will receive a confirmation email.
+- The ticket subject.
+- A **Go-to Chat** button for easy communication.
+
+*Please check your spam or junk folder if you do not see the email in your inbox.*
 
 ![Example email showing ticket subject and go-to chat button](<Example Email.png>)
 
-**Chat**
+### Teams Chat Support
+The confirmation email includes a link to a dedicated Teams chat where your support team will communicate with you. Feel free to also:
+- Communicate directly with the support team.
+- Add additional people if needed to help resolve the case.
+- To ensure faster resolution, regularly update the Teams chat with any new information, screenshots, progress updates, or additional details that might assist the support team in troubleshooting.
 
-This email will also include a link to a Teams chat. This chat provides a dedicated space to communicate about the support request. You can add additional people if required to help resolve the case.
+For urgent issues, feel free to engage in the Teams chat immediately to expedite resolution.
+
+### Response Times
+Generally, you should expect a response within **3-4 hours**, but in some cases, it could extend up to **24 hours** depending on the complexity and priority of the issue. 
+
+Critical issues that significantly impact business operations will be prioritized and handled as quickly as possible.
+
+---
+
+For additional help or to submit a new support request, access the Assistance panel anytime. Our team is here to support you.
