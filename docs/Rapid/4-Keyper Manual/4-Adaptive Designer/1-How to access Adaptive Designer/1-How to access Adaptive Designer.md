@@ -1,6 +1,6 @@
 # Accessing Adaptive Designer
 
-You can access Adaptive Designer using the link: <a href="https://v3.designer.test.rpform.io/">https://v3.designer.test.rpform.io/</a>
+You can access Adaptive Designer using the link: <a href="https://v3.designer.rapidplatform.dev/">https://v3.designer.rapidplatform.dev/</a>
 
 There, you will see the following landing page:
 
