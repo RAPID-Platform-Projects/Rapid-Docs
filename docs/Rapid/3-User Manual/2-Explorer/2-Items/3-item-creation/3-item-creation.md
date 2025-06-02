@@ -38,3 +38,21 @@ To clone an item:
 ![Alt text](<Item Clone Create Screen.png>)
 
 4. Press the **Create** or **Create and Open** button to create the Item. Alternatively, you can press the **Undo Changes** if you do not wish to cancel.
+
+## Creating items in context
+
+When viewing an item you can have a page component that shows another set of items; typically the Table, Board and Gantt components. Each of these allow for the creation of new items within the context of the current item.
+
+For example, when viewing a Project and navigating to a Tasks tab you can create see the associated tasks for that Project and create new ones. Creating a task here would be creating a new Task in the context of the Project.
+
+![Tasks tab on a project showing some tasks and a create button](<Create Task in Context.png>)
+ 
+When creating an item in context Rapid will automatically attempt to create a link between the new item and the context item. This will allow the newly created item to be displayed in that context.
+
+Creating the link follows two rules:
+1)	If the new item has any lookups that can point to the context, populate each of those lookups with the context item; otherwise
+2)	Create a new universal link between the new item and context item
+
+Notably multi-lookups will not be regarded when generating this new automatic link.
+
+There is a special case that is not immediately obvious, all items have a Parent lookup that targets their own kind. Thus the Parent lookup will always be used when making items within the same context, for example a child task within a parent task.
