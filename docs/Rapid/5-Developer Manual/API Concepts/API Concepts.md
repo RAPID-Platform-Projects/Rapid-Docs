@@ -140,9 +140,9 @@ Currently supported OData syntax
 | and | Logical AND joining multiple comparisons | title eq 'My Title' and cost gt 5000 |
 | or | Logical OR joining multiple comparisons | priority le 3 or cost gt 5000 |
 | () | Brackets : Managing order of operations | (priority le 3 or cost gt 5000) and title eq 'My Title' |
-| in() | At least one given value is a match | in('parent_id', 1,2,3) |
-| inUniversal() | At least one universal link is a match | inUniversal('Projects', 1, 2, 3) |
-| inScoped() | At least one given scoped link is a match | inScoped('Tasks', 'contributors', 8, 11, 31) |
+| in() | At least one given value is a match | in(parent_id, 1, 2, 3) |
+| inUniversal() | At least one universal link is a match | inUniversal(Projects, 1, 2, 3) |
+| inScoped() | At least one given scoped link is a match | inScoped(Tasks, contributors, 8, 11, 31) |
 
 #### OData Function Reference
 
@@ -176,16 +176,14 @@ The in() function tests if at a given column contains at least one of the given 
 When fetching a list of tasks from the all view you can find any where the ID is 1, 2 or 3
 
 ```
-GET /lists/Tasks/All/items?$filter=in('id', 1,2,3)
+GET /lists/Tasks/All/items?$filter=in(id, 1, 2, 3)
 ```
 
 Alternatively, when fetching a list of tasks from the all view you can find any where the title is 'A', 'B', or 'D'
 
 ```
-GET /lists/Tasks/All/items?$filter=in('title', 'A','B','D')
+GET /lists/Tasks/All/items?$filter=in(title, 'A','B','D')
 ```
-
-**Returns :** Bool
 
 ##### inUniversal
 
@@ -204,10 +202,8 @@ When fetching a list of tasks from the all view you can find any where they are 
 
 
 ```
-GET /lists/Tasks/All/items?$filter=inUniversal('Invoices', 1,2,3)
+GET /lists/Tasks/All/items?$filter=inUniversal(Invoices, 1, 2, 3)
 ```
-
-**Returns :** Bool
 
 ##### inScoped
 
@@ -226,10 +222,8 @@ When fetching a list of tasks from the all view you can find any where they are 
 
 
 ```
-GET /lists/Tasks/All/items?$filter=inScoped('Principals', 'contributors', 8, 11, 13)
+GET /lists/Tasks/All/items?$filter=inScoped(Principals, contributors, 8, 11, 13)
 ```
-
-**Returns :** Bool
 
 ### How to create an item
 
