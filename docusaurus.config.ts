@@ -42,7 +42,7 @@ const config: Config = {
           routeBasePath: "/changelog/",
           showReadingTime: true,
           readingTime: ({ content, frontMatter, defaultReadingTime }) =>
-            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content })
+            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content } as any)
         },
         theme: {
           customCss: "./src/css/custom.css"
@@ -76,11 +76,6 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "getting_started",
           label: "Getting Started"
-        },
-        {
-          to: "docs/Rapid/Rapid Modules/rapidModulesHomepage",
-          position: "left",
-          label: "Business Modules"
         },
         {
           type: "dropdown",

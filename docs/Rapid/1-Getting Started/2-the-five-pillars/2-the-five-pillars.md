@@ -8,7 +8,7 @@ Rapid Platform is build on a suite of five core applications. These applications
 
 Rapid's **Tasks** pillar is the heartbeat of streamlined productivity. We understand that managing tasks efficiently is crucial for the success of any business. Tasks is designed to empower your team, enhance collaboration, and ensure nothing falls through the cracks.
 
-- Find out more about [Tasks as a **User** (not Rapid Standard)](</docs/Rapid/2-User Manual/2-Explorer/9-Tasks/9-Tasks.md>).
+- Find out more about [Tasks as a **User**](</docs/Rapid/2-User Manual/2-Explorer/9-Tasks/9-Tasks.md>).
 
 ## Explorer
 
