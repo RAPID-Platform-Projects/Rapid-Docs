@@ -42,7 +42,7 @@ const config: Config = {
           routeBasePath: "/changelog/",
           showReadingTime: true,
           readingTime: ({ content, frontMatter, defaultReadingTime }) =>
-            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content })
+            frontMatter.hide_reading_time ? undefined : defaultReadingTime({ content } as any)
         },
         theme: {
           customCss: "./src/css/custom.css"
@@ -78,11 +78,6 @@ const config: Config = {
           label: "Getting Started"
         },
         {
-          to: "docs/Rapid/Rapid Modules/rapidModulesHomepage",
-          position: "left",
-          label: "Business Modules"
-        },
-        {
           type: "dropdown",
           position: "left",
           label: "Manuals",
@@ -101,11 +96,6 @@ const config: Config = {
               type: "docSidebar",
               sidebarId: "keyper_manual",
               label: "Keyper Manual"
-            },
-            {
-              type: "docSidebar",
-              sidebarId: "rapid_standard",
-              label: "Business Modules Manual"
             },
             {
               type: "docSidebar",

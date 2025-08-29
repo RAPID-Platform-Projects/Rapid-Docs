@@ -15,8 +15,8 @@ To access your site there are three main requirements:
 In order to create a site it must be connected to the database, this is the backbone of nearly all solutions that require data input and manipulation. The Rapid Platform uses SQL databases to achieve this.
 A simple way of knowing what database the site will be configured to is to inspect the URL.
 
-https://app.rapidplatform.com.au - Production  
-https://test.rapidplatform.com.au - Development  
+https://app.rapidplatform.com - Production  
+https://test.rapidplatform.com - Development  
 
 ### Tenant Name
 
