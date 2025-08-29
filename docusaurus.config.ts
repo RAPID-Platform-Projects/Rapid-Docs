@@ -104,11 +104,6 @@ const config: Config = {
             },
             {
               type: "docSidebar",
-              sidebarId: "rapid_standard",
-              label: "Business Modules Manual"
-            },
-            {
-              type: "docSidebar",
               sidebarId: "developer_manual",
               label: "Developer Manual"
             }
