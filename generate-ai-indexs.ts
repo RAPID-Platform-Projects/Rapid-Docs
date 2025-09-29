@@ -93,7 +93,6 @@ function generateIndexDocuments() {
 
   const result = {
     files: [],
-    rapid_standard: [],
     rapid_core: []
   };
 
@@ -162,14 +161,11 @@ function generateIndexDocuments() {
     indexObj.slug = fileName;
     indexObj.updated_at = new Date().toISOString();
     indexObj.url = parseUrlFromFilePath(file);
-    if (file.includes("2-Rapid Standard")) {
-      result.rapid_standard.push(indexObj);
-    }
     if (
       file.includes("1-Getting Started") ||
-      file.includes("3-User Manual") ||
-      file.includes("4-Keyper Manual") ||
-      file.includes("5-Developer Manual")
+      file.includes("2-User Manual") ||
+      file.includes("3-Keyper Manual") ||
+      file.includes("4-Developer Manual")
     ) {
       result.rapid_core.push(indexObj);
     }
@@ -180,5 +176,5 @@ function generateIndexDocuments() {
 (async () => {
   const result = generateIndexDocuments();
   await deleteAllIndexDocuments();
-  await createAzureIndexDocuments([...result.rapid_core, ...result.rapid_standard]);
+  await createAzureIndexDocuments([...result.rapid_core]);
 })();
