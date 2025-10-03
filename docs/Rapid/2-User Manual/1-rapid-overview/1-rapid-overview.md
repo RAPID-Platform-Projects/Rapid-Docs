@@ -40,7 +40,7 @@ Based off the popular [BPMN 2.0](https://camunda.com/bpmn/), [Workflow](/docs/Ra
 Tasks are a fundamental unit of the Rapid Platform. A task describes a singular activity in time owned by someone.
 With a good set of processes under your belt, tasks are an excellent way to focus on what needs to be done and minimise the amount of chasing up information you need to do.
 
-When you're in the groove having a well organised list of tasks can really help, that's what the [Tasks Experience](/docs/Rapid/2-User%20Manual/5-Tasks%20Experience/5-Tasks Experience.md) was built for.
+When you're in the groove having a well organised list of tasks can really help, that's what the [Tasks Experience](<../5-Tasks Experience/5-Tasks Experience.md>) was built for.
 
 ### Designer
 
