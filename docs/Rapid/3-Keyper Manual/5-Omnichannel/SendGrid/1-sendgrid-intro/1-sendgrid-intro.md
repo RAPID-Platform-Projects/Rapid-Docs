@@ -14,7 +14,7 @@ You can view the video tutorial here:
 
 <iframe allowfullscreen="allowfullscreen" height="440" src="https://www.youtube.com/embed/b43a1nD4qS0" width="785"></iframe>
 
-## 2) How to insert and modify static design modules in the Dynamic Template. 
+## 2) How to insert and modify static design modules in a Dynamic Template. 
 
 In this part of the chapter, we will introduce the various modules that can be inserted in the Template.
 
