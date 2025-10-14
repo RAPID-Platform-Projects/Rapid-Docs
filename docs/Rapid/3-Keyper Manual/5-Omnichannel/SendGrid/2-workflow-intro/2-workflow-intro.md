@@ -13,12 +13,12 @@ In this chapter we will create a small Lead Details capture and automatic acknow
 
 **The application will perform in the following manner:**
 
-1. Lead clicks a button to express interest in logging a query about the service.
+1. Lead clicks a button to express interest and create a new query.
 2. Lead receives a simple form to fill in details: 
     - Lead Name
     - Lead Email
     - Lead Query
-3. An automatic acknowledgement email is sent to the Lead's ID. The email is addressed to the Lead Name and the email body shows the Lead Query submitted.
+3. An automatic acknowledgement email is sent to the Lead. The email is addressed to the Lead's Name and the email body shows the Query that was submitted.
 
 In this chapter we will attempt to configure RAPID Platform to:
 

@@ -2,11 +2,9 @@
 
 ## Component overview
 
-Imagine a Project Manager has described the need to view the Project Tasks statuses on a real-time basis. The requirement is to have the ability to slice and dice the data across defined parameters and view a snapshot of it in real-time.
+It would be good to see the Project Tasks statuses in real-time. It would be even more useful if we could slice and dice the tasks so we can get a feeling for the state of things, right now. The PowerBI reporting component allows you to present tasks and other site data live, with all the reporting controls you need to dig into your data
 
-This can be achieved through the PowerBi Report component.
-
-Rapid Platform has the ability to seamlessly connect with Microsoft Power BI application. A workspace can be created for each Rapid Site and reports can be created in the same. These reports can be displayed and actioned in the Rapid Site environment.
+Rapid Platform has the ability to seamlessly connect with Microsoft Power BI. A workspace can be created for each Rapid Site. Reports can be displayed and actioned in the Rapid Site environment.
 
 The PowerBi Report component provides a easy method to integrate and access PowerBi reports onto a Page. To learn about how to create PowerBI reports, you can [visit the PowerBI documentation site](<https://learn.microsoft.com/en-us/power-bi/fundamentals/>).
 
