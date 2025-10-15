@@ -1,4 +1,4 @@
-# Creating, Editing, and Deleting a Lead
+# Creating, Updating, and Deleting a Lead
 
 ### Overview
 
@@ -24,7 +24,7 @@ In Customer Relationship Management (CRM), a "lead" refers to a person or entity
 
     ![image-1702447679226.png](./downloaded_image_1705285408836.png)
 
-### How to edit a Lead
+### How to update a Lead
 
 1. In Explorer select CRM &gt; Leads  
 
