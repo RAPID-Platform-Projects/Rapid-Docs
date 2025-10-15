@@ -1,4 +1,4 @@
-# Creating, Editing, and Deleting Opportunities
+# Creating, Updating, and Deleting Opportunities
 
 ### Overview
 
@@ -26,7 +26,7 @@ Opportunities can be created in two ways. The first is through the Lead conversi
 
     ![Select Create](<Screenshot 2024-03-13 at 8.21.47 am.png>)
 
-### How to edit an Opportunity
+### How to update an Opportunity
 
 1. In Explorer select CRM &gt; Opportunities  
 
