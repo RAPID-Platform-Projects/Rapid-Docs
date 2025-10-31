@@ -8,7 +8,7 @@ Rapid Platform allows you to easily create and edit database tables. The purpose
 
 Imagine you have a big file cabinet where you want to organize information about different things. Each drawer in the cabinet represents a category or a type of information. Now, let's say you want to keep track of information about your friends. Instead of having one messy pile of papers in the drawer, you decide to use a table.
 
-ITables are comprised of rows and columns. Each row is like a separate sheet of paper, and each column is a specific piece of information you want to keep about your friends. For example, you might have columns for their names, ages, and phone numbers.
+Tables are comprised of rows and columns. Each row is like a separate sheet of paper, and each column is a specific piece of information you want to keep about your friends. For example, you might have columns for their names, ages, and phone numbers.
 
 So, each row in the table represents one friend, and the columns represent different details about them. This way, when you want to find information about a particular friend, you can look at that friend's row and quickly see their name, age, and phone number neatly organized in the columns.
 
@@ -26,7 +26,7 @@ This window provides the following information and features. Please follow the n
 
 ![A screenshot of the sidebar navigation buttons. The screenshot is annotated with a red box to highlight the location of the Designer button. The Designer button has an icon of three flowcart nodes in an L shape.](<Designer Button.png>)
 
-**2. List of existing tables** - The default Designer window will show the list of all tables created by different users as per their business needs. These are called custom tables. The tables are arranged as per the alphabetical order of Table Names.
+**2. List of existing tables** - The default Designer window will show the list of all tables created by users. These are called custom tables. The tables are arranged in alphabetical order.
 
 **3. Create Table button** - This button enables you to create a new custom table based on your business needs. To learn how to create a new custom table, [click here](/docs/Rapid/3-Keyper%20Manual/2-Designer/1-Tables/3-creating-tables/3-creating-tables.md "How to create a new table in Designer?").
 
@@ -49,7 +49,7 @@ This window provides the following information and features. Please follow the n
 
 **9. Title Column** - The title column displays the principle column of the table. It is a good practice to have a title column or a unique key identifier for each row of the table. However, it is optional to mark a column as title column, while creating / updating a table.
 
-**10. [Sub-Type Of](</docs/Rapid/2-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of")** - When a table inherits its structure from another existing table, it is said to become a "Sub-Type Of" or child of that table. For example - Table A inherits structure from Table B, then Table A will be termed as the Sub-Type Of Table B. In this column, the Table Name of the parent table (Table B in our example) will be displayed.
+**10. [Sub-Type Of](</docs/Rapid/2-User Manual/glossary/glossary.md#inherit-tables> "Inherit Table / Sub-Type Of")** - When a table inherits its structure from another existing table, it is said to be a "Sub-Type Of" or child of that table. For example - Table B inherits structure from Table A, theirfore Table B is a Sub-Type Of Table A. In this column, the Table Name of the parent table (Table A in our example) will be displayed.
 
 **11. Find a table** - This is search field. It is typically useful when there are a lot of tables in the list of Designer window, and you wish to refer to your desired table. Just type in the letters of the table slug and the list will start to prune itself with the matching criteria.
 
@@ -57,7 +57,7 @@ The filter can be cleared by pressing the X icon at the right end of the field.
   
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/sRT_0-fF1y0?si=dHxbFre5Pjxis34i" title="YouTube video player" width="750"></iframe>
 
-**12. Open table details** - If you wish to view the details of a specific table like Table options, column structure etc., you can achieve this by double clicking on a table name.  
+**12. Open table details** - If you wish to view the details of a specific table like Table options, column structure etc, you can achieve this by double clicking on a table name.  
   
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/GUyFwOgXU6M?si=JyHftwataRuuJY0o" title="YouTube video player" width="750"></iframe>
 

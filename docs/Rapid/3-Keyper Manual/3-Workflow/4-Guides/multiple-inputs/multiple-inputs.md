@@ -18,11 +18,11 @@ When referencing elements that haven't triggered, they will behave as if they di
 
 ![A data can configured to Assets with no ID configured](<Configuring the Data Can step 1.png>)
 
-In our example, either `StartEvent_1`, `StartEvent_1twuj1g` or `StartEvent_0tztc2m` will have a value, as at least one start event must have begun the process. We can use the logical OR operator `||` to pick between them. To configure the data can we want to select the ID value of the start event, but trying to access a value on a missing element will return an error. To overcome this we can use [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) (the `?.` syntax) to 'try' to access the value and return `undefined` if it isn't there. This would end up with a lodash statement like `<%= StartEvent_1?.properties?.id || StartEvent_1twuj1g?.properties?.id || StartEvent_0tztc2m.properties.id %>`.
+In our example, either `StartEvent_1`, `StartEvent_1twuj1g` or `StartEvent_0tztc2m` will have a value, as at least one start event must have begun the process. We can use the logical OR operator `||` to pick between them. To configure the data can we want to select the ID value of the start event, but trying to access a value on a missing element will return an error. To overcome this we can use [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) (the `?.` syntax) to try to access the value and return `undefined` if it isn't there. This would end up with a lodash statement like `<%= StartEvent_1?.properties?.id || StartEvent_1twuj1g?.properties?.id || StartEvent_0tztc2m.properties.id %>`.
 
 Logical operators process from left to right, so this statement is essentially saying:
-- If `StartEvent_1` exists and has an ID value, then use it otherwise
-- If `StartEvent_1twujig` exists and has an ID value, then use it otherwise
+- If `StartEvent_1` exists and has an ID value, then use it, otherwise
+- If `StartEvent_1twujig` exists and has an ID value, then use it, otherwise
 - Use `StartEvent_0tztc2m`'s ID value
 
 Note how the last choice doesn't use the `?.` optional chain. It could use it, but if none of the three start events have started we have a larger problem (erroring on the last item can help in identifying this problem).

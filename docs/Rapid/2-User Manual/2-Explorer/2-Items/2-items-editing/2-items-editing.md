@@ -5,7 +5,7 @@ There are several ways for us to open an item to view or edit it.
 
 ### Clicking the Icon
 
-We can click on the item's **Icon**. This is a small image on the far left side of the item row. The icon will become underlined, and your mouse cursor will change to a hand to indicate that this is a hyperlink to another webpage.
+We can click on the item's **Icon**. This is a small image on the far left side of the item row.
 
 ![A screenshot that shows how the user can click on the icon of an item to open it.](<Items Example Click Icon.png>)
 
@@ -14,12 +14,6 @@ We can click on the item's **Icon**. This is a small image on the far left side 
 We can also press the title field of the item. The title of an item is emboldened, and an underline will appear when your mouse hovers over it.
 
 ![A screenshot that shows how the user can click on the title of an item to open it.](<Items Example Click Title.png>)
-
-### Double-clicking on the Row
-
-Alternatively, you can double-click anywhere on an item's row, and the item will open. The item's row will become highlighted in light grey when your mouse hovers over it.
-
-![A screenshot that shows how the user can click anywhere on the row of an item in order to open it.](<Items Example Click Row.png>)
 
 ### Selecting Multiple Items
 
@@ -63,7 +57,7 @@ Note that in the screenshot below, we have changed the employee's email address 
  ![A screenshot demonstrating that by saving an item, the subquery and computed fields will be updated. The screenshot is annotated with a red box and arrow to highlight saving will change a value.](<Items Subquery Save.png>)
 
 ## Items can be Refreshed
-If the data in an item is updated (e.g. by another user, or by an automated process), the item will need to be refreshed in order for that data to become visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
+If the data in an item is updated (e.g. by another user, or by an automated process), the item will need to be refreshed in order for that data to become visible.
 
 Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in an item, without leaving the page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/2-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 

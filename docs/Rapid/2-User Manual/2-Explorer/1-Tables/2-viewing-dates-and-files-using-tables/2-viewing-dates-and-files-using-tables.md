@@ -1,9 +1,5 @@
 # Viewing Dates and Files Using Tables
 ## Viewing Date Data
-### Date Fields Appear as "Australian Standard Dates"
-By default, Rapid Platform's data tables will display dates according to the Australian and British standard date format (*dd/mm/yyyy*). For example, the *21st of April 2024* becomes *21/04/2024*.
-
-![A screenshot that shows how date columns appear in the British or Australian format, when enabled in the view.](<Data Table Dates British.png>)
 
 ### Date Fields Can Appear as "Relative Dates"
 Alternatively, you can change a date column so that it displays a description of the item's creation time and date. For example, a column with created 10 minutes ago will read '10 minutes ago', and a column with a date from last month will read '1 month ago', etc.

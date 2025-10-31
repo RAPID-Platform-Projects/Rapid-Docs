@@ -64,17 +64,15 @@ If you would like to undo a quick filter and view all of the items again, there 
 
 3. **Navigate away.** If you leave data table page, and return to it, the filter will also be removed.
 
-3. **Refresh the browser.** By using your browser's refresh button you can view all items in a table again. The keyboard shortcut for this is `F5` (on Windows), or `⌘ Cmd + ⇧ Shift + R` (on Mac)
-. Note, however, that this may require you to log in again, so it is not a recommended approach.
 
 ## Data Tables can be Refreshed
-If the data within in a table is updated (e.g. by another user, or by an automated process), the table will need to be refreshed for that data to become visible. Refreshing the entire page is not desirable as you may need to reauthenticate, which will take time.
 
 Rapid Platform includes an *Inline Refresh* button, that allows you to refresh all the items in a data table, without leaving the page. The *Inline Refresh* is located in the [Command Bar](</docs/Rapid/2-User Manual/glossary/glossary.md#command-bar>), and has an icon that resembles a clockwise arrow.
 
 ![A screenshot that shows what the inline refresh button looks like. The screenshot is annotated with a red box. The inline refresh button is a clockwise arrow.](<Data Table Inline Refresh.png>)
 
 ## Additional Information
+
 - You can [visit the glossary](</docs/Rapid/2-User Manual/glossary/glossary.md#data-table>) to learn more about data tables and their basic terminology.
 - You can visit the [Data Tables page component](</docs/Rapid/2-User Manual/2-Explorer/3-Pages/2-Page Components/Data Table/Data Table.md>) to learn more detailed information regarding how Data Tables and Views operate.
 - Tables also utilise [Views](</docs/Rapid/2-User Manual/2-Explorer/4-Views/1-Views-Overview/1-Views-Overview.md>), which are data filters that can be saved and reused. This filters Tables so that they return only the items you want to see.

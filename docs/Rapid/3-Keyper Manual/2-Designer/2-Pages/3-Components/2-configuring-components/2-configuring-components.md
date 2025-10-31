@@ -2,7 +2,7 @@
 
 ## Properties of a component
 
-Each component, based on its nature, allows you to configure properties. These properties define the behaviour of the component in Explorer.
+Each component allows you to configure a set of properties. These properties define the behaviour of the component in Explorer.
 
 For example :
 
@@ -14,17 +14,13 @@ Whereas a Gantt Chart component will allow you to select other relevant options 
 
 ![Screenshot 2023-10-16 at 15.05.27.png](./downloaded_image_1705285591672.png)
 
-The properties for a component can be defined in their respective "Edit" Properties panel.
 
-## How to access "Edit" Properties panel
+## How to access the "Configure" Properties panel
 
-Every component has a horizontal options panel at the bottom right corner of its boundary. Look for the pencil icon. As you click on this icon, the Edit panel will open for the component on the right side.
+Every component has an options panel, usually found at the top center of the componant (for some componants the options can be found at the top oir bottom right). Look for the pencil icon. As you click on this icon, the Configuration panel will open for the component on the right side.
 
 ![Screenshot 2023-10-16 at 4.26.37 PM.png](./downloaded_image_1705285592689.png)
 
-Please refer to the below video for illustration.
-
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="420" src="https://www.youtube.com/embed/Jt8bMFjSEd8?si=EuMNECVgOZA9bjSy" title="YouTube video player" width="750"></iframe>
 
 ## Related articles
 

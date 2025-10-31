@@ -1,6 +1,6 @@
 # Creating a New Adaptive Document Form
 
-To create a new Adaptive Document Form, perform the following steps:
+To create a new Adaptive Document Form:
 
 1. Log into Adaptive Designer using you tenant, site and environment. (You can <a href="https://docs.rapidplatform.com/docs/Rapid/Keyper%20Manual/Adaptive%20Designer/How%20to%20access%20Adaptive%20Designer/" target="_blank">learn how to log in</a> to the Adaptive Designer
 
@@ -28,11 +28,7 @@ You need to consider the following:
 
     ![Image showing the three classification options](<Create Form 3.png>)
 
-    You may select the one that best suits your classification of form; however, *Draft* is the most used classification.
-
-:::info[Please note]
-The classifications are like labels for ease-of-organisation only. They do not impact the functionality of the form.
-:::
+    You may select the one that best suits your classification of form; however, *Draft* is the most used classification. By default these classifications are only used for grouping forms, they have no structural effect unless you have built systems to use them (views, workflow automation etc).
 
 7. **Description** describes the objective of the form here. It would help for future references.
 

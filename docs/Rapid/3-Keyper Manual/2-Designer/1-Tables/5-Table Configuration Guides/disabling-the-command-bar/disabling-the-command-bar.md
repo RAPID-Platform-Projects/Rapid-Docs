@@ -23,9 +23,7 @@ Below is an outline of the different functionality that can be disabled from a *
 
 ![A screenshot indicating what the overlay looks like. The screenshot is annotated with a red box to draw the user's attention to the overlay.](<Data Table Overlay.png>)
 
-4. Click on the **Edit** button (it has an icon of a pencil).
-
-![A zoomed in screenshot showing the overlay from the previous image more closely. In this image, the pencil icon for "Editing" a data table has been highlighted in red to assist the user.](<Data Table Overlay Edit.png>)
+4. Click on the **Configure** button (it has an icon of a pencil).
 
 5. This will open a side panel, where the **Data Table**'s [Command Bar](</docs/Rapid/2-User Manual/glossary/glossary.md#command-bar>) can have certain features disabled.
 
@@ -35,27 +33,22 @@ Here, you can see the following fields:
 
 | Field | Description |
 |---|---|
-| *Part of Module* | This field allows the you to disable the data table for users who do not have access to certain modules. |
 | *Table* | This is the Rapid database table that the component will display. |
 | *Default View* | Here you can set a view that the table will use as its default. |
+| *Context Filters* | This field allows you to enable any Lookup or Choice fields on the table, to be used as live filters on the table componant |
+| *Hide create buttons* | Here you can define any subtypes for this table, to be excluded from the 'create new' area on the command bar |
+| *Show time for datetime fields* | Here you can set datetime fields to display the time componant on a table |
 | *Disable Creating Items Button* | This will hide **Create** button on the table, so that no new items can be created. |
+| *Disable in-line item creation* | Toggling this will disable the ability to create new items in line, on the table |
+| *Disable CSV Export* | This will prevent users from downloading the table data as a CSV file |
 | *Disable Edit View* | This disables users from being able to make edits to the current view. |
 | *Disable Action Buttons* | This hides and disables any menu items that might trigger workflows, trigger webhooks, etc.|
 | *Disable View Select* | This prevents users from changing the view to an alternative view. |
 
-Note that any changes to the functionality of a **Data Table**'s **Command Bar** will only affect that particular instance of the **Command Bar**. For example, if there was another Data Table that pointed to the Employees Table, it would also need to have its **Command Bar** adjusted in the same way.
+Note that any changes to the functionality of a **Data Table**'s **Command Bar** will only affect that particular instance of the **Command Bar**. For example, if there was another Data Table that pointed to the Employees Table, it will have its own seperate configuration for the **Command Bar**.
 
 By default, all of the above functionality is enabled.
 
-### Data Table Appearance
-
-When all of the features present are disabled, the user will only see the following:
-- The *Export to CSV* Button
-- The *Inline Refresh* Button
-- The *Quick Search Filter*
-- The *List of Items*
-
-![A screenshot that depicts the list above. All of the Command Bar has been disabled. New items cannot be created, nor can the view be changed or edited.](<Data Table All Disabled.png>)
 
 ## Disabling Delete
 

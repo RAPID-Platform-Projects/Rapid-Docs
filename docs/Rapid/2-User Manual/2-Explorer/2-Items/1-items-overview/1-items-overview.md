@@ -14,23 +14,14 @@ In the screenshot below, the Table named "tasks" stores a list of tasks for empl
 
 We can open items, read their data, add new data, edit existing data, or delete the entire item.
 
-## Data Types as Columns
 
-You system administrator will determine which columns should exist on a table. This also determines which types of data will be stored in that table's items.
+## Columns
 
-In the screenshot above, the system administrator has created the following columns: *Title*, *Assigned To*, *Start Date*, *Due Date*, and *Status*. Note, however, that there are additional columns not shown here. Each item contains [default fields](</docs/Rapid/2-User Manual/2-Explorer/1-Tables/4-default-fields/4-default-fields.md>) that are usually not visible. 
+Every Table in Rapid contains **Columns** sometimes also know as 'fields'. For example, we could create a **Table** titled "Employees". This table would then need columns that store data about each employee. We might want to record the *Name*, *Date of Birth* and *Email Address* of each employee.
 
-Additionally, to ensure items have a clean and simple appearance, your system administrator might choose to only show some columns when viewing them on a table.
+Each of these pieces of information would become a column in our table. In this example, we need a column where we can store text (to record the employee's name), a column to store a date (for their DOB), and a column where we can store an email address.
 
-If we open an item, we will be able to see the other columns that are not visible here.
-
-## Columns and Fields
-
-Every Table in Rapid contains **Columns**. For example, we could create a **Table** titled "Employees". This table would then need columns that store data about each employee. For example, we might want to record the *Name*, *Date of Birth* and *Email Address* of each employee.
-
-Each of these pieces of information would become a column in our table. In this example, we would need a column where we can store text (to record the employee's name), a column to store a date (for their DOB), and a column where we can store an email address.
-
-Any item that we create inside the "Employees" table will now represent an employee, and it will contain the three columns mentioned above. It would look something like this:
+Any item that we create inside the "Employees" table will now represent an employee, and it will contain the three columns mentioned above. Which would look something like this:
 
 ![A screenshot that provides an example table as described above. It is titled "Employees" and contains three columns: Name, DOB, and Email. The table contains some example data, where a fake name, DOB, and Email have been filled in.](<Items Example.png>)
 
@@ -38,7 +29,7 @@ Note that there are three items in our table, and they each contain data inside 
 
 ![This is the same screenshot as before, but now it is annotated in red. Three red boxes show that each item in a table resembles a row, and each piece of data resembles a column. The three example items are labelled: item 1, item 2, item 3, to help indicate that they are all separate entities.](<Items Example Rows.png>)
 
-## Column and Field Types
+## Column Types
 
 There are many types of columns that an item can contain, and these **Columns** will have different behaviour when they are interacted with as **Fields**.
 
