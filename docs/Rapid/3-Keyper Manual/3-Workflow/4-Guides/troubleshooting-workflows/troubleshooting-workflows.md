@@ -45,9 +45,9 @@ A user informs you that a process run did not operate correctly when it was trig
 
 ![A screenshot of the location and appearance of the "Linked Items" menu button. The menu button has an icon of two chain links, and a downwards chevron indicating that it will open a drop-down menu or panel. The screenshot is annotated with a red box to highlight the button's location.](<Process Run Linked Menu 1.png>)
 
-3. Find the desired process run (they are arranged from latest down to oldest).
+3. Find the desired process run (they are arranged from newmost recent at the top, down to oldest).
 
-4. Press the **Go to process run** button
+4. Press the **Go to item** button
 
 ![A screenshot of the panel that opens from the "Linked Items" menu button. The panel has a section at the top titled "Filter items linked to this Paper." Note that in this example the table is called "Paper". Underneath this is a dropdown section titled "Process Runs (1)" indicating that all the items listed underneath it are process runs, and that there is currently only one process run linked to this item. In the process runs section is an item titled "Manufacture Erasers" which is the name of the process run in this example. The screenshot is annotated with a red box to highlight the location of the process run item. The screenshot is also annotated with a red arrow and another red box inside the first red box, indicating the button to "go to process run". At the bottom of the panel is an "Add Link" button, but this is not relevant for this particular explanation.](<Process Run Linked Menu 2.png>)
 
@@ -75,7 +75,7 @@ A summary of the element's status (e.g. "Failed") and an error message will be d
 
 ## Manually Restarting a Process Run
 
-Process runs can be manually restarted they fail.
+Process runs can be manually restarted when they fail.
 
 :::note[An example fail state]
 A **Gateway** element within a process is expecting to evaluate a string at runtime. Instead, a number is sent to the **Gateway** element. This will cause the element to error, and will halt the process run.
@@ -85,7 +85,7 @@ As discussed earlier, elements that error will be highlighted red for troublesho
 
 ![A screenshot of a diagram showing how the elements return errors. In this example a green start event is on the left, indicating that the process began without error. The sequence flow is also green that moves into the exclusive gate on the right. The exclusive gate, however, is red, indicating that it has produced an error.](<Process Run Error.png>)
 
-To quickly restart the process run that has errored, Rapid provides a **Restart** button beside the launch button. After you have corrected a perceived error, this button will launch the process run again with the same trigger conditions for troubleshooting purposes.
+To quickly restart the process run that has errored, Rapid provides a **Restart** button beside the launch button. After you have corrected a perceived error, this button will resume the process run **from the errored element** with the same trigger conditions.
 
 ![A screenshot demonstrating the location and appearance of the "Restart" button in the Rapid Workflow experience. The button only appears when the process run has failed. The button has an icon of two arrows circling each other, and the label "Restart". The button appears to the right of the "Launch" button. The screenshot is annotated with a red box to highlight the location of the "Restart" button.](<Process Run Restart.png>)
 
@@ -93,9 +93,9 @@ To quickly restart the process run that has errored, Rapid provides a **Restart*
 
 For more granular troubleshooting, a process run can be "rolled back" to a specific point in the flow diagram. This is useful for testing different branches of a diagram, or to skip earlier elements such as **User Tasks**.
 
-To roll back a process run:
+To rollback a process run:
 
-1. Select the element where you would like to process run to return to
+1. Select the element where you would like the process run to return to
 
 2. In the **Command Strip**, select the **Rollback to X** button
 
