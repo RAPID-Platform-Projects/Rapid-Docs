@@ -16,6 +16,28 @@ Once you select an item the circle will become filled, and will now display a ch
 
 You can press additional selection circles to select multiple items.
 
+## Bulk Editing
+
+While you have multiple items selected in a data table, any edit made to an in-line item will be applied to every item selected.
+This can be a quick way to update a bunch of items.
+
+For example, let's set the due date to these forward in time
+
+![The task table with several tasks selected](<Many selected tasks.png>)
+
+First we set the due date for one of the selected items
+
+![Date picker on the inline task selecting another date](<Setting bulk date 02.png>)
+
+Then note how it affects all the selected tasks. Modified tasks that are not saved are highlighted.
+
+![All the selected tasks in the table now show the future date](<Setting bulk date 03.png>)
+
+Finally we hit save to commit the changes. Saving will save every modified item, not just the selected ones.
+
+![Save button on the data table command bar](<Setting bulk date 04.png>)
+
+
 ## Downloading a CSV Version of the Current View
 The Command Bar also contains an **Export as CSV** button, which will export and download the current table, including any views or filters, as a .csv file.
 
