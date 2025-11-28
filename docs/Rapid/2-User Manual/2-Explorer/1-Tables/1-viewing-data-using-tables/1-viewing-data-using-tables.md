@@ -64,6 +64,19 @@ If you would like to undo a quick filter and view all of the items again, there 
 
 3. **Navigate away.** If you leave data table page, and return to it, the filter will also be removed.
 
+## Column Filters
+
+Some tables are set up to care about commonly filtered columns. For example our Tasks table here has a column filter set up on Status.
+
+![Tasks table with Status quick filter enabled](<Status Filter.png>)
+
+You can select the different values you want to quickly filter, here we are selecting Not Started and In Progress to see fresh work.
+
+![Quick filter on task selecting In Progress and Not Started tasks](<Selecting Status Filter.png>)
+
+After applying the filter, you can see the list now is filtered to only show tasks with the matching statuses.
+
+![Tasks only showing the selected status](<Status tasks filtered.png>)
 
 ## Data Tables can be Refreshed
 
