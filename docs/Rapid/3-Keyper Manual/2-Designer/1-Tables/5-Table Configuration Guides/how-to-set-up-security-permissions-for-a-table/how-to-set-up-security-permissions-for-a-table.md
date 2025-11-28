@@ -2,8 +2,18 @@
 
 Data tables hold sensitive data and many a times, operations on tables should be permissible by authorised people only.
 
-:::note[Note:] The permissions set on a table are the default permissions created items will have. These operations does not retroactively update permissions on existing items.
+## Permission Behaviour
+
+There are 4 kinds of permission that can be applied to a User or Group:
+- **Read**: The ability to view the content of the item
+- **Edit**: The ability to alter the content of the item
+- **Delete**: The ability to delete the item
+- **Create**: The ability to create new items on this table
+
+:::note
+Table level permissions are defaults. These permissions only apply to newly created items and have no impact on existing items.
 :::
+
 
 ## Adding User or Group Permissions to a Table
 
