@@ -1,6 +1,6 @@
 # Fill Document
 
-The Fill Document service task takes a Microsoft Word file that has been prepared in accordance with the [DocX standard](https://docxtemplater.readthedocs.io/) and creates a copy pre-filled with data from within your process.
+The Fill Document service task takes either a Microsoft Word, Excel or PowerPoint file that has been prepared in accordance with the [DocX standard](https://docxtemplater.readthedocs.io/) and creates a copy pre-filled with data from within your process.
 
 ## Workflow v1
 
@@ -39,8 +39,6 @@ After the pipe are filter expressions. You can use these to alter the input text
 - minute
 - second
 - millisecond
-
-
 
 ## Document Themes
 
