@@ -37,4 +37,4 @@ Sometimes you want to ensure the Public Form is only submitted by a specific 2nd
 
 ## Authenticated Forms
 
-While Public forms are scrambled, they are sitting on the public internet. When enabling the Require Login toggle, the generated form will only be accessible to Users within the current site. This will require them to login, just like they do to the Rapid site normally.
+While Public form urls are scrambled, they are still sitting on the public internet. When enabling the Require Login toggle, the generated form will only be accessible to Users within the current site. This will require them to login, just like they do to the Rapid site normally.
