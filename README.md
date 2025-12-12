@@ -1,6 +1,6 @@
 # Website
 
-Welcome to the Rapid Platform documentation!
+Welcome to Rapid Platform's documentation!
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 This documentation site serves to cover the Core Rapid Platform User, Keyper & Developer documentation as well as the Base Rapid User documentation.

@@ -67,7 +67,7 @@ it is called defining the Table structure.
 
 ![List of tables](<List of tables.png>)
 
-The Rapid Platform allows defining of data table structures that suits information needs, using the Designer application.
+Rapid Platform allows defining of data table structures that suits information needs, using the Designer application.
 
 **Related articles**
 

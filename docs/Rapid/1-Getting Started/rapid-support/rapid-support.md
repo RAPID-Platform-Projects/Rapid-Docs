@@ -38,10 +38,10 @@ The confirmation email includes a link to a dedicated Teams chat where your supp
 - Add additional people if needed to help resolve the case.
 - To ensure faster resolution, regularly update the Teams chat with any new information, screenshots, progress updates, or additional details that might assist the support team in troubleshooting.
 
-For urgent issues, feel free to engage in the Teams chat immediately to expedite resolution.
+For urgent issues, feel free to engage in the Teams chat immediately to expedite a resolution.
 
 ### Response Times
-Generally, you should expect a response within **3-4 hours**, but in some cases, it could extend up to **24 hours** depending on the complexity and priority of the issue. 
+Generally, you should expect a response within **3-4 hours**, but in some cases, it could extend up to **48 hours** depending on the complexity and priority of the issue. 
 
 Critical issues that significantly impact business operations will be prioritized and handled as quickly as possible.
 

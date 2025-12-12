@@ -36,7 +36,7 @@ To create a new table consider the following steps:
     
         ![Press Create Button](PressCreateButtonImg.png)
 
-This will create a new data in the Rapid Platform.
+This will create a new table in Rapid Platform.
 
 Please refer to the below video for illustration.
 
