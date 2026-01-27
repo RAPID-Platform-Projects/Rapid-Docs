@@ -34,7 +34,8 @@ Follow the steps below for how to add a table in the context of another table:
 
 5. Select the **Table** dropdown and select the table you want nested in this table (In this illustration it is the Payments table)
 
-    :::tip [NOTE:] After selecting the table this should automatically fill in the Page Name and the Tab name. If not fill in the page name with exact table name and fill in the tab name with what you want to appear on the tab when viewing the item in Explorer  
+    :::tip [NOTE:] 
+    After selecting the table this should automatically fill in the Page Name and the Tab name. If not fill in the page name with exact table name and fill in the tab name with what you want to appear on the tab when viewing the item in Explorer  
     :::
 
     ![image-1702339600192.png](./downloaded_image_1705285632574.png)
@@ -51,7 +52,8 @@ Follow the steps below for how to add a table in the context of another table:
 
     ![image-1702339938343.png](./downloaded_image_1705285635618.png)
 
-:::tip [NOTE:] If there is a lookup from the nested table to the table you created the tab, the items will be linked through the lookup. If there is no lookup between the tables a universal link will be created. 
+:::tip [NOTE:] 
+If there is a lookup from the nested table to the table you created the tab, the items will be linked through the lookup. If there is no lookup between the tables a universal link will be created. 
 :::
 
 Please refer the below video for illustration.

@@ -86,6 +86,6 @@
 
 ![s2.41.png](./downloaded_image_1705286096713.png)
 
-![s2.42.png](./downloaded_image_1705286097725.png)](./downloaded_image_1705286098813.png)
+![s2.42.png](./downloaded_image_1705286097725.png)
 
 ##### CONGRATULATIONS! You have now completed this chapter and with it have learnt how to send a simple email from a Menu button in the Explorer View of a Data Table in RAPID Platform. 

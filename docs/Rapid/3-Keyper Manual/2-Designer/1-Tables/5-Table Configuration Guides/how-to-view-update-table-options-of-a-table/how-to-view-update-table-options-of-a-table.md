@@ -28,15 +28,15 @@ Let us take a look at all the information presented on this page in a segment-wi
 
 The following items will be covered in this page:
 
-1. **Naming Conventions**
-2. **Link Inheritance**
-3. **Document Storage, Options, and Item Folder Templating**
-    1. **Why are some options ghosted (inactive) while some are active?**
-    2. **Document Storage**
-    3. **Options**
-    4. **Item Folder Templating**
-4. **Undo Changes**
-5. **Create Sub-Type**
+1. Naming Conventions
+2. Link Inheritance
+3. Document Storage, Options, and Item Folder Templating
+    1. Why are some options ghosted (inactive) while some are active?
+    2. Document Storage
+    3. Options
+    4. Item Folder Templating
+4. Undo Changes
+5. Create Sub-Type
 
 ### Naming Conventions (Singular, Plural, Database Table)
 
@@ -73,9 +73,9 @@ This segment has the names of all the tables (custom as well as built-in) in the
 
 ![Link Inheritance Options](LinkInheritance.png)
 
-**To learn about Link Inheritance [click here](../how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "How to setup Link Inheritance?").**
+To learn about Link Inheritance [click here](../how-to-setup-link-inheritance/how-to-setup-link-inheritance.md "How to setup Link Inheritance?").
 
-**Next let us look at the Document Storage and other options segment**
+Next let us look at the Document Storage and other options segment
 
 ### Document Storage, Options and Item Folder Template
 
@@ -188,7 +188,8 @@ You would have seen this field while creating the table. Here, in the Options Ta
 
 ![Always create a sharepoint folder](AlwaysCreateASharePointFolder.png)
 
-:::tip[Please note:] This option is enabled only when a Document Storage has been defined.
+:::tip [Please note:] 
+This option is enabled only when a Document Storage has been defined.
 :::
 
 **Case:** When option - **Always create a SharePoint folder when items are created** - is **CHECKED OFF**
@@ -276,7 +277,8 @@ This happens because the Payment item refers to the SharePoint folder of the lin
 
 ##### 6. Only allow creation of child items of this item
 
-:::tip[Please note -] This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.
+:::tip [Please note] 
+This option is enabled only for table that have a "Sub-Type Of" ie. who are a parent and have other tables who have inherited from the subject table.
 :::
 
 When this option is checked on - it means - the system will disable creation of parent items and only the inherited tables can created.

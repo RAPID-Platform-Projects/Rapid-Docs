@@ -1,6 +1,6 @@
 # Accessing Adaptive Designer
 
-You can access Adaptive Designer using the link: <a href="https://v3.designer.rapidplatform.dev/">https://v3.designer.rapidplatform.dev/</a>
+You can access Adaptive Designer using the link: <a href="https://designer.rapidplatform.dev/">https://designer.rapidplatform.dev/</a>
 
 There, you will see the following landing page:
 

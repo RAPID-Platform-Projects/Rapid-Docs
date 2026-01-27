@@ -30,7 +30,8 @@ Please note once the above steps are successfully completed all data, links and 
 
 Always use this option with care and when fully certain of outcomes.
 
-:::[Please note]: If your table has linkages to other table(s), then the system would not allow you to delete the subject table.
+:::warning
+**[Please note]** If your table has linkages to other table(s), then the system would not allow you to delete the subject table.
 :::
 
 [How to set up security &amp; permissions for a table? ](../5-Table%20Configuration%20Guides/how-to-set-up-security-permissions-for-a-table/how-to-set-up-security-permissions-for-a-table.md "How to set up security & permissions for a table?")
