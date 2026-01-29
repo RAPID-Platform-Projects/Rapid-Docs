@@ -48,7 +48,7 @@ To enable Admin consent manually, login to the [Azure Portal](https://portal.azu
 
 ![Navigate to Enterprise Apps](M1-Entra.png)
  
-2)	Select the Rapid Platform application. It will have an Application ID of cd5db0ec-1419-4ae6-9434-21cfb83fc42d
+2)	Select Rapid Platform application. It will have an Application ID of cd5db0ec-1419-4ae6-9434-21cfb83fc42d
 
 ![Select Rapid App](M2-Select-Rapid.png)
  

@@ -1,6 +1,6 @@
 # Open API Integrations
 
-The [Open API](https://swagger.io/docs/specification/about/) specification (formerly Swagger specification) is a consistent way to communicate how different systems online can interact. The Rapid Platform is a highly dynamic system so each site is able to generate a custom Open API definition for itself.
+The [Open API](https://swagger.io/docs/specification/about/) specification (formerly Swagger specification) is a consistent way to communicate how different systems online can interact. Rapid Platform is a highly dynamic system so each site is able to generate a custom Open API definition for itself.
 
 A common application for these Open API definitions is the creation of [custom data connectors](https://docs.microsoft.com/en-us/connectors/custom-connectors/define-blank) in [Microsoft Power Automate](http://flow.microsoft.com/) and [Microsoft PowerApps](https://powerapps.microsoft.com/en-us/)
 
@@ -17,7 +17,7 @@ Press the **PowerApps Connect.json** button to download the Open API definition 
 
 ## Flow Connector structure
 
-When generated from a site the Flow connector Open API definition file comes pre-configured for that site. Due to the nature of the Rapid Platform constantly evolving with a business, this definition is written to dynamically fetch the majority of site specific details at time of execution.
+When generated from a site the Flow connector Open API definition file comes pre-configured for that site. Due to the nature of Rapid Platform constantly evolving with a business, this definition is written to dynamically fetch the majority of site specific details at time of execution.
 
 ### Site Connection Details
 
@@ -25,8 +25,8 @@ The definition contains
 
 - `basePath` : This is the slug to the specific Rapid Platform site that the connector was generated from. It takes the form of `/api/{tenant name}/{site name}`
 - `host` : This is the fully qualified domain name for the site environment. This comes pre-filled directed at local host for local development.
-- `securityDefinitions.oauth2_auth` : This array contains the default OAuth 2.0 connection details to fetch a user token to authenticate to the Rapid Platform
-- `security[0].oauth2_auth[0]` : This contains the Application ID and permissions scope needed to authenticate to the Rapid Platform. By default it comes in the form `{application oid}/.default`
+- `securityDefinitions.oauth2_auth` : This array contains the default OAuth 2.0 connection details to fetch a user token to authenticate to Rapid Platform
+- `security[0].oauth2_auth[0]` : This contains the Application ID and permissions scope needed to authenticate to Rapid Platform. By default it comes in the form `{application oid}/.default`
 
 ### Rapid Endpoints
 

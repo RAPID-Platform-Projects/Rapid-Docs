@@ -79,7 +79,7 @@ Next let us look at the Document Storage and other options segment
 
 ### Document Storage, Options and Item Folder Template
 
-This segment provides options to configure how to organise data created in the subject table. The Rapid Platform provides options to upload files against every item created in a table. For example - imagine you have an Invoices table. Each item of the table refers to an invoice generated for a customer. It would be beneficial to upload the actual invoice document against the table item.   
+This segment provides options to configure how to organise data created in the subject table. Rapid Platform provides options to upload files against every item created in a table. For example - imagine you have an Invoices table. Each item of the table refers to an invoice generated for a customer. It would be beneficial to upload the actual invoice document against the table item.   
   
 The Document Storage and other options relates to storage and organisation of files uploaded with items of a table.
 

@@ -2,9 +2,9 @@
 
 ## Overview
 
-The Rapid Platform is a dynamic server environment where Users, including business personnel, are able to create &amp; modify custom tables containing columns of their choosing on the fly. This allows for a business to update their IT infrastructure with the click of a few buttons allowing Rapid to track the data they care about as their business evolves.
+Rapid Platform is a dynamic server environment where Users, including business personnel, are able to create &amp; modify custom tables containing columns of their choosing on the fly. This allows for a business to update their IT infrastructure with the click of a few buttons allowing Rapid to track the data they care about as their business evolves.
 
-As a consequence, interacting with the Rapid Platform from an external entity comes with its own challenges as data structures can not (generally) be assumed to exist and can be reasonably expected to change over the course of minutes. To support tackling these challenges this document covers the overall concepts binding the platform together while documenting how to interact with the existing API structure.
+As a consequence, interacting with Rapid Platform from an external entity comes with its own challenges as data structures can not (generally) be assumed to exist and can be reasonably expected to change over the course of minutes. To support tackling these challenges this document covers the overall concepts binding the platform together while documenting how to interact with the existing API structure.
 
 ## What is a Site
 
@@ -12,7 +12,7 @@ Businesses can have one or more Sites to operate from. Each of these is treated 
 
 Sites are predicated on needing Office365 infrastructure and are scoped to a particular Microsoft Azure Tenant. This allows for a business to own multiple sites for various business purposes.
 
-The Rapid Platform is architecturally structured as follows
+Rapid Platform is architecturally structured as follows
 
 There are multiple database mapping 1:1 with user Sites.
 
@@ -36,11 +36,11 @@ A table is easiest thought of as a database table with some extra meta-data. It 
 
 For clarity each field that stores useful data for the table will be called a column.
 
-Tables also come with page definitions. These are descriptions the user has constructed of what fields are visible on a page in the Rapid Platform and how they are laid out on that page.
+Tables also come with page definitions. These are descriptions the user has constructed of what fields are visible on a page in Rapid Platform and how they are laid out on that page.
 
 Due to tables being dynamic, custom and evolving objects their definition can be fetched as a schema.
 
-Structurally the Rapid Platform site database is composed of many tables representing tables and a few special system tables. Currently only tables are available through the API.
+Structurally Rapid Platform site database is composed of many tables representing tables and a few special system tables. Currently only tables are available through the API.
 
 ### How find what tables are available on a site
 
@@ -76,7 +76,7 @@ Every table has the same basic system fields created for it to assist the Platfo
 
 ### What is an Item
 
-Ultimately the Rapid Platform is about helping people track data so they can get their job done. An individual instance of a table we call an Item. For example on the Table of Tasks a single ‘task’ is an item.
+Ultimately Rapid Platform is about helping people track data so they can get their job done. An individual instance of a table we call an Item. For example on the Table of Tasks a single ‘task’ is an item.
 
 Interacting with Items is the core of interacting with the data stored in Rapid. Items follow full CRUD controls.
 

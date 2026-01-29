@@ -1,6 +1,6 @@
 # The Five Pillars
 
-Rapid Platform is build on a suite of five core applications. These applications are interconnected, allowing you to manage data, process automation, and reporting.
+Rapid Platform is built on a suite of five core applications. These applications are interconnected, allowing you to manage, process and visualize your data with reports.
 
 ## Tasks
 
@@ -54,7 +54,7 @@ Welcome to a new era of intuitive data management with **Explorer** – the cent
 
 ![A screenshot demonstrating Adaptive Documents application. The application has a side-panel where components for a web form are listed in a hierarchy tree. In the middle section, the elements are arranged for a "Report Incident" form. In the rightmost section, there is an inspection panel where the attributes of each web form field can be set.](<Adaptive Example.png>)
 
-**Adaptive Documents** allows you to quickly build web forms to collect data, and seamlessly integrate it with your Rapid database. Send forms to clients to collect data, or use them to power your daily internal operations.
+**Adaptive Documents** allows you to quickly build web forms to collect data, and seamlessly integrate it with your Rapid database.
 
 You can quickly build forms using the powerful **Elements Hierarchy**, and connect your form natively to the columns of your Rapid site. With **Adaptive Documents**, you can generate new items, create QR codes or shareable links to your form, generate personalised forms depending on the recipient, or even build forms that will generate repeating sections for multiple item-generation.
 

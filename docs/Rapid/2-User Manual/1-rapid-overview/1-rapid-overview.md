@@ -1,12 +1,12 @@
 # Rapid Overview
 
-The Rapid Platform is a comprehensive software solution designed to accelerate your business processes while helping keep everything organised. We offer a user-friendly interface and a suite of tools for tasks such as project management, data analysis, workflow automation, and communication. By centralizing these functions into one platform, our goal is to enhance efficiency, collaboration, and decision-making across teams and departments. 
+Rapid Platform is a comprehensive software solution designed to accelerate your business processes while helping keep everything organised. We offer a user-friendly interface and a suite of tools for tasks such as project management, data analysis, workflow automation, and communication. By centralizing these functions into one platform, our goal is to enhance efficiency, collaboration, and decision-making across teams and departments. 
 
 Sounds great, but how do we do that?
 
 ## Major Features
 
-The Rapid Platform can be broken down into several main concepts
+Rapid Platform can be broken down into several main concepts
 
 ### Your Site
 
@@ -37,7 +37,7 @@ Based off the popular [BPMN 2.0](https://camunda.com/bpmn/), [Workflow](/docs/Ra
 
 ![Tasks Screen](Tasks_Example.png)
 
-Tasks are a fundamental unit of the Rapid Platform. A task describes a singular activity in time owned by someone.
+Tasks are a fundamental unit of Rapid Platform. A task describes a singular activity in time owned by someone.
 With a good set of processes under your belt, tasks are an excellent way to focus on what needs to be done and minimise the amount of chasing up information you need to do.
 
 When you're in the groove having a well organised list of tasks can really help, that's what the [Tasks Experience](/docs/Rapid/2-User%20Manual/5-Tasks%20Experience/5-Tasks Experience.md) was built for.
@@ -46,4 +46,4 @@ When you're in the groove having a well organised list of tasks can really help,
 
 ![Designer Screen](Designer_Example.png)
 
-Every business is different. Creating software is slow and expensive. These two facts lead to business software that never quite lines up with how your business data actually works. The Rapid Platform aims to sidestep this problem by creating a configurable system that can be changed and altered as your business grows and develops. To achieve this we've created [Designer](/docs/Rapid/2-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md).
+Every business is different. Creating software is slow and expensive. These two facts lead to business software that never quite lines up with how your business data actually works. Rapid Platform aims to sidestep this problem by creating a configurable system that can be changed and altered as your business grows and develops. To achieve this we've created [Designer](/docs/Rapid/2-User%20Manual/3-Designer/1-what-is-designer/1-what-is-designer.md).
