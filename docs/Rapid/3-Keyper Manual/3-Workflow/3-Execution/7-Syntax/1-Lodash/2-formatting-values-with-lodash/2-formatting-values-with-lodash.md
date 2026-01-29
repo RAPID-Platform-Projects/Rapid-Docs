@@ -33,3 +33,23 @@ The "en-AU" argument above, tells the method to format the number as per Austral
 | Now plus 1 hour returned as ISO | Now | `DateTime.now().plus({hours: 1}).toISO()` NOTE: you can also add "seconds", "minutes", "hours", "days", "weeks", "months", "quarters", and "years" | NA |
 | Now minus 1 hour returned as ISO | Now | `DateTime.now().minus({hours: 1}).toISO()` NOTE: you can also subtract"seconds", "minutes", "hours", "days", "weeks", "months", "quarters", and "years" | NA |
 | Return Start of given day | "2023-09-04T10:10:00.000Z" | `DateTime.now().minus({hours: 1}).startOf('day').toISO()` | "2023-09-04T00:00:00.000Z" |
+
+## Rich Text and DocX
+
+Multi-line text fields store their rich text in HTML format. When using these values in DocX scenarios you can end up with ugly `<p>` tags and other junk polluting your document. For smaller fields where retaining the formatting isn't important, you can use the custom `htmlToText()` function in lodash inputs to strip out these tags.
+
+For example, `<%= htmlToText(workflow['Jobs'].properties.item.cab_frame_general_notes) %>` will take the text from a Job items' Cab Frame general notes that originally looked like this:
+
+```
+<p>PRE WIRE FOR LIGHT BAR AT BULLBAR</p><p>WEIGH TRUCK AND TRAILER</p><p></p>
+```
+
+Then strip out the HTML glyphs ending up with the following text:
+
+```
+PRE WIRE FOR LIGHT BAR AT BULLBAR
+
+WEIGH TRUCK AND TRAILER
+```
+
+Note the function will insert additional line breaks between `<p>` tags to try and help preserve the shape of the input text.
