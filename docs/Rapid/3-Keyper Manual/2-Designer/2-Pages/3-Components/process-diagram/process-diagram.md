@@ -4,9 +4,9 @@
 
 As the name suggests, a Process Diagram component will display the Process Diagram on a page. If this component is added properly, it will display the relevant Process Diagram associated with the item on the page.
 
-## Important note
-
-**This component cannot be meaningfully added to any page. A table should have a column by the type - XML Data to host a Process Diagram component. XML Data type of columns cannot be added with the Rapid UI. There is a specialised way to add such columns to the Table, which is beyond the scope of explanation of this article.**
+:::warning 
+This component cannot be meaningfully added to any page. A table should have a column by the type - XML Data to host a Process Diagram component. XML Data type of columns cannot be added with the Rapid UI. There is a specialised way to add such columns to the Table, which is beyond the scope of explanation of this article.
+:::
 
 ![Process diagram column example](<Process diagram column example.png>)
 

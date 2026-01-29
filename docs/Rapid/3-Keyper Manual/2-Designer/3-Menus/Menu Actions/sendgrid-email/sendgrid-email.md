@@ -9,7 +9,7 @@ Imagine you are going through the list of candidates who have applied for a job 
 
 Refer to [**sending static SendGrid email from Menu button.**](/docs/Rapid/3-Keyper%20Manual/5-Omnichannel/SendGrid/4-static-menu-intro/4-static-menu-intro.md "Sending Static Email from SendGrid using Explorer Menu Button")
 
-OR
+**OR**
 
 Imagine you wish to send an email to selected candidates, for the next round of interview. You have a SendGrid template and want to customise it dynamically with name of the candidate and interview date in the email.
 

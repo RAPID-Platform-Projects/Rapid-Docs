@@ -92,6 +92,6 @@ Please follow the below steps to send a Dynamic Email using SendGrid triggered f
 
 ![d2.41.png](./downloaded_image_1705286050503.png)
 
-![d2.42.png](./downloaded_image_1705286051515.png)](./downloaded_image_1705286052605.png)
+![d2.42.png](./downloaded_image_1705286051515.png)
 
 ##### CONGRATULATIONS! You have now completed this chapter and with it have learnt how to send a dynamic email from a Menu button in the Explorer View of a Data Table in RAPID Platform. 

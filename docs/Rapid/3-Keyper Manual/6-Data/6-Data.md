@@ -6,7 +6,7 @@ In our example, Stationary Inc have several leads generated from their marketing
 
 ## Quickstart
 
-1) Navigate to [data.rapidplatform.com](https://data.rapidplatform.com)
+1) Navigate to [data.rapidplatform.dev](https://data.rapidplatform.dev)
 2) Enter the tenant and site details for the site you want to import data into
 3) Open the table selection panel via the RAPID -> Select Tables top menu
 

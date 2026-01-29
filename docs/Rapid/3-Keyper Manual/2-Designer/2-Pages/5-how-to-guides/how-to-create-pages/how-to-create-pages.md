@@ -106,13 +106,10 @@ To create independent page from Page Manager, please consider the following step
 
 ![Create new page from sidebar step 8](<Cerate new page from sidebar step 8.png>)
 
-**Please note :**
+1. Here you have created a page independent of any Table in the System.
+2. There is no need to create a page using Tab Strip Layout.
+3. You can next add a layout on either Details or Create Screen breakpoints.
 
-**1. Here you have created a page independent of any Table in the System.**
-
-**2. There is no need to create a page using Tab Strip Layout.**
-
-**3. You can next add a layout on either Details or Create Screen breakpoints.**
 
 ## Related articles
 

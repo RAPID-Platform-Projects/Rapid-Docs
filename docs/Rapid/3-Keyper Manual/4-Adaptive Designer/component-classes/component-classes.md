@@ -14,7 +14,7 @@ To apply a class simply:
 
 ## Useful Classes
 
-|\**Class**|\**Component type**|\**Description**|
+|**Class**|**Component type**|**Description**|
 |:----|:----|:----|
 |rp-text-right|Most components that include text - Single Line fields, Multi line, Static Text etc.|Aligns the text within these components to the right.|
 |rp-text-center|Most components that include text - Single Line fields, Multi line, Static Text etc.|Centers the text within these components|

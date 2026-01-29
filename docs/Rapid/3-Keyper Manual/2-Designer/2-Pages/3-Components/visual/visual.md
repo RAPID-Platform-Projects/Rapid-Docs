@@ -3,7 +3,7 @@
 The **Visual** component (introduced in <a href="https://docs.rapidplatform.com/changelog/2024/05/05/2024-05-05-1.40.0%20-%20Rapid%20Platform/1.40.0%20-%20Rapid%20Platform" target="_blank">Update 1.40.0</a>) enables simple 2D chart visualisations.
 
 :::note[Example]
-Imagine a Project Manager trying to analyse the distribution of project tasks statuses (completed, in-progress and pending for start) from table data. It would be with a simple pie chart. Isn't it!
+Imagine a Project Manager trying to analyse the distribution of project tasks statuses (completed, in-progress and pending for start) from table data. It would be with a simple pie chart!
 
 OR
 
