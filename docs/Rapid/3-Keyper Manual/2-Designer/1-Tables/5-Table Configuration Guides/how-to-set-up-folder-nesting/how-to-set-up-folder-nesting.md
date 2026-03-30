@@ -1,3 +1,8 @@
+---
+title: How to Set Up Folder Nesting
+slug: /folder-nesting
+---
+
 # How to set up Folder Nesting
 
 Folder Nesting controls how item folders for one table are organised under the folders of another table in document storage.
