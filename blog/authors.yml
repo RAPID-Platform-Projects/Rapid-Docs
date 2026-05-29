@@ -19,6 +19,26 @@ josh:
   image_url: https://github.com/decept1kon.png
   email: sales@rapidplatform.com
 
+sam:
+  name: Samuel Tomlin
+  title: Documents
+  url: https://github.com/Squ1ggly
+  image_url: https://github.com/Squ1ggly.png
+  email: sales@rapidplatform.com
+
+pete:
+  name: Peter Franklin
+  title: Documents
+  url: https://github.com/PeterFranklin231
+  image_url: https://github.com/PeterFranklin231.png
+  email: sales@rapidplatform.com
+
+tyler:
+  name: Tyler Watson
+  title: Documents
+  url: https://github.com/tylerjwatson
+  image_url: https://github.com/tylerjwatson.png
+  email: sales@rapidplatform.com
 
 # Example author for reference
 #jmarcey:
