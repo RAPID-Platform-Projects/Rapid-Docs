@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Rapid Platform Docs Blog</title>
+        <link>https://docs.rapidplatform.com/changelog/</link>
+        <description>Rapid Platform Docs Blog</description>
+        <lastBuildDate>Mon, 21 Sep 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[v1.67 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67 - Rapid Platform/1.67 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67 - Rapid Platform/1.67 - Rapid Platform</guid>
+            <pubDate>Mon, 21 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new features live on Rapid Platform Monday, September 28th]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new features live on Rapid Platform <strong>Monday, September 28th</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="permission-inheritance">Permission inheritance<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#permission-inheritance" class="hash-link" aria-label="Direct link to Permission inheritance" title="Direct link to Permission inheritance">​</a></h3>
+<p>Items can now inherit their permissions from a parent record. In Designer, the Permission Inheritance section of a table's Security &amp; Permissions tab lets you choose the parent using a lookup or universal link column, and system lists and tables that extend another table can inherit too. New items take on their parent's permissions when they're created, and any change to the parent's permissions flows down through every level of child items. You can also choose whether a table's items share its default permissions or have their own, and restore a record to its table's default inheritance at any time.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="permissions-admin-page">Permissions admin page<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#permissions-admin-page" class="hash-link" aria-label="Direct link to Permissions admin page" title="Direct link to Permissions admin page">​</a></h3>
+<p>A new Permissions admin page under Maintenance in Designer shows which items have permissions that differ from their table's defaults. From here you can reset items to their defaults, bulk apply permissions to items matching a filter, or bulk set items to inherit from their parent. Every bulk change is previewed before it's applied. You can also see exactly who can access an item and where that access comes from, or pick a user or group to see everything they can access.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="sharepoint-permission-sync-in-the-background">SharePoint permission sync in the background<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#sharepoint-permission-sync-in-the-background" class="hash-link" aria-label="Direct link to SharePoint permission sync in the background" title="Direct link to SharePoint permission sync in the background">​</a></h3>
+<p>SharePoint permissions now sync in the background whenever an item is created or updated, so saving is no longer slowed down by the sync. Folder permissions follow the same inheritance as their items, and drift is detected and repaired automatically. Admins can track queued, completed and failed syncs in the new Permission Sync Events list.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="stronger-designer-and-workflow-permissions">Stronger Designer and Workflow permissions<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#stronger-designer-and-workflow-permissions" class="hash-link" aria-label="Direct link to Stronger Designer and Workflow permissions" title="Direct link to Stronger Designer and Workflow permissions">​</a></h3>
+<p>The Designer and Workflow permissions are now enforced across the API, not just in the UI. Any user, integration or AI agent without the Designer permission can no longer change a site's structure, such as its tables, fields, views, menus and pages, and workflow administration requires the Workflow permission. Tables that extend another table are now protected by their own permissions, so a user with access to a base table can't read the extra fields on a table they haven't been granted.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>You'll now see a confirmation, showing where an item's permissions come from, before breaking its permission inheritance</li>
+<li>Permission errors from Designer and Workflow are now shown instead of failing silently</li>
+<li>Searching in the principal picker is no longer case-sensitive</li>
+<li>Full principal names are now shown in the permission picker and table</li>
+<li>You can no longer save an empty set of permissions</li>
+<li>Pages now show an empty state when none of their tabs are visible to you</li>
+<li>Installing a bundle now checks its tables first and names any invalid table, instead of installing it partially</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/09/21/2026-09-21-1.67%20-%20Rapid%20Platform/1.67%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where notes created from the Activity Feed didn't inherit permissions from the record they were linked to</li>
+<li>Fixed an issue where removing a table that extends another table failed with a SQL error</li>
+<li>Fixed an issue where submitting a long public form could fail</li>
+<li>Fixed an issue where public forms failed to load on sites containing a table installed from a bundle without settings</li>
+<li>Fixed an issue where pages failed to load when their search state contained a dot</li>
+<li>Fixed an issue where the Creating document notification in Adaptive Designer never cleared</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.66 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/07/31/2026-07-31-1.66 - Rapid Platform/1.66 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/07/31/2026-07-31-1.66 - Rapid Platform/1.66 - Rapid Platform</guid>
+            <pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new improvements live on Rapid Platform Friday, July 31st]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new improvements live on Rapid Platform <strong>Friday, July 31st</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/07/31/2026-07-31-1.66%20-%20Rapid%20Platform/1.66%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where CSV exports could return rows in an inconsistent order across pages</li>
+<li>Fixed an issue where searching in a lookup didn't respect cascading lookup filters</li>
+<li>Fixed an issue where fetch connectors in Adaptive Documents could fail after saving progress and reloading the form</li>
+<li>Fixed an issue where edits to existing records weren't saved when syncing data from a workbook</li>
+<li>Fixed an issue where the Gantt component failed to load</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.65 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/07/06/2026-07-06-1.65 - Rapid Platform/1.65 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/07/06/2026-07-06-1.65 - Rapid Platform/1.65 - Rapid Platform</guid>
+            <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new improvements live on Rapid Platform Monday, July 6th]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new improvements live on Rapid Platform <strong>Monday, July 6th</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/07/06/2026-07-06-1.65%20-%20Rapid%20Platform/1.65%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>The Activity Feed now supports emails saved in the modern Outlook .msg format</li>
+<li>Field description tooltips now stay on screen on mobile devices</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/07/06/2026-07-06-1.65%20-%20Rapid%20Platform/1.65%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where only the last file was saved when uploading multiple files with the same name to an Embedded File component on a public form, such as when taking several photos on mobile</li>
+<li>Fixed an issue where Adaptive Documents set to fetch on load cleared their prefilled values when there was no item to fetch</li>
+<li>Fixed an issue where Adaptive Designer crashed when switching between large documents</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.64 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64 - Rapid Platform/1.64 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64 - Rapid Platform/1.64 - Rapid Platform</guid>
+            <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new features live on Rapid Platform Tuesday, June 23rd]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new features live on Rapid Platform <strong>Tuesday, June 23rd</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="experiences-are-now-workspaces">Experiences are now Workspaces<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#experiences-are-now-workspaces" class="hash-link" aria-label="Direct link to Experiences are now Workspaces" title="Direct link to Experiences are now Workspaces">​</a></h3>
+<p>Experiences have been renamed to Workspaces throughout the platform, including labels, routes and search. You can now link a menu item to a Workspace, which displays that Workspace's full menu as nested children. Any changes made to the linked Workspace's menu are reflected automatically, without needing to re-save the menu that links to it.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="tab-permissions">Tab permissions<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#tab-permissions" class="hash-link" aria-label="Direct link to Tab permissions" title="Direct link to Tab permissions">​</a></h3>
+<p>You can now limit which tabs in a Tab Strip are visible to specific users or groups. Tabs a user doesn't have access to are hidden when they view the page, while all tabs remain visible when editing the Tab Strip in Designer.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="wait-for-all-inclusive-gateway-paths">Wait for all Inclusive Gateway paths<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#wait-for-all-inclusive-gateway-paths" class="hash-link" aria-label="Direct link to Wait for all Inclusive Gateway paths" title="Direct link to Wait for all Inclusive Gateway paths">​</a></h3>
+<p>Inclusive Gateways in Workflow can now wait for the outcomes of all active paths before the process continues. This is useful for scenarios such as onboarding, where a user may be provisioned to several systems and the process can't proceed until every system has been provisioned.</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="application-principals">Application principals<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#application-principals" class="hash-link" aria-label="Direct link to Application principals" title="Direct link to Application principals">​</a></h3>
+<p>We've added a new principal type for applications. Application principals respect permissions in the same way as users and groups, so integrations can be given only the access they need.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>Added a New View button to the menu in Designer</li>
+<li>Added an Open in Adaptive Designer button to User Tasks in Workflow</li>
+<li>Creating a new table now lets you choose whether it's added to the sidebar menu</li>
+<li>The Get Rapid Item service task now shows a clear error when the target list or item can't be found</li>
+<li>Links in the External Page component that open a new tab or navigate the parent page now work</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/06/23/2026-06-23-1.64%20-%20Rapid%20Platform/1.64%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where CSV exports could be missing rows</li>
+<li>Fixed an issue where copying an expression from a labelled Workflow element copied the label instead of the reference</li>
+<li>Fixed an issue where deleting a condition watcher in Adaptive Designer left its expression behind</li>
+<li>Fixed an issue where cascading lookups crashed the page when the linked list had no title field</li>
+<li>Fixed an issue where large uploads failed because of a field size limit</li>
+<li>Fixed an issue where document introspection in DocX templates stopped working</li>
+<li>Addressed styling issues with the public form URL in the state menu</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.62 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/04/13/2026-04-13-1.62 - Rapid Platform/1.62 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/04/13/2026-04-13-1.62 - Rapid Platform/1.62 - Rapid Platform</guid>
+            <pubDate>Mon, 13 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new features live on Rapid Platform Tuesday, April 28th]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new features live on Rapid Platform <strong>Tuesday, April 28th</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/04/13/2026-04-13-1.62%20-%20Rapid%20Platform/1.62%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>You’ll now see a confirmation dialog when deleting an Adaptive Document in Adaptive Designer</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/04/13/2026-04-13-1.62%20-%20Rapid%20Platform/1.62%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where the warning icon was displayed on Send Email service tasks despite valid From field configuration</li>
+<li>Fixed an issue where default values exceeded the configured maximum length for Single Line of Text columns</li>
+<li>Removed the Required toggle from Embedded File slots within User Tasks in Workflow</li>
+<li>Fixed an issue where Adaptive Documents appeared on unrelated User Tasks when no documents were configured</li>
+<li>Fixed an issue where Choice fields configured as radio buttons displayed an additional blank option</li>
+<li>Addressed styling issues with the Open Document dialog in Adaptive Designer</li>
+<li>Fixed an issue where the <code>{~~html}</code> template caused a crash in Fill Document service tasks</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.60.11 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11 - Rapid Platform/1.60.11 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11 - Rapid Platform/1.60.11 - Rapid Platform</guid>
+            <pubDate>Thu, 26 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new features live on Rapid Platform Monday, March 30th]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new features live on Rapid Platform <strong>Monday, March 30th</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11%20-%20Rapid%20Platform/1.60.11%20-%20Rapid%20Platform#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="folder-nesting-under-a-parent-table">Folder nesting under a parent table<a href="https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11%20-%20Rapid%20Platform/1.60.11%20-%20Rapid%20Platform#folder-nesting-under-a-parent-table" class="hash-link" aria-label="Direct link to Folder nesting under a parent table" title="Direct link to Folder nesting under a parent table">​</a></h3>
+<p>You can now organise item folders under a parent table in document storage. Choose whether items link to the parent using a lookup or universal link, and whether folders are shared or created per item, keeping documents grouped automatically. <a href="https://docs.rapidplatform.com/docs/folder-nesting">Learn more about Folder Nesting</a></p>
+<p><img decoding="async" loading="lazy" alt="Folder nesting enabled showing configuration" src="https://docs.rapidplatform.com/assets/images/FolderNesting-5bac575b8150218d40a07b7268af7bb3.png" width="764" height="248" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11%20-%20Rapid%20Platform/1.60.11%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>You’ll now see a warning if you try to leave a table with unsaved changes</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/03/26/2026-03-26-1.60.11%20-%20Rapid%20Platform/1.60.11%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Fixed an issue where split value choice fields appeared blank on public forms</li>
+<li>Fixed the Vertical Layout component crashing when added to a page</li>
+<li>Fixed an issue where invalid queries could be saved on Computed and Subquery columns</li>
+<li>Fixed an issue where field bindings couldn’t be cleared on the Address component in Designer</li>
+<li>Fixed an issue where deleted notifications still appeared in the notifications list</li>
+<li>Fixed an issue where deleting subtypes of tables with names starting with numbers caused SQL errors</li>
+<li>Fixed an issue where mentions in the Activity Feed didn’t trigger notifications</li>
+<li>Fixed an issue where address fields in submitted forms didn’t populate their mapped fields</li>
+<li>Fixed an issue where copying and pasting a timer event had no effect</li>
+<li>Fixed an issue where using <code>thisElement</code> in a Lodash expression returned no value</li>
+<li>Fixed an issue where signing in with only an OID did not sync user details to the Principal record</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[v1.60.8 — Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/03/02/2026-03-02-1.60.7 - Rapid Platform/1.60.7 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/03/02/2026-03-02-1.60.7 - Rapid Platform/1.60.7 - Rapid Platform</guid>
+            <pubDate>Mon, 02 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[We're excited to announce new improvements live on Rapid Platform Monday March 3rd!]]></description>
+            <content:encoded><![CDATA[<p>We're excited to announce new improvements live on Rapid Platform Monday March 3rd!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/03/02/2026-03-02-1.60.7%20-%20Rapid%20Platform/1.60.7%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>Added city and district selection to the Address component.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/03/02/2026-03-02-1.60.7%20-%20Rapid%20Platform/1.60.7%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Check that accounts are enabled before inviting users to SharePoint folders.</li>
+<li>Disabled pagination when searching within a data table to prevent infinite network calls.</li>
+<li>Prevented network calls on keypress when using the Address component.</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.60.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0 - Rapid Platform/1.60.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0 - Rapid Platform/1.60.0 - Rapid Platform</guid>
+            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 05/01/26]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 05/01/26</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="features">Features<a href="https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0%20-%20Rapid%20Platform/1.60.0%20-%20Rapid%20Platform#features" class="hash-link" aria-label="Direct link to Features" title="Direct link to Features">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="map-location-fields">Map Location Fields<a href="https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0%20-%20Rapid%20Platform/1.60.0%20-%20Rapid%20Platform#map-location-fields" class="hash-link" aria-label="Direct link to Map Location Fields" title="Direct link to Map Location Fields">​</a></h3>
+<p>We would like to introduce a new field type for Rapid lists, Geography. These fields can store the Latitude and Longitude of a location.</p>
+<p>Adding the fields to a page will now present the map location stored. Clicking a location will set it as required.</p>
+<p><img decoding="async" loading="lazy" alt="Location field showing a map and a point" src="https://docs.rapidplatform.com/assets/images/location-f7ee97317f18299e453b65b649553319.png" width="845" height="709" class="img_ev3q"></p>
+<p>For the report writers out there, these are stored as Geography fields using <a href="https://learn.microsoft.com/en-us/sql/t-sql/spatial-geometry/stmpointfromwkb-geometry-data-type?view=sql-server-ver17" target="_blank" rel="noopener noreferrer">WKT POINT</a> format.
+For those of you interested in getting these points into PowerBI you will need to cast them for the built-in Map visual. For example:</p>
+<div class="language-sql codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-sql codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token keyword" style="color:#00009f">SELECT</span><span class="token plain"> id</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain">title</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"> </span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain">CAST</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">geo_field</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">Lat </span><span class="token keyword" style="color:#00009f">as</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">FLOAT</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Lat'</span><span class="token punctuation" style="color:#393A34">,</span><span class="token plain"> CAST</span><span class="token punctuation" style="color:#393A34">(</span><span class="token plain">geo_field</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">Long </span><span class="token keyword" style="color:#00009f">as</span><span class="token plain"> </span><span class="token keyword" style="color:#00009f">FLOAT</span><span class="token punctuation" style="color:#393A34">)</span><span class="token plain"> </span><span class="token string" style="color:#e3116c">'Long'</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token keyword" style="color:#00009f">FROM</span><span class="token plain"> dbo</span><span class="token punctuation" style="color:#393A34">.</span><span class="token plain">geo_list</span><br></span></code></pre></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="improvements">Improvements<a href="https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0%20-%20Rapid%20Platform/1.60.0%20-%20Rapid%20Platform#improvements" class="hash-link" aria-label="Direct link to Improvements" title="Direct link to Improvements">​</a></h2>
+<ul>
+<li>Creating a new process via upload will now pre-fill the title</li>
+<li>Altering permissions on items now requires at minimum edit permission to perform</li>
+<li>Permissions synced to SharePoint will now expand the groups and create individual permissions where required</li>
+<li>Updated Support chat-bot to new long-term model for better speed</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2026/01/05/2026-01-05-1.60.0%20-%20Rapid%20Platform/1.60.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Execute workflow menu actions that contain inputs with a lookup to the current item will no longer crash on submission</li>
+<li>Recovered Ctrl+Enter shortcut to submit Activity Feeds notes, as it was just adding a new line before</li>
+<li>Support chat bot can answer your queries again</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.58.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/12/15/2025-12-15-1.58.0 - Rapid Platform/1.58.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/12/15/2025-12-15-1.58.0 - Rapid Platform/1.58.0 - Rapid Platform</guid>
+            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 15/12/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 15/12/25</p>
+<p>We're excited to announce new improvements live on Rapid Platform <strong>Monday December 15th</strong>!</p>
+<hr>
+<h1>Improvements</h1>
+<ul>
+<li>Workflow timers will now reply instantly, preventing long running process steps from being duplicated</li>
+<li>Inline styles and other HTML sanitisation has been standardised across the platform, you should be able to use a wider range of safe HTML elements in rich text</li>
+</ul>
+<h1>Bug Fixes</h1>
+<ul>
+<li>Prevented public forms from being able to save their 'saving' state if they fail to finish saving while submitting</li>
+<li>Updated Embedded file component in Public forms to correctly load their embedded file definition in single item scenarios</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.57.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/11/10/2025-11-10-1.57.0 - Rapid Platform/1.57.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/11/10/2025-11-10-1.57.0 - Rapid Platform/1.57.0 - Rapid Platform</guid>
+            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 10/11/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 10/11/25</p>
+<p>We're excited to announce new features live on Rapid Platform <strong>Monday November 10th</strong>!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="split-values-to-choice-and-radio-controls-in-adaptive">Split values to choice and radio controls in Adaptive<a href="https://docs.rapidplatform.com/changelog/2025/11/10/2025-11-10-1.57.0%20-%20Rapid%20Platform/1.57.0%20-%20Rapid%20Platform#split-values-to-choice-and-radio-controls-in-adaptive" class="hash-link" aria-label="Direct link to Split values to choice and radio controls in Adaptive" title="Direct link to Split values to choice and radio controls in Adaptive">​</a></h2>
+<p>We've introduced the ability to assign split values to adaptive radio buttons and choices, enabling users to define a value that differs from the displayed label. This is particularly useful in scenarios where descriptive labels are used for user input, but numerical values are needed for backend processing or analysis. Users can now click the link icon when editing a choice or radio option to separate the label from its value, allowing them to store meaningful data directly without relying on post-submission conversion.</p>
+<p><img decoding="async" loading="lazy" alt="Designer UI showing Split Choices" src="data:image/png;base64,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" width="282" height="191" class="img_ev3q"></p>
+<h1>Improvements</h1>
+<ul>
+<li>Enhanced the adaptive Rich Text Editor for better usability and formatting support.</li>
+<li>Updated permission handling when assigning placeholder permission fields via API or workflow.</li>
+</ul>
+<h1>Bug Fixes</h1>
+<ul>
+<li>Fixed a crash that occurred when attempting to extend a non-existent list.</li>
+<li>Resolved an error triggered by the timer under certain conditions.</li>
+<li>Addressed styling inconsistencies in adaptive components.</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.56.3 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/10/13/2025-10-13-1.56.3 - Rapid Platform/1.56.3 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/10/13/2025-10-13-1.56.3 - Rapid Platform/1.56.3 - Rapid Platform</guid>
+            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 13/10/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 13/10/25</p>
+<p>We're excited to announce new features live on Rapid Platform <strong>Monday October 13th</strong>!</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="embedded-file-access-in-public-forms">Embedded File Access in Public Forms<a href="https://docs.rapidplatform.com/changelog/2025/10/13/2025-10-13-1.56.3%20-%20Rapid%20Platform/1.56.3%20-%20Rapid%20Platform#embedded-file-access-in-public-forms" class="hash-link" aria-label="Direct link to Embedded File Access in Public Forms" title="Direct link to Embedded File Access in Public Forms">​</a></h2>
+<p>Users can now seamlessly open embedded files directly from Public Forms. When accessing a form that includes an embedded document, the file opens in SharePoint, allowing users to edit the document in real time. Any changes made are instantly synchronised with SharePoint, ensuring live updates across connected platforms.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="authenticated-forms">Authenticated Forms<a href="https://docs.rapidplatform.com/changelog/2025/10/13/2025-10-13-1.56.3%20-%20Rapid%20Platform/1.56.3%20-%20Rapid%20Platform#authenticated-forms" class="hash-link" aria-label="Direct link to Authenticated Forms" title="Direct link to Authenticated Forms">​</a></h2>
+<p>We've introduced support for authenticated Adaptive Documents. You can now configure a User Task in Workflow to require login before accessing an Adaptive Document. This enhancement updates the User Task configuration panel with three new toggles, offering greater control over document access and behaviour.</p>
+<p><img decoding="async" loading="lazy" alt="alt text" src="https://docs.rapidplatform.com/assets/images/authform-4c2efc635ce6ebb21fe07025affbea48.png" width="341" height="130" class="img_ev3q"></p>
+<p>Only principals will be granted access to authenticated forms, ensuring secure and role-based visibility. Additionally, user fields will now automatically populate when an authenticated form is used, streamlining data entry</p>
+<h1>Improvements</h1>
+<ul>
+<li>Added Confirmation Dialog to when closing half created items</li>
+<li>Clicking logo in Explorer now navigates to experience dashboard</li>
+<li>Added support BitWarden Chrome extension</li>
+<li>Switching experiences now displays the dashboard</li>
+</ul>
+<h1>Bug Fixes</h1>
+<ul>
+<li>Fixed searching in Cascading Lookups failing to populate items</li>
+<li>Fixed current experience button failling to appear selected</li>
+<li>Fixed creating items using an API call now respects default configuration</li>
+<li>Opening an item in Explorer with the Title field set to DateTime no longer crashes the page</li>
+<li>Activity Feed now displays the most recent 250 items</li>
+</ul>]]></content:encoded>
+            <author>sales@rapidplatform.com (Joshua Nauer)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.55.9 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9 - Rapid Platform/1.55.9 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9 - Rapid Platform/1.55.9 - Rapid Platform</guid>
+            <pubDate>Tue, 09 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 09/09/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 09/09/25</p>
+<p>We're excited to announce new features live on Rapid Platform <strong>Tuesday September 9th</strong>!</p>
+<p>This release focuses around usability improvements and fixes after the last major mono-repo release.</p>
+<p>Please see below for more details:</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="custom-experiences">Custom Experiences<a href="https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9%20-%20Rapid%20Platform/1.55.9%20-%20Rapid%20Platform#custom-experiences" class="hash-link" aria-label="Direct link to Custom Experiences" title="Direct link to Custom Experiences">​</a></h2>
+<p>You can now build tailored experiences with unique menus and dashboard pages. Set specific permissions for users and groups to control access and visibility, giving you more flexibility than ever.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="upgraded-breadcrumbs">Upgraded Breadcrumbs<a href="https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9%20-%20Rapid%20Platform/1.55.9%20-%20Rapid%20Platform#upgraded-breadcrumbs" class="hash-link" aria-label="Direct link to Upgraded Breadcrumbs" title="Direct link to Upgraded Breadcrumbs">​</a></h2>
+<p>Navigation just got easier. You’ll now see the last 3 places you visited, helping you move faster and stay oriented while working on deep items.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-sharepoint-to-pdf-workflow-task">New SharePoint to PDF Workflow Task<a href="https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9%20-%20Rapid%20Platform/1.55.9%20-%20Rapid%20Platform#new-sharepoint-to-pdf-workflow-task" class="hash-link" aria-label="Direct link to New SharePoint to PDF Workflow Task" title="Direct link to New SharePoint to PDF Workflow Task">​</a></h2>
+<p>Automate more with our new workflow service task that takes a SharePoint file and generates a PDF version seamlessly.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="usability-improvements">Usability Improvements<a href="https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9%20-%20Rapid%20Platform/1.55.9%20-%20Rapid%20Platform#usability-improvements" class="hash-link" aria-label="Direct link to Usability Improvements" title="Direct link to Usability Improvements">​</a></h2>
+<ul>
+<li>Filtered out App type Adaptive Documents from Adaptive Designer</li>
+<li>Added new description filed to Adaptive input fields, matching Explorer</li>
+<li>You can now configure the title of Public Forms separate from their document name</li>
+<li>Open URL actions in Adaptive can now configure whether to open in a new tab or the same</li>
+<li>Call Activities in Workflow now map their output values so you can access them</li>
+<li>Activity feed is now limited to the most recent 250 items, improving load times on old items</li>
+<li>Scrolling a data-table in an item context can now get the next page of items when over 250</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/09/09/2025-09-09-1.55.9%20-%20Rapid%20Platform/1.55.9%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>Cleaned up configuring menus sometimes getting stuck</li>
+<li>Sending PDF files in workflow Emails should no longer be corrupt in Outlook</li>
+<li>Post-Submission forms in Public Forms now render again</li>
+<li>Data-Association elements in Workflow now behave correctly when rolling back past them</li>
+<li>Prevented infinite fetch loop when searching items under specific conditions</li>
+<li>Prevented infinite fetch loop when scrolling a data table</li>
+<li>Can now view linked sub-type items via the parent (or other base lookup field) in item contexts</li>
+<li>Prevent data table crash when moving between tabs in item context that had different view names</li>
+</ul>]]></content:encoded>
+            <author>matthew@rapidplatform.com (Matt Franklin)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.55.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0 - Rapid Platform/1.55.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0 - Rapid Platform/1.55.0 - Rapid Platform</guid>
+            <pubDate>Fri, 08 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 08/08/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 08/08/25</p>
+<p>We’re proud to announce a major milestone in the evolution of Rapid Platform. This release delivers a significant advancement:</p>
+<p>A <strong>foundational architectural shift</strong> through the consolidation of all major repositories into a single monorepo—positioning Rapid for faster, more scalable development and innovation.</p>
+<p>These improvements lay the groundwork for future innovations in mobile apps, client portals and further modernisation.</p>
+<p>Included in this release is also a powerful <strong>new feature</strong> that introduces dynamic data binding using lookup fields, enhancing the user experience by reducing manual data entry and improving data accuracy.</p>
+<p>Please see below for more details:</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="platform-foundations-monorepo--modernisation">Platform Foundations: Monorepo &amp; Modernisation<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#platform-foundations-monorepo--modernisation" class="hash-link" aria-label="Direct link to Platform Foundations: Monorepo &amp; Modernisation" title="Direct link to Platform Foundations: Monorepo &amp; Modernisation">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="monorepo-consolidation">Monorepo Consolidation<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#monorepo-consolidation" class="hash-link" aria-label="Direct link to Monorepo Consolidation" title="Direct link to Monorepo Consolidation">​</a></h3>
+<ul>
+<li>Unified all core platform repositories into a single monorepo.</li>
+<li>Enables:<!-- -->
+<ul>
+<li>Faster, more reliable deployments</li>
+<li>Streamlined code reuse and improved team collaboration</li>
+<li>Reduces integration overhead and simplifies QA and release processes.</li>
+</ul>
+</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="modernized-tech-stack">Modernized Tech Stack<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#modernized-tech-stack" class="hash-link" aria-label="Direct link to Modernized Tech Stack" title="Direct link to Modernized Tech Stack">​</a></h3>
+<ul>
+<li>Upgraded to the latest versions of React and supporting libraries.</li>
+<li>Aligns platform with modern best practices for performance, security, and scalability.</li>
+<li>Enables future flexibility with mobile and cross-platform UI frameworks.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mobile-app-readiness">Mobile App Readiness<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#mobile-app-readiness" class="hash-link" aria-label="Direct link to Mobile App Readiness" title="Direct link to Mobile App Readiness">​</a></h3>
+<ul>
+<li>Monorepo structure enables efficient development of mobile applications alongside the web platform.</li>
+<li>Shared component and logic layers reduce duplication and accelerate native mobile roadmap execution.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-feature-dynamic-lookup-field-data-binding">New Feature: Dynamic Lookup Field Data Binding<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#new-feature-dynamic-lookup-field-data-binding" class="hash-link" aria-label="Direct link to New Feature: Dynamic Lookup Field Data Binding" title="Direct link to New Feature: Dynamic Lookup Field Data Binding">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="smarter-pages-with-lookup-driven-auto-fill">Smarter Pages with Lookup-Driven Auto-Fill<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#smarter-pages-with-lookup-driven-auto-fill" class="hash-link" aria-label="Direct link to Smarter Pages with Lookup-Driven Auto-Fill" title="Direct link to Smarter Pages with Lookup-Driven Auto-Fill">​</a></h3>
+<ul>
+<li>You can now configure <strong>lookup fields to automatically populate other fields</strong> in the same record.</li>
+<li>Perfect for scenarios such as:<!-- -->
+<ul>
+<li>Selecting a <strong>project template</strong> to instantly apply default settings.</li>
+<li>Choosing a <strong>material</strong> in a quote item to pull in pricing or specifications from a price book.</li>
+</ul>
+</li>
+<li>Creates a <strong>dynamic link between reference data and active inputs</strong>, minimizing manual entry and improving data accuracy.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-configure-lookup-data-binding">How to Configure Lookup Data Binding<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#how-to-configure-lookup-data-binding" class="hash-link" aria-label="Direct link to How to Configure Lookup Data Binding" title="Direct link to How to Configure Lookup Data Binding">​</a></h3>
+<ol>
+<li>In <strong>Designer</strong>, go to the table containing your lookup column.</li>
+<li>Open the lookup column’s configuration panel.</li>
+<li>Enable <strong>Data Binding</strong>.</li>
+<li>Map the fields from the lookup’s source table to the corresponding fields in your destination table.</li>
+</ol>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="looking-to-the-future">Looking to the Future<a href="https://docs.rapidplatform.com/changelog/2025/08/08/2025-08-08-1.55.0%20-%20Rapid%20Platform/1.55.0%20-%20Rapid%20Platform#looking-to-the-future" class="hash-link" aria-label="Direct link to Looking to the Future" title="Direct link to Looking to the Future">​</a></h2>
+<p>With the monorepo in place, Rapid is primed to move faster and smarter. These upgrades open the door to richer mobile apps, portals and adaptive development—bringing even more value to our customers and partners.</p>
+<p>We’re thrilled to deliver this release and look forward to what we’ll build next together.</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.54.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/05/14/2025-05-14-1.54.0 - Rapid Platform/1.54.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/05/14/2025-05-14-1.54.0 - Rapid Platform/1.54.0 - Rapid Platform</guid>
+            <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 15/05/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 15/05/25</p>
+<p>This release introduces key permission enhancements, stability improvements, and a variety of bug fixes to improve form interactions and data table functionality.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2025/05/14/2025-05-14-1.54.0%20-%20Rapid%20Platform/1.54.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li>
+<p><strong>Create Permission Granularity</strong><br>
+<!-- -->Introduced a <code>"Create"</code> permission type, allowing Keypers to fine-tune which users or groups can create list items.</p>
+</li>
+<li>
+<p><strong>Additive Permissions Model</strong><br>
+<!-- -->Permissions are now additive, meaning <code>"Allow"</code> permissions take precedence across group memberships. This ensures users in higher-privileged roles retain appropriate access even when also part of more restricted groups (i.e. All Staff Group).</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/05/14/2025-05-14-1.54.0%20-%20Rapid%20Platform/1.54.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>
+<p><strong>Lodash Expression in Send Email Task</strong><br>
+<!-- -->Resolved an issue where array-handling Lodash expressions in the CC field were not resolving correctly.</p>
+</li>
+<li>
+<p><strong>Neighbour Data Table Crash on Datasource Change</strong><br>
+<!-- -->Fixed a crash that occurred when changing a data table’s datasource with a linked neighbour table.</p>
+</li>
+<li>
+<p><strong>Groups in Adaptive If-Then Causing Crashes</strong><br>
+<!-- -->Prevented crashes caused by group logic placed within <code>If-Then</code> validation conditions in Adaptive.</p>
+</li>
+<li>
+<p><strong>Disabled Save Button in Inline Editing</strong><br>
+<!-- -->Fixed a UI issue where the Save button was incorrectly disabled when inline editing was attempted on a Data Table with creation turned off.</p>
+</li>
+<li>
+<p><strong>Multi-line Text Formatting in Documentation</strong><br>
+<!-- -->Corrected display issues with specific multi-line text formats in the Documentation component.</p>
+</li>
+<li>
+<p><strong>Overlapping Form Fields</strong><br>
+<!-- -->Resolved field layout overlap when all columns were added to a item page and a new item was created.</p>
+</li>
+<li>
+<p><strong>Arrow Key Navigation Blocked by Lookup Fields</strong><br>
+<!-- -->Addressed a keyboard navigation bug where movement using arrow keys stopped at lookup fields in Data Tables.</p>
+</li>
+<li>
+<p><strong>Selected Row Edited During Inline Creation</strong><br>
+<!-- -->Fixed unintended edits to previously selected Data Table rows when new items were created inline.</p>
+</li>
+<li>
+<p><strong>Date Picker UI Overlap</strong><br>
+<!-- -->Resolved UI conflict where the “Clear” button overlapped with the calendar icon in date/date-time fields.</p>
+</li>
+</ul>
+<p>Thank you for using Rapid Platform! If you have questions or feedback, feel free to reach out to our support team.</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.53.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/04/10/2025-04-10-1.53.0 - Rapid Platform/1.53.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/04/10/2025-04-10-1.53.0 - Rapid Platform/1.53.0 - Rapid Platform</guid>
+            <pubDate>Thu, 10 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 10/04/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 10/04/25</p>
+<p>This update includes important bug fixes, usability enhancements, and new features aimed at improving adaptive form workflows, permissions management, and public form access.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2025/04/10/2025-04-10-1.53.0%20-%20Rapid%20Platform/1.53.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li>
+<p><strong>Dynamic Task Descriptions with Prefilled Data</strong><br>
+<!-- -->Task descriptions within workflows can now include <strong>Lodash expressions</strong> and <strong>HTML</strong> to dynamically prefill relevant information. This ensures that task assignees receive the context they need to complete tasks accurately and efficiently.</p>
+</li>
+<li>
+<p><strong>Public Form Usage Without Admin Consent</strong><br>
+<!-- -->Users can now access <strong>public forms for non-file purposes</strong> without requiring administrative consent, enabling streamlined form distribution.</p>
+</li>
+<li>
+<p><strong>Column-Based Filtering on Boards and Lists</strong><br>
+<!-- -->Users can now select a <strong>specific column from a configured table</strong> to use as a filter on Board and List components. This enhancement provides greater control and flexibility in organizing and displaying data.</p>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/04/10/2025-04-10-1.53.0%20-%20Rapid%20Platform/1.53.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>
+<p><strong>Permission Search Behavior</strong><br>
+<!-- -->Corrected an issue where the permission search was <strong>case sensitive</strong> and only matched column names. Searches now recognize both case and column titles for improved usability.</p>
+</li>
+<li>
+<p><strong>Adaptive Control Connection Setup</strong><br>
+<!-- -->Resolved an issue preventing users from <strong>configuring a connection</strong> when adding a new Adaptive control.</p>
+</li>
+<li>
+<p><strong>Tristate Toggle Condition Handling</strong><br>
+<!-- -->Fixed inconsistent behavior in <strong>Tristate Toggle controls</strong> when using conditional logic in V3 Adaptive forms.</p>
+</li>
+<li>
+<p><strong>Date and DateTime Default Value Handling</strong><br>
+<!-- -->Addressed an issue where removing default relative times from Date and DateTime fields incorrectly defaulted to <strong>today’s date</strong>.</p>
+</li>
+<li>
+<p><strong>Stale Values on Item Navigation</strong><br>
+<!-- -->Fixed a bug that caused <strong>item values to become outdated</strong> when navigating between records.</p>
+</li>
+<li>
+<p><strong>Divider Control Crash in V3 Documents</strong><br>
+<!-- -->Resolved a crash caused by clicking on a missing <strong>Divider control</strong> within the element tree of an Adaptive V3 document.</p>
+</li>
+<li>
+<p><strong>Duplicate Users in Placeholder Permissions</strong><br>
+<!-- -->Fixed a bug that allowed <strong>duplicate user entries</strong> when using placeholder permissions.</p>
+</li>
+</ul>
+<p>Thank you for using Rapid Platform! If you have any questions or encounter any issues, please reach out to our support team.</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.52.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/03/27/2025-03-27-1.52.0 - Rapid Platform/1.52.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/03/27/2025-03-27-1.52.0 - Rapid Platform/1.52.0 - Rapid Platform</guid>
+            <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Release Date: 27/03/25]]></description>
+            <content:encoded><![CDATA[<p><strong>Release Date:</strong> 27/03/25</p>
+<p>This release includes several new features, usability improvements, and a number of bug fixes. See below for more details:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2025/03/27/2025-03-27-1.52.0%20-%20Rapid%20Platform/1.52.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li>
+<p><strong>Bulk Item Updates in Data Tables</strong></p>
+<ul>
+<li>Users can now update multiple records simultaneously via data tables.</li>
+<li>After selecting multiple items, modifying a field will now apply the change across all selected items. Be sure to save your changes.</li>
+</ul>
+</li>
+<li>
+<p><strong>Time-Based Conditions for DateTime Fields</strong></p>
+<ul>
+<li>Users can now configure conditions that trigger based on time values within DateTime fields.</li>
+</ul>
+</li>
+<li>
+<p><strong>Disable CSV Export on Data Tables</strong></p>
+<ul>
+<li>Admins can now disable the "Export to CSV" option to prevent excessive database load.</li>
+</ul>
+</li>
+<li>
+<p><strong>Payment Feature Updates</strong></p>
+<ul>
+<li>Admins can now configure payment descriptions for better reconciliation.</li>
+<li>Payer accounts in Rapid now stay updated to prevent duplicate records.</li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/03/27/2025-03-27-1.52.0%20-%20Rapid%20Platform/1.52.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li>
+<p><strong>General Fixes</strong></p>
+<ul>
+<li>Refreshing the page no longer removes on-click actions in the Explorer Sidebar Menu.</li>
+<li>Changes to Date &amp; Time fields are now correctly recorded in the activity feed.</li>
+<li>Fixed an issue where misconfigured feature permissions could accidentally lock users out of core features like Explorer.</li>
+<li>Resolved form component dependency issues between Create Screen and Details Page.</li>
+<li>Fixed POST errors when selecting "Test With" on new subqueries or computed columns.</li>
+</ul>
+</li>
+<li>
+<p><strong>V3 Control Fixes</strong></p>
+<ul>
+<li>Currency Field Prefix now displays correctly before interaction.</li>
+<li>Choice Control Colors now render properly.</li>
+<li>Multiline Text Field Sizing displays correctly when set to full height.</li>
+<li>Disabled Multiline Text Control users can no longer enter text via the HTML option.</li>
+<li>Number Control Default Value Handling users can now clear default values and set fields to NULL.</li>
+<li>Decimal Place Increments in Number Control step sizes can now be configured properly.</li>
+<li>Radio Control Justification Options "Evenly" and "Between" options now function as expected.</li>
+<li>Multi-Page Control Navigation hidden pages in public forms are no longer accessible.</li>
+<li>Image/Link Control URL Handling prevents automatic "<a href="https://v3.test.rpform.com/" target="_blank" rel="noopener noreferrer">https://v3.test.rpform.com/</a>" prefixing.</li>
+<li>Multi-Lookup Placeholder Display now disappears after a selection is made.</li>
+<li>Dialog Control Elements missing "Add Element" button restored.</li>
+<li>Spacer Control Consistency now maintains uniform sizing.</li>
+<li>Divider Control Attributes now render correctly.</li>
+<li>Persistent Public Form Save Progress Button now correctly hidden.</li>
+</ul>
+</li>
+<li>
+<p><strong>File Upload Fixes</strong></p>
+<ul>
+<li>Fixed blank item creation when uploading files using an Embedded File component in a V3 public form.</li>
+<li>Resolved issues preventing file uploads when updating an item via a V3 public form.</li>
+<li>Fixed duplicated templates when updating an item with an embedded file template in Workflow V3.</li>
+</ul>
+</li>
+</ul>
+<p>Thank you for using Rapid Platform! If you have any questions or encounter any issues, please reach out to our support team.</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.51.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/02/13/2025-02-13-1.51.0 - Rapid Platform/1.51.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/02/13/2025-02-13-1.51.0 - Rapid Platform/1.51.0 - Rapid Platform</guid>
+            <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[13/02/2025]]></description>
+            <content:encoded><![CDATA[<p>13/02/2025</p>
+<p>Introducing <strong>Rapid Platform Release 1.51.0</strong>. This update implements an overhaul to our Page Designer, refines numerous Adaptive v3 controls and enhances payment collection via persistent forms. See below for more details:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2025/02/13/2025-02-13-1.51.0%20-%20Rapid%20Platform/1.51.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li><strong>Page Designer Overhaul:</strong> We've made a major upgrade to how pages in <strong>Explorer</strong> are configured! This update improves usability by enhancing how fields can be placed and resized. Page fields in the Designer now correctly obey the placement indicator, resulting in a faster and smoother user experience.</li>
+<li><strong>Persistent Form Payment Collection:</strong> Users can now collect payments through a persistent form link, simplifying recurring transactions and payment processing.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/02/13/2025-02-13-1.51.0%20-%20Rapid%20Platform/1.51.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li><strong>Lookup Flyouts in Forms:</strong> Flyouts on lookup components now follow the target container properly when scrolling on the page.</li>
+<li><strong>Choice Control Color Persistence:</strong> Fixed an issue where choice colors set in Adaptive V3 disappeared after navigating away and back to the configuration panel.</li>
+<li><strong>Adaptive V3 Element Naming:</strong> Fixed an issue where renaming an element in the tree caused the name to revert unexpectedly.</li>
+<li><strong>Adaptive V3 Control Logic Fixes:</strong>
+<ul>
+<li><strong>NULL Target Values &amp; Operators:</strong> Operators such as "omit" now function correctly when the target value is NULL.</li>
+<li><strong>Fetch Item on Load:</strong> Resolved delays in simultaneous updates on form fields linked to the same column connection.</li>
+<li><strong>Number Input Restrictions:</strong>
+<ul>
+<li>Removing MIN, MAX, or STEP SIZE no longer forces a value of 0.</li>
+<li>Fixed an issue where some manually entered numbers were blocked due to strict validation rules.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><strong>View Connections in Adaptive Designer:</strong> Users can now properly add elements in the context of their table when working with view (repeating section) connections.</li>
+<li><strong>Slow Internet &amp; Public Forms:</strong> Uploading large public forms with slow internet no longer triggers an incorrect Captcha error.</li>
+</ul>
+<p>This release continues to refine the platform, making page configuration, workflow execution, and payment collection more reliable and user-friendly. As always, we appreciate your feedback—keep it coming! 🚀</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.50.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2025/01/30/2025-01-30-1.50.0 - Rapid Platform/1.50.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2025/01/30/2025-01-30-1.50.0 - Rapid Platform/1.50.0 - Rapid Platform</guid>
+            <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[30/01/2025]]></description>
+            <content:encoded><![CDATA[<p>30/01/2025</p>
+<p>Announcing <strong>Rapid Platform release 1.50.0</strong>, packed with exciting updates, including the ability to generate PowerPoint and Excel files through workflows, add new items to data tables with ease, and organise your activity feed with collapsible items for a clearer overview. These enhancements make managing your work smoother and more efficient!</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2025/01/30/2025-01-30-1.50.0%20-%20Rapid%20Platform/1.50.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li><strong>PowerPoint and Excel File Generation in Workflows:</strong> Users can now generate PowerPoint and Excel files through workflows, enabling streamlined reporting and presentation creation.</li>
+<li><strong>Creating Items via a Data Table:</strong> Users can now add new items directly via data tables, simplifying data entry.</li>
+<li><strong>Collapsible Activity Feed Items:</strong> Users can now collapse and expand each item in the activity feed, providing a broader and more organised view of all logged activities.</li>
+<li><strong>Gantt Chart Enhancements:</strong> Gantt users can now view more than 250 items on Gantt charts, enabling better project management for large datasets.</li>
+<li><strong>Middle-Click Navigation in Data Tables:</strong> Users can now middle-click on a title field in a Data Table to open it in a new tab.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2025/01/30/2025-01-30-1.50.0%20-%20Rapid%20Platform/1.50.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li><strong>Embedded File Templates:</strong> Embedded file templates in Adaptive V3 now support single file uploads as expected, but modifications to allow multiple file uploads remain unsupported.</li>
+<li><strong>Adaptive V3 Placeholder Support:</strong> Placeholder text added to choice fields in Adaptive V3 now appears as intended, providing clearer guidance for users.</li>
+<li><strong>Icon Overlap Issues:</strong> Resolved overlapping issues when hovering over:<!-- -->
+<ul>
+<li>The description icon on an input field.</li>
+<li>The public form link on a generate form ID field.</li>
+</ul>
+</li>
+<li><strong>Multi-Lookup Configuration:</strong> The parent list type is now omitted from configuration when setting up related connections in Adaptive V3, as multi-lookups between the same list type are not supported.</li>
+<li><strong>User Column Default Value:</strong> Fixed an issue where User columns with a default value set to <code>@me</code> were being incorrectly updated to the platform user "Rapid Platform" during workflow data can updates.</li>
+<li><strong>Min/Max Relative Offset Toggle:</strong> Addressed a bug where public forms treated the min/max relative offset as enabled even when toggled off in Adaptive V3.</li>
+<li><strong>Lookup Clicks in Pre-Fill Tasks:</strong> Fixed a page crash occurring when clicking a lookup during data pre-filling on user tasks.</li>
+<li><strong>Placeholder in Choice Fields:</strong> Fixed a bug where placeholders in choice fields appeared as selectable choices.</li>
+<li><strong>Label Component in Explorer:</strong> Resolved a bug where the text in label components was vertically cut off.</li>
+<li><strong>Element Selection in Adaptive V3:</strong> Fixed an issue where clicking elements in the Element Tree did not select them.</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.49.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2024/12/19/2024-12-19-1.49.0 - Rapid Platform/1.49.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2024/12/19/2024-12-19-1.49.0 - Rapid Platform/1.49.0 - Rapid Platform</guid>
+            <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[19/12/2024]]></description>
+            <content:encoded><![CDATA[<p>19/12/2024</p>
+<p>With <strong>Rapid Platform release 1.49.0</strong>, we’re delivering enhanced usability and powerful features to help you work smarter and faster. From smoother data navigation to ensuring accurate data entries and improved file handling, this release focuses on making your everyday tasks more efficient. Here's what's new:</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2024/12/19/2024-12-19-1.49.0%20-%20Rapid%20Platform/1.49.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li><strong>Duplicate Data Prevention:</strong> Users can now ensure that duplicate records are not created when unique data is submitted more than once. For more information on how to implement unique data columns, please reach out to Rapid Support.</li>
+<li><strong>Drag-and-Drop Emails into Activity Feed:</strong> Users can now drag email files (.msg or .eml) into an Activity feed, and the system will log the email details against that item, streamlining email activity management.</li>
+<li><strong>CSV Export Notifications and Restrictions:</strong> Users are now notified that their CSV export is being generated immediately after clicking the export button. Additionally, users are restricted from initiating another export process until the current one is complete.</li>
+<li><strong>Payable Subtotal on Payment Forms:</strong> Payment forms now display the payable subtotal before users validate their credit card details, offering greater transparency.</li>
+<li><strong>Enhanced Data Table Navigation:</strong> Users can now navigate data tables with the tab key and directional arrows, improving accessibility and efficiency.</li>
+<li><strong>File Attachment Interface Improvements:</strong> The user interface for embedded files has been refined to show file type icons and clearer labelling.</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2024/12/19/2024-12-19-1.49.0%20-%20Rapid%20Platform/1.49.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li><strong>Interrupting Signal and Timer Issues:</strong> Fixed an issue where the Interrupting Signal event was negatively impacting timers.</li>
+<li><strong>Adaptive V3 Designer Upgrades:</strong> Ensured v3 designer fully and correctly upgrades v2 forms when loaded.</li>
+<li><strong>Date-Time Field AM/PM Settings:</strong> Resolved an issue where the AM/PM setting could not be modified when "Show Time" was toggled ON in Adaptive v3 date-time fields.</li>
+</ul>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+        <item>
+            <title><![CDATA[1.48.0 - Rapid Platform]]></title>
+            <link>https://docs.rapidplatform.com/changelog/2024/12/02/2024-12-02-1.48.0 - Rapid Platform/1.48.0 - Rapid Platform</link>
+            <guid>https://docs.rapidplatform.com/changelog/2024/12/02/2024-12-02-1.48.0 - Rapid Platform/1.48.0 - Rapid Platform</guid>
+            <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[02/12/2024]]></description>
+            <content:encoded><![CDATA[<p>02/12/2024</p>
+<p>Announcing <strong>Rapid Platform release 1.48.0</strong>. This release focuses on enhancing data table flexibility and resolving various bugs to improve overall workflow and user experience. Below are the updates included in this release.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="new-features">New Features<a href="https://docs.rapidplatform.com/changelog/2024/12/02/2024-12-02-1.48.0%20-%20Rapid%20Platform/1.48.0%20-%20Rapid%20Platform#new-features" class="hash-link" aria-label="Direct link to New Features" title="Direct link to New Features">​</a></h2>
+<ul>
+<li><strong>Editable Column Configuration:</strong> Release 1.47.0 introduced the ability for users to perform inline editing in data tables. Building on that foundation, Release 1.48.0 gives users the ability to configure columns as non-editable. This enhancement allows for greater flexibility in system implementation, enabling users to restrict editable access for specific use cases and ensure precise control over data management.</li>
+</ul>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="how-to-configure-non-editable-columns">How to Configure Non-Editable Columns<a href="https://docs.rapidplatform.com/changelog/2024/12/02/2024-12-02-1.48.0%20-%20Rapid%20Platform/1.48.0%20-%20Rapid%20Platform#how-to-configure-non-editable-columns" class="hash-link" aria-label="Direct link to How to Configure Non-Editable Columns" title="Direct link to How to Configure Non-Editable Columns">​</a></h3>
+<ol>
+<li>Navigate to the relevant table page.</li>
+<li>Select the desired View from the <strong>View dropdown</strong>.</li>
+<li>Click the <strong>edit table icon</strong> (located on the far right).</li>
+<li>Click the <strong>edit pencil</strong> for the column you want to configure.</li>
+<li>Select <strong>Disable editing in data table</strong>.</li>
+<li>Click <strong>Save</strong>.<br>
+<!-- -->The selected column will now be non-editable.</li>
+</ol>
+<p><strong>Note:</strong> If you want to disable editing for a column across the entire system, you must repeat this process for the column in all configured views.</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bug-fixes">Bug Fixes<a href="https://docs.rapidplatform.com/changelog/2024/12/02/2024-12-02-1.48.0%20-%20Rapid%20Platform/1.48.0%20-%20Rapid%20Platform#bug-fixes" class="hash-link" aria-label="Direct link to Bug Fixes" title="Direct link to Bug Fixes">​</a></h2>
+<ul>
+<li><strong>Rapid Workflow Output to PDF:</strong> Resolved an issue where fullstops were not permitted in PDF outputs, ensuring consistency with DOCX outputs.</li>
+<li><strong>Swim Lane Display in Process Diagrams:</strong> Fixed a bug where swim lanes erroneously displayed as green on certain process diagrams during execution.</li>
+<li><strong>Explorer Field Search:</strong> Addressed an issue where searching in specific lookup fields did not work properly.</li>
+<li><strong>Subtype Item Notifications:</strong> Fixed a problem where adding a note to the activity feed failed when accessing Subtype items through notifications.</li>
+<li><strong>Data Table Subquery Fields:</strong> Resolved an issue where values in data tables with more than one subquery field were not populated correctly.</li>
+<li><strong>Persistent Public Form Submission:</strong> Resolved an issue where submitting a persistent public form erroneously marked the task as complete.</li>
+<li><strong>Lookup Field Behavior in Public Forms:</strong> Fixed a bug causing public forms to jump back to the top of the form after selecting a lookup fields.</li>
+<li><strong>Public Payment Task Fees Toggle:</strong> Resolved a problem where the "pass on fees" toggle in public payment tasks appeared non-functional.</li>
+<li><strong>Payment Form Fee Processing:</strong> Fixed an issue where submitting a payment form with fees toggled off still included fees passed on to the customer in the processed amount.</li>
+</ul>
+<p>These updates ensure a more stable and user-friendly experience. For any questions or assistance, please contact our support team.</p>]]></content:encoded>
+            <author>danny.rattu@rapidplatform.com (Danny Rattu)</author>
+            <category>Changelog</category>
+        </item>
+    </channel>
+</rss>

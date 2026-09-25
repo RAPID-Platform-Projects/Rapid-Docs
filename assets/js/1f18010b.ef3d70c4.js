@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrapid_docs_2=self.webpackChunkrapid_docs_2||[]).push([[87278],{55749:a=>{a.exports=JSON.parse('{"name":"rapid-training-packs-plugin","id":"default"}')}}]);

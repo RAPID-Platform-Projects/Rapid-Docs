@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrapid_docs_2=self.webpackChunkrapid_docs_2||[]).push([[65604],{81920:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/changelog/page/9","page":9,"postsPerPage":10,"totalPages":10,"totalCount":95,"previousPage":"/changelog/page/8","nextPage":"/changelog/page/10","blogDescription":"Updates to Rapid Platform","blogTitle":"Changelog"}}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrapid_docs_2=self.webpackChunkrapid_docs_2||[]).push([[60868],{62925:a=>{a.exports=JSON.parse('{"tags":[{"label":"Changelog","permalink":"/changelog/tags/changelog","count":95}]}')}}]);
