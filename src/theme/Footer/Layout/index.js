@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-export default function FooterLayout({ style, links, logo, copyright, demo }) {
+export default function FooterLayout({ style, links, logo, copyright }) {
   return (
     <footer
       className={clsx('footer', {
@@ -14,12 +14,6 @@ export default function FooterLayout({ style, links, logo, copyright, demo }) {
 
       <div className="links-container" >
         {links}
-      </div>
-
-      <div className="cta-container" >
-        <a className="cta-button" href={demo.href} target="_blank" >
-          {demo.text}
-        </a>
       </div>
 
       {(copyright) && (

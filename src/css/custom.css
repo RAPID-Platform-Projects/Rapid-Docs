@@ -119,7 +119,7 @@ a {
   display: grid;
   grid-template-rows: 150px 50px;
   grid-template-columns: 340px 500px 340px;
-  grid-template-areas: "logo links cta" "copyright copyright empty";
+  grid-template-areas: "logo links empty" "copyright copyright empty";
 
   justify-content: center;
   align-items: start;
@@ -143,57 +143,6 @@ a {
 .footer .links-container {
   grid-area: links;
   justify-self: center;
-}
-
-.footer .cta-container {
-  grid-area: cta;
-  justify-self: end;
-  position: relative;
-  padding: 1rem;
-}
-
-.footer .cta-container .cta-button {
-  color: #ffffff !important;
-  border-width: 0px !important;
-  border-color: #43c7f4;
-  font-weight: 600 !important;
-  background-color: RGBA(255, 255, 255, 0);
-
-  isolation: isolate;
-}
-
-.footer .cta-container .cta-button::before {
-  content: "" !important;
-  display: block !important;
-  opacity: 1;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-  right: 0;
-  background-image: linear-gradient(228deg, #34b8e9 0, #0070b8 100%);
-  border-radius: 8px;
-  z-index: -2;
-}
-
-.footer .cta-container .cta-button::after {
-  transition: ease-in-out 150ms;
-  content: "" !important;
-  display: block !important;
-  margin: 0 !important;
-  opacity: 1;
-  width: calc(100% - 4px);
-  height: calc(100% - 4px);
-  position: absolute;
-  top: 2px;
-  left: 2px !important;
-  background: var(--ifm-footer-background-color);
-  border-radius: 6px;
-  z-index: -1;
-}
-
-.footer .cta-container .cta-button:hover::after {
-  opacity: 0;
 }
 
 .footer .copyright-container {
