@@ -4,7 +4,7 @@ Welcome to Rapid Platform's documentation!
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 This documentation site serves to cover the Core Rapid Platform User, Keyper & Developer documentation as well as the Base Rapid User documentation.
-If you find any problems with the documentation, feel free to report an issue [Here](https://github.com/RAPID-Platform-Projects/Rapid-Docs/issues/new?assignees=MattFranklin-Rapid&labels=Report&projects=&template=bug-form.yml)
+If you find any problems with the documentation, feel free to report an issue via our [feedback form](https://rpform.com/grxAZ)
 
 If you are looking to get started with Rapid yourself, please check out our [Main Site](https://rapidplatform.com)
 
@@ -34,7 +34,7 @@ This command generates static content into the `build` directory and can be serv
 
 The training plugin allows us to present more directed tutorial like groups of documentation. 
 
-### File strucutre
+### File structure
 
 The training packs live in the `./training` folder in the root of the project. The packs displayed on the overview page reflect the structure of the folders and files inside `./training`;
 
