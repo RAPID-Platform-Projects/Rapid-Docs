@@ -19,7 +19,11 @@ const config: Config = {
   projectName: "public-docs", // Usually your repo name.
 
   onBrokenLinks: "throw",
-  onBrokenMarkdownLinks: "throw",
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: "throw"
+    }
+  },
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -116,7 +120,7 @@ const config: Config = {
           label: "Changelog"
         },
         {
-          href: "https://github.com/RAPID-Platform-Projects/Rapid-Docs/issues/new?assignees=MattFranklin-Rapid&labels=bug&projects=&template=bug-form.yml",
+          href: "https://rpform.com/grxAZ",
           position: "right",
           label: "Feedback"
         }
@@ -153,12 +157,8 @@ const config: Config = {
               to: "changelog"
             },
             {
-              label: "Github",
-              href: "https://github.com/rapid-platform/public-docs"
-            },
-            {
               label: "Feedback",
-              href: "https://rpform.io/grxAZ"
+              href: "https://rpform.com/grxAZ"
             }
           ]
         }
